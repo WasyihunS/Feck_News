@@ -1,0 +1,403 @@
+word: በአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ለህዳሴ
+?POS: noun, stem: ህዳሴ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ብር
+POS: noun, stem: ብር
+
+word: የቦንድ
+?POS: noun, stem: ቦንድ
+
+word: ግዥ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: ተከናወነ
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ባህርዳር
+?POS: noun, stem: አህርዳር
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኢዜአ
+
+word: በአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ታላቁ
+POS: noun, stem: ታላቅ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: የመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: ውሀ
+POS: noun, stem: ውሀ
+
+?word: ሙሌት
+
+word: በመጠናቀቁ
+POS: noun, stem: ተጠናቀቀ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: በሀምሌ
+POS: noun, stem: ሀምሌ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ብር
+POS: noun, stem: ብር
+
+word: የቦንድ
+?POS: noun, stem: ቦንድ
+
+word: ግዥ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: መፈፀሙ
+POS: noun, stem: ፈጸመ
+
+word: ተገለፀ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: የውሀ
+POS: noun, stem: ውሀ
+
+word: ሙሌቱ
+?POS: noun, stem: ሙሌት
+
+word: በመጠናቀቁ
+POS: noun, stem: ተጠናቀቀ
+
+word: በተፈጠረው
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: መነቃቃት
+POS: noun, stem: ተንቃቃ
+
+word: በሀምሌ
+POS: noun, stem: ሀምሌ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ከቦንድ
+?POS: noun, stem: ቦንድ
+
+word: ሽያጭ
+POS: noun, stem: ሽያጭ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ገቢ
+POS: noun, stem: ገባ
+
+word: መሰብሰቡን
+POS: noun, stem: ተሰበሰበ
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+?word: ህዝባዊ
+
+word: ተሳትፎ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ማስተባበሪያ
+POS: noun, stem: አስተባበረ
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የህዝብ
+POS: noun, stem: ህዝብ
+
+word: ግንኙነት
+POS: noun, stem: ግንኙነት
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+word: ተናኘ
+POS: verb, root: <naN*>, citation: ተናኘ
+
+word: አበበ
+POS: noun, stem: አበበ
+
+word: በቦንድ
+?POS: noun, stem: ቦንድ
+
+?word: ግዥው
+
+word: ወጣቶች
+POS: noun, stem: ወጣት
+
+word: ሴቶች
+POS: noun, stem: ሴት
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ባለሀብቶች
+POS: noun, stem: ባለሀብት
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: የህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ክፍሎችና
+POS: noun, stem: ክፍል
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: መሳተፋቸውን
+POS: noun, stem: ተሳተፈ
+
+word: ተናኘ
+POS: verb, root: <naN*>, citation: ተናኘ
+
+word: ጠቅሰዋል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: ግድቡ
+POS: noun, stem: ግድብ
+
+word: ለፍፃሜ
+POS: noun, stem: ፍጻሜ
+
+word: እንዲበቃ
+POS: verb, root: <bq'>, citation: በቃ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: የአቅሙን
+POS: noun, stem: አቅም
+
+word: ቦንድ
+?POS: verb, root: <bWn_d>, citation: ቦነደ
+
+word: በመግዛትና
+POS: noun, stem: ገዛ
+
+word: ብሎ
+POS: verb, root: <b'l>, citation: አለ
+
+word: በመላክ
+POS: noun, stem: ላከ
+
+word: የጀመረውን
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: እንዲቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ጥሪ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: ቀርቧል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: በባህርዳር
+?POS: noun, stem: ባህርዳር
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+word: ጌታቸው
+?POS: noun, stem: ጌት
+
+word: እንግዳየሁ
+?POS: noun, stem: እንግዳየህ
+
+word: በሰጡት
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: አስተያየት
+POS: noun, stem: አየ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: የሁለት
+POS: noun, stem: ሁለት
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ደመወዛቸውን
+POS: noun, stem: ደመወዝ
+
+word: ለህዳሴው
+?POS: noun, stem: ህዳሴው
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: የቦንድ
+?POS: noun, stem: ቦንድ
+
+word: ግዥ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: በማዋል
+POS: noun, stem: አዋለ
+
+word: በግንባታው
+POS: noun, stem: ግንባታ
+
+word: አሻራቸውን
+POS: verb, root: <x'r>, citation: አሻረ
+
+word: ማኖራቸውን
+POS: noun, stem: አኖረ
+
+word: ገልፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በቀጣይም
+POS: noun, stem: ቀጠለ
+
+word: አቅማቸው
+POS: noun, stem: አቅም
+
+word: በፈቀደው
+POS: verb, root: <fqd>, citation: ፈቀደ
+
+word: ለመሳተፍ
+POS: noun, stem: ተሳተፈ
+
+word: ዝግጁ
+POS: noun, stem: ዝግጁ
+
+word: መሆናቸውን
+POS: noun, stem: ሆነ
+
+word: አስታቀዋል
+?POS: verb, root: <taqq>, citation: አስታቀቀ
+
+word: ለታላቁ
+POS: noun, stem: ታላቅ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ሺህ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ቦንድ
+?POS: verb, root: <bWn_d>, citation: ቦነደ
+
+word: ግዥ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: መፈፀማቸውን
+POS: noun, stem: ፈጸመ
+
+word: የተናገሩት
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ሌላው
+POS: noun, stem: ሌላ
+
+word: የከተማው
+POS: noun, stem: ከተማ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሰራተኛ
+POS: noun, stem: ሰራተኛ
+
+word: ደሴ
+?POS: noun, stem: ደስ
+
+word: ገላው
+POS: verb, root: <gll>, citation: ገለለ
+

@@ -1,0 +1,654 @@
+word: የአፋር
+POS: noun, stem: አፋር
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቢሊየን
+?POS: noun, stem: ቢሊየ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: የቀረበለትን
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: በጀት
+?POS: noun, stem: ጀት
+
+word: አፀደቀ
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: የአፋር
+POS: noun, stem: አፋር
+
+?word: ብሄራዊ
+
+?word: ክልላዊ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: አምስተኛ
+POS: noun, stem: አምስተኛ
+
+word: አመት
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ዘመን
+POS: noun, stem: ዘመን
+
+?word: አስረኛ
+
+word: መደበኛ
+POS: noun, stem: ደበነ
+
+word: ጉባኤ
+POS: noun, stem: ጉባኤ
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: የቀረበለትን
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: በጀትና
+?POS: noun, stem: በጀት
+
+word: ሹመቶችን
+POS: noun, stem: ሹመት
+
+word: አፀደቀ
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: ፋይናንስና
+?POS: noun, stem: ፋይናንስ
+
+word: ኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: መሀመድ
+
+word: ሀሰን
+?POS: noun, stem: ሀሰ
+
+word: የክልሉን
+POS: noun, stem: ክልል
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: አፈፃፀምና
+POS: noun, stem: ፈጸመ
+
+word: ተያያዥ
+POS: noun, stem: ተያያዘ
+
+?word: ወቅታዊ
+
+word: ሀገራዊና
+?POS: noun, stem: ሀገራዊ
+
+?word: ክልላዊ
+
+word: ሁኔታዎችን
+POS: noun, stem: ሁኔታ
+
+word: ታሳቢ
+POS: noun, stem: ታሰበ
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: በጀቱ
+?POS: noun, stem: በጀት
+
+word: መዘጋጀቱን
+POS: noun, stem: ተዘጋጀ
+
+word: በጀቱ
+?POS: noun, stem: በጀት
+
+word: በጀት
+?POS: noun, stem: ጀት
+
+word: አመት
+
+word: ሲነፃፀር
+POS: verb, root: <nSr>, citation: ተነጻጸረ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ብልጫ
+POS: noun, stem: ብልጫ
+
+word: የበጀት
+?POS: noun, stem: በጀት
+
+word: ምንጩም
+POS: noun, stem: ምንጭ
+
+word: ከፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ግምጃ
+POS: noun, stem: ግምጃ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ከክልሉ
+POS: noun, stem: ክልል
+
+word: ገቢ
+POS: noun, stem: ገባ
+
+word: ከውጭ
+POS: noun, stem: ውጭ
+
+word: እርዳታ
+?POS: noun, stem: ርዳታ
+
+word: የሚሸፈን
+POS: verb, root: <xf_n>, citation: ተሸፈነ
+
+word: በጀቱ
+?POS: noun, stem: በጀት
+
+word: በዋናነት
+?POS: noun, stem: ዋናነት
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: የድርቅ
+POS: noun, stem: ድርቅ
+
+?word: ተጋላጭነት
+
+word: ለሚቀንሱ
+POS: verb, root: <qn_s>, citation: ቀነሰ
+
+word: የማህበራዊና
+?POS: noun, stem: ማህበራዊ
+
+word: የኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: መሰረተልማቶች
+?POS: noun, stem: መሰረተልማት
+
+word: ማስፋፊያና
+POS: noun, stem: ፍእፍእ
+
+word: ለልማት
+POS: noun, stem: ልማት
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+?word: ማስኬጃ
+
+word: የሚውል
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: በጀት
+?POS: noun, stem: ጀት
+
+word: አመት
+
+word: ለተለያዩ
+POS: noun, stem: ተለያየ
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+?word: ማስፈፃሚያ
+
+word: በቀረበው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: በጀት
+?POS: noun, stem: ጀት
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: ተደርጎ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: በምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: ድምፅ
+POS: noun, stem: ድምጽ
+
+word: ፀድቋል
+POS: verb, root: <Sdq>, citation: ጸደቀ
+
+word: የምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: በጀቱ
+?POS: noun, stem: በጀት
+
+word: ከብክነት
+?POS: noun, stem: ብክነት
+
+word: በፀዳ
+POS: verb, root: <Sd'>, citation: ጸዳ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: የህብረተሰቡን
+POS: noun, stem: ህብረተሰብ
+
+word: ለሚፈቱ
+POS: verb, root: <ft'>, citation: ፈታ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: በአግባብ
+?POS: noun, stem: አግባብ
+
+word: እንዲውል
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+?word: ርእሰመስተዳድር
+
+word: አወል
+?POS: verb, root: <wll>, citation: አወለለ
+
+word: አርባ
+
+?word: ወቅታዊ
+
+?word: ሀገራዊ
+
+word: የለውጥ
+POS: noun, stem: ለውጥ
+
+word: ጅምሮችን
+POS: noun, stem: ጅምር
+
+word: ጫፍ
+POS: noun, stem: ጫፍ
+
+word: ለማድረስ
+POS: noun, stem: አደረሰ
+
+word: የተሻለ
+POS: verb, root: <x'l>, citation: ተሻለ
+
+word: ቁርጠኝነትና
+?POS: noun, stem: ቁርጠኝነት
+
+?word: ተነሳሽነት
+
+word: ያላቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: ክፍተት
+POS: noun, stem: ክፍተት
+
+word: በታየባቸው
+POS: verb, root: <'y*>, citation: ታየ
+
+word: ቦታዎች
+POS: noun, stem: ቦታ
+
+word: የአስፈፃሚ
+POS: noun, stem: አስፈጻሚ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: መተካትና
+POS: noun, stem: ተካ
+
+word: ሸግሽግ
+?POS: verb, root: <xgxg>, citation: ሸገሸገ
+
+word: ማካሄድ
+POS: noun, stem: አካሄደ
+
+word: አስፈላጊ
+POS: noun, stem: አስፈለገ
+
+word: መገኘቱን
+POS: noun, stem: ተገኘ
+
+word: ለምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በርእሰ
+?POS: noun, stem: ርእሰ
+
+word: መስተዳድሩ
+?POS: noun, stem: መስተዳድር
+
+word: የቀረበውን
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: የካቢኔ
+?POS: noun, stem: ካቢኔ
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: ሹመት
+POS: noun, stem: ሹመት
+
+word: በአብላጫ
+?POS: noun, stem: አብላጫ
+
+word: ድምፅ
+POS: noun, stem: ድምጽ
+
+word: አፅድቋል
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: መሰረት
+
+?word: ኢለማ
+
+?word: አቡበከር
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ርእሰመስተዳድርና
+?POS: noun, stem: ርእሰመስተዳድር
+
+word: ውሀ
+POS: noun, stem: ውሀ
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: መሀመድ
+
+word: ጠይብ
+POS: noun, stem: ጠይብ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: አህመድ
+
+?word: መሀመድ
+
+word: ቦዳ
+?POS: verb, root: <bWdd>, citation: ቦደደ
+
+word: የትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: ጠሀ
+
+?word: አህመድ
+
+word: የመንግድ
+?POS: noun, stem: መንግድ
+
+word: ልማትና
+POS: noun, stem: ልማት
+
+?word: ትራንስፖርት
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+word: የተሾሙ
+POS: verb, root: <xwm>, citation: ተሾመ
+
+word: ኢብራሂም
+?POS: noun, stem: ኢብራሂ
+
+?word: ሁመድ
+
+word: የሰላምና
+POS: noun, stem: ሰላም
+
+word: ፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: መሀመድ
+
+?word: ኡዳ
+
+word: የገጠር
+POS: noun, stem: ገጠር
+
+word: መሬት
+POS: noun, stem: መሬት
+
+word: አስተዳደርና
+POS: noun, stem: አደረ
+
+word: አካባቢ
+POS: noun, stem: አካባቢ
+
+word: ጥበቃ
+POS: noun, stem: ጥበቃ
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: መሀመድ
+
+?word: አሊ
+
+word: የኪል
+?POS: noun, stem: ኪል
+
+word: በቲረሱ
+?POS: noun, stem: ቲረስ
+
+?word: ዞን
+
+word: አስተዳዳሪ
+POS: noun, stem: አስተዳደረ
+
+?word: አህመድ
+
+word: ኢብራሂም
+?POS: noun, stem: ኢብራሂ
+
+word: የወጣቶችና
+POS: noun, stem: ወጣት
+
+word: ስፖርት
+POS: noun, stem: ስፖርት
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+word: መሾማቸው
+POS: noun, stem: ተሾመ
+
+word: ተገልጿል
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: ማምሻውን
+POS: noun, stem: አመሸ
+
+word: እንደሚጠናቀቅ
+POS: verb, root: <Tnqq>, citation: ተጠናቀቀ
+
+word: የሚጠበቀው
+POS: verb, root: <Tb_q>, citation: ተጠበቀ
+
+word: የምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ጉባኤ
+POS: noun, stem: ጉባኤ
+
+word: የዞን
+?POS: noun, stem: ዞን
+
+word: ዳኞችን
+POS: noun, stem: ዳኛ
+
+word: ሹመትና
+POS: noun, stem: ሹመት
+
+word: አዋጆችን
+POS: noun, stem: አዋጅ
+
+word: እንደሚያፀድቅ
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: ለጉባኤው
+POS: noun, stem: ጉባኤ
+
+word: ከወጣው
+POS: verb, root: <wT'>, citation: ወጣ
+
+?word: መርሀ
+
+word: ግብሩ
+POS: noun, stem: ግብር
+
+word: ለማወቅ
+POS: noun, stem: አወቀ
+
+word: መቻሉን
+POS: noun, stem: ቻለ
+
+?word: ኢዜአ
+
+word: ዘግቧል
+POS: verb, root: <zgb>, citation: ዘገበ
+

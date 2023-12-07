@@ -1,0 +1,234 @@
+word: የሰኔ
+POS: noun, stem: ሰኔ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: የነዳጅ
+POS: noun, stem: ነደደ
+
+word: ምርት
+POS: noun, stem: ምርት
+
+word: መሸጫ
+POS: noun, stem: ሸጠ
+
+word: ባለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: እንደሚቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ተገለፀ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ግንቦት
+POS: noun, stem: ግንቦት
+
+?word: ኤፍ
+
+word: የሰኔ
+POS: noun, stem: ሰኔ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: የአውሮፕላን
+POS: noun, stem: አውሮፕላን
+
+word: ነዳጅ
+POS: noun, stem: ነደደ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: የሌሎች
+POS: noun, stem: ሌላ
+
+word: የነዳጅ
+POS: noun, stem: ነደደ
+
+word: ምርቶች
+POS: noun, stem: ምርት
+
+word: መሸጫ
+POS: noun, stem: ሸጠ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: ባለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: እንዲቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: መወሰኑን
+POS: noun, stem: ተወሰነ
+
+word: የንግድና
+POS: noun, stem: ንግድ
+
+?word: ኢንዱስትሪ
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ማህበራዊና
+?POS: noun, stem: ማህበራዊ
+
+?word: ኢኮኖሚያዊ
+
+word: በተረጋጋ
+POS: verb, root: <rg'>, citation: ተርጋጋ
+
+word: እንዲቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ለማስቻል
+POS: noun, stem: አስቻለ
+
+word: በስራ
+POS: noun, stem: ስራ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የነዳጅ
+POS: noun, stem: ነደደ
+
+word: የችርቻሮ
+POS: noun, stem: ችርቻሮ
+
+word: መሸጫ
+POS: noun, stem: ሸጠ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: ከግንቦት
+POS: noun, stem: ግንቦት
+
+word: ሰኔ
+POS: noun, stem: ሰኔ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ባለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: እንዲቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: መወሰኑ
+POS: noun, stem: ተወሰነ
+
+word: ተገልጿል
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: ሚኒስቴሩ
+POS: noun, stem: ሚኒስቴር
+
+word: አያይዞም
+POS: verb, root: <y'z>, citation: አያያዘ
+
+word: በአለም
+POS: noun, stem: አለም
+
+word: ገበያ
+POS: noun, stem: ገበያ
+
+word: የሚኖረውን
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: የነዳጅ
+POS: noun, stem: ነደደ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: መነሻ
+POS: noun, stem: ተነሳ
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: እንደአስፈላጊነቱ
+?POS: noun, stem: አስፈላጊነት
+
+word: ማስተካከያ
+POS: noun, stem: አስተካከለ
+
+word: ሊያደርግ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: የሚችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትክ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

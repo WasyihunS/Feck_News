@@ -1,0 +1,481 @@
+word: አሳዛኝና
+POS: noun, stem: አሳዘነ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ገምድል
+POS: verb, root: <gmdl>, citation: ገመደለ
+
+word: የፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ዜና
+POS: noun, stem: ዜና
+
+word: በቋራ
+?POS: noun, stem: ቅዋራ
+
+word: የቅማንት
+?POS: noun, stem: ቅማንት
+
+word: ብሄር
+POS: noun, stem: ብሄር
+
+word: ተወላጆች
+POS: noun, stem: ተወለደ
+
+word: በጎንደር
+POS: noun, stem: ጎንደር
+
+word: ማረሚያ
+POS: noun, stem: አረመ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: አመት
+
+word: ከስምንት
+POS: noun, stem: ስምንት
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ያለምንም
+POS: noun, stem: አለም
+
+word: ፍትህ
+POS: noun, stem: ፍትህ
+
+word: ታስረው
+POS: verb, root: <'sr>, citation: ታሰረ
+
+word: ቆይተው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: በቀን
+POS: noun, stem: ቀን
+
+word: ማንነታቸው
+?POS: noun, stem: ማንነት
+
+word: መሰረት
+
+word: አድርገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ያለበቂ
+?POS: noun, stem: አለበቂ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: የሰነድ
+POS: noun, stem: ሰነድ
+
+word: የሰው
+POS: noun, stem: ሰው
+
+word: ምስክር
+POS: noun, stem: ምስክር
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: የጎንደር
+POS: noun, stem: ጎንደር
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ዳኞች
+POS: noun, stem: ዳኛ
+
+word: ልክ
+POS: noun, stem: ልክ
+
+?word: ወታደራዊ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የቋራ
+?POS: noun, stem: የቅዋራ
+
+?word: ቅማንት
+
+word: ተወላጆች
+POS: noun, stem: ተወለደ
+
+word: የእድሜ
+POS: noun, stem: እድሜ
+
+word: ልክ
+POS: noun, stem: ልክ
+
+word: እስራት
+POS: noun, stem: እስራት
+
+word: ፈረደባቸው
+POS: verb, root: <frd>, citation: ፈረደ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: የቅማንት
+?POS: noun, stem: ቅማንት
+
+word: ተወላጆች
+POS: noun, stem: ተወለደ
+
+word: የዘር
+POS: noun, stem: ዘር
+
+word: ማጥፋት
+POS: noun, stem: አጠፋ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ሲፈፀምባቸው
+POS: verb, root: <fS_m>, citation: ተፈጸመ
+
+word: ያስፈፀሙት
+POS: verb, root: <fS_m>, citation: አስፈጸመ
+
+word: አገኘሁ
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: ተሻገር
+POS: verb, root: <xagr>, citation: ተሻገረ
+
+word: አማረ
+POS: verb, root: <m'r>, citation: አማረ
+
+word: ሰጤ
+?POS: noun, stem: ሰጥ
+
+word: ግዛት
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: አብዩ
+POS: noun, stem: አበላ
+
+word: ደሴ
+?POS: noun, stem: ደስ
+
+word: አሰሜ
+?POS: noun, stem: አሰም
+
+word: አንዳቸውም
+POS: noun, stem: አንድ
+
+word: በህግ
+POS: noun, stem: ህግ
+
+word: ሳይጠየቁ
+POS: verb, root: <Ty_q>, citation: ተጠየቀ
+
+word: ጭራሽ
+POS: verb, root: <C'r>, citation: ጫረ
+
+word: ደግ
+POS: noun, stem: ደግ
+
+word: አደረጋችሁ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ሹመት
+POS: noun, stem: ሹመት
+
+word: ያዳብር
+POS: verb, root: <dabr>, citation: አዳበረ
+
+word: ተብለው
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: በብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ተሹመዋል
+POS: verb, root: <xwm>, citation: ተሾመ
+
+word: የቅማንት
+?POS: noun, stem: ቅማንት
+
+word: ተወላጅ
+POS: noun, stem: ተወለደ
+
+?word: ህጋዊ
+
+word: መሳሪያውን
+POS: noun, stem: መሳሪያ
+
+word: ስለተገኘ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+?word: ገድለ
+
+?word: ሀል
+
+word: ተብሎ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ያለምንም
+POS: noun, stem: አለም
+
+?word: መሰረታዊ
+
+word: የሰነድ
+POS: noun, stem: ሰነድ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: በግፍ
+POS: noun, stem: ግፍ
+
+word: ይታሰራሉ
+POS: verb, root: <'sr>, citation: ታሰረ
+
+word: ኢፍታዊና
+?POS: noun, stem: ኢፍታዊ
+
+word: ዘረኛ
+POS: noun, stem: ዘረኛ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: የተፈረደባቸው
+POS: verb, root: <frd>, citation: ተፈረደ
+
+word: የቅማንት
+?POS: noun, stem: ቅማንት
+
+word: ተወላጆች
+POS: noun, stem: ተወለደ
+
+word: ስም
+POS: noun, stem: ስም
+
+word: ዝርዝር
+POS: noun, stem: ዝርዝር
+
+word: የሚከተሉት
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: አያናው
+?POS: noun, stem: አያና
+
+word: መለሰ
+POS: verb, root: <ml_s>, citation: መለሰ
+
+word: አማረ
+POS: verb, root: <m'r>, citation: አማረ
+
+word: በሬ
+POS: noun, stem: በር
+
+word: ማሙሽ
+?POS: noun, stem: ማሙ
+
+word: አሰፋ
+POS: verb, root: <sf'>, citation: አሰፋ
+
+word: ፈንታ
+POS: noun, stem: ፈንታ
+
+word: አባተ
+POS: verb, root: <b't>, citation: አባተ
+
+word: ሻምበል
+POS: noun, stem: ሻምበል
+
+word: አዳነ
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: ጥሩነህ
+?POS: noun, stem: ጥሩነ
+
+word: አያሌው
+?POS: noun, stem: አያሌ
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: ወርቁ
+POS: noun, stem: ወርቅ
+
+word: የኛነው
+?POS: noun, stem: የኛነ
+
+word: ያዩ
+POS: noun, stem: አየ
+
+word: ወልዱ
+?POS: noun, stem: ወልድ
+
+word: ማሞ
+POS: noun, stem: ማሞ
+
+word: ገላጋይ
+POS: noun, stem: ገላገለ
+
+word: አየልኝ
+POS: verb, root: <'y*>, citation: አየ
+
+word: ሽፈራው
+?POS: noun, stem: ሽፈራ
+
+word: አስማማው
+POS: verb, root: <sm'>, citation: አሰማማ
+
+word: ወገኔ
+POS: noun, stem: ወገን
+
+word: የአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+?word: ቅማንት
+
+word: ጠልና
+POS: noun, stem: ጠል
+
+word: ቅማንትን
+?POS: noun, stem: ቅማንት
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: ባገኘው
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: አጋጣሚ
+POS: noun, stem: አጋጠመ
+
+word: ከመግደል
+POS: noun, stem: ገደለ
+
+word: ከማፈናቀል
+POS: noun, stem: አፈናቀለ
+
+word: በእድሜ
+POS: noun, stem: እድሜ
+
+word: ልክ
+POS: noun, stem: ልክ
+
+word: ከማሰር
+POS: noun, stem: አሰረ
+
+word: አንድም
+POS: noun, stem: አንድ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+?word: ሀላ
+
+word: ብሎ
+POS: verb, root: <b'l>, citation: አለ
+
+word: አያውቅም
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: ይህንንም
+?POS: noun, stem: ይህንን
+
+word: በተለያዩ
+POS: noun, stem: ተለያየ
+
+word: በተጨባጭ
+POS: noun, stem: ተጨበጠ
+
+word: አሳይቷል
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: አስመስክሯል
+POS: verb, root: <mskr>, citation: አስመሰከረ
+
+word: በጎንደር
+POS: noun, stem: ጎንደር
+
+word: ማረሚያ
+POS: noun, stem: አረመ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ምንም
+
+word: ፍትህ
+POS: noun, stem: ፍትህ
+
+word: ሳያገኙ
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: አንድም
+POS: noun, stem: አንድ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቀርበው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: የማያውቁ
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: የቅማንት
+?POS: noun, stem: ቅማንት
+
+word: የህሊና
+?POS: noun, stem: ህሊና
+
+word: እስረኞች
+POS: noun, stem: እስረኛ
+
+word: ይገኛሉ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ፍትህ
+POS: noun, stem: ፍትህ
+
+word: ለቅማንት
+?POS: noun, stem: ቅማንት
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+

@@ -1,0 +1,515 @@
+word: የጋምቤላ
+?POS: noun, stem: ጋምቤላ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: መደበኛ
+POS: noun, stem: ደበነ
+
+word: ጉባኤውን
+POS: noun, stem: ጉባኤ
+
+word: እያካሄደ
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ሀምሌ
+POS: noun, stem: ሀምሌ
+
+?word: ኤፍ
+
+word: የጋምቤላ
+?POS: noun, stem: ጋምቤላ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ዘመን
+POS: noun, stem: ዘመን
+
+word: መደበኛ
+POS: noun, stem: ደበነ
+
+word: ጉባኤውን
+POS: noun, stem: ጉባኤ
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: እለት
+
+word: ማካሄድ
+POS: noun, stem: አካሄደ
+
+word: ጀምሯል
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+?word: አፈ
+
+word: ጉባኤ
+POS: noun, stem: ጉባኤ
+
+word: ላክዴር
+?POS: noun, stem: አክዴር
+
+word: ላክባክ
+?POS: noun, stem: አክባክ
+
+word: በጉባኤው
+POS: noun, stem: ጉባኤ
+
+word: መክፈቻ
+POS: noun, stem: ከፈተ
+
+word: እንዳሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: በመላው
+POS: noun, stem: መላ
+
+word: የሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ህዝቦች
+POS: noun, stem: ህዝብ
+
+word: የጋራ
+POS: noun, stem: ጋራ
+
+word: ተሳትፎና
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: ትብብር
+POS: noun, stem: ትብብር
+
+word: የተጀመረው
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: የታላቁ
+POS: noun, stem: ታላቅ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: የመጀመሪያው
+POS: noun, stem: ጀመረ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: የውሀ
+POS: noun, stem: ውሀ
+
+?word: ሙሌት
+
+word: በመጠናቀቁ
+POS: noun, stem: ተጠናቀቀ
+
+word: የእንኳን
+?POS: noun, stem: እንኳን
+
+?word: ደስ
+
+word: ያላችሁ
+POS: verb, root: <b'l>, citation: አለ
+
+?word: መልእክት
+
+word: አስተላልፈዋል
+POS: verb, root: <'lf>, citation: አስተላለፈ
+
+word: በቀጣይነትም
+?POS: noun, stem: ቀጣይነትም
+
+word: ግድቡ
+POS: noun, stem: ግድብ
+
+word: ሙሉ
+POS: noun, stem: ሙሉ
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: የኤሌክትሪክ
+?POS: noun, stem: ኤሌክትሪክ
+
+word: ሀይል
+
+word: አመንጭቶ
+POS: verb, root: <mnC*>, citation: አመነጨ
+
+word: በአብዛበኛው
+?POS: noun, stem: አብዛበኛው
+
+word: የመብራት
+POS: noun, stem: በራ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ተደራሽ
+POS: noun, stem: ተደረሰ
+
+word: ሳይሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ለዘመናት
+?POS: noun, stem: ዘመናት
+
+word: በጨለማ
+POS: noun, stem: ጨለማ
+
+word: ሲማቅቁ
+POS: verb, root: <maqq>, citation: ማቀቀ
+
+word: ለነበሩት
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የክልሉና
+POS: noun, stem: ክልል
+
+word: የሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ህዝቦች
+POS: noun, stem: ህዝብ
+
+word: የብርሀንና
+POS: noun, stem: ብርሀን
+
+word: የእድገት
+POS: noun, stem: እድገት
+
+word: ተስፋ
+POS: noun, stem: ተስፋ
+
+word: እውን
+POS: noun, stem: እውን
+
+word: እስኪሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ድጋፋቸውን
+POS: noun, stem: ድጋፍ
+
+word: አጠናክረው
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: እንደሚቀጥሉ
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ላክዴር
+?POS: noun, stem: አክዴር
+
+word: አክለውም
+POS: verb, root: <'k_l>, citation: አከለ
+
+word: የተጀመረውን
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: የአረንጓዴ
+POS: noun, stem: አረንጓዴ
+
+word: አሻራ
+POS: noun, stem: አሻራ
+
+word: የችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላ
+?POS: verb, root: <kll>, citation: ተከለለ
+
+word: ዘመቻ
+POS: noun, stem: ዘመቻ
+
+?word: ተግባራዊነት
+
+word: በየደረጃው
+POS: noun, stem: ደረጃ
+
+word: የምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: በየአካባቢያቸው
+POS: noun, stem: አካባቢ
+
+?word: ምልአተ
+
+word: ህዝቡን
+POS: noun, stem: ህዝብ
+
+word: በማስተባበር
+POS: noun, stem: አስተባበረ
+
+word: አርአያ
+POS: noun, stem: አርአያ
+
+word: እንዲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: በአሁኑ
+POS: noun, stem: አሁን
+
+word: ወቅትም
+POS: noun, stem: ወቅት
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+?word: ርእሰ
+
+?word: መስተዳድር
+
+?word: ኡሞድ
+
+word: ኡጁሉ
+?POS: noun, stem: ኡጁል
+
+word: የአስፈፃሚ
+POS: noun, stem: አስፈጻሚ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+?word: አመታዊ
+
+word: የአፈፃፀም
+?POS: noun, stem: አፈጻጸም
+
+?word: ሪፖርት
+
+word: ለምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በማቅረብ
+POS: noun, stem: አቀረበ
+
+word: ይገኛሉ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በመቀጠልም
+POS: noun, stem: ቀጠለ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: አመት
+
+word: የልማትና
+POS: noun, stem: ልማት
+
+word: የመልካም
+POS: noun, stem: መልካም
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+word: እቅድ
+POS: noun, stem: እቅድ
+
+word: የጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤትና
+POS: noun, stem: ቤት
+
+word: የኦዲት
+?POS: noun, stem: ኦዲት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ክንውን
+POS: noun, stem: ክንውን
+
+word: ሪፖርቶች
+?POS: noun, stem: ሪፖርት
+
+word: ተወያይቶ
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ያፀድቃል
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: የልማትና
+POS: noun, stem: ልማት
+
+word: የመልካም
+POS: noun, stem: መልካም
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+word: እቅድ
+POS: noun, stem: እቅድ
+
+word: በመወያየት
+?POS: noun, stem: መወያየት
+
+word: የሚያፀድቅ
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: የማስፈፀሚያ
+POS: noun, stem: አስፈጸመ
+
+word: በጀትን
+?POS: noun, stem: በጀት
+
+word: መርምሮ
+POS: verb, root: <mrmr>, citation: መረመረ
+
+word: እንደሚያፀድቅም
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: ይጠበቃል
+POS: verb, root: <Tbq>, citation: ተጠበቀ
+
+word: ጉባኤው
+POS: noun, stem: ጉባኤ
+
+word: በተጨማሪም
+POS: noun, stem: ተጨመረ
+
+word: አዋጆችንና
+POS: noun, stem: አዋጅ
+
+word: ሹመቶች
+POS: noun, stem: ሹመት
+
+word: በመወያየት
+?POS: noun, stem: መወያየት
+
+word: እንደሚያፀድቅም
+POS: verb, root: <Sdq>, citation: አጸደቀ
+
+word: የጋምቤላ
+?POS: noun, stem: ጋምቤላ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ፕሬስ
+POS: noun, stem: ፕሬስ
+
+?word: ሴክሬታሪያት
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ያመለክታል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትክ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

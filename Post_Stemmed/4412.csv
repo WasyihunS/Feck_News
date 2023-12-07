@@ -1,0 +1,649 @@
+word: ለመንግስት
+POS: noun, stem: መንግስት
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ፈተና
+POS: noun, stem: ፈተና
+
+word: ሊሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የካቲት
+POS: noun, stem: የካቲት
+
+?word: ኢዜአ
+
+word: ከመጪው
+POS: noun, stem: መጣ
+
+?word: ሚያዝያ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: በመንግስታዊ
+?POS: noun, stem: መንግስታዊ
+
+word: መዋቅር
+POS: noun, stem: መዋቅር
+
+word: ለሚገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ፈተና
+POS: noun, stem: ፈተና
+
+word: እንደሚሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የሲቪል
+?POS: noun, stem: ሲቪል
+
+word: ሰርቪስ
+?POS: noun, stem: ሰርቪ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: የሲቪል
+?POS: noun, stem: ሲቪል
+
+word: ሰርቪስ
+?POS: noun, stem: ሰርቪ
+
+word: ብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+?word: ማእቀፍ
+
+?word: ፕሮጀክት
+
+word: መጀመረን
+?POS: noun, stem: መጀመረ
+
+word: አስመልክቶ
+POS: verb, root: <mlkt>, citation: አስመለከተ
+
+word: ግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: ለማስጨበጥ
+POS: noun, stem: አስጨበጠ
+
+word: የተዘጋጀ
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: የምክክር
+?POS: noun, stem: ምክክር
+
+word: መድረክ
+POS: noun, stem: መድረክ
+
+word: በአዳማ
+?POS: noun, stem: አዳማ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: እየተካሄደ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+?word: ኮሚሽነር
+
+word: ብርሀኑ
+POS: noun, stem: ብርሀን
+
+?word: ፈይሳ
+
+word: ለኢዜአ
+?POS: noun, stem: ኢዜአ
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ፈተናው
+POS: noun, stem: ፈተና
+
+word: የሚሰጠው
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ከሀገራዊ
+?POS: noun, stem: ሀገራዊ
+
+word: ለውጡ
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: የተቃኘ
+POS: verb, root: <qN_*>, citation: ተቃኘ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሰራተኛ
+POS: noun, stem: ሰራተኛ
+
+word: እንዲኖርና
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: የወቅቱን
+POS: noun, stem: ወቅት
+
+word: የህዝቡ
+POS: noun, stem: ህዝብ
+
+?word: አገልግሎተ
+
+word: ጥያቄ
+POS: noun, stem: ጥያቄ
+
+word: የሚመልስ
+POS: verb, root: <ml_s>, citation: መለሰ
+
+word: ሀይል
+
+word: ለመፍጠር
+POS: noun, stem: ፈጠረ
+
+word: የሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: በአሁኑ
+POS: noun, stem: አሁን
+
+word: የህብረሰተቡን
+?POS: noun, stem: ህብረሰተቡ
+
+word: የአገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ፍላጎት
+POS: noun, stem: ፍላጎት
+
+word: ማርካት
+POS: noun, stem: አረካ
+
+word: እንዳልተቻለ
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: ጠቅሰው
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: ለዚህ
+POS: noun, stem: ይህ
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: እንዲሆንም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: በመንግስታዊ
+?POS: noun, stem: መንግስታዊ
+
+word: መዋቅር
+POS: noun, stem: መዋቅር
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ማንኛውም
+POS: noun, stem: ማንኛው
+
+word: ሰራተኛ
+POS: noun, stem: ሰራተኛ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: እንደሚያልፍ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋጫው
+?POS: noun, stem: ማረጋጫ
+
+word: ፕሮጄክቱ
+?POS: noun, stem: ፕሮጄክት
+
+word: ለሁለት
+POS: noun, stem: ሁለት
+
+word: አመት
+
+word: ተኩል
+?POS: verb, root: <tkW_l>, citation: ተኮለ
+
+word: የሚቆይ
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ኮሚሽነሩ
+?POS: noun, stem: ኮሚሽነር
+
+word: ከመጪው
+POS: noun, stem: መጣ
+
+?word: ሚያዝያ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ተቋማቱ
+?POS: noun, stem: ተቅዋማት
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: የሚቀላቀሉ
+POS: verb, root: <qlaql>, citation: ተቀላቀለ
+
+word: ሰራተኞችም
+POS: noun, stem: ሰራተኛ
+
+word: ጭምር
+POS: noun, stem: ጭምር
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ፈተና
+POS: noun, stem: ፈተና
+
+word: እንደሚወስዱ
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: በሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ከአንድ
+POS: noun, stem: አንድ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ሺህ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: እንደሚኖሩ
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: ያመለከቱት
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: ብርሀኑ
+POS: noun, stem: ብርሀን
+
+word: ፕሮጀክቱ
+?POS: noun, stem: ፕሮጀክት
+
+word: በዘርፉ
+POS: noun, stem: ዘርፍ
+
+?word: መሰረታዊ
+
+word: ለውጥ
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: ያመጣል
+POS: verb, root: <mT'>, citation: አመጣ
+
+word: ተብሎ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: የታመነበትና
+POS: verb, root: <'mn>, citation: ታመነ
+
+word: በመንግስት
+POS: noun, stem: መንግስት
+
+?word: ተቀባይነት
+
+word: ማግኘቱንና
+POS: noun, stem: አገኘ
+
+word: የሚቆይ
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: በኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+?word: ፕሮጄክት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: አስኪያጅ
+POS: noun, stem: ህይድ
+
+word: የማነ
+?POS: noun, stem: ማነ
+
+word: ሀይሉ
+POS: noun, stem: ሀይል
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: የፕሮጄክቱ
+?POS: noun, stem: ፕሮጄክት
+
+word: አላማ
+POS: noun, stem: አላማ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: አሰጣጥን
+POS: noun, stem: ሰጠ
+
+?word: ውጤታማ
+
+word: ለማድረግና
+POS: noun, stem: አደረገ
+
+word: የህዝቡን
+POS: noun, stem: ህዝብ
+
+word: የተገልጋይነት
+?POS: noun, stem: ተገልጋይነት
+
+word: እርካታ
+?POS: noun, stem: ርካታ
+
+word: ለማረጋገጥ
+POS: noun, stem: አረጋገጠ
+
+word: ሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: የቆየና
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ዘመን
+POS: noun, stem: ዘመን
+
+word: ተሻጋሪ
+POS: noun, stem: ተሻገረ
+
+?word: መንግስታዊ
+
+word: የሲቪል
+?POS: noun, stem: ሲቪል
+
+word: ሰርቪስ
+?POS: noun, stem: ሰርቪ
+
+word: አደረጃጀት
+POS: noun, stem: ደረጀ
+
+word: ቢኖራትም
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: በተለይም
+POS: noun, stem: ተለየ
+
+word: ከአቅም
+POS: noun, stem: አቅም
+
+word: አመለካከት
+POS: noun, stem: ምልክት
+
+word: አስተሳሰብና
+POS: noun, stem: አሰበ
+
+?word: ተግባቦት
+
+word: አንፃር
+POS: noun, stem: አንጻር
+
+word: ሰፊ
+POS: noun, stem: ሰፋ
+
+word: ክፍተት
+POS: noun, stem: ክፍተት
+
+word: እንዳሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ፕሮጀክቱ
+?POS: noun, stem: ፕሮጀክት
+
+word: የተቀረፀው
+POS: verb, root: <qrS>, citation: ተቀረጸ
+
+word: ሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: የደረሰችበትን
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: የሚመጥንና
+POS: verb, root: <mT_n>, citation: መጠነ
+
+word: ከለውጡ
+POS: noun, stem: ለውጥ
+
+word: የታቀኘ
+?POS: noun, stem: ታቀኘ
+
+word: አስተሳሰብና
+POS: noun, stem: አሰበ
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: ያነገበ
+POS: verb, root: <ngb>, citation: አነገበ
+
+word: እውቀት
+POS: noun, stem: እውቀት
+
+word: ክህሎትና
+?POS: noun, stem: ክህሎት
+
+word: በአመለካከት
+?POS: noun, stem: አመለካከት
+
+word: የበቃ
+POS: verb, root: <bq'>, citation: በቃ
+
+word: የሰው
+POS: noun, stem: ሰው
+
+word: ሀይል
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: መልክ
+POS: noun, stem: መልክ
+
+?word: ማደረጀት
+
+word: በማስፈለጉ
+POS: noun, stem: አስፈለገ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የብቃት
+POS: noun, stem: ብቃት
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ፈተናው
+POS: noun, stem: ፈተና
+
+word: የየሴክተሮቹን
+?POS: noun, stem: ሴክተር
+
+word: አላማ
+POS: noun, stem: አላማ
+
+word: መሰረት
+
+word: ባደረገ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: በሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: እውቀትና
+POS: noun, stem: እውቀት
+
+?word: ክህሎት
+
+word: በመመስረት
+POS: noun, stem: ተመሰረተ
+
+word: በሲቪል
+?POS: noun, stem: ሲቪል
+
+word: ሰርቪስ
+?POS: noun, stem: ሰርቪ
+
+?word: ዩኒቨርሲቲ
+
+word: ስር
+
+word: ከፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: እንደሚሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ከዛሬ
+POS: noun, stem: ዛሬ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ለሁለት
+POS: noun, stem: ሁለት
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: በሚቆየው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: የምክክር
+?POS: noun, stem: ምክክር
+
+word: መድረኩ
+POS: noun, stem: መድረክ
+
+word: ከፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ከክልሎችና
+POS: noun, stem: ክልል
+
+word: ሁለቱ
+POS: noun, stem: ሁለት
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደሮች
+POS: noun, stem: አደረ
+
+word: ከዩኒቨርሲቲዎችና
+?POS: noun, stem: ከዩኒቨርሲቲዋ
+
+word: ኮሌጆች
+?POS: noun, stem: ኮሌጅ
+
+word: የተወጣጡ
+POS: verb, root: <wT'>, citation: ተውጣጣ
+
+word: የዘርፉ
+POS: noun, stem: ዘርፍ
+
+word: አመራሮችና
+POS: noun, stem: መራ
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: እየተሳተፉ
+POS: verb, root: <satf>, citation: ተሳተፈ
+

@@ -1,0 +1,225 @@
+word: ያለብን
+POS: verb, root: <b'l>, citation: አለ
+
+word: የአፍና
+POS: noun, stem: አፍ
+
+word: አፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛ
+POS: noun, stem: ሸፈነ
+
+word: ማስክ
+POS: verb, root: <m's>, citation: ማሰ
+
+word: ምን
+POS: noun, stem: ምን
+
+word: አይነት
+
+word: ከሰሞኑ
+POS: noun, stem: ሰሞን
+
+word: የመተንፈሻ
+POS: noun, stem: ተነፈሰ
+
+word: ቀዳዳ
+POS: noun, stem: ቀዳዳ
+
+?word: ቫልቭ
+
+word: የተገጠመላቸው
+POS: verb, root: <gTm>, citation: ተገጠመ
+
+word: በተለምዶ
+?POS: noun, stem: ተለምዶ
+
+word: የሚባሉ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ማስኮች
+?POS: noun, stem: ማስካ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚውሉ
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: እንዳልሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የመድሀኒትና
+POS: noun, stem: መድሀኒት
+
+word: ምግብ
+POS: noun, stem: ምግብ
+
+word: ባለስልጣን
+POS: noun, stem: ባለስልጣን
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: በባለስልጣን
+POS: noun, stem: ባለስልጣን
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የምዝገባና
+POS: noun, stem: ምዝገባ
+
+word: ፈቃድ
+POS: noun, stem: ፈቃድ
+
+?word: ዳይሬክቶሬት
+
+?word: ዳይሬክተር
+
+?word: አብደላ
+
+word: ካሶ
+?POS: noun, stem: አሶ
+
+word: እነዚህ
+POS: noun, stem: ይህ
+
+word: የአፍና
+POS: noun, stem: አፍ
+
+word: የአፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: ማሸፈኛዎች
+POS: noun, stem: አሸፈነ
+
+word: ይህንን
+POS: noun, stem: ይህ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: የሚያባብሱ
+POS: verb, root: <b's>, citation: አባባሰ
+
+word: ጥቅም
+POS: noun, stem: ጥቅም
+
+word: የሚሰጡ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: እንዳልሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ለቢቢሲ
+?POS: noun, stem: ቢቢሲ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: እነዚህ
+POS: noun, stem: ይህ
+
+word: ማስኮች
+?POS: noun, stem: ማስካ
+
+word: የሚጠቀመውን
+POS: verb, root: <Tqm>, citation: ተጠቀመ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የሚጠብቁና
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: ሌላውን
+POS: noun, stem: ሌላ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የሚያጋልጡ
+POS: verb, root: <glS>, citation: አጋለጸ
+
+word: ራስ
+POS: noun, stem: ራስ
+
+word: ወዳድ
+POS: noun, stem: ወዳድ
+
+word: ማስኮች
+?POS: noun, stem: ማስካ
+
+word: ሲሉም
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይገልጿቸዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በመሆኑም
+POS: noun, stem: ሆነ
+
+word: ይህንን
+POS: noun, stem: ይህ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚውሉ
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: የመተንፈሻ
+POS: noun, stem: ተነፈሰ
+
+word: ቀዳዳ
+POS: noun, stem: ቀዳዳ
+
+?word: ቫልቭ
+
+word: የሌላቸው
+POS: verb, root: <al_e>, citation: አለ
+
+word: የአፍና
+POS: noun, stem: አፍ
+
+word: አፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛዎች
+POS: noun, stem: ሸፈነ
+
+word: በመስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ተመዝግበውና
+POS: verb, root: <mzgb>, citation: ተመዘገበ
+
+word: ተገምግመው
+POS: verb, root: <gmgm>, citation: ተገመገመ
+
+word: ጥቅም
+POS: noun, stem: ጥቅም
+
+word: እንዲውሉ
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: እንደሚደረግም
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ያስረዳሉ
+POS: verb, root: <rd'>, citation: አስረዳ
+

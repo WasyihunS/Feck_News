@@ -1,0 +1,482 @@
+word: የሀገርን
+POS: noun, stem: ሀገር
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: በመጣልና
+POS: noun, stem: ጣለ
+
+word: የመንግስትን
+POS: noun, stem: መንግስት
+
+?word: ሚስጥር
+
+word: ለሽብር
+POS: noun, stem: ሽብር
+
+word: ቡድን
+POS: noun, stem: ቡድን
+
+word: አሳልፎ
+POS: verb, root: <sl_f>, citation: አሳለፈ
+
+word: በመስጠት
+POS: noun, stem: ሰጠ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: የተጠረጠሩ
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: ግለሰቦች
+POS: noun, stem: ግለሰብ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቀረቡ
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: የሀገርን
+POS: noun, stem: ሀገር
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: በመጣል
+POS: noun, stem: ጣለ
+
+word: የመንግስትን
+POS: noun, stem: መንግስት
+
+?word: ሚስጥር
+
+word: በውጭ
+POS: noun, stem: ውጭ
+
+word: ላለ
+POS: verb, root: <b'l>, citation: አለ
+
+word: የሽብር
+POS: noun, stem: ሽብር
+
+word: ቡድን
+POS: noun, stem: ቡድን
+
+word: አሳልፎ
+POS: verb, root: <sl_f>, citation: አሳለፈ
+
+word: በመስጠትና
+POS: noun, stem: ሰጠ
+
+word: በሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ሁከትና
+POS: noun, stem: ሁከት
+
+word: ብጥብጥ
+POS: noun, stem: ብጥብጥ
+
+word: እንዲነሳ
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: የተጠረጠሩ
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: አምስት
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቀርበዋል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ተጠርጣሪዎቹም
+POS: noun, stem: ተጠረጠረ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አባባ
+
+word: የህወሀት
+?POS: noun, stem: ህወሀት
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: ተወልደ
+
+?word: ገብረፃዲቅ
+
+word: የህግና
+POS: noun, stem: ህግ
+
+word: ፍትህ
+POS: noun, stem: ፍትህ
+
+?word: ዳይሬክተር
+
+word: ተስፋለም
+?POS: noun, stem: ተስፋለ
+
+?word: ይህደጎ
+
+word: የአቃቂ
+?POS: noun, stem: አቃቂ
+
+?word: ቃሊቲ
+
+?word: ክፍለ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: የደህንነት
+POS: noun, stem: ደህንነት
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: አፅብሀ
+
+word: አለማየሁ
+?POS: noun, stem: አለማየህ
+
+word: ግለሰቦች
+POS: noun, stem: ግለሰብ
+
+word: መርማሪ
+POS: noun, stem: መረመረ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: በተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: የሰራቸውን
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: መርምራ
+POS: verb, root: <mrmr>, citation: መረመረ
+
+word: ለፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ያብራራ
+POS: verb, root: <br'>, citation: አበራራ
+
+word: የሰው
+POS: noun, stem: ሰው
+
+word: ምስክር
+POS: noun, stem: ምስክር
+
+word: መቀበሉንና
+POS: noun, stem: ተቀበለ
+
+word: የመንግስትን
+POS: noun, stem: መንግስት
+
+?word: ሚስጥር
+
+word: አሳልፈው
+POS: verb, root: <sl_f>, citation: አሳለፈ
+
+word: መስጠታቸውን
+POS: noun, stem: ሰጠ
+
+word: የሚያስረዱ
+POS: verb, root: <rd'>, citation: አስረዳ
+
+word: ማስረጃዎች
+POS: noun, stem: አስረዳ
+
+word: መሰብሰቡን
+POS: noun, stem: ተሰበሰበ
+
+word: ተናግሯል
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: በሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ሁከትና
+POS: noun, stem: ሁከት
+
+word: አመፅ
+POS: noun, stem: አመጽ
+
+word: እንዲፈጠር
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: ሲሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ነበር
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: መርማሪ
+POS: noun, stem: መረመረ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: በሰኔ
+POS: noun, stem: ሰኔ
+
+word: የሀገሪቱን
+POS: noun, stem: ሀገር
+
+?word: ህገ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: በሀይል
+POS: noun, stem: ሀይል
+
+word: ለማፍረስ
+POS: noun, stem: አፈረሰ
+
+word: ከሌሎች
+POS: noun, stem: ሌላ
+
+word: የሽብር
+POS: noun, stem: ሽብር
+
+word: ቡድኖች
+POS: noun, stem: ቡድን
+
+word: በመስራት
+POS: noun, stem: ሰራ
+
+word: ተጠርጥረው
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: እየተደረገባቸው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: አስረድቷል
+POS: verb, root: <rd'>, citation: አስረዳ
+
+word: ለተጨማሪ
+POS: noun, stem: ተጨመረ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: እንዲሰጠውም
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ጠይቋል
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: የተጠርጣሪ
+POS: noun, stem: ተጠረጠረ
+
+word: ጠበቆች
+POS: noun, stem: ጠበቃ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: በድጋሚ
+POS: noun, stem: ድጋሚ
+
+word: ተይዘው
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: መቅረባቸው
+POS: noun, stem: ቀረበ
+
+?word: ተገቢነት
+
+word: የለውም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ሊፈቀድ
+POS: verb, root: <fqd>, citation: ተፈቀደ
+
+word: አይገባም
+POS: verb, root: <gb'>, citation: ገባ
+
+word: የሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: መቃወሚያ
+POS: noun, stem: ተቃወመ
+
+word: አቀርበዋል
+?POS: verb, root: <qr_b>, citation: አቀረበ
+
+word: ተጠርጣሪዎቹ
+POS: noun, stem: ተጠረጠረ
+
+word: በዋስ
+POS: noun, stem: ዋስ
+
+word: እንዲወጡም
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: ጠይቀዋል
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: ጉዳዩን
+POS: noun, stem: ጉዳይ
+
+word: የተከታተለው
+POS: verb, root: <kt_l>, citation: ተከታተለ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: መዝገቡን
+POS: noun, stem: ዘገበ
+
+word: አስቀርቦ
+POS: verb, root: <qrb>, citation: አስቀረበ
+
+word: መርምሮ
+POS: verb, root: <mrmr>, citation: መረመረ
+
+word: ትዛዝ
+?POS: verb, root: <zasz>, citation: ዛሰዘ
+
+word: ለመስጠት
+POS: noun, stem: ሰጠ
+
+word: ለነሀሴ
+POS: noun, stem: ነሀሴ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ተለዋጭ
+POS: noun, stem: ተለወጠ
+
+word: ቀጠሮ
+POS: noun, stem: ቀጠሮ
+
+word: ሰጥቷል
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: በታሪክ
+POS: noun, stem: ታሪክ
+
+word: አዱኛ
+POS: noun, stem: አዱኛ
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትኩ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

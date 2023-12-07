@@ -1,0 +1,509 @@
+word: የግብርና
+POS: noun, stem: ግብርና
+
+word: ምርቶች
+POS: noun, stem: ምርት
+
+word: አቅርቦት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: እጥረት
+POS: noun, stem: እጥረት
+
+word: አንዳያጋጥም
+?POS: noun, stem: አንዳያጋጥ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ለሀብረት
+?POS: noun, stem: ሀብረት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: ማህበራት
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ብድር
+POS: noun, stem: ብድር
+
+word: ማመቻቸቱ
+POS: noun, stem: አመቻቸ
+
+word: ተገለፀ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: በሚቀጥሉት
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+?word: ጊዜያት
+
+word: የግብርና
+POS: noun, stem: ግብርና
+
+word: ምርቶች
+POS: noun, stem: ምርት
+
+word: አቅርቦት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: እጥረት
+POS: noun, stem: እጥረት
+
+word: እንዳያጋጥም
+POS: verb, root: <gTm>, citation: አጋጠመ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ለተለያዩ
+POS: noun, stem: ተለያየ
+
+?word: ሀብረት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: ማህበራት
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ብድር
+POS: noun, stem: ብድር
+
+word: አመቻችቶ
+POS: verb, root: <mc_*>, citation: አመቻቸ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: መግባቱ
+POS: noun, stem: ገባ
+
+word: ተገለፀ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: የፌደራል
+?POS: noun, stem: ፌደራል
+
+word: ህብረት
+POS: noun, stem: ህብረት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: ኤጀንሲ
+
+?word: ዳይሬክተር
+
+word: ኡስማን
+?POS: noun, stem: ኡስማ
+
+?word: ሱሩር
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+?word: ከፍ
+
+word: ተያይዞ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: የግብርና
+POS: noun, stem: ግብርና
+
+word: ምርቶች
+POS: noun, stem: ምርት
+
+word: አቅርቦት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: እጥረት
+POS: noun, stem: እጥረት
+
+word: እንዳያጋጥም
+POS: verb, root: <gTm>, citation: አጋጠመ
+
+word: እየተሰራ
+POS: verb, root: <sr'>, citation: ተሰራ
+
+?word: ዳይሬክተር
+
+word: ኡስማን
+?POS: noun, stem: ኡስማ
+
+?word: ሱሩር
+
+word: በኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: በሚፈለገው
+POS: verb, root: <fl_g>, citation: ተፈለገ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: አርሶ
+POS: verb, root: <'rs>, citation: አረሰ
+
+word: አደሩ
+POS: verb, root: <'dr>, citation: አደረ
+
+word: ተንቀሳቅሶ
+POS: verb, root: <n|qsaqs>, citation: ተንቀሳቀሰ
+
+word: ምርቱን
+POS: noun, stem: ምርት
+
+word: ለሚፈልገው
+POS: verb, root: <fl_g>, citation: ፈለገ
+
+word: ሸማች
+POS: noun, stem: ሸመተ
+
+word: ማድረስ
+POS: noun, stem: አደረሰ
+
+word: በማይችልበት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: በአሁኑ
+POS: noun, stem: አሁን
+
+word: በዘርፉ
+POS: noun, stem: ዘርፍ
+
+word: የሚታዩ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: የፋይናንስ
+?POS: noun, stem: ፋይናንስ
+
+word: እጥረትን
+POS: noun, stem: እጥረት
+
+word: ለመቅረፍ
+POS: noun, stem: ቀረፈ
+
+word: የተሄደበት
+?POS: noun, stem: ተሄደበት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: አበረታች
+POS: noun, stem: አበረታታ
+
+word: ጠቅሰዋል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: አራት
+
+word: ወራትም
+POS: verb, root: <wrr>, citation: ወረረ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+?word: ኩንታል
+
+word: የግብርና
+POS: noun, stem: ግብርና
+
+word: ምርቶች
+POS: noun, stem: ምርት
+
+word: ተጠቃሚዎች
+POS: noun, stem: ተጠቀመ
+
+word: ማድረስ
+POS: noun, stem: አደረሰ
+
+word: መቻሉንም
+POS: noun, stem: ቻለ
+
+word: ዳይሬክተሩ
+?POS: noun, stem: ዳይሬክተር
+
+word: አንስተዋል
+POS: verb, root: <ns'>, citation: አነሳ
+
+word: በቀጣይም
+POS: noun, stem: ቀጠለ
+
+word: የግብርና
+POS: noun, stem: ግብርና
+
+word: ምርቶች
+POS: noun, stem: ምርት
+
+word: አቅርቦት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: እጥረት
+POS: noun, stem: እጥረት
+
+word: እንዳያጋጥም
+POS: verb, root: <gTm>, citation: አጋጠመ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ለተለያዩ
+POS: noun, stem: ተለያየ
+
+?word: ሀብረት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: ማህበራት
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ብድር
+POS: noun, stem: ብድር
+
+word: ማመቻቸቱን
+POS: noun, stem: አመቻቸ
+
+word: እየተሰራበት
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: መሆኑንም
+POS: noun, stem: ሆነ
+
+?word: አስታውቅዋል
+
+word: የአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ህብረት
+POS: noun, stem: ህብረት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ማስፋፊያ
+POS: noun, stem: ፍእፍእ
+
+?word: ኤጀንሲ
+
+word: የህብረት
+POS: noun, stem: ህብረት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: ማህበራት
+
+word: የግብይት
+?POS: noun, stem: ግብይት
+
+word: ዳይሬክተሩ
+?POS: noun, stem: ዳይሬክተር
+
+word: አለም
+POS: noun, stem: አለም
+
+word: ዘውድ
+POS: noun, stem: ዘውድ
+
+word: ስሜነህ
+?POS: noun, stem: ስሜነ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: በቀጣይነት
+?POS: noun, stem: ቀጣይነት
+
+word: የግብርና
+POS: noun, stem: ግብርና
+
+word: ምርት
+POS: noun, stem: ምርት
+
+word: አቅርቦት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: እንዳይፈጠር
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: የዋጋ
+POS: noun, stem: ዋጋ
+
+word: ንረትን
+?POS: noun, stem: ንረት
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: እየተሰራ
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ባመቻቸው
+POS: verb, root: <mc_*>, citation: አመቻቸ
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ምርቶችን
+POS: noun, stem: ምርት
+
+word: የማቅረብ
+POS: noun, stem: አቀረበ
+
+word: ለቀጣይ
+POS: noun, stem: ቀጠለ
+
+word: ጊዜያትም
+?POS: noun, stem: ጊዜያት
+
+word: የመሰብሰብ
+POS: noun, stem: ተሰበሰበ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: ጎን
+
+word: ለጎን
+?POS: noun, stem: ጎን
+
+word: እየተሰራበት
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: በኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: ደረጃቸው
+POS: verb, root: <drj*>, citation: ደረጀ
+
+word: ዝቅተኛ
+POS: noun, stem: ዝቅተኛ
+
+word: የህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ክፍሎች
+POS: noun, stem: ክፍል
+
+word: ቀዳሚ
+POS: noun, stem: ቀደመ
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: የተሰጣቸው
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: መሆኑንም
+POS: noun, stem: ሆነ
+
+word: ዳይሬክተሩ
+?POS: noun, stem: ዳይሬክተር
+
+word: በአፈወርቅ
+?POS: noun, stem: አፈወርቅ
+
+word: አለሙ
+POS: noun, stem: አለም
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትክ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

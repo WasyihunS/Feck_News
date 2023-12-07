@@ -1,0 +1,229 @@
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: በአራት
+POS: noun, stem: አራት
+
+word: አመት
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: የመትከል
+POS: noun, stem: ተከለ
+
+word: እቅድ
+POS: noun, stem: እቅድ
+
+word: መኖሩን
+POS: noun, stem: ኖረ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አቢይ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: በአራት
+POS: noun, stem: አራት
+
+word: አመት
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: የመትከል
+POS: noun, stem: ተከለ
+
+word: እቅድ
+POS: noun, stem: እቅድ
+
+word: መኖሩን
+POS: noun, stem: ኖረ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: አቢይ
+
+?word: አህመድ
+
+word: ጠቆሙ
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: በጪው
+POS: noun, stem: በጣ
+
+word: ክረምት
+POS: noun, stem: ክረምት
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: ለመትከል
+POS: noun, stem: ተከለ
+
+word: ዝግጅት
+POS: noun, stem: ዝግጅት
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ተገልጿል
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: ክረምት
+POS: noun, stem: ክረምት
+
+word: ከተካሄደው
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላ
+?POS: verb, root: <kll>, citation: ተከለለ
+
+word: ክረምት
+POS: noun, stem: ክረምት
+
+word: የሚካሄደውን
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላ
+?POS: verb, root: <kll>, citation: ተከለለ
+
+word: የዝግጅት
+POS: noun, stem: ዝግጅት
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: የተመለከተ
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: በጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: በውይይቱ
+POS: noun, stem: ውይይት
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትሩን
+POS: noun, stem: ሚኒስትር
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: የክልል
+POS: noun, stem: ክልል
+
+?word: ርእሳነ
+
+?word: መስተዳድር
+
+word: የሚዲያ
+?POS: noun, stem: ሚዲያ
+
+word: ሀላፊዎች
+POS: noun, stem: ሀላፊ
+
+word: አርቲስቶች
+?POS: noun, stem: አርቲስት
+
+word: አትሌቶችና
+?POS: noun, stem: አትሌት
+
+word: በተለያዩ
+POS: noun, stem: ተለያየ
+
+word: ዘርፎች
+POS: noun, stem: ዘርፍ
+
+word: ታዋቂ
+POS: noun, stem: ታወቀ
+
+word: ግለሰቦች
+POS: noun, stem: ግለሰብ
+
+word: ታድመዋል
+POS: verb, root: <'d_m>, citation: ታደመ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: አቢይ
+
+word: በወቅቱ
+POS: noun, stem: ወቅት
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የተጀመረውን
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: የችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላ
+?POS: verb, root: <kll>, citation: ተከለለ
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: ማስቀጠል
+POS: noun, stem: አስቀጠለ
+

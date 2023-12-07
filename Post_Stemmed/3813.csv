@@ -1,0 +1,848 @@
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: በሀገራዊ
+?POS: noun, stem: ሀገራዊ
+
+?word: ክልላዊ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ተናብቦ
+POS: verb, root: <nb_b>, citation: ተናበበ
+
+word: እየሰራ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: የኦሮሚያ
+?POS: noun, stem: ኦሮሚያ
+
+?word: ብሄራዊ
+
+?word: ክልላዊ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የኦሮሚያ
+?POS: noun, stem: ኦሮሚያ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: በሀገራዊ
+?POS: noun, stem: ሀገራዊ
+
+?word: ክልላዊ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ተናብቦ
+POS: verb, root: <nb_b>, citation: ተናበበ
+
+word: ተመካክሮ
+POS: verb, root: <mkr>, citation: ተመካከረ
+
+word: እየሰራ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: በወቅታዊ
+?POS: noun, stem: ወቅታዊ
+
+word: ክልላዊና
+?POS: noun, stem: ክልላዊ
+
+?word: አገራዊ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ዙሪያ
+POS: noun, stem: ዙሪያ
+
+word: መግለጫ
+POS: noun, stem: ገለጸ
+
+word: አውጥቷል
+POS: verb, root: <wT'>, citation: አወጣ
+
+word: ክልሉ
+POS: noun, stem: ክልል
+
+word: በመግለጫው
+POS: noun, stem: ገለጸ
+
+word: ለሀገሪቷ
+?POS: noun, stem: ሀገሪት
+
+word: ህዝቦች
+POS: noun, stem: ህዝብ
+
+word: የተስፋ
+POS: noun, stem: ተስፋ
+
+word: ብርሀን
+POS: noun, stem: ብርሀን
+
+word: የፈነጠቀው
+POS: verb, root: <fnTq>, citation: ፈነጠቀ
+
+word: ተጨባጭ
+POS: noun, stem: ተጨበጠ
+
+word: ውጤቶችን
+POS: noun, stem: ውጤት
+
+word: ማስመዝገብ
+POS: noun, stem: አስመዘገበ
+
+word: የጀመረው
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+?word: ሁለንተናዊ
+
+word: ሁሉን
+POS: noun, stem: ሁሉ
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: ለውጥ
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: ለአንድም
+POS: noun, stem: አንድ
+
+?word: ሰከንድ
+
+word: እንዳይሰናከል
+POS: verb, root: <snkl>, citation: ተሰናከለ
+
+word: ዘብ
+POS: noun, stem: ዘብ
+
+word: የመቆም
+POS: noun, stem: ቆመ
+
+word: የማከናወኑ
+POS: noun, stem: አከናወነ
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: አግኝቷል
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: በኦሮሚያ
+?POS: noun, stem: ኦሮሚያ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ከቀበሌ
+POS: noun, stem: ቀበሌ
+
+?word: ክልላዊ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: መዋቅሮች
+POS: noun, stem: መዋቅር
+
+word: መላ
+POS: verb, root: <mll>, citation: መለለ
+
+word: ህዝቡ
+POS: noun, stem: ህዝብ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ሲያካሄዱ
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: በነበሩት
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ኮንፈረንስ
+?POS: noun, stem: ኮንፈረ
+
+word: አንድ
+
+word: ፅኑ
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: አቋም
+POS: noun, stem: አቋም
+
+word: መድረሳቸውንም
+POS: noun, stem: ደረሰ
+
+word: መግለጫው
+POS: noun, stem: ገለጸ
+
+word: የጠቆመው
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: የዴሞክራሲ
+POS: noun, stem: ዴሞክራሲያ
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: የአብሮነት
+?POS: noun, stem: አብሮነት
+
+word: እሴቶቻችን
+POS: noun, stem: እሴት
+
+word: ተጠናክረው
+POS: verb, root: <Tnkr>, citation: ተጠናከረ
+
+word: እንዲቀጥሉ
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: በፅኑ
+POS: noun, stem: ጽኑ
+
+word: መሰረት
+
+word: እንዲቆሙ
+POS: verb, root: <qwm>, citation: ቆመ
+
+word: የድርሻውን
+?POS: noun, stem: ድርሻ
+
+word: ለመወጣት
+POS: noun, stem: ተወጣ
+
+word: ወስኗል
+POS: verb, root: <ws_n>, citation: ወሰነ
+
+word: ሲልም
+POS: verb, root: <b'l>, citation: አለ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: በተቃራኒ
+POS: noun, stem: ተቃራኒ
+
+word: የህዝቡን
+POS: noun, stem: ህዝብ
+
+word: ሰላም
+POS: noun, stem: ሰላም
+
+word: ለማወክ
+POS: noun, stem: አወከ
+
+word: የለውጥ
+POS: noun, stem: ለውጥ
+
+word: ግስጋሴውን
+POS: noun, stem: ግስጋሴ
+
+word: ጠልፎ
+POS: verb, root: <Tlf>, citation: ጠለፈ
+
+word: ለመጣል
+POS: noun, stem: ጣለ
+
+word: የሚታትሩ
+POS: verb, root: <tatr>, citation: ታተረ
+
+word: ሀይሎች
+POS: noun, stem: ሀይል
+
+word: ከቻሉ
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ለአፋቸው
+POS: noun, stem: አፍ
+
+word: ልጓም
+POS: noun, stem: ልጓም
+
+word: ለድርጊታቸው
+POS: noun, stem: ድርጊት
+
+word: ገደብ
+POS: noun, stem: ገደብ
+
+word: እንዲያበጁ
+POS: verb, root: <bj_*>, citation: አበጀ
+
+?word: ሀገራዊ
+
+word: ጥሪያቸውን
+POS: noun, stem: ጥሪ
+
+word: ማስተላለፋቸውንም
+POS: noun, stem: አስተላለፈ
+
+word: አውስቷል
+?POS: verb, root: <wst>, citation: አወሰተ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+?word: ህገመንግስታዊ
+
+word: ሀላፊነቱ
+POS: noun, stem: ሀላፊነት
+
+word: ግዴታው
+POS: noun, stem: ግዴታ
+
+word: የህግ
+POS: noun, stem: ህግ
+
+word: የበላይነትን
+?POS: noun, stem: በላይነት
+
+word: የማስከበር
+POS: noun, stem: አስከበረ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: እንዲተገብር
+?POS: noun, stem: ንዲተገብር
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: አቅማቸው
+POS: noun, stem: አቅም
+
+word: ከጎኑ
+?POS: noun, stem: ጎን
+
+word: ለመሰለፍ
+POS: noun, stem: ተሰለፈ
+
+word: ቃላቸውን
+POS: noun, stem: ቃል
+
+word: አድሰዋልም
+POS: verb, root: <d's>, citation: አዳሰ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: በየደረጃው
+POS: noun, stem: ደረጃ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: መዋቅርም
+POS: noun, stem: መዋቅር
+
+word: ጥሪያቸውን
+POS: noun, stem: ጥሪ
+
+word: ተቀብሎ
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: በተደራጀ
+POS: verb, root: <drj*>, citation: ተደራጀ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: እንዲያሰልፋቸው
+POS: verb, root: <sl_f>, citation: አሰለፈ
+
+word: መላ
+POS: verb, root: <mll>, citation: መለለ
+
+word: ህዝቡ
+POS: noun, stem: ህዝብ
+
+word: በአፅንኦት
+?POS: noun, stem: አጽንኦት
+
+word: ማሰሰቡን
+?POS: noun, stem: አሰሰበ
+
+word: ጠቁሟል
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: በተለያዩ
+POS: noun, stem: ተለያየ
+
+?word: ጊዜያት
+
+word: መሰል
+?POS: noun, stem: ሰሰለ
+
+word: ጥሪዎች
+POS: noun, stem: ጥሪ
+
+word: ተላልፈው
+POS: verb, root: <'lf>, citation: ተላለፈ
+
+word: እንደከሸፉ
+POS: verb, root: <kxf>, citation: ከሸፈ
+
+word: ሰሞኑን
+POS: noun, stem: ሰሞን
+
+word: በስመ
+?POS: noun, stem: ስመ
+
+?word: ቄሮ
+
+word: የሚነዛው
+POS: verb, root: <nz'>, citation: ነዛ
+
+word: የሁከት
+POS: noun, stem: ሁከት
+
+word: የብጥብጥ
+POS: noun, stem: ብጥብጥ
+
+word: ጥሪ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: ይህን
+POS: noun, stem: ይህ
+
+word: የህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ክፍል
+POS: noun, stem: ክፍል
+
+word: የማይወከል
+POS: verb, root: <wk_l>, citation: ተወከለ
+
+word: መሆኑንም
+POS: noun, stem: ሆነ
+
+word: አስምሮበታል
+POS: verb, root: <m'r>, citation: አስማረ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: አጋጣሚ
+POS: noun, stem: አጋጠመ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የፀረሰላም
+?POS: noun, stem: ጸረሰላም
+
+word: ለውጥ
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: አደናቃፊ
+POS: noun, stem: አደናቀፈ
+
+word: ሀይሎች
+POS: noun, stem: ሀይል
+
+word: ጥሪን
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: በማክሸፍ
+POS: noun, stem: አከሸፈ
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: ጉልህ
+?POS: noun, stem: ጉል
+
+?word: ድርሻ
+
+word: ለነበራቸው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: መላው
+POS: verb, root: <mll>, citation: መለለ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: የፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: ሀይሉ
+POS: noun, stem: ሀይል
+
+word: ምስጋናውን
+POS: noun, stem: ምስጋና
+
+word: አቅርቧል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: በገጠርም
+POS: noun, stem: ገጠር
+
+word: በከተማ
+POS: noun, stem: ከተማ
+
+word: የሚገኘው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ወጣት
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: የህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ክፍሎች
+POS: noun, stem: ክፍል
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: አንድም
+POS: noun, stem: አንድ
+
+word: የኮሮና
+?POS: noun, stem: ኮሮና
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የእለት
+POS: noun, stem: እለት
+
+?word: ተእለት
+
+?word: ልማታዊ
+
+?word: ዴሞክራሲያዊ
+
+word: ተግባራቸውን
+POS: noun, stem: ተግባር
+
+word: በማከናወን
+POS: noun, stem: አከናወነ
+
+word: ተጠምደዋል
+POS: verb, root: <Tmd>, citation: ተጠመደ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ለፀረ
+?POS: noun, stem: ጸረ
+
+word: ሰላምና
+POS: noun, stem: ሰላም
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ጥሪ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: የሚሰጡት
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ጆሮና
+POS: noun, stem: ጆሮ
+
+word: ደቂቃ
+POS: noun, stem: ደቂቃ
+
+word: አይኖራቸውም
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: አሳስቧል
+POS: verb, root: <'s_b>, citation: አሳሰበ
+
+?word: ወቅታዊ
+
+?word: ሀገራዊ
+
+?word: ክልላዊ
+
+word: የማይገደው
+POS: verb, root: <gdd>, citation: ገደደ
+
+word: የተደላደለ
+POS: verb, root: <dldl>, citation: ተደላደለ
+
+word: ኑሮ
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: እየኖረ
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሀይል
+
+word: ሀላፊነት
+POS: noun, stem: ሀላፊነት
+
+word: በጎደለው
+POS: verb, root: <gWdl>, citation: ጐደለ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: በሚዲያ
+?POS: noun, stem: ሚዲያ
+
+word: በሬ
+POS: noun, stem: በር
+
+word: ወለደ
+POS: verb, root: <wld>, citation: ወለደ
+
+word: አሉባልታ
+POS: noun, stem: አሉባልታ
+
+word: የግጭት
+POS: noun, stem: ግጭት
+
+word: ነጋሪት
+POS: noun, stem: ነጋሪት
+
+word: በመጎሰም
+POS: noun, stem: ጐሰመ
+
+word: እንደሚኝ
+?POS: noun, stem: ሚኝ
+
+word: የጠቆመው
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: ተያይዞ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: ህዝቡ
+POS: noun, stem: ህዝብ
+
+word: በልማት
+POS: noun, stem: ልማት
+
+word: ተጠምዶ
+POS: verb, root: <Tmd>, citation: ተጠመደ
+
+word: በሚገኝበት
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ወሳኝ
+POS: noun, stem: ወሰነ
+
+word: የፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: አስከባሪ
+POS: noun, stem: አስከበረ
+
+word: ሀይል
+
+word: የህብረተሰቡን
+POS: noun, stem: ህብረተሰብ
+
+word: ሰላም
+POS: noun, stem: ሰላም
+
+word: ለመጠበቅ
+POS: noun, stem: ጠበቀ
+
+?word: ሁለንተናዊ
+
+word: ፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: ለሚረጋገጥ
+POS: verb, root: <rgT>, citation: ተረጋገጠ
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: ዝግጅት
+POS: noun, stem: ዝግጅት
+
+word: ቁመና
+?POS: noun, stem: ቁመ
+
+word: መሆናቸውንም
+POS: noun, stem: ሆነ
+
+word: አረጋግጧል
+POS: verb, root: <rgT>, citation: አረጋገጠ
+
+word: ስለዚህ
+POS: noun, stem: ይህ
+
+word: መላ
+POS: verb, root: <mll>, citation: መለለ
+
+word: ህዝቡ
+POS: noun, stem: ህዝብ
+
+word: መደበኛ
+POS: noun, stem: ተደበነ
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: ስራውን
+POS: noun, stem: ስራ
+
+word: ከማከናወን
+POS: noun, stem: አከናወነ
+
+?word: ጎን
+
+word: ለጎን
+?POS: noun, stem: ጎን
+
+word: በአካባቢው
+POS: noun, stem: አካባቢ
+
+word: የሚታዩ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: ለሰላም
+POS: noun, stem: ሰላም
+
+?word: ሰላማዊ
+
+word: እንቅስቃሴ
+POS: noun, stem: እንቅስቃሴ
+
+word: ስጋት
+POS: noun, stem: ስጋት
+
+word: ማናቸውንም
+POS: noun, stem: ማን
+
+word: ምልክቶች
+POS: noun, stem: ምልክት
+
+word: ለሰላም
+POS: noun, stem: ሰላም
+
+word: ሀይሉ
+POS: noun, stem: ሀይል
+
+word: ጥቆማ
+POS: noun, stem: ጥቆማ
+
+word: በመስጠት
+POS: noun, stem: ሰጠ
+
+word: እንዲተባበር
+POS: verb, root: <'br>, citation: ተባበረ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ጥሪውን
+POS: noun, stem: ጥሪ
+
+word: አቅርቧል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: የጎታች
+POS: noun, stem: ጐተተ
+
+word: ሀይሎች
+POS: noun, stem: ሀይል
+
+word: ምኞት
+POS: noun, stem: ምኞት
+
+word: ህልም
+POS: noun, stem: ህልም
+
+word: ይቀራል
+POS: verb, root: <qr*>, citation: ቀረ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ዴሞክራሲ
+POS: noun, stem: ዴሞክራሲያ
+
+?word: አብሮነት
+
+word: በፅኑ
+POS: noun, stem: ጽኑ
+
+word: መሰረት
+
+word: ይገነባል
+POS: verb, root: <gnb'>, citation: ገነባ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: በመግለጫው
+POS: noun, stem: ገለጸ
+

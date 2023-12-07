@@ -1,0 +1,263 @@
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: ሊያ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: የለይቶ
+?POS: noun, stem: ለይቶ
+
+word: ማቆያን
+POS: noun, stem: አቆየ
+
+word: ካምፓስ
+?POS: noun, stem: አምፓስ
+
+word: ጎበኙ
+POS: verb, root: <gWbN*>, citation: ጐበኘ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: ሊያ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: ከተለየዩ
+?POS: noun, stem: ተለየዩ
+
+word: አገሮች
+POS: noun, stem: አገር
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ለሚመጡ
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: የለይቶ
+?POS: noun, stem: ለይቶ
+
+word: ማቆያ
+POS: noun, stem: አቆየ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: እየሰጠ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ያለውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+?word: ዩኒቨርሲቲ
+
+word: አራት
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ካምፓስን
+?POS: noun, stem: ካምፓስ
+
+word: ጎበኙ
+POS: verb, root: <gWbN*>, citation: ጐበኘ
+
+word: ካምፓሱ
+?POS: noun, stem: ካምፓስ
+
+word: በዋናነት
+?POS: noun, stem: ዋናነት
+
+word: ከውጭ
+POS: noun, stem: ውጭ
+
+word: አገሮች
+POS: noun, stem: አገር
+
+word: መጥተው
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ለአስገዳጅ
+?POS: noun, stem: አስገዳጅ
+
+word: ለይቶ
+POS: verb, root: <ly_*>, citation: ለየ
+
+word: ማቆያ
+POS: noun, stem: አቆየ
+
+word: በተዘጋጁ
+POS: noun, stem: ተዘጋጀ
+
+word: ሆቴሎች
+POS: noun, stem: ሆቴል
+
+word: ለመቆየት
+POS: noun, stem: ቆየ
+
+word: አቅም
+POS: noun, stem: አቅም
+
+word: ለሌላቸው
+POS: verb, root: <al_e>, citation: አለ
+
+word: ኢትዮጵያውያን
+POS: noun, stem: ኢትዮጵያዊ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: የሚሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+?word: ጉብኝት
+
+word: በዋናነት
+?POS: noun, stem: ዋናነት
+
+word: በካምፓሱ
+?POS: noun, stem: ካምፓሱ
+
+word: የሚከናወኑ
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: አሰጣጦች
+POS: noun, stem: ሰጠ
+
+word: ምን
+POS: noun, stem: ምን
+
+word: እንደሚመስሉ
+POS: verb, root: <msl>, citation: መሰለ
+
+word: ለመገምገም
+POS: noun, stem: ገመገመ
+
+word: የተገለፀው
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: በጉብኝታቸውም
+?POS: noun, stem: በጉብኝት
+
+word: ከዩኒቨርሲቲው
+?POS: noun, stem: ዩኒቨርሲቲ
+
+word: አስተዳደርና
+POS: noun, stem: አደረ
+
+word: በጉዳዩ
+POS: noun, stem: ጉዳይ
+
+word: ከሚሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ተወያይተዋል
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: በካምፓሱ
+?POS: noun, stem: ካምፓሱ
+
+word: ከተለያዩ
+POS: noun, stem: ተለያየ
+
+word: አገሮች
+POS: noun, stem: አገር
+
+word: የመጡ
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ኢትዮጵያውያንን
+POS: noun, stem: ኢትዮጵያዊ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ከእነዚህም
+POS: noun, stem: ይህ
+
+word: ሴቶች
+POS: noun, stem: ሴት
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: ዴኤታ
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: ደረጀ
+POS: verb, root: <drj*>, citation: ደረጀ
+
+?word: ድጉማ
+
+word: ለኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ተጠርጣሪወዎችና
+?POS: noun, stem: ተጠርጣሪወዎች
+
+word: ህሙማን
+?POS: noun, stem: ህሙማ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: እየሰጡ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ሆስፒታሎችን
+?POS: noun, stem: ሆስፒታል
+
+word: መጎብኘታቸው
+POS: noun, stem: ጐበኘ
+

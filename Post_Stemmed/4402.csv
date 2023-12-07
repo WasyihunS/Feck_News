@@ -1,0 +1,525 @@
+word: ለቀድሞው
+POS: noun, stem: ቀድሞ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አሚር
+
+word: አማን
+POS: verb, root: <'mm>, citation: አመመ
+
+word: የምስጋና
+POS: noun, stem: ምስጋና
+
+word: የእውቅና
+POS: noun, stem: እውቅ
+
+word: ኘሮግራም
+?POS: noun, stem: ኘሮግራ
+
+word: ተካሄደ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የሀገራችን
+POS: noun, stem: ሀገር
+
+word: የጤናው
+POS: noun, stem: ጤና
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: መራመድ
+POS: noun, stem: ተራመደ
+
+word: እንዲችልና
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: በሚሰጠው
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+?word: ውጤታማ
+
+word: ይሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ዘንድ
+
+word: አዳዲስ
+?POS: noun, stem: አዳዲ
+
+word: የአሰራር
+?POS: noun, stem: አሰራር
+
+word: ስልቶችና
+POS: noun, stem: ስልት
+
+word: አገልግሎቶችን
+POS: noun, stem: አገልግሎት
+
+word: በማስጀመር
+POS: noun, stem: አስጀመረ
+
+word: ረገድ
+POS: noun, stem: ረገድ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: ላበረከቱት
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: የቀድሞው
+POS: noun, stem: ቀድሞ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+?word: አሚር
+
+word: አማን
+POS: verb, root: <'mm>, citation: አመመ
+
+word: እውቅናና
+?POS: noun, stem: ውቅናና
+
+word: ሽልማት
+POS: noun, stem: ሽልማት
+
+word: ተሰጣቸው
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: ተጠሪ
+POS: noun, stem: ተጠራ
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: ሆስፒታሎች
+?POS: noun, stem: ሆስፒታል
+
+word: ሰራተኞችና
+POS: noun, stem: ሰራተኛ
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ሀላፊዎች
+POS: noun, stem: ሀላፊ
+
+word: በተገኙበት
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የምስጋና
+POS: noun, stem: ምስጋና
+
+word: የእውቅና
+POS: noun, stem: እውቅ
+
+word: ኘሮግራም
+?POS: noun, stem: ኘሮግራ
+
+word: ተካሂዷል
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: በዚሁ
+POS: noun, stem: ይህ
+
+word: ኘሮግራም
+?POS: noun, stem: ኘሮግራ
+
+?word: አሚር
+
+word: አማን
+POS: verb, root: <'mm>, citation: አመመ
+
+word: በስራ
+POS: noun, stem: ስራ
+
+word: ዘመናቸው
+POS: verb, root: <zmm>, citation: ዘመመ
+
+word: ካከናወናቸው
+POS: verb, root: <knawn>, citation: አከናወነ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: የተወሰኑት
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: ለታዳሚያት
+?POS: noun, stem: ታዳሚያት
+
+word: በንባቡ
+POS: noun, stem: ንባብ
+
+word: ቀርበዋል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+?word: አሚር
+
+word: አማን
+POS: verb, root: <'mm>, citation: አመመ
+
+word: በጤናው
+POS: noun, stem: ጤና
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ለባለሙያው
+POS: noun, stem: ባለሙያ
+
+?word: ሁለንተናዊ
+
+word: ተሳትፎና
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: እንቅስቃሴ
+POS: noun, stem: እንቅስቃሴ
+
+?word: አሉታዊ
+
+word: ተፅኖ
+?POS: verb, root: <tSn>, citation: ተጸነ
+
+word: የነበራቸውን
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: አሰራሮችና
+POS: noun, stem: ሰራ
+
+word: መመሪያዎች
+POS: noun, stem: መመሪያ
+
+word: ማሻሻያዎች
+POS: noun, stem: አሻሻለ
+
+word: ከማስደረጋቸው
+POS: noun, stem: አስደረገ
+
+word: በስራ
+POS: noun, stem: ስራ
+
+word: እንዲውሉ
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ያላሰለሰ
+POS: verb, root: <sl_s>, citation: አሰለሰ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: አድርገዋል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ከዚህም
+POS: noun, stem: ይህ
+
+word: በተጨማሪ
+
+word: ለዘመናት
+?POS: noun, stem: ዘመናት
+
+word: ቅሬታዎች
+POS: noun, stem: ቅሬታ
+
+word: ይነሳበት
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: የነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የመጠቀሚያ
+POS: noun, stem: ተጠቀመ
+
+word: ጊዜያቸው
+POS: noun, stem: ጊዜ
+
+word: ያለፈባቸው
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: መድሀኒቶችና
+POS: noun, stem: መድሀኒት
+
+word: ኬሚካሎች
+?POS: noun, stem: ኬሚካል
+
+word: ማስወገጃ
+POS: noun, stem: አስወገደ
+
+?word: ኢንሲኒሬተር
+
+word: ተገንብተው
+POS: verb, root: <gnb'>, citation: ተገነባ
+
+word: ጥቅም
+POS: noun, stem: ጥቅም
+
+word: እንዲውሉ
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: አድርገዋል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: በማህበረሰቡ
+?POS: noun, stem: ማህበረሰብ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: የሚያከትሉት
+?POS: noun, stem: ሚያከትሉት
+
+word: ሁኔታዎችን
+POS: noun, stem: ሁኔታ
+
+word: ለከላከልና
+?POS: noun, stem: ከላከል
+
+word: ለመቆጣጠር
+POS: noun, stem: ቈጣጠረ
+
+word: የሚያችሉ
+POS: verb, root: <c'l>, citation: አቻለ
+
+word: አዋጆችን
+POS: noun, stem: አዋጅ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: አዳዲስ
+?POS: noun, stem: አዳዲ
+
+word: አገልግሎቶችን
+POS: noun, stem: አገልግሎት
+
+word: በማስጀመር
+POS: noun, stem: አስጀመረ
+
+word: ረገድ
+POS: noun, stem: ረገድ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: አድርገዋል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ለአብነትም
+POS: noun, stem: አብነት
+
+word: የአልኮል
+POS: noun, stem: አልኮል
+
+word: መጠጦች
+POS: noun, stem: መጠጥ
+
+word: ማስታወቂያ
+POS: noun, stem: አስታወቀ
+
+?word: ክልከላ
+
+word: የሚደነግገው
+POS: verb, root: <dngg>, citation: ደነገገ
+
+word: የመድሀኒትና
+POS: noun, stem: መድሀኒት
+
+word: ምግብ
+POS: noun, stem: ምግብ
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+word: አዋጅ
+POS: noun, stem: አዋጅ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ስርአቱን
+POS: noun, stem: ስርአት
+
+word: ለማጠናከር
+POS: noun, stem: አጠናከረ
+
+word: ከተያዩ
+POS: noun, stem: ተያየ
+
+word: አጋር
+POS: noun, stem: አጋር
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: በመደራደር
+POS: noun, stem: ተደራደረ
+
+word: የዘርፍን
+POS: noun, stem: ዘርፍ
+
+word: የፋይናንስ
+?POS: noun, stem: ፋይናንስ
+
+word: አቅም
+POS: noun, stem: አቅም
+
+word: ማሳደግ
+POS: noun, stem: አሳደገ
+
+word: ከሲጋራ
+POS: noun, stem: ሲጋራ
+
+word: ማጨስ
+POS: noun, stem: አጨሰ
+
+word: ነፃ
+POS: noun, stem: ነጻ
+
+word: ተቋም
+POS: noun, stem: ተቋም
+
+word: በጤናው
+POS: noun, stem: ጤና
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: የሴቶች
+POS: noun, stem: ሴት
+
+word: የአመራርነት
+?POS: noun, stem: አመራርነት
+
+word: ተሳትፎ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: እንዲጨምር
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: ባደረጉት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+?word: ስኬታማ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ሰርተዋል
+POS: verb, root: <sr'>, citation: ሰራ
+
+?word: ሊያ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+?word: ዴኤታ
+
+word: ሰህረላህ
+?POS: noun, stem: ሰህረላ
+
+?word: አብዱላሂ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+?word: ዴኤታ
+
+word: ለቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: የተዘጋጀውን
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: ስጦታዎችን
+POS: noun, stem: ስጦታ
+
+word: ያበረከቱ
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: ለሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+?word: አሚር
+
+word: አማን
+POS: verb, root: <'mm>, citation: አመመ
+
+word: ያከናወኑትን
+POS: verb, root: <knawn>, citation: አከናወነ
+
+?word: ተግባራት
+
+word: በማመስገን
+POS: noun, stem: አመሰገነ
+
+word: ለስራዎቻቸው
+POS: noun, stem: ስራ
+
+word: እውቅና
+POS: noun, stem: እውቅ
+
+word: መስጠቱን
+POS: noun, stem: ሰጠ
+
+word: ከሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የተገኘ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ያመለክታል
+POS: verb, root: <mlkt>, citation: አመለከተ
+

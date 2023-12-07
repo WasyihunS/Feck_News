@@ -1,0 +1,460 @@
+word: በጤና
+POS: noun, stem: ጤና
+
+?word: ማህበራት
+
+word: የተዘጋጀው
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: አገር
+POS: noun, stem: አገር
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: የግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: ማስጨበጫ
+POS: noun, stem: አስጨበጠ
+
+?word: መርሀ
+
+word: ግብር
+POS: noun, stem: ግብር
+
+word: ተጀመረ
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: በአገሪቱ
+POS: noun, stem: አገር
+
+word: በሚገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሙያ
+POS: noun, stem: ሙያ
+
+?word: ማህበራት
+
+word: የሚተገበረው
+?POS: verb, root: <T|tgbr>, citation: ተጥተገበረ
+
+word: አገር
+POS: noun, stem: አገር
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: የበጎ
+POS: noun, stem: በጎ
+
+word: ፈቃድ
+POS: noun, stem: ፈቃድ
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: የግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: ማስጨበጫ
+POS: noun, stem: አስጨበጠ
+
+?word: መርሀ
+
+word: ግብር
+POS: noun, stem: ግብር
+
+word: በይፋ
+POS: noun, stem: ይፋ
+
+word: ተጀመረ
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+?word: መርሀ
+
+word: ግብሩ
+POS: noun, stem: ግብር
+
+word: በተለይም
+POS: noun, stem: ተለየ
+
+word: በበአላት
+?POS: noun, stem: በአላት
+
+word: በህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ዘንድ
+
+word: የሚስተዋለውን
+?POS: noun, stem: ሚስተዋለ
+
+word: መዘናጋት
+POS: noun, stem: ተዘናጋ
+
+word: ማስቆም
+POS: noun, stem: አስቆመ
+
+word: በኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ዙሪያ
+POS: noun, stem: ዙሪያ
+
+word: ያለውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: በማሳደግና
+POS: noun, stem: አሳደገ
+
+word: በአተገባበር
+?POS: noun, stem: አተገባበር
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: ለመስጠት
+POS: noun, stem: ሰጠ
+
+word: መዘጋጀቱ
+POS: noun, stem: ተዘጋጀ
+
+word: ተገልጿል
+POS: verb, root: <glS>, citation: ተገለጸ
+
+?word: መረሀ
+
+word: ግብሩን
+POS: noun, stem: ግብር
+
+word: በይፋ
+POS: noun, stem: ይፋ
+
+word: ያስጀመሩት
+POS: verb, root: <jm_r>, citation: አስጀመረ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: ዴኤታ
+
+?word: ሳህረላ
+
+?word: አብዱላሂ
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+?word: ኮቪድ
+
+word: በመከሰቱን
+?POS: noun, stem: በመከሰት
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: መከላከልን
+POS: noun, stem: ተከላከለ
+
+word: መሰረት
+
+word: ያደረጉ
+POS: verb, root: <drg>, citation: አደረገ
+
+?word: ተግባራት
+
+word: በሚኒስቴሩና
+POS: noun, stem: ሚኒስቴር
+
+word: በጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: በስፋት
+POS: noun, stem: ስፋት
+
+word: እየተካሄዱ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: በህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ዘንድ
+
+word: የሚስተዋለው
+?POS: noun, stem: ሚስተዋለ
+
+word: መዘናጋትና
+POS: noun, stem: ተዘናጋ
+
+word: የአተገባበር
+?POS: noun, stem: አተገባበር
+
+word: ክፍተት
+POS: noun, stem: ክፍተት
+
+word: ለስርጭቱ
+POS: noun, stem: ስርጭት
+
+word: መስፋፋት
+POS: noun, stem: ተስፋፋ
+
+word: ዋነኛ
+POS: noun, stem: ዋነኛ
+
+?word: መንስኤ
+
+word: ሆኗል
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የስርጭቱ
+POS: noun, stem: ስርጭት
+
+word: ምጣኔ
+POS: noun, stem: ምጣኔ
+
+word: ከነበረበት
+POS: verb, root: <nbr>, citation: ነበረ
+
+?word: አሀዝ
+
+?word: ሶስተ
+
+?word: አሀዝ
+
+?word: ከፍ
+
+word: ያለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: መደረሱ
+POS: noun, stem: ተደረሰ
+
+word: ችግሩን
+POS: noun, stem: ችግር
+
+word: አሳሳቢ
+POS: noun, stem: አሳሳቢ
+
+word: እንዳደረገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ይህም
+POS: noun, stem: ይህ
+
+word: የአገሪቱን
+POS: noun, stem: አገር
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: ጫና
+POS: noun, stem: ጫና
+
+word: በመክተት
+POS: noun, stem: ከተተ
+
+word: በጤናው
+POS: noun, stem: ጤና
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: የሚሰጠውን
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: እንዲስተጓጎል
+?POS: noun, stem: ንዲስተግዋጎል
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዴኤታዋ
+?POS: noun, stem: ዴኤታ
+
+word: በዋነኝነትም
+?POS: noun, stem: ዋነኝነትም
+
+word: በበአላት
+?POS: noun, stem: በአላት
+
+word: የሚፈጠር
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: የህዝብ
+POS: noun, stem: ህዝብ
+
+word: ጥግግትና
+?POS: noun, stem: ጥግግት
+
+word: ግርግር
+POS: noun, stem: ግርግር
+
+word: ለስርጭቱ
+POS: noun, stem: ስርጭት
+
+word: መስፋፋት
+POS: noun, stem: ተስፋፋ
+
+word: አንዱ
+POS: noun, stem: አንድ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: እንደሚሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: የተጀመረው
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: የማንም
+POS: noun, stem: ማን
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: ዘመቻ
+POS: noun, stem: ዘመቻ
+
+word: የቫይረሱን
+?POS: noun, stem: ቫይረስ
+
+word: የስርጭት
+POS: noun, stem: ስርጭት
+
+word: መጠን
+POS: verb, root: <mT_n>, citation: መጠነ
+
+word: አመላክቷል
+POS: verb, root: <mlkt>, citation: አመላከተ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+?word: ሳህርላ
+
+word: የንቅናቄና
+POS: noun, stem: ንቅናቄ
+
+word: የግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: ማስጨበጫ
+POS: noun, stem: አስጨበጠ
+
+?word: መርሀ
+
+word: ግብሮችን
+POS: noun, stem: ግብር
+
+word: በማካሄድ
+POS: noun, stem: አካሄደ
+
+word: ህብረተሰቡን
+POS: noun, stem: ህብረተሰብ
+
+word: መታደግ
+POS: noun, stem: ታደገ
+
+word: ያስፈልጋል
+POS: verb, root: <fl_g>, citation: አስፈለገ
+
+?word: መርሀ
+
+word: ግብሩ
+POS: noun, stem: ግብር
+
+word: መስከረም
+POS: noun, stem: መስከረም
+
+word: በመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: በመላ
+POS: noun, stem: መላ
+
+word: አገሪቱ
+POS: noun, stem: አገር
+
+word: እንደሚካሄድ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: ታውቋል
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: በቀጣይም
+POS: noun, stem: ቀጠለ
+
+word: የክልሎችንና
+POS: noun, stem: ክልል
+
+word: የከተሞቹ
+POS: noun, stem: ከተማ
+
+?word: ወቅታዊ
+
+word: ሁኔታን
+POS: noun, stem: ሁኔታ
+
+word: በማገናዘብ
+POS: noun, stem: አገናዘበ
+
+word: ሁለተኛው
+POS: noun, stem: ሁለተኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: ታህሳስ
+POS: noun, stem: ታህሳስ
+
+word: እንደሚቀጥልም
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ተነግሯል
+POS: verb, root: <ngr>, citation: ተነገረ
+

@@ -1,0 +1,285 @@
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የሚበረታታ
+POS: verb, root: <brt'>, citation: በረታታ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: ከተለያዩ
+POS: noun, stem: ተለያየ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የገንዘብና
+POS: noun, stem: ገንዘብ
+
+word: የአይነት
+POS: noun, stem: አይነት
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የሚበረታታ
+POS: verb, root: <brt'>, citation: በረታታ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: ገለፀ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ሚኒስቴሩ
+POS: noun, stem: ሚኒስቴር
+
+word: ይህን
+POS: noun, stem: ይህ
+
+word: የገለፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+?word: ክሪስታል
+
+?word: አውቶሞቲቭ
+
+word: ሀላፊነቱ
+POS: noun, stem: ሀላፊነት
+
+word: የተወሰነ
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: የግል
+POS: noun, stem: ግል
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: የቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: እስኪያበቃ
+POS: verb, root: <bq'>, citation: አበቃ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ለሚገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: አምቡላንሶች
+POS: noun, stem: አምቡላንስ
+
+word: የእጥበትና
+POS: noun, stem: እጥበት
+
+word: የኬሚካል
+?POS: noun, stem: ኬሚካል
+
+?word: ርጭት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: እንደሚሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ባስታወቀበት
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+?word: መርሀ
+
+word: ግብር
+POS: noun, stem: ግብር
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: ዴኤታ
+
+?word: ሰሀረላ
+
+?word: አብዱላሂ
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የቫይረሱን
+?POS: noun, stem: ቫይረስ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የቀረበውን
+POS: verb, root: <qrb>, citation: ቀረበ
+
+?word: አገራዊ
+
+word: ጥሪ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: በርካቶች
+POS: noun, stem: በርካታ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: እያደረጉ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ቫይረሱን
+?POS: noun, stem: ቫይረስ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚደረገው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: የሚያስመሰግን
+POS: verb, root: <msgn>, citation: አስመሰገነ
+
+word: ተጠናክሮ
+POS: verb, root: <Tnkr>, citation: ተጠናከረ
+
+word: መቀጠል
+POS: noun, stem: ቀጠለ
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: አሰባሳቢ
+POS: noun, stem: አሰባሰበ
+
+word: ኮሚቴ
+POS: noun, stem: ኮሚቴ
+
+word: ሰብሳቢ
+POS: noun, stem: ሰበሰበ
+
+word: አምባሳደር
+POS: noun, stem: አምባሳደር
+
+word: ምስጋናው
+POS: noun, stem: ምስጋና
+
+word: አረጋም
+POS: verb, root: <rg'>, citation: አረጋ
+
+word: በተሰማራበት
+?POS: noun, stem: ተሰማራበት
+
+word: ሙያ
+POS: noun, stem: ሙያ
+
+?word: ማህበራዊ
+
+word: ሀላፊነቱን
+POS: noun, stem: ሀላፊነት
+
+word: ከተወጣ
+POS: verb, root: <wT'>, citation: ተወጣ
+
+word: በሽታውን
+POS: noun, stem: በሽታ
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+word: እንደሚቻል
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: ቫይረሱን
+?POS: noun, stem: ቫይረስ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚተጉ
+POS: verb, root: <tg'>, citation: ተጋ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎችና
+POS: noun, stem: ባለሙያ
+
+word: ሌሎችም
+POS: noun, stem: ሌላ
+
+word: ደህንነታቸው
+POS: noun, stem: ደህንነት
+
+word: ተጠብቆ
+POS: verb, root: <Tb_q>, citation: ተጠበቀ
+
+word: ስራቸውን
+POS: noun, stem: ስር
+
+word: እንዲሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ዋነኛው
+POS: noun, stem: ዋነኛ
+
+word: በመጥቀስ
+POS: noun, stem: ጠቀሰ
+

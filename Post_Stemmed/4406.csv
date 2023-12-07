@@ -1,0 +1,659 @@
+word: ጠል
+POS: noun, stem: ጠል
+
+word: ሰም
+POS: noun, stem: ሰም
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: ያልተሰጠው
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: የካቲት
+POS: noun, stem: የካቲት
+
+?word: ኢዜአ
+
+word: ጠል
+POS: noun, stem: ጠል
+
+word: ሰም
+POS: noun, stem: ሰም
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: ተሰጥቶት
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: ጥናት
+POS: noun, stem: ጥናት
+
+word: እየተደረገበት
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: እንዳልሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ተገለፀ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: ህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ለዚህ
+POS: noun, stem: ይህ
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: እውቀት
+POS: noun, stem: እውቀት
+
+word: ውስን
+?POS: noun, stem: ውስ
+
+word: ከመሆኑ
+POS: noun, stem: ሆነ
+
+word: ባሻገር
+?POS: noun, stem: አሻገር
+
+word: በመጥፎ
+POS: noun, stem: መጥፎ
+
+word: ጎኑ
+?POS: noun, stem: ጎን
+
+word: እየተረዳው
+POS: verb, root: <rd'>, citation: ተረዳ
+
+word: እንደሆነም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የተገለፀው
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: የጠል
+POS: noun, stem: ጠል
+
+word: ሰም
+POS: noun, stem: ሰም
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ጥንታዊያን
+?POS: noun, stem: ጥንታዊያ
+
+word: አባቶች
+POS: noun, stem: አባት
+
+word: በህክምናና
+POS: noun, stem: ህክምና
+
+word: ስነፈለግ
+?POS: verb, root: <nflg>, citation: ተነፈለገ
+
+word: ምርምር
+POS: noun, stem: ምርምር
+
+word: የደረሱበትን
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: ለመግለፅ
+POS: noun, stem: ገለጸ
+
+word: የሚጠቀሙበት
+POS: verb, root: <Tqm>, citation: ተጠቀመ
+
+word: አገር
+POS: noun, stem: አገር
+
+word: በቀል
+POS: noun, stem: በቀል
+
+word: የአሳሳል
+?POS: noun, stem: አሳሳል
+
+word: ዘይቤ
+POS: noun, stem: ዘይቤ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ይነገራል
+POS: verb, root: <ngr>, citation: ተነገረ
+
+word: በጥበቡ
+POS: noun, stem: ጥበብ
+
+word: ላለፉት
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: ጥናትና
+POS: noun, stem: ጥናት
+
+word: ምርምር
+POS: noun, stem: ምርምር
+
+word: ያደረገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ሰአሊ
+POS: noun, stem: ሰአሊ
+
+word: ሳምሶን
+?POS: noun, stem: ሳምሶ
+
+word: ከበደ
+POS: verb, root: <kbd>, citation: ከበደ
+
+word: እንደገለፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: በአገሪቷ
+?POS: noun, stem: አገሪቷ
+
+word: አካባቢዎች
+POS: noun, stem: አካባቢ
+
+word: ቢኖርም
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: ከአንዳንድ
+POS: noun, stem: አንዳንድ
+
+?word: ትልልቅ
+
+word: ገዳማትና
+?POS: noun, stem: ገዳማት
+
+word: ከተወሰኑ
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በቀር
+?POS: noun, stem: ቀር
+
+word: ተገቢ
+POS: noun, stem: ተገባ
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: ሲሰጠው
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: አይታይም
+POS: verb, root: <'y*>, citation: ታየ
+
+word: ለዚህ
+POS: noun, stem: ይህ
+
+word: አገር
+POS: noun, stem: አገር
+
+word: በቀል
+POS: noun, stem: በቀል
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: ካለመሰጠቱ
+POS: noun, stem: ተሰጠ
+
+word: ባሻገር
+?POS: noun, stem: አሻገር
+
+word: የህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: የተዛባ
+POS: verb, root: <zb'>, citation: ተዛባ
+
+word: ያመለከተው
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: ሰአሊው
+POS: noun, stem: ሰአሊ
+
+word: ይህንን
+POS: noun, stem: ይህ
+
+word: አመለካከት
+POS: noun, stem: ምልክት
+
+word: ለመቀየር
+POS: noun, stem: ቀየረ
+
+word: መነሳቱን
+POS: noun, stem: ተነሳ
+
+word: ገልጿል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ሰአሊ
+POS: noun, stem: ሰአሊ
+
+word: ሳምሶን
+?POS: noun, stem: ሳምሶ
+
+word: እንዳለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: በህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ዘንድ
+
+word: የጠል
+POS: noun, stem: ጠል
+
+word: ሰምን
+POS: noun, stem: ሰም
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ከጥንቆላ
+POS: noun, stem: ጥንቆላ
+
+word: የማያያዝ
+POS: noun, stem: አያያዘ
+
+word: የተሳሳተ
+POS: verb, root: <s't>, citation: ተሳሳተ
+
+word: ግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: ጥበቡ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: የጥንት
+POS: noun, stem: ጥንት
+
+word: አባቶች
+POS: noun, stem: አባት
+
+word: በህክምናና
+POS: noun, stem: ህክምና
+
+word: ስነፈለግ
+?POS: verb, root: <nflg>, citation: ተነፈለገ
+
+word: ምርምር
+POS: noun, stem: ምርምር
+
+word: የደረሱበትን
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: የሚገልፁበት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የአሳሳል
+?POS: noun, stem: አሳሳል
+
+word: ዘይቤ
+POS: noun, stem: ዘይቤ
+
+word: አስረድቷል
+POS: verb, root: <rd'>, citation: አስረዳ
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: በክርስትና
+POS: noun, stem: ክርስትና
+
+word: ሳይሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: እምነቶችም
+POS: noun, stem: እምነት
+
+word: የራሱን
+POS: noun, stem: ራስ
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: እንደተቀመጠ
+POS: verb, root: <qm_T>, citation: ተቀመጠ
+
+word: የሚናገረው
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ሳምሶን
+?POS: noun, stem: ሳምሶ
+
+word: ስእሉን
+POS: noun, stem: ስእል
+
+word: ለማስተዋወቅ
+POS: noun, stem: አስተዋወቀ
+
+word: የራሱን
+POS: noun, stem: ራስ
+
+word: ስእሎች
+POS: noun, stem: ስእል
+
+word: በመሳል
+POS: noun, stem: ሳለ
+
+word: ለእይታ
+?POS: noun, stem: እይታ
+
+word: ማቅረቡን
+POS: noun, stem: አቀረበ
+
+word: ገልጿል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበቡ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: አለማት
+POS: verb, root: <lm'>, citation: አለማ
+
+word: ቢኖርም
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የጠል
+POS: noun, stem: ጠል
+
+word: ሰም
+POS: noun, stem: ሰም
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: መነሻው
+POS: noun, stem: ተነሳ
+
+?word: መፅሀፈ
+
+?word: ሄኖክ
+
+word: ሰአሊው
+POS: noun, stem: ሰአሊ
+
+word: አስረድቷል
+POS: verb, root: <rd'>, citation: አስረዳ
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ዘርፉን
+POS: noun, stem: ዘርፍ
+
+word: ለመመርመር
+POS: noun, stem: መረመረ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: ቢያደርግም
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ሀሳቡን
+POS: noun, stem: ሀሳብ
+
+word: ለሌሎች
+POS: noun, stem: ሌላ
+
+word: ለማስረዳት
+POS: noun, stem: አስረዳ
+
+word: የአቅም
+POS: noun, stem: አቅም
+
+?word: ውስንነት
+
+word: እንቅፋት
+POS: noun, stem: እንቅፋት
+
+word: እንደሆነበትም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የገለፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ሰአሊው
+POS: noun, stem: ሰአሊ
+
+?word: ገለፃ
+
+word: አርት
+?POS: verb, root: <rrt>, citation: አረረተ
+
+?word: ጋለሪ
+
+word: ለእይታ
+?POS: noun, stem: እይታ
+
+word: ባበቃቸው
+POS: verb, root: <bq'>, citation: አበቃ
+
+word: የጠል
+POS: noun, stem: ጠል
+
+word: ሰም
+POS: noun, stem: ሰም
+
+word: የስእል
+POS: noun, stem: ስእል
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: ከአገር
+POS: noun, stem: አገር
+
+word: ውስጥም
+POS: noun, stem: ውስጥ
+
+word: ከውጭ
+POS: noun, stem: ውጭ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: ከመጡ
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ጎብኚዎች
+POS: noun, stem: ጐበኘ
+
+word: በጎ
+POS: noun, stem: በጎ
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: አግኝቷል
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: በጋለሪው
+?POS: noun, stem: በጋለሪ
+
+word: የጠል
+POS: noun, stem: ጠል
+
+word: ሰም
+POS: noun, stem: ሰም
+
+word: ስእሎችን
+POS: noun, stem: ስእል
+
+word: ለተወሰኑ
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+?word: ጊዜያት
+
+word: ያቀረበበት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ዋነኛ
+POS: noun, stem: ዋነኛ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: ጥበቡ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: የተሻለ
+POS: verb, root: <x'l>, citation: ተሻለ
+
+word: ግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: ለመፍጠር
+POS: noun, stem: ፈጠረ
+
+word: መሆኑንም
+POS: noun, stem: ሆነ
+
+word: አስረድቷል
+POS: verb, root: <rd'>, citation: አስረዳ
+
+word: በሰአሊ
+POS: noun, stem: ሰአሊ
+
+word: ሳምሶን
+?POS: noun, stem: ሳምሶ
+
+word: ከበደ
+POS: verb, root: <kbd>, citation: ከበደ
+
+word: አርት
+?POS: verb, root: <rrt>, citation: አረረተ
+
+?word: ጋለሪ
+
+word: ከጥር
+POS: noun, stem: ጥር
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ለእይታ
+?POS: noun, stem: እይታ
+
+word: የቀረቡት
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: የጠል
+POS: noun, stem: ጠል
+
+word: ሰም
+POS: noun, stem: ሰም
+
+word: ስእሎች
+POS: noun, stem: ስእል
+
+word: የካቲት
+POS: noun, stem: የካቲት
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ለህዝብ
+POS: noun, stem: ህዝብ
+
+word: ክፍት
+POS: noun, stem: ክፍት
+
+word: ይቆያሉ
+POS: verb, root: <qWy_*>, citation: ቆየ
+

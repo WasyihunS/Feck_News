@@ -1,0 +1,390 @@
+word: የሸገርን
+?POS: noun, stem: ሸገር
+
+word: ማስዋብ
+POS: noun, stem: አስዋበ
+
+?word: ፕሮጀክት
+
+word: አፈፃፀም
+POS: noun, stem: ፈጸመ
+
+word: ለሌሎች
+POS: noun, stem: ሌላ
+
+word: ፕሮጀክቶችም
+?POS: noun, stem: ፕሮጀክት
+
+word: አርአያ
+POS: noun, stem: አርአያ
+
+word: ባህርዳር
+?POS: noun, stem: አህርዳር
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኢዜአ
+
+word: የአንድነት
+?POS: noun, stem: አንድነት
+
+?word: ፓርክ
+
+word: የእንጦጦና
+?POS: noun, stem: እንጦጦና
+
+word: የሸገርን
+?POS: noun, stem: ሸገር
+
+word: ማስዋብ
+POS: noun, stem: አስዋበ
+
+word: ፕሮጀክቶች
+?POS: noun, stem: ፕሮጀክት
+
+word: የግንባታ
+POS: noun, stem: ግንባታ
+
+word: አፈፃፀም
+POS: noun, stem: ፈጸመ
+
+word: በአለም
+POS: noun, stem: አለም
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ተወዳዳሪ
+POS: noun, stem: ተወዳደረ
+
+word: የቱሪዝም
+?POS: noun, stem: ቱሪዝም
+
+?word: ኢንዱስትሪ
+
+word: ለመገንባት
+POS: noun, stem: ገነባ
+
+word: የላቀ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: የሚያበረክት
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+?word: ኢዜአ
+
+word: ያነጋገራቸው
+POS: verb, root: <ngr>, citation: አነጋገረ
+
+word: የባህርዳር
+?POS: noun, stem: ባህርዳር
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ነዋሪዎች
+POS: noun, stem: ነወረ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በቤተ
+?POS: noun, stem: ቤተ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ለዘመናት
+?POS: noun, stem: ዘመናት
+
+word: ተከማችተውና
+POS: verb, root: <kmac*>, citation: ተከማቸ
+
+word: ተጠብቀው
+POS: verb, root: <Tbq>, citation: ተጠበቀ
+
+word: የተቀመጡ
+POS: verb, root: <qm_T>, citation: ተቀመጠ
+
+word: ቅርሶችም
+POS: noun, stem: ቅርስ
+
+word: የአገራችንን
+POS: noun, stem: አገር
+
+word: የስልጣኔ
+POS: noun, stem: ስልጣኔ
+
+word: ልእልና
+POS: noun, stem: ልእልና
+
+word: እንዲገነዘቡ
+POS: verb, root: <gnzb>, citation: ተገነዘበ
+
+word: እንዳስቻላቸው
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: አስተያየት
+POS: noun, stem: አየ
+
+word: ሰጪዎቹ
+POS: noun, stem: ሰጠ
+
+word: በባህርዳር
+?POS: noun, stem: ባህርዳር
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: የቀበሌ
+POS: noun, stem: ቀበሌ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+?word: አሊ
+
+word: ተፈራ
+POS: verb, root: <fr'>, citation: ተፈራ
+
+word: ለኢዜአ
+?POS: noun, stem: ኢዜአ
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በህይወት
+POS: noun, stem: ህይወት
+
+word: ዘመናቸው
+POS: verb, root: <zmm>, citation: ዘመመ
+
+word: ሶስት
+
+word: መንግስታትን
+POS: noun, stem: መንግስት
+
+word: ሲያሳልፉ
+POS: verb, root: <'lf>, citation: አሳለፈ
+
+word: እንዳሁኑ
+POS: noun, stem: አሁን
+
+word: ባጭር
+POS: noun, stem: አጭር
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: መሬት
+POS: noun, stem: መሬት
+
+word: የነካ
+POS: verb, root: <nk'>, citation: ነካ
+
+word: ለውጥ
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: ያሳየ
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: አልነበረም
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: የተተገበሩት
+?POS: verb, root: <T|tgbr>, citation: ተጥተገበረ
+
+word: የአንድነት
+?POS: noun, stem: አንድነት
+
+word: የእንጦጦና
+?POS: noun, stem: እንጦጦና
+
+word: የሸገርን
+?POS: noun, stem: ሸገር
+
+word: ማስዋብ
+POS: noun, stem: አስዋበ
+
+word: ፕሮጅክቶች
+?POS: noun, stem: ፕሮጅክት
+
+word: ተጠናቀው
+POS: verb, root: <Tnqq>, citation: ተጠናቀቀ
+
+word: ለህዝብ
+POS: noun, stem: ህዝብ
+
+word: ክፍት
+POS: noun, stem: ክፍት
+
+word: መሆናቸው
+POS: noun, stem: ሆነ
+
+word: ለአገራችን
+POS: noun, stem: አገር
+
+word: የብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ጉዞ
+POS: noun, stem: ጉዞ
+
+word: መሰረት
+
+word: የጣለ
+POS: verb, root: <T'l>, citation: ጣለ
+
+word: በተለይም
+POS: noun, stem: ተለየ
+
+word: በቴሌቭዥን
+?POS: noun, stem: በቴሌቭዥ
+
+word: የተላለፈውን
+POS: verb, root: <'lf>, citation: ተላለፈ
+
+word: ዘጋቢ
+POS: noun, stem: ዘገበ
+
+word: ፊልም
+POS: noun, stem: ፊልም
+
+word: ሲያዩት
+POS: verb, root: <'y*>, citation: አየ
+
+word: መደሰታቸውን
+POS: noun, stem: ተደሰተ
+
+word: ገልፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የመናፈሻዎቹ
+POS: noun, stem: ተናፈሰ
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: የአገራችንን
+POS: noun, stem: አገር
+
+word: ባህል
+POS: noun, stem: ባህል
+
+word: በጠበቀ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: መሰራቱ
+POS: noun, stem: ተሰራ
+
+word: በቀጣይ
+POS: noun, stem: ቀጠለ
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: የአገራችን
+POS: noun, stem: አገር
+
+word: ከተሞች
+POS: noun, stem: ከተማ
+
+word: ለማስፋፋት
+POS: noun, stem: አሰፋፋ
+
+word: ለተያዘው
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ግብ
+POS: noun, stem: ግብ
+
+word: ትልቅ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: አቅም
+POS: noun, stem: አቅም
+
+word: የሚፈጥር
+POS: verb, root: <fTr>, citation: ፈጠረ
+
+word: በቤተ
+?POS: noun, stem: ቤተ
+
+word: መንግስቱ
+POS: noun, stem: መንግስት
+
+word: ለዘመናት
+?POS: noun, stem: ዘመናት
+
+word: ተከማችተው
+POS: verb, root: <kmac*>, citation: ተከማቸ
+
+word: የኖሩ
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: ከወርቅ
+POS: noun, stem: ወርቅ
+
+word: ብርና
+POS: noun, stem: ብር
+
+word: ከሌሎች
+POS: noun, stem: ሌላ
+
+?word: ማእድናት
+
+word: ከእንጨትና
+POS: noun, stem: እንጨት
+
+word: ቆዳ
+POS: noun, stem: ቆዳ
+
+word: የተሰሩት
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: ቅርሶች
+POS: noun, stem: ቅርስ
+
+word: የመንግስታት
+POS: noun, stem: መንግስት
+
+word: ስጦታዎች
+POS: noun, stem: ስጦታ
+
+word: መኪኖች
+POS: noun, stem: መኪና
+
+word: የትውልድ
+POS: noun, stem: ትውልድ
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: እንደመሆናቸው
+POS: noun, stem: ሆነ
+
+word: በአካል
+POS: noun, stem: አካል
+
+word: ተገኝተው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ለማየት
+POS: noun, stem: አየ
+
+word: እንደሚፈልጉም
+POS: verb, root: <fl_g>, citation: ፈለገ
+

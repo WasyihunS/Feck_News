@@ -1,0 +1,531 @@
+?word: ኮቪድ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የመንግስትና
+POS: noun, stem: መንግስት
+
+word: የህዝብ
+POS: noun, stem: ህዝብ
+
+word: ጠንካራ
+POS: noun, stem: ጠንካራ
+
+word: ትብብር
+POS: noun, stem: ትብብር
+
+word: ወሳኝ
+POS: noun, stem: ወሰነ
+
+word: በአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ህብረት
+POS: noun, stem: ህብረት
+
+word: የቻይና
+POS: noun, stem: ቻለ
+
+?word: ተልእኮ
+
+word: በአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ህብረት
+POS: noun, stem: ህብረት
+
+word: የቻይና
+POS: noun, stem: ቻለ
+
+?word: ተልእኮ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: ቼን
+
+word: ሾቬን
+?POS: noun, stem: ሾቬ
+
+word: ከዋልታ
+POS: noun, stem: ዋልታ
+
+word: ቴሌቪዥን
+POS: noun, stem: ቴሌቪዥን
+
+word: በነበራቸው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ቆይታ
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: መመሪያዎችን
+POS: noun, stem: መመሪያ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎችን
+POS: noun, stem: ባለሙያ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+?word: መተግበር
+
+word: በኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ግንዛቤን
+POS: noun, stem: ግንዛቤ
+
+word: ከማሳደግ
+POS: noun, stem: አሳደገ
+
+word: ባሻገር
+?POS: noun, stem: አሻገር
+
+word: በመንግስትና
+POS: noun, stem: መንግስት
+
+word: በህዝብ
+POS: noun, stem: ህዝብ
+
+word: ያለውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ትብብር
+POS: noun, stem: ትብብር
+
+word: ስለሚያጠናክር
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: በሽታውን
+POS: noun, stem: በሽታ
+
+word: በመከላከል
+POS: noun, stem: ተከላከለ
+
+word: ረገድ
+POS: noun, stem: ረገድ
+
+?word: አዎንታዊ
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: ያመጣል
+POS: verb, root: <mT'>, citation: አመጣ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ሀላፊው
+POS: noun, stem: ሀላፊ
+
+word: የቻይናን
+POS: noun, stem: ቻይና
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: የመከላከል
+POS: noun, stem: ተከላከለ
+
+?word: ውጤታማ
+
+word: ተሞክሮ
+POS: verb, root: <mWk_r>, citation: ተሞከረ
+
+word: ሲያካፍሉ
+POS: verb, root: <kfl>, citation: አካፈለ
+
+word: የቻይናን
+POS: noun, stem: ቻይና
+
+word: የመንግስትና
+POS: noun, stem: መንግስት
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ትብብር
+POS: noun, stem: ትብብር
+
+word: ከመስራት
+POS: noun, stem: ሰራ
+
+word: ባሻገር
+?POS: noun, stem: አሻገር
+
+word: የወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ስጋቶች
+POS: noun, stem: ስጋት
+
+word: በዝቅተኛ
+POS: noun, stem: ዝቅተኛ
+
+word: መካከለኛ
+POS: noun, stem: መካከለኛ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ደረጃዎች
+POS: noun, stem: ደረጃ
+
+word: መለየት
+POS: noun, stem: ተለየ
+
+word: የበሽታውን
+POS: noun, stem: በሽታ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: ለመቆጣጠር
+POS: noun, stem: ተቆጣጠረ
+
+word: እንደሚያስ
+?POS: noun, stem: ሚያስ
+
+?word: ችል
+
+word: የጠቆሙት
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: በቻይና
+POS: noun, stem: ቻለ
+
+word: መንግስትና
+POS: noun, stem: መንግስት
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+?word: መካካል
+
+word: ያለን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ጠንካራ
+POS: noun, stem: ጠንካራ
+
+word: ትብብር
+POS: noun, stem: ትብብር
+
+?word: ኮቪድ
+
+word: ለመግታት
+POS: noun, stem: ገታ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+?word: ሀገራት
+
+?word: ሊተገብሩት
+
+word: የሚገባ
+POS: verb, root: <gb'>, citation: ገባ
+
+?word: ውጤታማ
+
+word: ተሞክሮ
+POS: verb, root: <mWk_r>, citation: ተሞከረ
+
+word: እንደሆነም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ሀላፊው
+POS: noun, stem: ሀላፊ
+
+word: አክለውም
+POS: verb, root: <'k_l>, citation: አከለ
+
+word: ወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: በቻይና
+POS: noun, stem: ቻለ
+
+word: በተከሰተ
+POS: verb, root: <ks_t>, citation: ተከሰተ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: ለቻይና
+POS: noun, stem: ቻለ
+
+word: ላደረጉት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ቻይና
+POS: noun, stem: ቻለ
+
+word: ምስጋና
+POS: noun, stem: ምስጋና
+
+word: ታቀርባለች
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+?word: ቼን
+
+word: ሾቬን
+?POS: noun, stem: ሾቬ
+
+word: ቻይናም
+POS: noun, stem: ቻይና
+
+word: በበኩሏ
+?POS: noun, stem: በኩል
+
+word: ለአስር
+POS: noun, stem: አስር
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: ባለሙያዎችን
+POS: noun, stem: ባለሙያ
+
+word: በመላክ
+POS: noun, stem: ላከ
+
+word: አጋርነቷን
+?POS: noun, stem: አጋርነት
+
+word: አሳይታለች
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: ወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: ያደረጉት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ጥረትን
+POS: noun, stem: ጥረት
+
+word: ቻይና
+POS: noun, stem: ቻለ
+
+word: አንደምታበረታታም
+?POS: noun, stem: አንደምታበረታታ
+
+word: በአሁኑ
+POS: noun, stem: አሁን
+
+word: የአንዳንድ
+POS: noun, stem: አንዳንድ
+
+word: አፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: ኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: በድጋሚ
+POS: noun, stem: ድጋሚ
+
+word: እያንሰራራ
+?POS: noun, stem: ያንሰራራ
+
+word: የወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ስጋቶች
+POS: noun, stem: ስጋት
+
+word: በዝቅተኛ
+POS: noun, stem: ዝቅተኛ
+
+word: መካከለኛ
+POS: noun, stem: መካከለኛ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ደረጃዎች
+POS: noun, stem: ደረጃ
+
+word: በመከፋፋል
+?POS: noun, stem: መከፋፋል
+
+word: የመከላከሉ
+POS: noun, stem: ተከላከለ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: ተጠናክረው
+POS: verb, root: <Tnkr>, citation: ተጠናከረ
+
+word: መቀጠል
+POS: noun, stem: ቀጠለ
+
+word: እንዳለባቸውም
+POS: verb, root: <b'l>, citation: አለ
+
+word: አፍሪካ
+POS: noun, stem: አፍሪካ
+
+?word: ኮቪድ
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+word: እንድትችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ቻይና
+POS: noun, stem: ቻለ
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: የአፍና
+POS: noun, stem: አፍ
+
+word: የአፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛ
+POS: noun, stem: ሸፈነ
+
+word: ጭንብሎችን
+?POS: noun, stem: ጭንብል
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: የመመርመሪያ
+POS: noun, stem: መረመረ
+
+word: ቁሳቁስን
+?POS: noun, stem: ቁሳቁስ
+
+word: ለግሳለች
+POS: verb, root: <lg_s>, citation: ለገሰ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: የመከላከልና
+POS: noun, stem: ተከላከለ
+
+word: የመቆጣጠር
+POS: noun, stem: ተቆጣጠረ
+
+word: ማእከል
+POS: noun, stem: ማእከል
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ለመገንባት
+POS: noun, stem: ገነባ
+
+word: ቻይና
+POS: noun, stem: ቻለ
+
+word: መፈረሟና
+POS: noun, stem: ተፈረመ
+
+word: በማእከሉ
+POS: noun, stem: ማእከል
+
+word: የሚመረጡ
+POS: verb, root: <mrT>, citation: ተመረጠ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: መከላከያ
+POS: noun, stem: ተከላከለ
+
+word: ውጤቶችን
+POS: noun, stem: ውጤት
+
+word: ለመጠቀም
+POS: noun, stem: ተጠቀመ
+
+word: አፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ቀዳሚ
+POS: noun, stem: ቀደመ
+
+word: እንደሆነች
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: መገለፁ
+POS: noun, stem: ተገለጸ
+
+word: በትዝታ
+POS: noun, stem: ትዝታ
+
+word: መንግስቱ
+POS: noun, stem: መንግስት
+

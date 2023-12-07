@@ -1,0 +1,574 @@
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በአቶ
+POS: noun, stem: አቶ
+
+word: በረከት
+POS: noun, stem: በረከት
+
+word: ስምኦንና
+?POS: noun, stem: ስምኦ
+
+word: በአቶ
+POS: noun, stem: አቶ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: ካሳ
+POS: noun, stem: ካሳ
+
+word: የቅጣት
+POS: noun, stem: ቅጣት
+
+word: ውሳኔ
+POS: noun, stem: ውሳኔ
+
+word: አሳለፈ
+POS: verb, root: <'lf>, citation: አሳለፈ
+
+word: የአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+?word: ፍድር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: በሙስና
+?POS: noun, stem: ሙስና
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ጥፋተኛ
+POS: noun, stem: ጥፋተኛ
+
+word: የተባሉትን
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: በረከት
+POS: noun, stem: በረከት
+
+word: ስምኦን
+?POS: noun, stem: ስምኦ
+
+word: አመት
+
+word: ፅኑ
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: እስራትና
+POS: noun, stem: እስራት
+
+word: ሺህ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: ካሳን
+POS: noun, stem: ካሳ
+
+word: አመትና
+POS: noun, stem: አመት
+
+word: ሺህ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: መቅጣቱን
+POS: noun, stem: ቀጣ
+
+word: ተከሳሾቹ
+POS: noun, stem: ተከሰሰ
+
+word: የተቀጡትም
+POS: verb, root: <qT'>, citation: ተቀጣ
+
+word: የህዝብና
+POS: noun, stem: ህዝብ
+
+word: የጥረት
+POS: noun, stem: ጥረት
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: በቦርድ
+?POS: noun, stem: ቦርድ
+
+word: ሰብሳቢነትና
+?POS: noun, stem: ሰብሳቢነት
+
+word: በዋና
+POS: noun, stem: ዋና
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: አስፈፃሚነት
+
+word: በመሩበት
+POS: verb, root: <mr'>, citation: መራ
+
+word: ስራን
+POS: noun, stem: ስራ
+
+word: በማያመች
+POS: verb, root: <mc_*>, citation: አመቸ
+
+word: መንገድ
+POS: noun, stem: መንገድ
+
+word: በመምራት
+POS: noun, stem: መራ
+
+word: ጥፋተኛ
+POS: noun, stem: ጥፋተኛ
+
+word: በመገኘታቸው
+POS: noun, stem: ተገኘ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ችሎቱ
+POS: noun, stem: ችሎት
+
+word: አቅርቧል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ከቀረቡባቸው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ክሶች
+POS: noun, stem: ክስ
+
+word: መካከልም
+POS: noun, stem: መካከል
+
+word: የዳሸን
+?POS: noun, stem: ዳሸን
+
+word: ቢራ
+POS: noun, stem: ቢራ
+
+word: የአክሲዮን
+POS: noun, stem: አክሲዮን
+
+word: ሽያጭ
+POS: noun, stem: ሽያጭ
+
+word: አግባብ
+POS: noun, stem: ገባ
+
+word: አለመሆን
+POS: noun, stem: ሆነ
+
+word: የዳሸን
+?POS: noun, stem: ዳሸን
+
+word: ቢራ
+POS: noun, stem: ቢራ
+
+word: ከእንግሊዙ
+POS: noun, stem: እንግሊዝ
+
+word: ዱየትስ
+?POS: noun, stem: ዱየት
+
+word: ቢቬርትስ
+?POS: noun, stem: ቢቬርት
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: በተደረገው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ስምምነት
+POS: noun, stem: ስምምነት
+
+word: የገንዘብ
+POS: noun, stem: ገንዘብ
+
+?word: ብክነት
+
+word: መከሰት
+POS: noun, stem: ተከሰተ
+
+word: ዱቬንቱስ
+?POS: noun, stem: ዱቬንት
+
+word: ለጥረት
+POS: noun, stem: ጥረት
+
+?word: ኮርፖሬት
+
+word: ማስገባት
+POS: noun, stem: አስገባ
+
+word: የነበረበት
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ገንዘብ
+POS: noun, stem: ገንዘብ
+
+word: አልገባም
+POS: verb, root: <gb'>, citation: ገባ
+
+word: የሚሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: አቃቢ
+POS: noun, stem: አቃባ
+
+word: ህግ
+
+word: ክስ
+POS: noun, stem: ክስ
+
+?word: አቅራቢነት
+
+word: ጉዳዩን
+POS: noun, stem: ጉዳይ
+
+word: ሲመረምርና
+POS: verb, root: <mrmr>, citation: መረመረ
+
+word: ሲያጣራ
+POS: verb, root: <Tr'>, citation: አጣራ
+
+word: የቆየው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በዛሬ
+POS: noun, stem: ዛሬ
+
+word: ውሎው
+POS: noun, stem: ውሎ
+
+word: የመጨረሻ
+POS: noun, stem: ጨረሰ
+
+word: የቅጣት
+POS: noun, stem: ቅጣት
+
+word: ውሳኔውን
+POS: noun, stem: ውሳኔ
+
+word: ሰጥቷል
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በዋለው
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: በተከሳሾቹ
+POS: noun, stem: ተከሰሰ
+
+word: የቀረቡ
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: የቤተሰብ
+POS: noun, stem: ቤተሰብ
+
+word: አስተዳዳሪ
+POS: noun, stem: አስተዳደረ
+
+word: መሆናቸው
+POS: noun, stem: ሆነ
+
+word: በምንም
+POS: noun, stem: ምን
+
+word: አይነት
+
+word: የወንጀል
+POS: noun, stem: ወንጀል
+
+word: ድርጊት
+POS: noun, stem: ድርጊት
+
+word: አለመሳተፋቸውና
+POS: noun, stem: ተሳተፈ
+
+word: በመንግስትም
+POS: noun, stem: መንግስት
+
+word: በፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+?word: አመራርነት
+
+word: ህዝባቸውንና
+POS: noun, stem: ህዝብ
+
+word: ሀገራቸውን
+POS: noun, stem: ሀገር
+
+word: ያገለገሉ
+POS: verb, root: <glgl>, citation: አገለገለ
+
+word: መሆናቸውን
+POS: noun, stem: ሆነ
+
+word: እንደቅጣት
+POS: noun, stem: ቅጣት
+
+word: ማቅለያ
+POS: noun, stem: አቀለለ
+
+word: ተቀብሏል
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: መሰረት
+
+word: በረከት
+POS: noun, stem: በረከት
+
+word: ስምኦን
+?POS: noun, stem: ስምኦ
+
+word: በአንደኛና
+POS: noun, stem: አንደኛ
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: ስራን
+POS: noun, stem: ስራ
+
+word: በማያመች
+POS: verb, root: <mc_*>, citation: አመቸ
+
+word: አግባብ
+POS: noun, stem: ገባ
+
+word: በመምራት
+POS: noun, stem: መራ
+
+word: የሙስና
+?POS: noun, stem: ሙስና
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ጥፋተኛ
+POS: noun, stem: ጥፋተኛ
+
+word: በመሆናቸውን
+?POS: noun, stem: በመሆናቸው
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በዋለው
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: አመት
+
+word: ፅኑ
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: እስራትና
+POS: noun, stem: እስራት
+
+word: ሺህ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ቀጥቷቸዋል
+POS: verb, root: <qT'>, citation: ቀጣ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: ካሳ
+POS: noun, stem: ካሳ
+
+word: በቀረቡባቸው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ክሶች
+POS: noun, stem: ክስ
+
+word: በአንደኛ
+POS: noun, stem: አንደኛ
+
+word: ሁለተኛና
+POS: noun, stem: ሁለተኛ
+
+word: አራተኛ
+POS: noun, stem: አራተኛ
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: የህዝብና
+POS: noun, stem: ህዝብ
+
+word: የጥረት
+POS: noun, stem: ጥረት
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: ጥቅም
+POS: noun, stem: ጥቅም
+
+word: ማስጠበቅ
+POS: noun, stem: አስጠበቀ
+
+word: ሲገባቸው
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ባለማድረጋቸው
+POS: noun, stem: አደረገ
+
+word: በሙስና
+?POS: noun, stem: ሙስና
+
+word: ጥፋተኛ
+POS: noun, stem: ጥፋተኛ
+
+word: በመገኘታቸው
+POS: noun, stem: ተገኘ
+
+word: አመት
+
+word: ፅኑ
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: እስራትና
+POS: noun, stem: እስራት
+
+word: ሺህ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ተቀጥተዋል
+POS: verb, root: <qT'>, citation: ተቀጣ
+
+word: ግለሰቦቹ
+POS: noun, stem: ግለሰብ
+
+word: ሊቀጡ
+POS: verb, root: <qT'>, citation: ቀጣ
+
+word: የቸሉትም
+?POS: noun, stem: ቸሉትም
+
+word: ጥፋተኛ
+POS: noun, stem: ጥፋተኛ
+
+word: በተባሉባቸው
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ክሶች
+POS: noun, stem: ክስ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: ያቀረባቸውን
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ማስረጃዎች
+POS: noun, stem: አስረዳ
+
+word: በሰውም
+POS: noun, stem: ሰው
+
+word: በሰነድ
+POS: noun, stem: ሰነድ
+
+word: አሳማኝ
+POS: noun, stem: አሳመነ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: አቅርበው
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ማስተባበል
+POS: noun, stem: አስተባበለ
+
+word: ባለመቻላቸው
+POS: noun, stem: ቻለ
+
+word: ተከሳሾቹ
+POS: noun, stem: ተከሰሰ
+
+word: የተቀጡበት
+POS: verb, root: <qT'>, citation: ተቀጣ
+
+word: የወንጀል
+POS: noun, stem: ወንጀል
+
+word: ህግ
+
+word: አንቀፅ
+POS: noun, stem: አንቀጽ
+
+word: ቁጥር
+POS: noun, stem: ቁጥር
+
+word: ንኡስ
+POS: noun, stem: ንኡስ
+
+word: አንቀፅ
+POS: noun, stem: አንቀጽ
+
+word: መሰረት
+
+?word: ተድርጎ
+

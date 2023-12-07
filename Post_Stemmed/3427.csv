@@ -1,0 +1,490 @@
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: በሁለት
+POS: noun, stem: ሁለት
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: መቆጣጠር
+POS: noun, stem: ቈጣጠረ
+
+word: ይቻላል
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: በሁለት
+POS: noun, stem: ሁለት
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: መቆጣጠር
+POS: noun, stem: ቈጣጠረ
+
+word: እንደሚቻል
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: ወርርሽኙን
+?POS: noun, stem: ወርርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያስችሉ
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ድጋፎች
+POS: noun, stem: ድጋፍ
+
+word: የሚፈፀም
+POS: verb, root: <fS_m>, citation: ተፈጸመ
+
+word: ሙስና
+?POS: noun, stem: ሙስ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የመግደል
+POS: noun, stem: ገደለ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: ጤና
+POS: noun, stem: ጤና
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: አሳስቧል
+POS: verb, root: <'s_b>, citation: አሳሰበ
+
+word: ድርጅቱ
+POS: noun, stem: ድርጅት
+
+word: አርብ
+POS: noun, stem: አርብ
+
+word: በጄኔቫ
+?POS: noun, stem: ጄኔቫ
+
+word: ይፋ
+POS: noun, stem: ይፋ
+
+word: እንዳደረገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: የመሰራጨት
+POS: noun, stem: ተሰራጨ
+
+word: እድሉ
+POS: noun, stem: እድል
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: በሁለት
+POS: noun, stem: ሁለት
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: መቆጣጠር
+POS: noun, stem: ቈጣጠረ
+
+word: ይቻላል
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: የድርጅቱ
+POS: noun, stem: ድርጅት
+
+?word: ዳይሬክተር
+
+word: ቴድሮስ
+?POS: noun, stem: ቴድሮ
+
+word: አድሀኖም
+?POS: noun, stem: አድሀኖ
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: በሰጡት
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: መግለጫ
+POS: noun, stem: ገለጸ
+
+word: ተከስቶ
+POS: verb, root: <ks_t>, citation: ተከሰተ
+
+word: የነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ስፓኒሽ
+?POS: noun, stem: ስፓኒ
+
+word: ፍሉ
+POS: verb, root: <fl'>, citation: ፈላ
+
+word: ወረርሽኝ
+POS: verb, root: <wrr>, citation: ወረረ
+
+word: በሁለት
+POS: noun, stem: ሁለት
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: እንደቆመ
+POS: verb, root: <qwm>, citation: ቆመ
+
+word: በቴክኖሎጂ
+?POS: noun, stem: ቴክኖሎጂ
+
+?word: ወቅታዊ
+
+word: መሻሻል
+POS: noun, stem: አሻሻለ
+
+word: አለም
+POS: noun, stem: አለም
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ባነሰ
+POS: verb, root: <'ns>, citation: አነሰ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ማቆም
+POS: noun, stem: አቆመ
+
+word: እንደሚያስችላት
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ጠቅሰዋል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: በእርግጥ
+POS: noun, stem: እርግጥ
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: መተሳሰርና
+POS: noun, stem: ተሳሰረ
+
+word: መቀራረብ
+POS: noun, stem: ተቀራረበ
+
+word: ለቫይረሱ
+?POS: noun, stem: ቫይረሱ
+
+word: የበለጠ
+POS: verb, root: <blT>, citation: በለጠ
+
+word: የመሰራጨት
+POS: noun, stem: ተሰራጨ
+
+word: እድል
+POS: noun, stem: እድል
+
+word: ይፈጥርለታል
+POS: verb, root: <fTr>, citation: ፈጠረ
+
+word: ወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ለማስቆም
+POS: noun, stem: አስቆመ
+
+word: ቴክኖሎጂውም
+?POS: noun, stem: ቴክኖሎጂ
+
+word: እውቀት
+POS: noun, stem: እውቀት
+
+word: አለን
+POS: verb, root: <b'l>, citation: አለ
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: አንድነት
+?POS: verb, root: <dnt>, citation: ደነተ
+
+word: አለም
+POS: noun, stem: አለም
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+?word: ቅንጅት
+
+word: ግድ
+POS: noun, stem: ግድ
+
+word: ይለናል
+POS: verb, root: <b'l>, citation: አለ
+
+word: ዳይሬክተሩ
+?POS: noun, stem: ዳይሬክተር
+
+word: በመግለጫቸው
+?POS: noun, stem: መግለጭ
+
+word: ተከስቶ
+POS: verb, root: <ks_t>, citation: ተከሰተ
+
+word: የነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ስፓኒሽ
+?POS: noun, stem: ስፓኒ
+
+word: ፍሉ
+POS: verb, root: <fl'>, citation: ፈላ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ሰዎችን
+POS: noun, stem: ሰው
+
+word: ህይወት
+POS: noun, stem: ህይወት
+
+word: ቀጥፏል
+POS: verb, root: <qTf>, citation: ቀጠፈ
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: መግለጫ
+POS: noun, stem: ገለጸ
+
+word: እስከተሰጠበት
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ሺህ
+
+word: ሰዎችን
+POS: noun, stem: ሰው
+
+word: ለሞት
+POS: noun, stem: ሞት
+
+word: ሲዳርግ
+POS: verb, root: <darg>, citation: ዳረገ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በበሽታው
+POS: noun, stem: በሽታ
+
+word: ተጠቅተዋል
+POS: verb, root: <Tq'>, citation: ተጠቃ
+
+word: ወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: በሚደረገው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: ስለሚፈፀሙ
+POS: verb, root: <fS_m>, citation: ተፈጸመ
+
+word: የሙስና
+?POS: noun, stem: ሙስና
+
+word: ወንጀሎች
+POS: noun, stem: ወንጀል
+
+word: ለተነሳላቸው
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: ጥያቄ
+POS: noun, stem: ጥያቄ
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: ቴድሮስ
+?POS: noun, stem: ቴድሮ
+
+word: ጉዳዩ
+POS: noun, stem: ጉዳይ
+
+?word: ተቀባይነት
+
+word: እንደሌለውና
+POS: verb, root: <al_e>, citation: አለ
+
+word: የሚወገዝ
+?POS: noun, stem: ሚወገዝ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ወርርሽኙን
+?POS: noun, stem: ወርርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያስችሉ
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ድጋፎች
+POS: noun, stem: ድጋፍ
+
+word: የሚፈፀም
+POS: verb, root: <fS_m>, citation: ተፈጸመ
+
+word: ሙስና
+?POS: noun, stem: ሙስ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የመግደል
+POS: noun, stem: ገደለ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ሲሉም
+POS: verb, root: <b'l>, citation: አለ
+
+word: ገልፀውታል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ምክንያቱም
+POS: noun, stem: ምክንያት
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: መከላከያ
+POS: noun, stem: ተከላከለ
+
+word: ራሳቸውን
+POS: noun, stem: ራስ
+
+word: ለቫይረሱ
+?POS: noun, stem: ቫይረሱ
+
+word: አጋልጠው
+POS: verb, root: <glS>, citation: አጋለጸ
+
+word: የሚሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ህይወታቸውን
+POS: noun, stem: ህይወት
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: እየጣሉ
+POS: verb, root: <T'l>, citation: ጣለ
+
+word: የእነሱን
+POS: noun, stem: እነሱ
+
+word: እርዳታ
+?POS: noun, stem: ርዳታ
+
+word: የሚፈልጉ
+POS: verb, root: <fl_g>, citation: ፈለገ
+
+word: ሰዎችን
+POS: noun, stem: ሰው
+
+word: ህይወት
+POS: noun, stem: ህይወት
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: እንደሚጥል
+POS: verb, root: <T'l>, citation: ጣለ
+
+word: ምንጭ
+POS: noun, stem: ምንጭ
+

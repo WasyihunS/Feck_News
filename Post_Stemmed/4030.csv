@@ -1,0 +1,440 @@
+word: ለህዳሴው
+?POS: noun, stem: ህዳሴ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ሙያዊም
+?POS: noun, stem: ሙያዊ
+
+word: የገንዘብ
+POS: noun, stem: ገንዘብ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የትውልዱ
+POS: noun, stem: ትውልድ
+
+word: የዜግነት
+POS: noun, stem: ዜግነት
+
+word: ግዴታ
+POS: noun, stem: ግዴታ
+
+word: የሙያ
+POS: noun, stem: ሙያ
+
+?word: ማህብራት
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኢዜአ
+
+word: ለታላቁ
+POS: noun, stem: ታላቅ
+
+?word: የኢትዮዽያ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ሙያዊም
+?POS: noun, stem: ሙያዊ
+
+word: የገንዘብ
+POS: noun, stem: ገንዘብ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የትውልዱ
+POS: noun, stem: ትውልድ
+
+word: የውዴታ
+?POS: noun, stem: ውዴታ
+
+word: ግዴታ
+POS: noun, stem: ግዴታ
+
+word: የሙያ
+POS: noun, stem: ሙያ
+
+?word: ማህበራት
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የህዳሴ
+?POS: noun, stem: ህዳሴ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+?word: በኢትዮዽያን
+
+word: አቅም
+POS: noun, stem: አቅም
+
+word: ተጀምሮ
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+?word: በኢትዮዽዊያንና
+
+?word: ትውልደ
+
+?word: ኢትዮዽያን
+
+word: ድጋፎችን
+POS: noun, stem: ድጋፍ
+
+word: ሲያደረጉ
+?POS: noun, stem: ሲያደረግ
+
+word: ቆይተው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ግንባታው
+POS: noun, stem: ግንባታ
+
+word: የደረሰበት
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: አጓጊ
+?POS: noun, stem: አግዋጊ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ደርሷል
+POS: verb, root: <drs>, citation: ደረሰ
+
+?word: ኢዜአ
+
+word: ያነጋገራቸው
+POS: verb, root: <ngr>, citation: አነጋገረ
+
+?word: የኢትዮዽያ
+
+word: መምህራን
+POS: noun, stem: መምህር
+
+word: ማህበርና
+POS: noun, stem: ማህበር
+
+?word: የኢትዮዽያ
+
+word: አስጎብኝ
+POS: noun, stem: አስጐበኘ
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: ማህበር
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ይህን
+POS: noun, stem: ይህ
+
+word: ግዙፍ
+POS: noun, stem: ግዙፍ
+
+?word: አገራዊ
+
+?word: ፕሮጀክት
+
+word: ዳር
+POS: noun, stem: ዳር
+
+word: ለማድረስ
+POS: noun, stem: አደረሰ
+
+word: ሙያዊም
+?POS: noun, stem: ሙያዊ
+
+word: የገንዘብ
+POS: noun, stem: ገንዘብ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የዜግነት
+POS: noun, stem: ዜግነት
+
+word: ግዴታ
+POS: noun, stem: ግዴታ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: መምህራን
+POS: noun, stem: መምህር
+
+word: ማህበር
+
+word: ታላቁ
+POS: noun, stem: ታላቅ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+?word: ብሄራዊ
+
+word: ማስተባበርያ
+POS: noun, stem: አስተባበረ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: አባል
+POS: noun, stem: አባል
+
+word: እንደመሆኑ
+POS: noun, stem: ሆነ
+
+word: ከምስረታው
+?POS: noun, stem: ምስረታ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: አብሮ
+POS: verb, root: <'br>, citation: አበረ
+
+word: በመስራት
+POS: noun, stem: ሰራ
+
+word: እንደሚገኝ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የማህበሩ
+POS: noun, stem: ማህበር
+
+?word: ፕሬዚዳንት
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: ዮሀንስ
+POS: noun, stem: ዮሀንስ
+
+word: በንቲ
+?POS: noun, stem: ንቲ
+
+word: በተለያዩ
+POS: noun, stem: ተለያየ
+
+?word: ጊዜያት
+
+word: በሚዘጋጁ
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: መድረኮች
+POS: noun, stem: መድረክ
+
+word: መምህራን
+POS: noun, stem: መምህር
+
+word: ከደሞዛቸው
+?POS: noun, stem: ደሞዛቸ
+
+word: ቀንሰው
+POS: verb, root: <qn_s>, citation: ቀነሰ
+
+word: የህዳሴ
+?POS: noun, stem: ህዳሴ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: እንዲያደርጉና
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ቦንድ
+?POS: verb, root: <bWn_d>, citation: ቦነደ
+
+word: ግዢ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: ግንባር
+
+word: ቀደም
+
+word: ተሳታፊ
+POS: noun, stem: ተሳተፈ
+
+word: እንዲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የማስትባበር
+?POS: noun, stem: ማስትባበር
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: መሰራቱም
+POS: noun, stem: ተሰራ
+
+word: ጠቅሰዋል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: የማህበሩ
+POS: noun, stem: ማህበር
+
+word: አባል
+POS: noun, stem: አባል
+
+word: መምህራን
+POS: noun, stem: መምህር
+
+word: የወር
+POS: noun, stem: ወር
+
+word: ደሞዛቸው
+?POS: noun, stem: ደሞዝ
+
+word: ከአንድም
+POS: noun, stem: አንድ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: ማበርከታቸው
+POS: noun, stem: አበረከተ
+
+word: የተገለፀው
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: ማህበሩ
+POS: noun, stem: ማህበር
+
+word: ፕሬዚዳንቱ
+?POS: noun, stem: ፕሬዚዳንት
+
+?word: ገለፃ
+
+word: ማህበሩ
+POS: noun, stem: ማህበር
+
+word: የታላቁ
+POS: noun, stem: ታላቅ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ከተጀመረበት
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ብር
+POS: noun, stem: ብር
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: አድርጓል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: በቅርቡ
+POS: noun, stem: ቅርብ
+
+word: የታላቁ
+POS: noun, stem: ታላቅ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: የመጀመርያ
+POS: noun, stem: ጀመረ
+
+word: የውሀ
+POS: noun, stem: ውሀ
+
+?word: ሙሌት
+
+word: በስኬት
+?POS: noun, stem: ስኬት
+
+word: መጠናቀቅ
+POS: noun, stem: ተጠናቀቀ
+
+word: የፈጠረላቸውን
+POS: verb, root: <fTr>, citation: ፈጠረ
+
+word: ደስታ
+POS: noun, stem: ደስታ
+
+word: ገልፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በቀጣይም
+POS: noun, stem: ቀጠለ
+
+word: ማህበሩ
+POS: noun, stem: ማህበር
+
+word: ድጋፉን
+POS: noun, stem: ድጋፍ
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: እንደሚቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+

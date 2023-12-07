@@ -1,0 +1,384 @@
+word: ሰው
+POS: noun, stem: ሰው
+
+word: በማገት
+POS: noun, stem: አገተ
+
+word: የተከሰሰው
+POS: verb, root: <kss>, citation: ተከሰሰ
+
+word: ግለሰብ
+POS: noun, stem: ግለሰብ
+
+word: አመት
+
+word: ፅኑ
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: እስራት
+POS: noun, stem: እስራት
+
+word: ተቀጣ
+POS: verb, root: <qT'>, citation: ተቀጣ
+
+word: ጎንደር
+POS: noun, stem: ጎንደር
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኢዜአ
+
+word: በማእከላዊ
+?POS: noun, stem: ማእከላዊ
+
+word: ጎንደር
+POS: noun, stem: ጎንደር
+
+?word: ዞን
+
+?word: አርማጭሆ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+word: በሰው
+POS: noun, stem: ሰው
+
+word: ማገት
+POS: noun, stem: አገተ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: የተመሰረተበት
+POS: verb, root: <msrt>, citation: ተመሰረተ
+
+word: ግለሰብ
+POS: noun, stem: ግለሰብ
+
+word: አመት
+
+word: ፅኑ
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: እስራት
+POS: noun, stem: እስራት
+
+word: እንዲቀጣ
+POS: verb, root: <qT'>, citation: ቀጣ
+
+word: የተወሰነበት
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: የአካባቢው
+POS: noun, stem: አካባቢ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ተወካይ
+POS: noun, stem: ተወከለ
+
+word: ጌታሁን
+?POS: noun, stem: ጌታህ
+
+word: ታከለ
+POS: verb, root: <'k_l>, citation: ታከለ
+
+word: ለኢዜአ
+?POS: noun, stem: ኢዜአ
+
+word: የእስራት
+POS: noun, stem: እስራት
+
+word: ቅጣቱ
+POS: noun, stem: ቅጣት
+
+word: ውሳኔ
+POS: noun, stem: ውሳኔ
+
+word: የተላላፈበት
+POS: verb, root: <l'f>, citation: ተላላፈ
+
+word: ናቃቸው
+POS: verb, root: <n'q>, citation: ናቀ
+
+word: ተዘራ
+POS: verb, root: <zr'>, citation: ተዘራ
+
+word: የተባለ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: የሙሴ
+POS: noun, stem: ሙሴ
+
+word: ባንብ
+?POS: noun, stem: አንብ
+
+word: ቀበሌ
+POS: noun, stem: ቀበሌ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+word: ግለሰቡ
+POS: noun, stem: ግለሰብ
+
+word: መጋቢት
+POS: noun, stem: መጋቢት
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: የማይገባውን
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ጥቅም
+POS: noun, stem: ጥቅም
+
+word: ለማግኘት
+POS: noun, stem: አገኘ
+
+word: በማሰብ
+POS: noun, stem: አሰበ
+
+word: ካንፈንታ
+?POS: noun, stem: አንፈንታ
+
+word: በተባለው
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ቀበሌ
+POS: noun, stem: ቀበሌ
+
+word: ካገተው
+POS: verb, root: <'g_t>, citation: አገተ
+
+word: ግለሰብ
+POS: noun, stem: ግለሰብ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: አስከፍሎ
+POS: verb, root: <kfl>, citation: አስከፈለ
+
+word: መልቀቁ
+POS: noun, stem: ለቀቀ
+
+word: በአቃቤ
+?POS: noun, stem: አቃቤ
+
+word: ህግ
+
+word: የሰውና
+POS: noun, stem: ሰው
+
+word: የሰነድ
+POS: noun, stem: ሰነድ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: ተረጋግጦበታል
+POS: verb, root: <rgT>, citation: ተረጋገጠ
+
+word: ድርጊቱን
+POS: noun, stem: ድርጊት
+
+word: አልፈፀምኩም
+POS: verb, root: <fS_m>, citation: ፈጸመ
+
+word: ብሎ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ክዶ
+POS: verb, root: <k'd>, citation: ካደ
+
+word: ቢከራከም
+POS: verb, root: <krkm>, citation: ተከራከመ
+
+word: በአቃቤ
+?POS: noun, stem: አቃቤ
+
+word: ህግ
+
+word: ምስክሮች
+POS: noun, stem: ምስክር
+
+word: በማረጋገጥ
+POS: noun, stem: አረጋገጠ
+
+word: የሙሴ
+POS: noun, stem: ሙሴ
+
+word: ባንብ
+?POS: noun, stem: አንብ
+
+word: ንኡስ
+POS: noun, stem: ንኡስ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የጥፋታኝነት
+?POS: noun, stem: ጥፋታኝነት
+
+word: ውሳኔ
+POS: noun, stem: ውሳኔ
+
+word: ማሳለፉን
+POS: noun, stem: ስልፍ
+
+word: ግለሰቡ
+POS: noun, stem: ግለሰብ
+
+word: ከአራት
+POS: noun, stem: አራት
+
+word: አመት
+
+word: በስርቆት
+?POS: noun, stem: ስርቆት
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ተከሶ
+POS: verb, root: <kss>, citation: ተከሰሰ
+
+word: የእስራት
+POS: noun, stem: እስራት
+
+word: ጊዜውን
+POS: noun, stem: ጊዜ
+
+word: አጠናቆ
+POS: verb, root: <Tnqq>, citation: አጠናቀቀ
+
+word: ከወጣ
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: በድጋሚ
+POS: noun, stem: ድጋሚ
+
+word: የሰው
+POS: noun, stem: ሰው
+
+word: እገታ
+POS: verb, root: <gt'>, citation: ገታ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: በመፈፀሙ
+POS: noun, stem: ፈጸመ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ድርጊቱን
+POS: noun, stem: ድርጊት
+
+word: በቅጣት
+POS: noun, stem: ቅጣት
+
+word: ማክበጃነት
+?POS: noun, stem: አክበጃነተ
+
+word: እንደያዘበትም
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: ሀላፊው
+POS: noun, stem: ሀላፊ
+
+word: አመላክተዋል
+POS: verb, root: <mlkt>, citation: አመላከተ
+
+word: ተከሳሹ
+POS: noun, stem: ተከሰሰ
+
+word: ፈፅሟል
+POS: verb, root: <fS_m>, citation: ፈጸመ
+
+word: በተባለው
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: የሰው
+POS: noun, stem: ሰው
+
+word: እገታ
+POS: verb, root: <gt'>, citation: ገታ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ጥፋተኝነቱ
+?POS: noun, stem: ጥፋተኝነት
+
+word: በመረጋገጡም
+POS: noun, stem: ተረጋገጠ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በዋለው
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: እጁ
+POS: noun, stem: እጅ
+
+word: ከተያዘበት
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: የእስራት
+POS: noun, stem: እስራት
+
+word: ቅጣት
+POS: noun, stem: ቅጣት
+
+word: ውሳኔውን
+POS: noun, stem: ውሳኔ
+
+word: ማስተላለፉን
+POS: noun, stem: አስተላለፈ
+

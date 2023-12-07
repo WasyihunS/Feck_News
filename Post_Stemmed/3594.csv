@@ -1,0 +1,400 @@
+word: ፅጌ
+?POS: noun, stem: ጽግ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: የጅማ
+?POS: noun, stem: ጅማ
+
+?word: ዩኒቨርሲቲ
+
+word: የመጀመሪያዋ
+POS: noun, stem: ጀመረ
+
+word: ሴት
+POS: noun, stem: ሴት
+
+word: ፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ፅጌ
+?POS: noun, stem: ጽግ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: በጅማ
+POS: verb, root: <bj_*>, citation: በጀ
+
+?word: ዩኒቨርስቲ
+
+word: የመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ሴት
+POS: noun, stem: ሴት
+
+word: ፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ማእረግ
+POS: noun, stem: ማእረግ
+
+word: ተሰጣቸው
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: የሶስት
+POS: noun, stem: ሶስት
+
+word: ልጆች
+POS: noun, stem: ልጅ
+
+word: እናት
+POS: noun, stem: እናት
+
+word: ፅጌ
+?POS: noun, stem: ጽግ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: የፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ማእረግ
+POS: noun, stem: ማእረግ
+
+word: ክብርን
+POS: noun, stem: ክብር
+
+word: ማግኘት
+POS: noun, stem: አገኘ
+
+word: ካስቻላቸው
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: በባዮሜዲካል
+?POS: noun, stem: ባዮሜዲካል
+
+word: ሳይንስ
+POS: noun, stem: ሳይንስ
+
+word: ወባ
+POS: noun, stem: ወባ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: አምጪ
+POS: noun, stem: አመጣ
+
+word: ተዋህሳያን
+?POS: noun, stem: ተዋህሳያ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+?word: ጥናታዊ
+
+word: ፅሁፎችን
+POS: noun, stem: ጽሁፍ
+
+word: በአለም
+POS: noun, stem: አለም
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: ጆርናሎች
+?POS: noun, stem: ጆርናል
+
+word: ለህትመት
+?POS: noun, stem: ህትመት
+
+word: ማብቃታቸው
+POS: noun, stem: አበቃ
+
+word: ይገኙበታል
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በተጨማሪም
+POS: noun, stem: ተጨማሪ
+
+word: ደዌ
+POS: noun, stem: ደዌ
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: ባለሙያው
+POS: noun, stem: ባለሙያ
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: ኢሳያስ
+?POS: noun, stem: ኢሳያ
+
+word: ከበደ
+POS: verb, root: <kbd>, citation: ከበደ
+
+word: የፕሮፌሰርነትን
+?POS: noun, stem: ፕሮፌሰርነት
+
+word: ማእረግ
+POS: noun, stem: ማእረግ
+
+word: አግኝተዋል
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: የሁለቱን
+POS: noun, stem: ሁለት
+
+word: ፕሮፌስሮች
+?POS: noun, stem: ፕሮፌስር
+
+word: እውቅናን
+?POS: noun, stem: እውቅና
+
+word: አስመልክቶ
+POS: verb, root: <mlkt>, citation: አስመለከተ
+
+word: ዛሬው
+POS: noun, stem: ዛሬ
+
+word: በተዘጋጀው
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+?word: ስነሰርአት
+
+word: የዩኒቨርሲቲው
+?POS: noun, stem: ዩኒቨርሲቲ
+
+?word: ፕሬዚዳንት
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: ጀማል
+?POS: verb, root: <jmall>, citation: ጀማለለ
+
+?word: አባፊጣ
+
+word: በተቋሙ
+POS: noun, stem: ተቋም
+
+word: ፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ፅጌን
+?POS: noun, stem: ጽግ
+
+word: የመሳሰሉ
+POS: verb, root: <msl>, citation: መሳሰለ
+
+word: ምሁራን
+?POS: noun, stem: ምሁራ
+
+word: እንዲበራከቱ
+POS: verb, root: <brkt>, citation: ተበራከተ
+
+word: በማማከርና
+POS: noun, stem: አማከረ
+
+word: በስራ
+POS: noun, stem: ስራ
+
+word: በማገዝ
+POS: noun, stem: አገዘ
+
+word: ለዚህ
+POS: noun, stem: ይህ
+
+word: ላበቋቸው
+POS: verb, root: <bq'>, citation: አበቃ
+
+word: የዩኒቨርሲቲውን
+?POS: noun, stem: ዩኒቨርሲቲ
+
+?word: ማህበረሰብ
+
+word: አመስግነዋል
+POS: verb, root: <msgn>, citation: አመሰገነ
+
+word: በእውቅና
+POS: noun, stem: እውቅ
+
+word: አሰጣጡ
+POS: noun, stem: ሰጠ
+
+?word: ስነስርአት
+
+word: የተገኙት
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: የሳይንስና
+POS: noun, stem: ሳይንስ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ሂሩት
+POS: noun, stem: ሂሩት
+
+word: ወልደማሪያም
+?POS: noun, stem: ወልደማሪያ
+
+word: እንዳሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሴት
+POS: noun, stem: ሴት
+
+word: ለዚህ
+POS: noun, stem: ይህ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ማእረግ
+POS: noun, stem: ማእረግ
+
+word: መብቃት
+POS: noun, stem: በቃ
+
+word: ፅናትና
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: ጥንካሬን
+POS: noun, stem: ጥንካሬ
+
+word: ይጠይቃል
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: ሴቶችም
+POS: noun, stem: ሴት
+
+word: ከፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ፅጌ
+?POS: noun, stem: ጽግ
+
+word: የሚማሯቸው
+POS: verb, root: <m'r>, citation: ተማረ
+
+word: እንዳሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: መገንዘብ
+POS: noun, stem: ተገነዘበ
+
+word: እንዳለባቸውም
+POS: verb, root: <b'l>, citation: አለ
+
+word: በዩኒቨርሲቲው
+?POS: noun, stem: ዩኒቨርሲቲ
+
+word: ለመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: የፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ማእረግ
+POS: noun, stem: ማእረግ
+
+word: ላገኙት
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: ፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ፅጌ
+?POS: noun, stem: ጽግ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: በመምህርነት
+POS: noun, stem: መምህርነት
+
+word: በተመራማሪነትና
+?POS: noun, stem: ተመራማሪነት
+
+word: በአመራርነት
+?POS: noun, stem: አመራርነት
+
+word: ባገለገሉበት
+POS: verb, root: <glgl>, citation: አገለገለ
+
+word: ላበረከቱት
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: ከዩኒቨርስቲው
+?POS: noun, stem: ዩኒቨርስቲ
+
+word: ስጦታ
+POS: noun, stem: ስጦታ
+
+word: ተበርክቶላቸዋል
+POS: verb, root: <brkt>, citation: ተበረከተ
+
+word: ፕሮፌሰር
+POS: noun, stem: ፕሮፌሰር
+
+word: ሂሩት
+POS: noun, stem: ሂሩት
+
+word: ወልደማሪያም
+?POS: noun, stem: ወልደማሪያ
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: የሳይንና
+POS: noun, stem: ሳለ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: በነበሩበት
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ለባረከቱት
+?POS: noun, stem: ባረከቱት
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: እንዲሁ
+POS: noun, stem: ይህ
+
+word: ተሸልመዋል
+POS: verb, root: <xl_m>, citation: ተሸለመ
+

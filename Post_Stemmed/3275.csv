@@ -1,0 +1,568 @@
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደሩ
+POS: noun, stem: አደረ
+
+word: የይዞታ
+POS: noun, stem: ይዞታ
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ሰነድ
+POS: noun, stem: ሰነድ
+
+word: ላልነበራቸው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ነባር
+POS: noun, stem: ነባር
+
+word: የመስጊድ
+POS: noun, stem: መስጊድ
+
+word: ይዞታዎች
+POS: noun, stem: ይዞታ
+
+word: የይዞታ
+POS: noun, stem: ይዞታ
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ሰነድ
+POS: noun, stem: ሰነድ
+
+word: አስረከበ
+POS: verb, root: <rkb>, citation: አስረከበ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ግንቦት
+POS: noun, stem: ግንቦት
+
+?word: ኤፍ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: አለም
+POS: noun, stem: አለም
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: ደረጃውን
+POS: noun, stem: ደረጃ
+
+word: የጠበቀ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የመስጂድ
+?POS: noun, stem: መስጂድ
+
+word: የምርምር
+POS: noun, stem: ምርምር
+
+word: ማእከል
+POS: noun, stem: ማእከል
+
+word: የግንባታ
+POS: noun, stem: ግንባታ
+
+word: ርክክብ
+POS: noun, stem: ርክክብ
+
+word: ተካሄደ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደሩ
+POS: noun, stem: አደረ
+
+word: ለመስጅዱ
+?POS: noun, stem: መስጅድ
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: የሚያገልግል
+?POS: noun, stem: ሚያገልግል
+
+word: ሺህ
+
+word: ካሬ
+POS: noun, stem: አር
+
+word: ሜትር
+POS: noun, stem: ሜትር
+
+word: ቦታንም
+POS: noun, stem: ቦታ
+
+word: አስረክቧል
+POS: verb, root: <rkb>, citation: አስረከበ
+
+word: ታከለ
+POS: verb, root: <'k_l>, citation: ታከለ
+
+?word: ኡማ
+
+word: ቦታውን
+POS: noun, stem: ቦታ
+
+word: ለኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: እስልምና
+POS: noun, stem: እስልምና
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+?word: ፕሬዚዳንት
+
+word: ተቀዳሚ
+POS: noun, stem: ተቀደመ
+
+?word: ሙፍቲ
+
+?word: ሀጅ
+
+?word: ኡመር
+
+word: እድሪስና
+?POS: noun, stem: ድሪስ
+
+word: ለአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: እስልምና
+POS: noun, stem: እስልምና
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+?word: ፕሬዚዳንት
+
+?word: ሼኽ
+
+word: ሱልጣን
+POS: noun, stem: ሱልጣን
+
+word: አማን
+POS: verb, root: <'mm>, citation: አመመ
+
+word: አስረክበዋል
+POS: verb, root: <rkb>, citation: አስረከበ
+
+word: ታከለ
+POS: verb, root: <'k_l>, citation: ታከለ
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+?word: መስጂድ
+
+word: የግንባታ
+POS: noun, stem: ግንባታ
+
+word: ለሙስሊሙ
+?POS: noun, stem: ሙስሊም
+
+?word: ማህበረሰብ
+
+word: የተሰጠ
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: የኢድ
+?POS: noun, stem: ኢድ
+
+word: በአል
+POS: noun, stem: በአል
+
+word: ስጦታ
+POS: noun, stem: ስጦታ
+
+word: ቦታው
+POS: noun, stem: ቦታ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ይዞታ
+POS: noun, stem: ይዞታ
+
+word: እንደነበር
+POS: verb, root: <dnbr>, citation: ተደነበረ
+
+word: ያነሱት
+POS: verb, root: <ns'>, citation: አነሳ
+
+?word: ኢንጂነር
+
+word: ታከለ
+POS: verb, root: <'k_l>, citation: ታከለ
+
+word: ቀደም
+
+word: ከመንግስት
+POS: noun, stem: መንግስት
+
+word: ተቋም
+POS: noun, stem: ተቋም
+
+word: እንደተነጠቀው
+POS: verb, root: <nTq>, citation: ተነጠቀ
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ሳይገባ
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ተቀርቶ
+POS: verb, root: <qr*>, citation: ተቀረ
+
+word: ሙስሊሙ
+?POS: noun, stem: ሙስሊም
+
+?word: ማህበረሰብ
+
+word: በቦታው
+POS: noun, stem: ቦታ
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: ግንባታውን
+POS: noun, stem: ግንባታ
+
+word: እንዲጀመር
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደሩም
+POS: noun, stem: አደረ
+
+word: ግንባታው
+POS: noun, stem: ግንባታ
+
+word: እውን
+POS: noun, stem: ውን
+
+word: ድጋፉን
+POS: noun, stem: ድጋፍ
+
+word: እንደሚያደርግ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ያረጋገጡት
+POS: verb, root: <rgT>, citation: አረጋገጠ
+
+word: ከቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: የሚከበረውን
+POS: verb, root: <kbr>, citation: ተከበረ
+
+word: የኢድ
+?POS: noun, stem: ኢድ
+
+word: አልፈጥር
+?POS: verb, root: <fT_r>, citation: ፈጠረ
+
+word: በአልም
+POS: noun, stem: በአል
+
+word: በመረዳዳት
+POS: noun, stem: ተርዳዳ
+
+word: እርስ
+POS: noun, stem: እርስ
+
+word: በእርስ
+POS: noun, stem: እርስ
+
+word: በመደጋገፍ
+POS: noun, stem: ተደጋገፈ
+
+word: ማክበር
+POS: noun, stem: አከበረ
+
+word: እንደሚገባ
+POS: verb, root: <gb'>, citation: ገባ
+
+word: የተናገሩት
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ታከለ
+POS: verb, root: <'k_l>, citation: ታከለ
+
+?word: ኡማ
+
+word: ለበአሉ
+POS: noun, stem: በአል
+
+word: የመልካም
+POS: noun, stem: መልካም
+
+word: ምኞት
+POS: noun, stem: ምኞት
+
+word: መልእክታቸውንም
+?POS: noun, stem: መልእክታቸውን
+
+word: አስተላልፈዋል
+POS: verb, root: <'lf>, citation: አስተላለፈ
+
+word: የይዞታ
+POS: noun, stem: ይዞታ
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ሰነድ
+POS: noun, stem: ሰነድ
+
+word: ላልነበራቸው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ነባር
+POS: noun, stem: ነባር
+
+word: የመስጂድ
+?POS: noun, stem: መስጂድ
+
+word: ይዞታዎችም
+POS: noun, stem: ይዞታ
+
+word: የይዞታ
+POS: noun, stem: ይዞታ
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ሰነድ
+POS: noun, stem: ሰነድ
+
+word: አስረክበዋል
+POS: verb, root: <rkb>, citation: አስረከበ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: እስልምና
+POS: noun, stem: እስልምና
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+?word: ፕሬዚዳንት
+
+word: ተቀዳሚ
+POS: noun, stem: ተቀደመ
+
+?word: ሙፍቲ
+
+?word: ሀጅ
+
+?word: ኡመር
+
+word: እድሪስ
+POS: noun, stem: ድሪ
+
+word: ለሙስሊሙ
+?POS: noun, stem: ሙስሊም
+
+?word: ማህበረሰብ
+
+word: የእንኳን
+?POS: noun, stem: እንኳን
+
+?word: ደስ
+
+word: ያላችሁ
+POS: verb, root: <b'l>, citation: አለ
+
+?word: መልእክት
+
+word: አስተላልፈዋል
+POS: verb, root: <'lf>, citation: አስተላለፈ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: እስልምና
+POS: noun, stem: እስልምና
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+?word: ፕሬዚዳንት
+
+?word: ሼኽ
+
+word: ሱልጣን
+POS: noun, stem: ሱልጣን
+
+word: አማን
+POS: verb, root: <'mm>, citation: አመመ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: የዛሬው
+POS: noun, stem: ዛሬ
+
+?word: ሁነት
+
+word: ሙስሊሙ
+?POS: noun, stem: ሙስሊም
+
+?word: ማህበረሰብ
+
+word: ሲያነሳቸው
+POS: verb, root: <ns'>, citation: አነሳ
+
+word: ለነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ጥያቄዎች
+POS: noun, stem: ጥያቄ
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: የተሰጠበት
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: የጠቆሙት
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: ለፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+?word: ኮርፖሬት
+
+word: አስተያየታቸውን
+POS: noun, stem: አየ
+
+word: የሰጡ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: በስነ
+POS: noun, stem: ስነ
+
+word: ሰርአቱ
+?POS: noun, stem: ሰርአት
+
+word: የተገኙ
+POS: noun, stem: ተገኘ
+
+word: የእምነቱ
+POS: noun, stem: እምነት
+
+word: ተከታዮች
+POS: noun, stem: ተከተለ
+
+word: በአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ህብረት
+POS: noun, stem: ህብረት
+
+word: አቅራቢያ
+POS: noun, stem: አቅራቢያ
+
+word: የሚገነባው
+POS: verb, root: <gnb'>, citation: ገነባ
+
+?word: መስጂድ
+
+word: ለዲፕሎማቲክ
+?POS: noun, stem: ዲፕሎማቲክ
+
+word: ማህበረሰቡም
+?POS: noun, stem: ማህበረሰብ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ግልጋሎት
+POS: noun, stem: ግልጋሎት
+
+word: እንደሚሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: እምነታቸው
+POS: noun, stem: እምነት
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በጥበበስላሴ
+?POS: noun, stem: ጥበበስላስ
+
+word: ጀምበሩ
+POS: noun, stem: ጀምበር
+

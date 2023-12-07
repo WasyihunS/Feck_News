@@ -1,0 +1,334 @@
+word: የህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድቡ
+POS: noun, stem: ግድብ
+
+word: ለተፋሰሱ
+POS: noun, stem: ተፋሰስ
+
+?word: ሀገራት
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: እንዳለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አቢይ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አቢይ
+
+?word: አህመድ
+
+word: በሱዳን
+POS: noun, stem: ሱዳን
+
+word: ቆይታቸው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ከጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አብደላ
+
+?word: ሀምዶክ
+
+word: በሁለትዮሽ
+?POS: noun, stem: በሁለትዮ
+
+word: ግንኙነት
+POS: noun, stem: ግንኙነት
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: አካሂደዋል
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: የታላቁ
+POS: noun, stem: ታላቅ
+
+word: የህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ለኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ሳይሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ለተፋሰሱ
+POS: noun, stem: ተፋሰስ
+
+word: ሀገራትም
+?POS: noun, stem: ሀገራት
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አቢይ
+
+?word: አህመድ
+
+word: ለሱዳን
+POS: noun, stem: ሱዳን
+
+word: አቻቸው
+POS: verb, root: <'T'>, citation: አጣ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: አክለውም
+POS: verb, root: <'k_l>, citation: አከለ
+
+word: የሱዳን
+POS: noun, stem: ሱዳን
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: በህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድቡ
+POS: noun, stem: ግድብ
+
+word: ተጠቃሚ
+POS: noun, stem: ተጠቀመ
+
+word: የሱዳኑ
+?POS: noun, stem: ሱዳን
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አብደላ
+
+?word: ሀምዶክ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: በህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ዙሪያ
+POS: noun, stem: ዙሪያ
+
+word: የሚደረጉ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ድርድሮች
+POS: noun, stem: ድርድር
+
+word: በቴክኒካል
+?POS: noun, stem: ቴክኒካል
+
+word: ውይይቶች
+POS: noun, stem: ውይይት
+
+word: እንደሚፈቱ
+POS: verb, root: <ft'>, citation: ፈታ
+
+word: እምነታቸውን
+POS: noun, stem: እምነት
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: በአባይ
+POS: noun, stem: አባይ
+
+word: ወንዝ
+POS: noun, stem: ወንዝ
+
+word: የመልማት
+POS: noun, stem: ለማ
+
+word: ፍላጎቷን
+POS: noun, stem: ፍላጎት
+
+word: ሱዳን
+POS: noun, stem: ሱዳን
+
+word: እንደምታከብር
+POS: verb, root: <kbr>, citation: አከበረ
+
+word: እንደምትደግፍ
+POS: verb, root: <dg_f>, citation: ደገፈ
+
+?word: አብደላ
+
+?word: ሀምዶክ
+
+word: በውይይታቸው
+POS: noun, stem: ውይይት
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በተጨማሪም
+POS: noun, stem: ተጨመረ
+
+word: ሁለቱ
+POS: noun, stem: ሁለት
+
+?word: ሀገራት
+
+word: በሚያዋስናቸው
+POS: verb, root: <ws_n>, citation: አዋሰነ
+
+word: ድንበሮች
+POS: noun, stem: ድንበር
+
+word: የሁለቱ
+POS: noun, stem: ሁለት
+
+?word: ሀገራት
+
+word: መሪዎች
+POS: noun, stem: መራ
+
+word: በውይይት
+POS: noun, stem: ውይይት
+
+word: ለመፍታት
+POS: noun, stem: ፈታ
+
+word: መግባባት
+POS: noun, stem: ተግባባ
+
+word: ተደርሷል
+POS: verb, root: <drs>, citation: ተደረሰ
+
+word: መሪዎቹ
+POS: noun, stem: መራ
+
+word: በተለያዩ
+POS: noun, stem: ተለያየ
+
+?word: ቀጠናዊ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: የሁሉቱን
+?POS: noun, stem: ሁሉት
+
+?word: ሀገራት
+
+word: በሚያጠናክሩ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ተወያይተዋል
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትሩ
+POS: noun, stem: ሚኒስትር
+
+word: በሱዳን
+POS: noun, stem: ሱዳን
+
+word: ቆይታቸው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ከሱዳን
+POS: noun, stem: ሱዳን
+
+word: የሽግግር
+?POS: noun, stem: ሽግግር
+
+?word: ወታደራዊ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+?word: ሊቀመንበር
+
+word: ጄኔራል
+POS: noun, stem: ጄኔራል
+
+?word: አብደል
+
+word: ፈታህ
+POS: verb, root: <ft'>, citation: ፈታ
+
+word: አልቡርሀን
+?POS: noun, stem: አልቡርሀ
+
+word: ጋርም
+POS: noun, stem: ጋር
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: ያካሂዳሉ
+?POS: noun, stem: አካሂዳል
+
+word: ተብሎ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ይጠበቃል
+POS: verb, root: <Tb_q>, citation: ተጠበቀ
+
+?word: ኢቢሲ
+
+word: ዘግቧል
+POS: verb, root: <zgb>, citation: ዘገበ
+

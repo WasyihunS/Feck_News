@@ -1,0 +1,650 @@
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: እለት
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ሲገኝባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: ህይወት
+POS: noun, stem: ህይወት
+
+word: አልፏል
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: በተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ሺህ
+
+word: የላቦራቶሪ
+?POS: noun, stem: ላቦራቶሪ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: እንደተገኘባቸውና
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: ህይወት
+POS: noun, stem: ህይወት
+
+word: እንዳለፈ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: ሊያ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: አስታወቁ
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: በሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: የተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ቁጥር
+POS: noun, stem: ቁጥር
+
+word: ደርሷል
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: እንደተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የተረጋገጠው
+POS: verb, root: <rgT>, citation: ተረጋገጠ
+
+word: እድሜያቸው
+POS: noun, stem: እድሜ
+
+word: አመት
+
+word: በምርመራ
+POS: noun, stem: ምርመራ
+
+word: ከተረጋገጠው
+POS: verb, root: <rgT>, citation: ተረጋገጠ
+
+word: ወንድና
+POS: noun, stem: ወንድ
+
+word: ሴቶች
+POS: noun, stem: ሴት
+
+word: ሲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ኢትዮጵያውያን
+POS: noun, stem: ኢትዮጵያዊ
+
+word: ሲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የቡሪንዲ
+?POS: noun, stem: ቡሪንዲ
+
+word: ዜጋ
+POS: noun, stem: ዜጋ
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: ሊያ
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: የተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ከአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ሲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በበሽታው
+POS: noun, stem: በሽታ
+
+word: ከተያዘ
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የታወቀ
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ግንኙነት
+POS: noun, stem: ግንኙነት
+
+word: ያላቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ዎቹ
+?POS: noun, stem: ዎች
+
+word: የውጭ
+POS: noun, stem: ውጭ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ጉዞ
+POS: noun, stem: ጉዞ
+
+word: ታሪክ
+POS: noun, stem: ታሪክ
+
+word: በበሽታው
+POS: noun, stem: በሽታ
+
+word: ከተያዘ
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የታወቀ
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ግንኙነት
+POS: noun, stem: ግንኙነት
+
+word: የሌላቸው
+POS: verb, root: <al_e>, citation: አለ
+
+word: ተብሏል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: አንድ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: ከትግራይ
+POS: noun, stem: ትግራይ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: የውጭ
+POS: noun, stem: ውጭ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ጉዞ
+POS: noun, stem: ጉዞ
+
+word: ታሪክ
+POS: noun, stem: ታሪክ
+
+word: ያለውና
+POS: verb, root: <b'l>, citation: አለ
+
+word: በለይቶ
+?POS: noun, stem: ለይቶ
+
+word: ማቆያ
+POS: noun, stem: አቆየ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ከሶማሌ
+POS: noun, stem: ሶማሌ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: የውጭ
+POS: noun, stem: ውጭ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ጉዞ
+POS: noun, stem: ጉዞ
+
+word: ታሪክ
+POS: noun, stem: ታሪክ
+
+word: ያላቸውና
+POS: verb, root: <b'l>, citation: አለ
+
+word: በለይቶ
+?POS: noun, stem: ለይቶ
+
+word: ማቆያ
+POS: noun, stem: አቆየ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ከኦሮሚያ
+?POS: noun, stem: ኦሮሚያ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ሲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: በበሽታው
+POS: noun, stem: በሽታ
+
+word: ከተያዘ
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የታወቀ
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ግንኙነት
+POS: noun, stem: ግንኙነት
+
+word: ያለውና
+POS: verb, root: <b'l>, citation: አለ
+
+word: የውጭ
+POS: noun, stem: ውጭ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: የጉዙ
+?POS: noun, stem: ጉዙ
+
+word: ታሪክና
+POS: noun, stem: ታሪክ
+
+word: በበሽታው
+POS: noun, stem: በሽታ
+
+word: ከተያዘ
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የታወቀ
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ግንኙነት
+POS: noun, stem: ግንኙነት
+
+word: የሌላቸው
+POS: verb, root: <al_e>, citation: አለ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: አክለውም
+POS: verb, root: <'k_l>, citation: አከለ
+
+word: በተጓዳኝ
+POS: verb, root: <gWd'>, citation: ተጓዳ
+
+word: ህመም
+POS: noun, stem: ህመም
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: አመት
+
+word: እድመሜ
+?POS: noun, stem: እድመም
+
+word: ያላቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሴት
+POS: noun, stem: ሴት
+
+word: በኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: በተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: ናሙና
+POS: noun, stem: ናሙና
+
+word: ከተወሰደ
+POS: verb, root: <wsd>, citation: ተወሰደ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: ሳይደርስ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ህይወታቸው
+POS: noun, stem: ህይወት
+
+word: አልፏል
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: በምርመራ
+POS: noun, stem: ምርመራ
+
+word: ውጤትም
+POS: noun, stem: ውጤት
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: እንደተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ስለተረጋጋጠ
+?POS: noun, stem: ተረጋጋጠ
+
+word: በአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: በቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ህይወታቸው
+POS: noun, stem: ህይወት
+
+word: ያለፉ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ቁጥር
+POS: noun, stem: ቁጥር
+
+word: ደርሷል
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ባጋጠው
+POS: verb, root: <g'T>, citation: አጋጠ
+
+word: የሞት
+POS: noun, stem: ሞት
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴርና
+POS: noun, stem: ሚኒስቴር
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ጤና
+POS: noun, stem: ጤና
+
+?word: ኢንስቲትዩት
+
+word: የተሰማቸውን
+POS: verb, root: <sm'>, citation: ተሰማ
+
+word: ሀዘን
+?POS: noun, stem: ሀዘ
+
+word: እየገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ለቤተሰቦቻቸው
+POS: noun, stem: ቤተሰብ
+
+word: መፅናናትን
+POS: noun, stem: ተጽናና
+
+word: ተመኝተዋል
+POS: verb, root: <mN*>, citation: ተመኘ
+
+word: በአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ተገኝቶባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በለይቶ
+?POS: noun, stem: ለይቶ
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በሌላ
+POS: noun, stem: ሌላ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: በትናንትናው
+POS: noun, stem: ትናንትና
+
+word: እለት
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ከአዲስ
+POS: noun, stem: አዲስ
+
+?word: አባበ
+
+word: ከበሽታው
+POS: noun, stem: በሽታ
+
+word: ያገገሙ
+POS: verb, root: <gg_m>, citation: አገገመ
+
+word: ቁጥሩም
+POS: noun, stem: ቁጥር
+
+word: ደርሷል
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: አንድ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: በፅኑ
+POS: noun, stem: ጽኑ
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: ክፍል
+POS: noun, stem: ክፍል
+
+word: ክትትል
+POS: noun, stem: ክትትል
+
+word: እየተደረገለት
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: መሆኑም
+POS: noun, stem: ሆነ
+
+word: ታውቋል
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴርና
+POS: noun, stem: ሚኒስቴር
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ጤና
+POS: noun, stem: ጤና
+
+?word: ኢንስቲትዩት
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: መጨመርን
+POS: noun, stem: ጨመረ
+
+word: ከግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: በማስገባት
+POS: noun, stem: አስገባ
+
+word: ህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ጥንቃቄዎችን
+POS: noun, stem: ጥንቃቄ
+
+word: አዘውትሮ
+POS: verb, root: <zwtr>, citation: አዘወተረ
+
+word: እንዲተገብር
+?POS: noun, stem: ንዲተገብር
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: አጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ሺህ
+
+word: የላቦራቶሪ
+?POS: noun, stem: ላቦራቶሪ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ተከናውኗል
+POS: verb, root: <knawn>, citation: ተከናወነ
+

@@ -1,0 +1,558 @@
+word: አንበሳ
+POS: noun, stem: አንበሳ
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አውቶብስ
+?POS: noun, stem: አውቶብ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: ለላሌ
+?POS: noun, stem: ላል
+
+word: አንደኛ
+POS: noun, stem: አንደኛ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ሺህ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ግምት
+POS: noun, stem: ግምት
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቁሳቁስ
+?POS: noun, stem: ቁሳቁ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: አደረገ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: አቃቂ
+?POS: verb, root: <qqq>, citation: አቃቀቀ
+
+?word: ቃሊቲ
+
+?word: ክፍለ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: እንስላሌ
+POS: noun, stem: እንስላል
+
+word: ተብሎ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: በሚጠራው
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: አካባቢ
+POS: noun, stem: አካባቢ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ባለመኖሩ
+POS: noun, stem: ኖረ
+
+word: ልጆች
+POS: noun, stem: ልጅ
+
+word: በርቀት
+POS: noun, stem: ርቀት
+
+word: ተጉዘው
+POS: verb, root: <gW'z>, citation: ተጓዘ
+
+word: ለመማር
+POS: noun, stem: ተማረ
+
+word: ይገደዱ
+POS: verb, root: <gdd>, citation: ተገደደ
+
+word: ነበር
+
+word: የልጆቻቸውን
+POS: noun, stem: ልጅ
+
+word: የተረዱት
+POS: verb, root: <rd'>, citation: ተረዳ
+
+word: የአካባቢው
+POS: noun, stem: አካባቢ
+
+word: ነዋሪዎች
+POS: noun, stem: ነወረ
+
+word: በራሳቸው
+POS: noun, stem: ራስ
+
+?word: ተነሳሽነት
+
+word: በአቅራቢያቸው
+POS: noun, stem: አቅራቢ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: አሰርተው
+POS: verb, root: <sr'>, citation: አሰራ
+
+word: የአካባቢው
+POS: noun, stem: አካባቢ
+
+word: ህፃናትና
+POS: noun, stem: ህጻን
+
+word: ወጣቶች
+POS: noun, stem: ወጣት
+
+word: እየተማሩበት
+POS: verb, root: <m'r>, citation: ተማረ
+
+word: ደርሷል
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: አንበሳ
+POS: noun, stem: አንበሳ
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አውቶብስ
+?POS: noun, stem: አውቶብ
+
+word: ድርጅትም
+POS: noun, stem: ድርጅት
+
+word: ላለፉት
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: ሶስት
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: ለትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ቁሳቁሶችን
+?POS: noun, stem: ቁሳቁስ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: ሲያግዝ
+POS: verb, root: <'g_z>, citation: አገዘ
+
+word: ቆይቷል
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ዘንድሮም
+POS: noun, stem: ዘንድሮ
+
+word: ይህንኑ
+?POS: noun, stem: ይህንን
+
+word: ድጋፉን
+POS: noun, stem: ድጋፍ
+
+word: በማጠናከር
+POS: noun, stem: አጠናከረ
+
+word: ሺህ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ግምት
+POS: noun, stem: ግምት
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቁሳቁስ
+?POS: noun, stem: ቁሳቁ
+
+word: ለትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ለግሷል
+POS: verb, root: <lg_s>, citation: ለገሰ
+
+word: የአንበሳ
+POS: noun, stem: አንበሳ
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አውቶብስ
+?POS: noun, stem: አውቶብ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: አስኪያጅ
+POS: noun, stem: ህይድ
+
+word: ገበየሁ
+POS: verb, root: <gby*>, citation: ገበየ
+
+word: ዋቂ
+?POS: verb, root: <waqq>, citation: ዋቀቀ
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የተደረገው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ለተማሪዎች
+POS: noun, stem: ተማረ
+
+word: መማሪያ
+POS: noun, stem: ተማረ
+
+word: ለመምህራኑ
+POS: noun, stem: መምህር
+
+?word: ማስተማሪያነት
+
+word: የሚያገለግሉ
+POS: verb, root: <glgl>, citation: አገለገለ
+
+word: ቁሳቁሶች
+?POS: noun, stem: ቁሳቁስ
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስን
+?POS: noun, stem: ቫይረስ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያግዙ
+POS: verb, root: <'g_z>, citation: አገዘ
+
+word: የአፍና
+POS: noun, stem: አፍ
+
+word: አፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛ
+POS: noun, stem: ሸፈነ
+
+word: ጭንብሎችና
+?POS: noun, stem: ጭንብል
+
+word: ሳኒታይዘርም
+?POS: noun, stem: ሳኒታይዘር
+
+word: ተበርክቷል
+POS: verb, root: <brkt>, citation: ተበረከተ
+
+?word: ሸገር
+
+word: የብዙሀን
+?POS: noun, stem: ብዙሀን
+
+?word: ትራንስፖርት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: አስኪያጅ
+POS: noun, stem: ህይድ
+
+word: መስፍን
+POS: noun, stem: መስፍን
+
+word: መንግስቱም
+POS: noun, stem: መንግስት
+
+word: የአንበሳ
+POS: noun, stem: አንበሳ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: አውቶብስ
+?POS: noun, stem: አውቶብ
+
+word: ድርጅትን
+POS: noun, stem: ድርጅት
+
+word: መልካም
+POS: noun, stem: መልካም
+
+word: አርአያ
+POS: noun, stem: አርአያ
+
+word: እንደሚከተሉ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የድርጅቱ
+POS: noun, stem: ድርጅት
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: የአንድ
+POS: noun, stem: አንድ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ደመወዛቸውን
+POS: noun, stem: ደመወዝ
+
+word: ለበጎ
+POS: noun, stem: በጎ
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: በማዋል
+POS: noun, stem: አዋለ
+
+word: ዜጎችን
+POS: noun, stem: ዜጋ
+
+word: በመርዳት
+POS: noun, stem: ረዳ
+
+word: ደብተር
+POS: noun, stem: ደብተር
+
+word: የማሰባሰብ
+POS: noun, stem: አሰባሰበ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: እየሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: መሆኑንም
+POS: noun, stem: ሆነ
+
+word: የወላጅ
+POS: noun, stem: ወለደ
+
+word: ተማሪ
+POS: noun, stem: ተማረ
+
+word: መምህራን
+POS: noun, stem: መምህር
+
+word: ህብረት
+POS: noun, stem: ህብረት
+
+word: ወተመህ
+?POS: noun, stem: ወተመ
+
+word: ተወካይ
+POS: noun, stem: ተወከለ
+
+word: ቋድር
+?POS: noun, stem: ቅዋድር
+
+word: አሽቆ
+?POS: verb, root: <sxq>, citation: አሰሸቀ
+
+word: ድርጅቱ
+POS: noun, stem: ድርጅት
+
+word: ያደረገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ለትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ትልቅ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: እገዛ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የተደረገው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ተማሪዎች
+POS: noun, stem: ተማረ
+
+word: ሊገጥማቸው
+POS: verb, root: <gTm>, citation: ገጠመ
+
+word: የሚችለውን
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የቁሳቁስ
+?POS: noun, stem: ቁሳቁስ
+
+word: በማቃለል
+POS: noun, stem: አቃለለ
+
+word: በኩልም
+POS: noun, stem: ኩል
+
+word: ትልቅ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: ትርጉም
+POS: noun, stem: ትርጉም
+
+word: ተቋማትም
+?POS: noun, stem: ተቅዋማት
+
+word: የአንበሳ
+POS: noun, stem: አንበሳ
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አውቶብስን
+?POS: noun, stem: አውቶብስ
+
+word: በጎ
+POS: noun, stem: በጎ
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: በመከተል
+POS: noun, stem: ተከተለ
+
+word: ድጋፍና
+POS: noun, stem: ድጋፍ
+
+word: እገዛ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: እንዲያደርጉ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ጠይቀዋል
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: የላሌ
+?POS: noun, stem: የላል
+
+word: አንደኛ
+POS: noun, stem: አንደኛ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: አቃቂ
+?POS: verb, root: <qqq>, citation: አቃቀቀ
+
+?word: ቃሊቲ
+
+?word: ክፍለ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: እንስላሌ
+POS: noun, stem: እንስላል
+
+word: በሚባል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+word: ይገኛል
+POS: verb, root: <gN*>, citation: ተገኘ
+

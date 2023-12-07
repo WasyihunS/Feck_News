@@ -1,0 +1,610 @@
+word: ግጭትን
+POS: noun, stem: ግጭት
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+?word: ተግባራዊ
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ግጭት
+POS: noun, stem: ግጭት
+
+word: እንዳይከሰት
+POS: verb, root: <ks_t>, citation: ተከሰተ
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: በተግባር
+POS: noun, stem: ተግባር
+
+word: ማዋሉን
+POS: noun, stem: አዋለ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ሙፈሪያት
+?POS: verb, root: <mWfr>, citation: ሞፈረ
+
+word: ካሚል
+?POS: noun, stem: አሚል
+
+word: በአገሪቱ
+POS: noun, stem: አገር
+
+word: እየታዩ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: ግጭቶችን
+POS: noun, stem: ግጭት
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: በቴክኖሎጂ
+?POS: noun, stem: ቴክኖሎጂ
+
+word: የታገዘ
+POS: verb, root: <'g_z>, citation: ታገዘ
+
+word: አሰራር
+POS: noun, stem: ሰራ
+
+?word: ተግባራዊ
+
+word: ተደርጓል
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: አሰራሩ
+POS: noun, stem: ሰራ
+
+?word: ቅድመ
+
+word: ማስጠንቀቂያ
+POS: noun, stem: አስጠነቀቀ
+
+word: የሚሰጥና
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ለፈጣን
+POS: noun, stem: ፈጣን
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: አሰጣጥ
+POS: noun, stem: ሰጠ
+
+word: የሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ተናግረው
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: በሁሉም
+POS: noun, stem: ሁሉ
+
+word: አካባቢዎች
+POS: noun, stem: አካባቢ
+
+word: የሚታዩ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: የግጭት
+POS: noun, stem: ግጭት
+
+word: ምንጮች
+POS: noun, stem: ምንጭ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: በመሰብሰብ
+POS: noun, stem: ተሰበሰበ
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ለማወቅና
+POS: noun, stem: አወቀ
+
+word: ለመተንተን
+POS: noun, stem: ተነተነ
+
+word: ምቹ
+POS: noun, stem: ምች
+
+word: እንደሚፈጥር
+POS: verb, root: <fTr>, citation: ፈጠረ
+
+word: ጠቁመዋል
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: በሁሉም
+POS: noun, stem: ሁሉ
+
+word: አካባቢዎች
+POS: noun, stem: አካባቢ
+
+word: የኢንተርኔት
+?POS: noun, stem: ኢንተርኔት
+
+word: ቴክኖሎጂው
+?POS: noun, stem: ቴክኖሎጂ
+
+word: እስከሚስፋፋ
+POS: verb, root: <sf'>, citation: ተስፋፋ
+
+word: የመረጃ
+POS: noun, stem: ተረዳ
+
+word: መሰብሰብ
+POS: noun, stem: ተሰበሰበ
+
+word: ስራውን
+POS: noun, stem: ስራ
+
+word: በሰዎች
+POS: noun, stem: ሰው
+
+word: እንዲከናወን
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: ግጭት
+POS: noun, stem: ግጭት
+
+word: ሳይፈጠሩ
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: የመከላከል
+POS: noun, stem: ተከላከለ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: መጀመሩንም
+POS: noun, stem: ጀመረ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: ባለፈው
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: አመት
+
+word: ግጭት
+POS: noun, stem: ግጭት
+
+word: በመፍጠር
+POS: noun, stem: ፈጠረ
+
+word: የተጠረጠሩ
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: ግለሰቦች
+POS: noun, stem: ግለሰብ
+
+word: በመቶ
+POS: noun, stem: መቶ
+
+word: ለህግ
+POS: noun, stem: ህግ
+
+word: እንዲቀርቡ
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: መደረጉንም
+POS: noun, stem: ተደረገ
+
+word: ጠቁመው
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: ከህዝብ
+POS: noun, stem: ህዝብ
+
+word: በመቀናጀት
+?POS: noun, stem: ቀናጀተ
+
+word: በወንጀል
+POS: noun, stem: ወንጀል
+
+word: የተጠረጠሩ
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: አካላትን
+POS: noun, stem: አካላት
+
+word: ተጠያቂ
+POS: noun, stem: ተጠየቀ
+
+word: የማድረጉ
+POS: noun, stem: አደረገ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: እንደተጠናከረ
+POS: verb, root: <Tnkr>, citation: ተጠናከረ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ከዚያም
+POS: noun, stem: ያ
+
+word: ባለፈ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: በህዝቦች
+POS: noun, stem: ህዝብ
+
+word: ዘላቂ
+POS: noun, stem: ዘለቀ
+
+word: ሰላምን
+POS: noun, stem: ሰላም
+
+word: ለማስፈን
+POS: noun, stem: አሰፈነ
+
+word: የሚያስችሉ
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: የአመለካከት
+?POS: noun, stem: አመለካከት
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: መግባባትና
+POS: noun, stem: ተግባባ
+
+word: መሰል
+?POS: noun, stem: ሰሰለ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: እየተሰሩ
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: መሆናቸውን
+POS: noun, stem: ሆነ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: ውጤታቸው
+POS: noun, stem: ውጤት
+
+word: ቶሎ
+
+word: የሚታይ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: አለመሆኑን
+POS: noun, stem: ሆነ
+
+word: የተናገሩት
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: ስራዎቹ
+POS: noun, stem: ስራ
+
+word: በቀጣይ
+POS: noun, stem: ቀጠለ
+
+word: ዘላቂ
+POS: noun, stem: ዘለቀ
+
+word: ሰላምን
+POS: noun, stem: ሰላም
+
+word: ከማስፈን
+POS: noun, stem: አሰፈነ
+
+word: አኳያ
+?POS: noun, stem: አክዋያ
+
+word: ጉልህ
+?POS: noun, stem: ጉል
+
+word: ሚና
+POS: noun, stem: ሚና
+
+word: እንደሚኖራቸው
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+?word: ኮሚሽነር
+
+?word: ጀኔራል
+
+word: ጌቱ
+?POS: noun, stem: ጌት
+
+word: ተክለዮሀንስ
+?POS: noun, stem: ተክለዮሀን
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+?word: ሰራዊት
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: አቅሙ
+POS: noun, stem: አቅም
+
+word: የአገር
+POS: noun, stem: አገር
+
+word: ሰላምና
+POS: noun, stem: ሰላም
+
+word: ፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: የማስጠበቅ
+POS: noun, stem: አስጠበቀ
+
+word: ግዳጁን
+POS: noun, stem: ግዳጅ
+
+word: ለመወጣት
+POS: noun, stem: ተወጣ
+
+word: ግብአቶች
+?POS: noun, stem: ግብአት
+
+word: እየተሟሉለት
+POS: verb, root: <mWl'>, citation: ተሟላ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ለረዥም
+POS: noun, stem: ረዥም
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ሲጓተቱ
+POS: verb, root: <gWt_t>, citation: ተጓተተ
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: በአሁኑ
+POS: noun, stem: አሁን
+
+word: እየተተገበሩ
+?POS: noun, stem: እየተተገበር
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+?word: ኮሚሽነር
+
+word: ጀኔራሉ
+?POS: noun, stem: ጀኔራል
+
+word: ሰላም
+POS: noun, stem: ሰላም
+
+word: ከማስከበር
+POS: noun, stem: አስከበረ
+
+word: አኳያ
+?POS: noun, stem: አክዋያ
+
+word: አደረጃጀቶችን
+POS: noun, stem: ደረጀ
+
+word: የመፍጠር
+POS: noun, stem: ፈጠረ
+
+word: ስራው
+POS: noun, stem: ስራ
+
+word: እንደሚጠናከር
+POS: verb, root: <Tnkr>, citation: ተጠናከረ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በተጨማሪም
+POS: noun, stem: ተጨማሪ
+
+word: ከህዝብ
+POS: noun, stem: ህዝብ
+
+word: በቅርበት
+?POS: noun, stem: ቅርበት
+
+word: በመስራት
+POS: noun, stem: ሰራ
+
+word: የተጀመረው
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ማስከበር
+POS: noun, stem: አስከበረ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ተጠናክሮ
+POS: verb, root: <Tnkr>, citation: ተጠናከረ
+
+word: እንደሚቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: መናገራቸውን
+POS: noun, stem: ተናገረ
+
+?word: ኢዜአ
+
+word: ዘግቧል
+POS: verb, root: <zgb>, citation: ዘገበ
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትክ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

@@ -1,0 +1,381 @@
+?word: አገራዊ
+
+word: ልማትን
+POS: noun, stem: ልማት
+
+word: ለማፋጠን
+POS: noun, stem: አፋጠነ
+
+word: የዜጎችን
+POS: noun, stem: ዜጋ
+
+?word: አሁናዊ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ማወቅ
+POS: noun, stem: አወቀ
+
+word: አስፈላጊ
+POS: noun, stem: አስፈለገ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኢዜአ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የተጀመረውን
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+?word: ሁለንተናዊ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ለማፋጠን
+POS: noun, stem: አፋጠነ
+
+word: የወሳኝ
+POS: noun, stem: ወሰነ
+
+word: ኩነት
+?POS: verb, root: <kWnt>, citation: ኮነተ
+
+word: ምዝገባ
+POS: noun, stem: ምዝገባ
+
+word: በማከናወን
+POS: noun, stem: አከናወነ
+
+word: የዜጎችን
+POS: noun, stem: ዜጋ
+
+?word: አሁናዊ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ማወቅ
+POS: noun, stem: አወቀ
+
+word: የግድ
+POS: noun, stem: ግድ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሀላፊዎች
+POS: noun, stem: ሀላፊ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የኢሚግሬሽን
+?POS: noun, stem: ኢሚግሬሽን
+
+word: ዜግነትና
+POS: noun, stem: ዜግነት
+
+word: ወሳኝ
+POS: noun, stem: ወሰነ
+
+word: ኩነት
+?POS: verb, root: <kWnt>, citation: ኮነተ
+
+word: ምዝገባ
+POS: noun, stem: ምዝገባ
+
+?word: ኤጀንሲ
+
+word: ላለፉት
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: አምስት
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: ሲያከናውነው
+POS: verb, root: <knawn>, citation: አከናወነ
+
+word: የነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የወሳኝ
+POS: noun, stem: ወሰነ
+
+word: ኩነት
+?POS: verb, root: <kWnt>, citation: ኮነተ
+
+word: ምዝገባ
+POS: noun, stem: ምዝገባ
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: እለት
+
+word: ተጠናቋል
+POS: verb, root: <Tnqq>, citation: ተጠናቀቀ
+
+word: የሰላም
+POS: noun, stem: ሰላም
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: ሙፈሪያት
+?POS: verb, root: <mWfr>, citation: ሞፈረ
+
+word: ካሚል
+?POS: noun, stem: አሚል
+
+word: በመርሀ
+?POS: noun, stem: መርሀ
+
+word: ግብሩ
+POS: noun, stem: ግብር
+
+word: በመገኘት
+POS: noun, stem: ተገኘ
+
+word: ባደረጉት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ንግግር
+POS: noun, stem: ንግግር
+
+word: እየተከናወነ
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ፈጣን
+POS: noun, stem: ፈጣን
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: በዜጎች
+POS: noun, stem: ዜጋ
+
+?word: ወቅታዊ
+
+word: የሚመዘን
+POS: verb, root: <mz_n>, citation: ተመዘነ
+
+word: የወሳኝ
+POS: noun, stem: ወሰነ
+
+word: ኩነት
+?POS: verb, root: <kWnt>, citation: ኮነተ
+
+word: ምዝገባን
+POS: noun, stem: ምዝገባ
+
+word: ማጠናከር
+POS: noun, stem: አጠናከረ
+
+word: ያስፈልጋል
+POS: verb, root: <fl_g>, citation: አስፈለገ
+
+word: በተለይም
+POS: noun, stem: ተለየ
+
+word: የሰብአዊ
+?POS: noun, stem: ሰብአዊ
+
+word: መብት
+POS: noun, stem: መብት
+
+word: ድንጋጌ
+POS: noun, stem: ድንጋጌ
+
+word: አፈፃፀምን
+POS: noun, stem: ፈጸመ
+
+word: ለመገምገምና
+POS: noun, stem: ገመገመ
+
+word: የዜጎች
+POS: noun, stem: ዜጋ
+
+?word: ኢኮኖሚያዊ
+
+word: ማህበራዊና
+?POS: noun, stem: ማህበራዊ
+
+?word: ፖለቲካዊ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ተጠቃሚነታቸውን
+?POS: noun, stem: ተጠቃሚነት
+
+word: ለማጉላት
+POS: noun, stem: አጐላ
+
+word: የወሳኝ
+POS: noun, stem: ወሰነ
+
+word: ኩነት
+?POS: verb, root: <kWnt>, citation: ኮነተ
+
+word: ምዝገባ
+POS: noun, stem: ምዝገባ
+
+word: አጋዥ
+POS: noun, stem: አገዘ
+
+word: በተጠናቀቀው
+POS: verb, root: <Tnqq>, citation: ተጠናቀቀ
+
+word: በጀት
+?POS: noun, stem: ጀት
+
+word: አመት
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: የአስር
+POS: noun, stem: አስር
+
+word: አመት
+
+word: እቅዳቸውን
+POS: noun, stem: እቅድ
+
+word: ይፋ
+POS: noun, stem: ይፋ
+
+word: ማድረጋቸውን
+POS: noun, stem: አደረገ
+
+word: አስታውሰው
+POS: verb, root: <'ws>, citation: አስታወሰ
+
+word: እቅዱን
+POS: noun, stem: እቅድ
+
+word: በሚፈለገው
+POS: verb, root: <fl_g>, citation: ተፈለገ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ለማሳካት
+POS: noun, stem: አሳካ
+
+word: የዜጎችን
+POS: noun, stem: ዜጋ
+
+?word: አሁናዊ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ማወቅ
+POS: noun, stem: አወቀ
+
+word: የግድ
+POS: noun, stem: ግድ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: ሊያ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: በወረርሽኝ
+POS: verb, root: <wrr>, citation: ወረረ
+
+word: በተጠቁበት
+POS: verb, root: <Tq'>, citation: ተጠቃ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ትክክለኛ
+POS: noun, stem: ትክክለኛ
+
+word: የሞት
+POS: noun, stem: ሞት
+
+word: ቁጥር
+POS: noun, stem: ቁጥር
+
+word: በዳታ
+?POS: noun, stem: ዳታ
+
+word: ማስቀመጥ
+POS: noun, stem: አስቀመጠ
+
+word: አለባቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይህም
+POS: noun, stem: ይህ
+
+word: ወረርሽኙ
+POS: noun, stem: ወረርሽኝ
+
+word: ያስከተለውን
+POS: verb, root: <kt_l>, citation: አስከተለ
+
+word: ጉዳትና
+POS: noun, stem: ጉዳት
+
+word: የሞት
+POS: noun, stem: ሞት
+
+word: ምጣኔ
+POS: noun, stem: ምጣኔ
+
+word: በመገንዘብ
+POS: noun, stem: ተገነዘበ
+
+word: የሚወሰዱ
+POS: verb, root: <wsd>, citation: ተወሰደ
+
+word: ማስተካከያዎችና
+POS: noun, stem: አስተካከለ
+
+word: አማራጮችን
+POS: noun, stem: አማራጭ
+
+word: ለመጠቀም
+POS: noun, stem: ተጠቀመ
+
+word: ይረዳል
+POS: verb, root: <rd'>, citation: ተረዳ
+

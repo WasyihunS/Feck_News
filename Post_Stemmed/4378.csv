@@ -1,0 +1,636 @@
+word: ኢትዮጵያዊያን
+POS: noun, stem: ኢትዮጵያዊ
+
+word: ብስክሌተኞች
+?POS: noun, stem: ብስክሌተኝ
+
+word: የተሳተፉበት
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+?word: ኛው
+
+word: የቱር
+?POS: noun, stem: ቱር
+
+?word: ሩዋንዳ
+
+word: የብስክሌት
+?POS: noun, stem: ብስክሌት
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: አምስተኛ
+POS: noun, stem: አምስተኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: ደርሷል
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: በውድድሩ
+POS: noun, stem: ውድድር
+
+?word: ክብረአብ
+
+?word: ተክለሀይማኖት
+
+word: ተመስገን
+POS: verb, root: <msgn>, citation: ተመሰገነ
+
+word: መብራህቱ
+?POS: noun, stem: መብራህት
+
+?word: ሀይለመለኮት
+
+?word: ወልደአብዝጊ
+
+word: ፊልሞን
+?POS: noun, stem: ፊልሞ
+
+word: ዘርአብሩክና
+?POS: noun, stem: ዘርአብሩክ
+
+word: ነጋሲ
+POS: noun, stem: ነጋሲ
+
+word: ሀይሉ
+POS: noun, stem: ሀይል
+
+word: ኢትዮጵያን
+POS: noun, stem: ኢትዮጵያ
+
+word: ወክለው
+POS: verb, root: <wk_l>, citation: ወከለ
+
+word: እየተሳተፉ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: ሙሉ
+POS: noun, stem: ሙሉ
+
+?word: ክንፈ
+
+word: የፈረንሳዩን
+?POS: noun, stem: ፈረንሳይ
+
+?word: ኒፖ
+
+?word: ዴልኮ
+
+word: ዋን
+?POS: verb, root: <wann>, citation: ዋነነ
+
+word: ፕሮቬንቼን
+?POS: noun, stem: ፕሮቬንቼ
+
+?word: ሀብተአብ
+
+?word: ወልደገብርኤል
+
+word: የደቡብ
+POS: noun, stem: ደቡብ
+
+word: አፍሪካውን
+?POS: noun, stem: አፍሪካ
+
+?word: ፕሮተች
+
+word: ክለቦችን
+?POS: noun, stem: ክለብ
+
+word: ወክለዋል
+POS: verb, root: <wk_l>, citation: ወከለ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ሜትር
+POS: noun, stem: ሜትር
+
+word: የሚሸፍነው
+POS: verb, root: <xf_n>, citation: ሸፈነ
+
+word: አራተኛ
+POS: noun, stem: አራተኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: የቱር
+?POS: noun, stem: ቱር
+
+?word: ሩዋንዳ
+
+word: የብስክሌት
+?POS: noun, stem: ብስክሌት
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: መካሄዱ
+POS: noun, stem: ተካሄደ
+
+word: ይታወቃል
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: በውድድሩ
+POS: noun, stem: ውድድር
+
+word: ተመስገን
+POS: verb, root: <msgn>, citation: ተመሰገነ
+
+word: መብራህቱ
+?POS: noun, stem: መብራህት
+
+word: የፈረንሳዩ
+?POS: noun, stem: ፈረንሳይ
+
+?word: ኒፖ
+
+?word: ዴልኮ
+
+word: ዋን
+?POS: verb, root: <wann>, citation: ዋነነ
+
+word: ፕሮቬንቼ
+?POS: noun, stem: ፕሮቬንች
+
+word: ክለብ
+POS: verb, root: <klb>, citation: ከለበ
+
+word: ተወዳዳሪ
+POS: noun, stem: ተወዳደረ
+
+word: ሙሉ
+POS: noun, stem: ሙሉ
+
+?word: ክንፈ
+
+?word: ሀይለመለኮት
+
+?word: ወልደአብዝጊ
+
+word: ነጋሲ
+POS: noun, stem: ነጋሲ
+
+word: ሀይሉ
+POS: noun, stem: ሀይል
+
+word: ፊልሞን
+?POS: noun, stem: ፊልሞ
+
+?word: ዘርአብሩክ
+
+?word: ኛና
+
+word: የደቡብ
+POS: noun, stem: ደቡብ
+
+word: አፍሪካው
+?POS: noun, stem: አፍሪካ
+
+?word: ፕሮተች
+
+word: ክለብ
+POS: verb, root: <klb>, citation: ከለበ
+
+word: ተወዳዳሪ
+POS: noun, stem: ተወዳደረ
+
+?word: ሀብተአብ
+
+?word: ወልደገብርኤል
+
+word: ደረጃን
+POS: noun, stem: ደረጃ
+
+word: ይዘው
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: ውድድራቸውን
+POS: noun, stem: ውድድር
+
+word: አጠናቀዋል
+POS: verb, root: <Tnqq>, citation: አጠናቀቀ
+
+?word: ሀይለመለኮት
+
+word: ወልደአብዝጊን
+?POS: noun, stem: ወልደአብዝጊ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: ካዛኪስታናዊና
+?POS: noun, stem: አዛኪስታናዊ
+
+?word: ማሌዢያዊ
+
+word: ብስክሌተኞች
+?POS: noun, stem: ብስክሌተኝ
+
+word: ውድድሩን
+POS: noun, stem: ውድድር
+
+word: ሳይጨርሱ
+POS: verb, root: <Cr_s>, citation: ጨረሰ
+
+word: አቋርጠዋል
+POS: verb, root: <qWrT>, citation: አቋረጠ
+
+word: ኤርትራዊው
+POS: noun, stem: ኤርትራዊ
+
+?word: ብስክሌተኛ
+
+?word: ናትናኤል
+
+word: ተስፋፅዮን
+?POS: noun, stem: ተስፋጽዮ
+
+word: የአራተኛው
+POS: noun, stem: አራተኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: አሸናፊ
+POS: noun, stem: አሸነፈ
+
+word: ደቡብ
+POS: noun, stem: ደቡብ
+
+word: አፍሪካዊው
+POS: noun, stem: አፍሪካዊ
+
+?word: ብስክሌተኛ
+
+?word: ሜን
+
+word: ኬንትና
+?POS: noun, stem: ኬንት
+
+word: ሩዋንዳዊው
+?POS: noun, stem: ሩዋንዳዊ
+
+?word: ብስክሌተኛ
+
+word: ሞይሴ
+?POS: noun, stem: ሞይስ
+
+?word: ሙጊሻ
+
+word: ሁለተኛና
+POS: noun, stem: ሁለተኛ
+
+word: ሶስተኛ
+POS: noun, stem: ሶስተኛ
+
+word: ወጥተዋል
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ሜትር
+POS: noun, stem: ሜትር
+
+word: የሚሸፍነው
+POS: verb, root: <xf_n>, citation: ሸፈነ
+
+word: የአምስተኛው
+POS: noun, stem: አምስተኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: የቱር
+?POS: noun, stem: ቱር
+
+?word: ሩዋንዳ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: መነሻውን
+POS: noun, stem: ተነሳ
+
+word: ሩባቩ
+?POS: noun, stem: ሩባቭ
+
+word: መድረሻውን
+POS: noun, stem: ደረሰ
+
+word: ሙሳንዜ
+?POS: noun, stem: ሙሳንዝ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: ይካሄዳል
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: በአራቱ
+POS: noun, stem: አራት
+
+word: ዙሮች
+POS: noun, stem: ዙር
+
+word: አጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ድምር
+POS: noun, stem: ድምር
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: የውድድሩ
+POS: noun, stem: ውድድር
+
+word: ሁለተኛው
+POS: noun, stem: ሁለተኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: አሸናፊ
+POS: noun, stem: አሸነፈ
+
+word: የፈረንሳዩ
+?POS: noun, stem: ፈረንሳይ
+
+?word: ኒፖ
+
+?word: ዴልኮ
+
+word: ዋን
+?POS: verb, root: <wann>, citation: ዋነነ
+
+word: ፕሮቬንቼ
+?POS: noun, stem: ፕሮቬንች
+
+word: ክለብ
+POS: verb, root: <klb>, citation: ከለበ
+
+word: ተወዳዳሪ
+POS: noun, stem: ተወዳደረ
+
+word: ሙሉ
+POS: noun, stem: ሙሉ
+
+?word: ክንፈ
+
+?word: ሀይለመለኮት
+
+?word: ወልደአብዝጊ
+
+word: ነጋሲ
+POS: noun, stem: ነጋሲ
+
+word: ሀይሉ
+POS: noun, stem: ሀይል
+
+word: ተመስገን
+POS: verb, root: <msgn>, citation: ተመሰገነ
+
+word: መብራህቱ
+?POS: noun, stem: መብራህት
+
+word: ፊልሞን
+?POS: noun, stem: ፊልሞ
+
+?word: ዘርአብሩክ
+
+word: የደቡብ
+POS: noun, stem: ደቡብ
+
+word: አፍሪካው
+?POS: noun, stem: አፍሪካ
+
+?word: ፕሮተች
+
+word: ክለብ
+POS: verb, root: <klb>, citation: ከለበ
+
+word: ተወዳዳሪ
+POS: noun, stem: ተወዳደረ
+
+?word: ሀብተአብ
+
+?word: ወልደገብርኤል
+
+word: ደረጃን
+POS: noun, stem: ደረጃ
+
+word: ይዘዋል
+POS: verb, root: <y'z>, citation: ያዘ
+
+?word: ሀይለመለኮት
+
+?word: ወልደአብዝጊ
+
+word: የአራተኛውን
+POS: noun, stem: አራተኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: ባለማጠናቀቁ
+POS: noun, stem: አጠናቀቀ
+
+word: በውድድሩ
+POS: noun, stem: ውድድር
+
+word: ህግ
+
+word: መሰረት
+
+word: የአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ድምር
+POS: noun, stem: ድምር
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: አይመዘገብለትም
+POS: verb, root: <mzgb>, citation: ተመዘገበ
+
+word: ኤርትራዊው
+POS: noun, stem: ኤርትራዊ
+
+?word: ብስክሌተኛ
+
+?word: ናትናኤል
+
+word: ተስፋፅዮን
+?POS: noun, stem: ተስፋጽዮ
+
+word: ሩዋንዳዊው
+?POS: noun, stem: ሩዋንዳዊ
+
+?word: ብስክሌተኛ
+
+word: ሞይሴ
+?POS: noun, stem: ሞይስ
+
+word: ሙጊሻና
+?POS: noun, stem: ሙጊሻ
+
+word: ደቡብ
+POS: noun, stem: ደቡብ
+
+word: አፍሪካዊው
+POS: noun, stem: አፍሪካዊ
+
+word: በአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ድምር
+POS: noun, stem: ድምር
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: ከአንደኛ
+POS: noun, stem: አንደኛ
+
+word: ሶስተኛ
+POS: noun, stem: ሶስተኛ
+
+word: ያለውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ይዘዋል
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: በስምንት
+POS: noun, stem: ስምንት
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: የሚካሄደው
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የቱር
+?POS: noun, stem: ቱር
+
+?word: ሩዋንዳ
+
+word: የብስክሌት
+?POS: noun, stem: ብስክሌት
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: ብስክሌቶች
+?POS: noun, stem: ብስክሌት
+
+word: በአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ሜትር
+POS: noun, stem: ሜትር
+
+word: ይሸፍናሉ
+POS: verb, root: <xf_n>, citation: ሸፈነ
+
+?word: ኛው
+
+word: የቱር
+?POS: noun, stem: ቱር
+
+?word: ሩዋንዳ
+
+word: የብስክሌት
+?POS: noun, stem: ብስክሌት
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: የካቲት
+POS: noun, stem: የካቲት
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ይቆያል
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: የቱር
+?POS: noun, stem: ቱር
+
+?word: ሩዋንዳ
+
+word: የብስክሌት
+?POS: noun, stem: ብስክሌት
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: በአለም
+POS: noun, stem: አለም
+
+word: አቀፉ
+POS: verb, root: <'qf>, citation: አቀፈ
+
+word: የብስክሌት
+?POS: noun, stem: ብስክሌት
+
+word: ህብረት
+POS: noun, stem: ህብረት
+
+word: አይ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: በሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: ባስቀመጠው
+POS: verb, root: <qm_T>, citation: አስቀመጠ
+
+word: የውድድር
+POS: noun, stem: ውድድር
+
+word: አይነት
+
+word: የሚካተት
+POS: verb, root: <ktt>, citation: ተካተተ
+
+word: የቱር
+?POS: noun, stem: ቱር
+
+word: የብስክሌት
+?POS: noun, stem: ብስክሌት
+
+word: ውድድር
+POS: noun, stem: ውድድር
+

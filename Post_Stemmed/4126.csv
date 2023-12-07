@@ -1,0 +1,367 @@
+word: የአፍርካ
+?POS: noun, stem: አፍርካ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+word: ለኢትዮ
+?POS: noun, stem: ኢትዮ
+
+word: ሱዳን
+POS: noun, stem: ሱዳን
+
+word: የባቡር
+POS: noun, stem: ባቡር
+
+?word: ፕሮጀክት
+
+word: ጥናት
+POS: noun, stem: ጥናት
+
+word: የገንዘብ
+POS: noun, stem: ገንዘብ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: አደረገ
+POS: verb, root: <drg>, citation: አደረገ
+
+?word: አዲሰ
+
+word: አበባን
+POS: noun, stem: አበባ
+
+word: ከሱዳን
+POS: noun, stem: ሱዳን
+
+word: ወደብ
+POS: noun, stem: ወደብ
+
+word: የሚያገናኘውን
+POS: verb, root: <gN*>, citation: አገናኘ
+
+word: ሺህ
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ሜትር
+POS: noun, stem: ሜትር
+
+word: የባቡር
+POS: noun, stem: ባቡር
+
+word: መስመር
+POS: noun, stem: መስመር
+
+word: ለመዘርጋት
+POS: noun, stem: ተዘረጋ
+
+word: የሚያግዝ
+POS: verb, root: <'g_z>, citation: አገዘ
+
+word: ጥናት
+POS: noun, stem: ጥናት
+
+word: ለማከናወን
+POS: noun, stem: አከናወነ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+word: የዳሬክተሮች
+?POS: noun, stem: ዳሬክተራ
+
+word: ቦርድ
+?POS: verb, root: <bWr_d>, citation: ቦረደ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ዶላር
+?POS: verb, root: <dWlarr>, citation: ዶላረረ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ማፅደቁን
+POS: noun, stem: አጸደቀ
+
+word: ባንኩ
+POS: noun, stem: ባንክ
+
+word: ከአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+word: የቦንኮች
+?POS: noun, stem: ቦንክ
+
+?word: ግሩፕ
+
+word: የተሰጠው
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የአዋጭነት
+?POS: noun, stem: አዋጭነት
+
+word: ጥናቱ
+POS: noun, stem: ጥናት
+
+word: ከሚያስፈልገው
+POS: verb, root: <fl_g>, citation: አስፈለገ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ዶላር
+?POS: verb, root: <dWlarr>, citation: ዶላረረ
+
+word: ውሰጥ
+?POS: verb, root: <wsT>, citation: ወሰጠ
+
+word: በመቶውን
+?POS: noun, stem: መቶውን
+
+?word: ድርሻ
+
+word: እንደሚሸፍንም
+POS: verb, root: <xf_n>, citation: ሸፈነ
+
+word: ዘገባው
+POS: noun, stem: ዘገባ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: ለጥናቱ
+POS: noun, stem: ጥናት
+
+word: የሚያስፈልገውን
+POS: verb, root: <fl_g>, citation: አስፈለገ
+
+word: ቀሪውን
+POS: noun, stem: ቀረ
+
+word: ገንዘብ
+POS: noun, stem: ገንዘብ
+
+word: የመሰረተ
+POS: verb, root: <msrt>, citation: መሰረተ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+?word: ፕሮጀክት
+
+word: ዝግጅት
+POS: noun, stem: ዝግጅት
+
+word: ተቋም
+POS: noun, stem: ተቋም
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ዶላሩን
+?POS: noun, stem: ዶላር
+
+word: የሚሸፍን
+POS: verb, root: <xf_n>, citation: ሸፈነ
+
+word: ቀሪውን
+POS: noun, stem: ቀረ
+
+word: መቶ
+
+word: ሺህ
+
+word: ዶላሩን
+?POS: noun, stem: ዶላር
+
+word: የኢትዮጵያና
+POS: noun, stem: ኢትዮጵያ
+
+word: ሱዳን
+POS: noun, stem: ሱዳን
+
+word: መንግስታት
+POS: noun, stem: መንግስት
+
+word: እንደሚሸፍኑት
+POS: verb, root: <xf_n>, citation: ሸፈነ
+
+word: ታውቋል
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ድጋፉም
+POS: noun, stem: ድጋፍ
+
+word: መፅደቁም
+POS: noun, stem: ጸደቀ
+
+word: ተመልክቷል
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: ለሁለት
+POS: noun, stem: ሁለት
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: የሚካሄደው
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: ጥናት
+POS: noun, stem: ጥናት
+
+word: የፕሮጀክቱን
+?POS: noun, stem: ፕሮጀክት
+
+?word: ቴክኒካዊ
+
+?word: ኢኮኖሚያዊ
+
+word: አካባቢያዊና
+?POS: noun, stem: አካባቢያዊ
+
+?word: ማህበራዊ
+
+word: ጠቀሜታውን
+POS: noun, stem: ጠቀሜታ
+
+word: ከማጥናቱ
+POS: noun, stem: አጠና
+
+word: በተጨማሪ
+
+word: ፕሮጀክቱን
+?POS: noun, stem: ፕሮጀክት
+
+word: ለመተግበር
+?POS: noun, stem: መተግበር
+
+word: አማራጭ
+POS: noun, stem: አማራጭ
+
+word: የፋይናንስ
+?POS: noun, stem: ፋይናንስ
+
+word: ምንጨችን
+?POS: noun, stem: ምንጨች
+
+word: እንደሚጠቁም
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: ተመልክቷል
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: የሚገነባው
+POS: verb, root: <gnb'>, citation: ገነባ
+
+word: የባቡር
+POS: noun, stem: ባቡር
+
+word: መስመር
+POS: noun, stem: መስመር
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባን
+POS: noun, stem: አበባ
+
+word: ከካርቱም
+?POS: noun, stem: ከካርት
+
+word: ሱዳን
+POS: noun, stem: ሱዳን
+
+word: ወደብን
+POS: noun, stem: ወደብ
+
+word: የሚያገናኝ
+POS: verb, root: <gN*>, citation: አገናኘ
+
+word: ሺህ
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ሜትር
+POS: noun, stem: ሜትር
+
+word: እንደሚሸፍንም
+POS: verb, root: <xf_n>, citation: ሸፈነ
+
+word: ታውቋል
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ባንኩ
+POS: noun, stem: ባንክ
+
+word: እንዳመለከተው
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: የባቡር
+POS: noun, stem: ባቡር
+
+word: መስመሩ
+POS: noun, stem: መስመር
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ከሱዳንንና
+?POS: noun, stem: ከሱዳን
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: በተጨማሪ
+
+word: የአካባቢውንና
+POS: noun, stem: አካባቢ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ቀንድ
+POS: noun, stem: ቀንድ
+
+word: ሀገራትን
+?POS: noun, stem: ሀገራት
+
+word: በኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: እንደሚያስተሳስር
+POS: verb, root: <'sr>, citation: አስተሳሰረ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+

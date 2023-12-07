@@ -1,0 +1,245 @@
+word: ቻይና
+POS: noun, stem: ቻለ
+
+word: ለኛ
+POS: noun, stem: እኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: የኮሮና
+?POS: noun, stem: የኮሮ
+
+word: መከላከያ
+POS: noun, stem: ተከላከለ
+
+word: የህክምና
+POS: noun, stem: ህክምና
+
+word: ቁሳቁስ
+?POS: noun, stem: ቁሳቅ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: አደረገች
+POS: verb, root: <drg>, citation: አደረገ
+
+word: የቻይና
+POS: noun, stem: ቻለ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ለኛ
+POS: noun, stem: እኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: የኮሮና
+?POS: noun, stem: የኮሮ
+
+word: መከላከያ
+POS: noun, stem: ተከላከለ
+
+word: የህክምና
+POS: noun, stem: ህክምና
+
+word: ቁሳቁስ
+?POS: noun, stem: ቁሳቅ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ለኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ለግሷል
+POS: verb, root: <lg_s>, citation: ለገሰ
+
+word: በዚኛው
+?POS: noun, stem: በዚኛ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ሺህ
+
+?word: ሰርጂካል
+
+word: የአፍ
+POS: noun, stem: አፍ
+
+word: አፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛ
+POS: noun, stem: ሸፈነ
+
+?word: ጭምብል
+
+word: ሺህ
+
+word: የአፍ
+POS: noun, stem: አፍ
+
+word: አፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛ
+POS: noun, stem: ሸፈነ
+
+?word: ጭምብል
+
+word: ሺህ
+
+word: የሜዲካል
+?POS: noun, stem: ሜዲካል
+
+word: አልባሳት
+POS: verb, root: <b's>, citation: ባሰ
+
+word: የጫማ
+POS: noun, stem: ጫማ
+
+word: መሸፈኛ
+POS: noun, stem: ሸፈነ
+
+word: በሺዎች
+POS: noun, stem: ሺ
+
+word: የሚቆጠሩ
+POS: verb, root: <qWTr>, citation: ተቆጠረ
+
+?word: ሰርጂካል
+
+word: ጓንቶች
+?POS: noun, stem: ጓንት
+
+word: ተካተውበታል
+POS: verb, root: <ktt>, citation: ተካተተ
+
+word: የቻይና
+POS: noun, stem: ቻለ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የኮሮና
+?POS: noun, stem: የኮሮ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: በምታደርገው
+POS: verb, root: <drg>, citation: አደረገ
+
+?word: ዘርፈ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: ድጋፉ
+POS: noun, stem: ድጋፍ
+
+word: እንዳልተለየ
+POS: verb, root: <ly_*>, citation: ተለየ
+
+word: ወረርሽኙ
+POS: noun, stem: ወረርሽኝ
+
+word: አገሪቱ
+POS: noun, stem: አገር
+
+word: ከገባበት
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ከመጋቢት
+POS: noun, stem: መጋቢት
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: የሚያደርገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ሳይቋረጥ
+POS: verb, root: <qWrT>, citation: ተቋረጠ
+
+word: መቀጠሉንም
+POS: noun, stem: ቀጠለ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: የሚገኘው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የቻይና
+POS: noun, stem: ቻለ
+
+word: ኤምባሲ
+POS: noun, stem: ኤምባሲ
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+?word: ሚያዝያ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ከቻይና
+POS: noun, stem: ቻለ
+
+word: የመጡ
+POS: verb, root: <mT'>, citation: መጣ
+
+word: የህክምና
+POS: noun, stem: ህክምና
+
+word: ቡድን
+POS: noun, stem: ቡድን
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የህክምና
+POS: noun, stem: ህክምና
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: መስጠታቸውም
+POS: noun, stem: ሰጠ
+
+?word: ኢቢሲ
+
+word: ዘግቧል
+POS: verb, root: <zgb>, citation: ዘገበ
+

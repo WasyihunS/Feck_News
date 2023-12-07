@@ -1,0 +1,506 @@
+word: በህንድ
+POS: noun, stem: ህንድ
+
+word: የአለማችን
+POS: noun, stem: አለም
+
+word: ትልቁ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: እጢ
+POS: noun, stem: እጢ
+
+word: በቀዶ
+?POS: noun, stem: ቀዶ
+
+word: ጥገና
+POS: noun, stem: ጥገና
+
+word: ተወገደ
+POS: verb, root: <wg_d>, citation: ተወገደ
+
+word: በህንዷ
+?POS: noun, stem: ህንድ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+?word: ኒው
+
+?word: ዴልሂ
+
+word: በሚገኝ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: አንድ
+
+word: የግል
+POS: noun, stem: ግል
+
+?word: ሆስፒታል
+
+word: ሀኪሞች
+POS: noun, stem: ሀኪም
+
+word: የአለማችንን
+POS: noun, stem: አለም
+
+word: ትልቁ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: የኦቫሪ
+?POS: noun, stem: ኦቫሪ
+
+word: እጢን
+POS: noun, stem: እጢ
+
+word: አመት
+
+word: ሴት
+POS: noun, stem: ሴት
+
+word: አካል
+POS: noun, stem: አካል
+
+word: አስወገዱ
+POS: verb, root: <wg_d>, citation: አስወገደ
+
+?word: አናዶል
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ምንጭ
+POS: noun, stem: ምንጭ
+
+word: እንደዘገበው
+POS: verb, root: <zgb>, citation: ዘገበ
+
+word: አምስት
+
+?word: ሰአታት
+
+word: በፈጀው
+POS: verb, root: <fj*>, citation: ፈጀ
+
+word: የቀዶ
+?POS: noun, stem: ቀዶ
+
+word: ጥገና
+POS: noun, stem: ጥገና
+
+word: የተወገደው
+POS: verb, root: <wg_d>, citation: ተወገደ
+
+word: እጢ
+POS: noun, stem: እጢ
+
+word: ኪሎግራም
+?POS: noun, stem: ኪሎግራ
+
+?word: ፓውንድ
+
+word: የሚመዝንና
+POS: verb, root: <mz_n>, citation: መዘነ
+
+word: የህመምተኛዋ
+POS: noun, stem: ህመምተኛ
+
+?word: ክብደት
+
+word: ግማሽ
+POS: noun, stem: ግማሽ
+
+word: ተብሏል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ዘመን
+POS: noun, stem: ዘመን
+
+word: የሰውነት
+POS: noun, stem: ሰውነት
+
+word: ክፍልን
+POS: noun, stem: ክፍል
+
+word: ግማሽ
+POS: noun, stem: ግማሽ
+
+word: የሚመዝን
+POS: verb, root: <mz_n>, citation: መዘነ
+
+word: እጢ
+POS: noun, stem: እጢ
+
+word: አጋጥሟቸው
+POS: verb, root: <gTm>, citation: አጋጠመ
+
+word: እንደሚያውቅ
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: የአፖሎ
+?POS: noun, stem: አፖሎ
+
+?word: ሆስፒታል
+
+word: ደዌ
+POS: noun, stem: ደዌ
+
+word: ቀዶ
+POS: verb, root: <qdd>, citation: ቀደደ
+
+word: ጥገና
+POS: noun, stem: ጥገና
+
+word: እስፔሻሊስትና
+?POS: noun, stem: እስፔሻሊስት
+
+word: አማካሪው
+POS: noun, stem: አማከረ
+
+word: አረን
+POS: verb, root: <'rr>, citation: አረረ
+
+?word: ፕራይድ
+
+word: የዴልሂ
+?POS: noun, stem: ዴልሂ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+word: የሆነችው
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ህመምተኛዋ
+POS: noun, stem: ህመምተኛ
+
+word: ከቅርብ
+POS: noun, stem: ቅርብ
+
+word: ወራት
+POS: verb, root: <wrr>, citation: ወረረ
+
+word: ወዲህ
+?POS: noun, stem: ወዲ
+
+word: ህመሙ
+POS: noun, stem: ህመም
+
+word: ክብደቱን
+?POS: noun, stem: ክብደት
+
+word: እያሳደገ
+POS: verb, root: <'dg>, citation: አሳደገ
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ግራም
+POS: noun, stem: ግራ
+
+?word: ፓውንድ
+
+word: ደርሶ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: እንደነበር
+POS: verb, root: <dnbr>, citation: ተደነበረ
+
+word: አስታውሳ
+POS: verb, root: <'ws>, citation: አስታወሰ
+
+word: የተነሳ
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: መተንፈስ
+POS: noun, stem: ተነፈሰ
+
+word: መራመድ
+POS: noun, stem: ተራመደ
+
+word: በሆድዋ
+POS: noun, stem: ሆድ
+
+word: ከባድ
+POS: noun, stem: ከባድ
+
+word: ህመም
+POS: noun, stem: ህመም
+
+word: አጋጥሟት
+POS: verb, root: <gTm>, citation: አጋጠመ
+
+word: እንደነበር
+POS: verb, root: <dnbr>, citation: ተደነበረ
+
+word: ዘገባው
+POS: noun, stem: ዘገባ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: ከእጢው
+POS: noun, stem: እጢ
+
+word: ትልቅነት
+POS: noun, stem: ትልቅነት
+
+word: የተነሳ
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: የቀዶ
+?POS: noun, stem: ቀዶ
+
+word: ጥገና
+POS: noun, stem: ጥገና
+
+word: ሂደቱ
+POS: noun, stem: ሂደት
+
+word: ወቅቱ
+POS: noun, stem: ወቅት
+
+word: ባፈራቸው
+POS: verb, root: <fr'>, citation: አፈራ
+
+?word: ቴክኖሎጂ
+
+word: ግብአቶች
+?POS: noun, stem: ግብአት
+
+word: ለመጠቀም
+POS: noun, stem: ተጠቀመ
+
+word: አስቸጋሪ
+POS: noun, stem: አስቸገረ
+
+word: አድርጎት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: እንደነበር
+POS: verb, root: <dnbr>, citation: ተደነበረ
+
+word: ያመለከተው
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: ዘገባው
+POS: noun, stem: ዘገባ
+
+word: የቀዶ
+?POS: noun, stem: ቀዶ
+
+word: ጥገናው
+POS: noun, stem: ጥገና
+
+word: ቡድን
+POS: noun, stem: ቡድን
+
+word: እጢውን
+POS: noun, stem: እጢ
+
+word: ለማስወገድ
+POS: noun, stem: አስወገደ
+
+word: በባህላዊ
+?POS: noun, stem: ባህላዊ
+
+word: መንገድ
+POS: noun, stem: መንገድ
+
+word: ለመጠቀም
+POS: noun, stem: ተጠቀመ
+
+word: መገደዱን
+POS: noun, stem: ተገደደ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+?word: ፕሬይድ
+
+word: በእጢው
+POS: noun, stem: እጢ
+
+word: ትልቅነት
+POS: noun, stem: ትልቅነት
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: በህመምተኛዋ
+POS: noun, stem: ህመምተኛ
+
+word: የሆድ
+POS: noun, stem: ሆድ
+
+word: እቃ
+POS: noun, stem: እቃ
+
+word: ክፍሏ
+POS: noun, stem: ክፍል
+
+word: እጢው
+POS: noun, stem: እጢ
+
+word: ተጭኖ
+POS: verb, root: <C'n>, citation: ተጫነ
+
+word: የአንጀት
+POS: noun, stem: አንጀት
+
+word: ክፍሎችም
+POS: noun, stem: ክፍል
+
+word: ተበላሽቶ
+POS: verb, root: <blax*>, citation: ተበላሸ
+
+word: ነበር
+
+word: እድል
+POS: noun, stem: እድል
+
+word: እጢው
+POS: noun, stem: እጢ
+
+word: ጤናማ
+POS: noun, stem: ጤናማ
+
+word: ያልሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: በህመምተኛዋ
+POS: noun, stem: ህመምተኛ
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: ሊያስከትል
+POS: verb, root: <kt_l>, citation: አስከተለ
+
+word: የሚችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: ስላልነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ህመምተኛዋ
+POS: noun, stem: ህመምተኛ
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: እንድታገግም
+POS: verb, root: <gg_m>, citation: አገገመ
+
+word: አስችሏታል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ከቀዶ
+?POS: noun, stem: ቀዶ
+
+word: ጥገናው
+POS: noun, stem: ጥገና
+
+word: የህመምተኛዋ
+POS: noun, stem: ህመምተኛ
+
+?word: ክብደት
+
+word: ኪሎግራም
+?POS: noun, stem: ኪሎግራ
+
+?word: ፓውንድ
+
+word: መቀነሱንም
+POS: noun, stem: ቀነሰ
+
+word: ዘገባው
+POS: noun, stem: ዘገባ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: ከግለሰቧ
+POS: noun, stem: ግለሰብ
+
+word: የወጣውም
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: እጢ
+POS: noun, stem: እጢ
+
+word: በአለማችን
+POS: noun, stem: አለም
+
+word: በቀዶ
+?POS: noun, stem: ቀዶ
+
+word: ጥገና
+POS: noun, stem: ጥገና
+
+word: የወጣ
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: ትልቁ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: እጢ
+POS: noun, stem: እጢ
+
+word: እንደሆነም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ዘገባው
+POS: noun, stem: ዘገባ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: በደቡባዊው
+?POS: noun, stem: ደቡባዊ
+
+word: ኮምቢቶሬ
+?POS: noun, stem: ኮምቢቶር
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ከታመመች
+POS: verb, root: <'mm>, citation: ታመመ
+
+word: ሴት
+POS: noun, stem: ሴት
+
+?word: ፓውንድ
+
+word: እጢ
+POS: noun, stem: እጢ
+
+word: በቀዶ
+?POS: noun, stem: ቀዶ
+
+word: ጥገና
+POS: noun, stem: ጥገና
+
+word: ተወግዶ
+POS: verb, root: <wg_d>, citation: ተወገደ
+
+word: እንደነበር
+POS: verb, root: <dnbr>, citation: ተደነበረ
+
+word: ዘገባው
+POS: noun, stem: ዘገባ
+
+word: አስታውሷል
+POS: verb, root: <'ws>, citation: አስታወሰ
+

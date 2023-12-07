@@ -1,0 +1,271 @@
+word: የአማራ
+POS: noun, stem: አማራ
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+?word: ምስረታ
+
+word: የአክሲዮን
+POS: noun, stem: አክሲዮን
+
+word: ሽያጩን
+POS: noun, stem: ሽያጭ
+
+word: ላልተወሰነ
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ተራዘመ
+POS: verb, root: <rzm>, citation: ተራዘመ
+
+word: የአክሲዮን
+POS: noun, stem: አክሲዮን
+
+word: ሽያጩ
+POS: noun, stem: ሽያጭ
+
+word: የተራዘመው
+POS: verb, root: <rzm>, citation: ተራዘመ
+
+word: በአስቸኳይ
+POS: noun, stem: አስቸኳይ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: አዋጅ
+POS: noun, stem: አዋጅ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: የምስረታ
+?POS: noun, stem: ምስረታ
+
+word: ጉባኤውን
+POS: noun, stem: ጉባኤ
+
+word: ለማካሄድ
+POS: noun, stem: አካሄደ
+
+word: ስላልተቻለ
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: የአክሲዮን
+POS: noun, stem: አክሲዮን
+
+word: ማህበሩ
+POS: noun, stem: ማህበር
+
+word: የፕሮጀክት
+?POS: noun, stem: ፕሮጀክት
+
+word: ማናጀር
+?POS: noun, stem: አናጀረ
+
+word: መሰንበት
+POS: noun, stem: ሰነበተ
+
+word: ሸንቁጤ
+?POS: noun, stem: ሸንቁጥ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ቀደም
+
+word: በነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+?word: መርሀ
+
+word: ግብር
+POS: noun, stem: ግብር
+
+word: መሰረት
+
+word: የአክሲዮን
+POS: noun, stem: አክሲዮን
+
+word: ሽያጩ
+POS: noun, stem: ሽያጭ
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: እለት
+
+word: ይጠናቀቅ
+POS: verb, root: <Tnqq>, citation: ተጠናቀቀ
+
+word: ነበር
+
+word: ይህንንም
+?POS: noun, stem: ይህንን
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: ሚያዚያ
+POS: noun, stem: ሚያዚያ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ጠቅላላ
+POS: noun, stem: ጠቅላላ
+
+word: ጉባኤውን
+POS: noun, stem: ጉባኤ
+
+word: ለማካሄድ
+POS: noun, stem: አካሄደ
+
+word: አቅዶ
+POS: verb, root: <'q_d>, citation: አቀደ
+
+word: ነበር
+
+word: የኮሮናቫይረስ
+?POS: noun, stem: ኮሮናቫይረስ
+
+word: መከሰቱን
+POS: noun, stem: ተከሰተ
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: እነዚህን
+POS: noun, stem: ይህ
+
+?word: ማርሀ
+
+word: ግብሮች
+POS: noun, stem: ግብር
+
+word: ማከናወን
+POS: noun, stem: አከናወነ
+
+word: ስለማይችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የአክሲዮን
+POS: noun, stem: አክሲዮን
+
+word: ሽያጩ
+POS: noun, stem: ሽያጭ
+
+word: ላልተወሰነ
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: እንዲቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: አድርጓል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: መሰንበት
+POS: noun, stem: ሰነበተ
+
+?word: ገለፃ
+
+word: የአስቸኳይ
+POS: noun, stem: አስቸኳይ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: አዋጁ
+POS: noun, stem: አዋጅ
+
+word: እንደተነሳ
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: ባንኩ
+POS: noun, stem: ባንክ
+
+word: ተመስርቶ
+POS: verb, root: <msrt>, citation: ተመሰረተ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: እንዲገባ
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ከወዲሁ
+?POS: noun, stem: ወዲህ
+
+word: ዝግጅቶች
+POS: noun, stem: ዝግጅት
+
+word: እየተደረጉ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ለባንኩ
+POS: noun, stem: ባንክ
+
+?word: ምስረታ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: ነጥን
+?POS: noun, stem: ነጥ
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: የተከፈለ
+POS: verb, root: <kfl>, citation: ተከፈለ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: ያልተከፈለ
+POS: verb, root: <kfl>, citation: ተከፈለ
+
+word: የአክሲዮን
+POS: noun, stem: አክሲዮን
+
+word: ሽያጭ
+POS: noun, stem: ሽያጭ
+
+word: ተከናውኗል
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ሺህ
+
+word: ሰዎችም
+POS: noun, stem: ሰው
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: የአክሲወን
+?POS: noun, stem: አክሲወ
+
+word: ግዥ
+POS: verb, root: <gz'>, citation: ገዛ
+
+word: ማከናወናቸው
+POS: noun, stem: አከናወነ
+
+word: ታውቋል
+POS: verb, root: <'wq>, citation: ታወቀ
+

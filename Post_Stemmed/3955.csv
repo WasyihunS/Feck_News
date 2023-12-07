@@ -1,0 +1,634 @@
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አቢይ
+
+?word: አህመድ
+
+word: የዘንድሮው
+POS: noun, stem: ዘንድሮ
+
+word: የአረንጓዴ
+POS: noun, stem: አረንጓዴ
+
+word: አሻራ
+POS: noun, stem: አሻራ
+
+word: በስኬት
+?POS: noun, stem: ስኬት
+
+word: ተሳትፎ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: ላደረጉ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ዜጎች
+POS: noun, stem: ዜጋ
+
+word: ምስጋና
+POS: noun, stem: ምስጋና
+
+word: አቀረቡ
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: የአረንጓዴ
+POS: noun, stem: አረንጓዴ
+
+word: አሻራ
+POS: noun, stem: አሻራ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላ
+?POS: verb, root: <kll>, citation: ተከለለ
+
+?word: መርሀ
+
+word: ግብር
+POS: noun, stem: ግብር
+
+word: የመዝጊያ
+POS: noun, stem: ዘጋ
+
+word: ስነ
+POS: noun, stem: ስነ
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: በባህር
+POS: noun, stem: ባህር
+
+word: ዳር
+POS: noun, stem: ዳር
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: እየተከናወነ
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: አብይ
+POS: verb, root: <'by>, citation: አበየ
+
+word: አህመድም
+?POS: noun, stem: አህመድ
+
+word: በባህር
+POS: noun, stem: ባህር
+
+word: ዳር
+POS: noun, stem: ዳር
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+?word: ቤዛዊት
+
+?word: ቤተመንግስት
+
+word: እየተከናወነ
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ባለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የመዝጊያ
+POS: noun, stem: ዘጋ
+
+word: ስነ
+POS: noun, stem: ስነ
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: ተገኝተዋል
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በስነስርአቱ
+?POS: noun, stem: ስነስርአት
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትሩ
+POS: noun, stem: ሚኒስትር
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በሁለተኛው
+POS: noun, stem: ሁለተኛ
+
+word: የአረንጓዴ
+POS: noun, stem: አረንጓዴ
+
+word: አሻራ
+POS: noun, stem: አሻራ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላ
+?POS: verb, root: <kll>, citation: ተከለለ
+
+?word: መርሀ
+
+word: ግብር
+POS: noun, stem: ግብር
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: በመትከል
+POS: noun, stem: ተከለ
+
+word: እቅዱን
+POS: noun, stem: እቅድ
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ማሳካት
+POS: noun, stem: አሳካ
+
+word: ተችሏል
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: መላው
+POS: verb, root: <mll>, citation: መለለ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: የተሰጠውን
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: አደራ
+POS: noun, stem: አደራ
+
+word: ተቀብሎ
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: በእኔነት
+?POS: noun, stem: እኔነት
+
+word: ስሜት
+POS: noun, stem: ስሜት
+
+word: እቅዱን
+POS: noun, stem: እቅድ
+
+word: ቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ማጠናቀቅ
+POS: noun, stem: አጠናቀቀ
+
+word: በመቻሉ
+POS: noun, stem: ቻለ
+
+word: ምስጋና
+POS: noun, stem: ምስጋና
+
+word: አቅርበዋል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ጭቃ
+POS: noun, stem: ጭቃ
+
+word: ሳይነኩና
+POS: verb, root: <nk'>, citation: ነካ
+
+word: ችግርን
+POS: noun, stem: ችግር
+
+word: ሳይጋፈጡ
+POS: verb, root: <gafT>, citation: ተጋፈጠ
+
+word: ሀገርን
+POS: noun, stem: ሀገር
+
+word: ማበልፀግ
+POS: noun, stem: አበለጸገ
+
+word: አይቻልም
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: አብይ
+POS: verb, root: <'by>, citation: አበየ
+
+word: መላው
+POS: verb, root: <mll>, citation: መለለ
+
+word: ኢትዮጰያውያን
+?POS: noun, stem: ኢትዮጰያውያ
+
+word: ለችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላው
+?POS: verb, root: <kll>, citation: ተከለለ
+
+word: ያሳዩትን
+POS: verb, root: <'y*>, citation: አሳየ
+
+?word: ቁርጠኝነት
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: ስራዎችም
+POS: noun, stem: ስራ
+
+word: ሊደግሙት
+POS: verb, root: <dgm>, citation: ደገመ
+
+word: እንደሚገባም
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: አቢይ
+
+word: በሚቀጥለው
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: አመት
+
+word: ስድስት
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኞች
+POS: noun, stem: ችግኝ
+
+word: እንደሚተከሉ
+POS: verb, root: <tkl>, citation: ተተከለ
+
+word: ገልፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የሚቀጥለውን
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: አመት
+
+word: ለየት
+POS: noun, stem: የት
+
+word: የሚያደርገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ለጎረቤቶቻችን
+POS: noun, stem: ጎረቤት
+
+word: አንድ
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኞችን
+POS: noun, stem: ችግኝ
+
+word: የምናዘጋጅ
+POS: verb, root: <zgaj*>, citation: አዘጋጀ
+
+word: እኛም
+POS: noun, stem: እኛ
+
+word: ሳንሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ጎረቤቶቻችን
+POS: noun, stem: ጎረቤት
+
+word: የሚተክሉት
+POS: verb, root: <tkl>, citation: ተከለ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ለም
+POS: noun, stem: ለም
+
+word: ከማድረግ
+POS: noun, stem: አደረገ
+
+word: አልፎ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: የቀጠናውን
+POS: noun, stem: ቀጠና
+
+word: ስነ
+POS: noun, stem: ስነ
+
+?word: ምህዳር
+
+word: ለመጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+?word: ድርሻ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትሩ
+POS: noun, stem: ሚኒስትር
+
+word: በአመቱ
+POS: noun, stem: አመት
+
+word: የታቀደው
+POS: verb, root: <'q_d>, citation: ታቀደ
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: የመትከል
+POS: noun, stem: ተከለ
+
+word: እቅድ
+POS: noun, stem: እቅድ
+
+word: መሳካቱን
+POS: noun, stem: ተሳካ
+
+word: ገልፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ከአተካከል
+?POS: noun, stem: አተካከል
+
+word: ተያይዞ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: ሳይፀድቁ
+POS: verb, root: <Sdq>, citation: ጸደቀ
+
+word: የሚቀሩ
+POS: verb, root: <qr*>, citation: ቀረ
+
+word: ችግኞችን
+POS: noun, stem: ችግኝ
+
+word: ለመተካት
+POS: noun, stem: ተካ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ችግኞች
+POS: noun, stem: ችግኝ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ይተከላሉ
+POS: verb, root: <tkl>, citation: ተተከለ
+
+word: የአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+?word: ርእሰ
+
+?word: መስተዳድር
+
+word: ተመስገን
+POS: verb, root: <msgn>, citation: ተመሰገነ
+
+word: ጥሩነህ
+?POS: noun, stem: ጥሩነ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኞች
+POS: noun, stem: ችግኝ
+
+word: መተከላቸውን
+POS: noun, stem: ተተከለ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ይህም
+POS: noun, stem: ይህ
+
+word: የእቅዱ
+POS: noun, stem: እቅድ
+
+word: በመቶ
+POS: noun, stem: መቶ
+
+?word: ርእሰ
+
+word: መስተዳድሩ
+?POS: noun, stem: መስተዳድር
+
+word: ጠቁመዋል
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: በአራት
+POS: noun, stem: አራት
+
+word: አመት
+
+word: ቢሊዮን
+?POS: noun, stem: ቢሊዮ
+
+word: ችግኞችን
+POS: noun, stem: ችግኝ
+
+word: የመትከል
+POS: noun, stem: ተከለ
+
+word: አቅድ
+POS: verb, root: <'q_d>, citation: አቀደ
+
+word: መያዟ
+POS: noun, stem: ያዘ
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: የአረንጓዴ
+POS: noun, stem: አረንጓዴ
+
+word: አሻራ
+POS: noun, stem: አሻራ
+
+word: ማጠቃለያ
+POS: noun, stem: አጠቃለለ
+
+?word: መርሀ
+
+word: ግብር
+POS: noun, stem: ግብር
+
+word: በቤዛዊት
+?POS: noun, stem: ቤዛዊት
+
+word: ተራራ
+POS: noun, stem: ተራራ
+
+word: የወይራ
+POS: noun, stem: ወይራ
+
+word: ዝግባ
+POS: noun, stem: ዝግባ
+
+word: ችግኝ
+POS: noun, stem: ችግኝ
+
+word: ተከላ
+?POS: verb, root: <kll>, citation: ተከለለ
+
+word: እየተካሄደ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: ይገኛል
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በመርሀ
+?POS: noun, stem: መርሀ
+
+word: ግብሩ
+POS: noun, stem: ግብር
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: አብይ
+POS: verb, root: <'by>, citation: አበየ
+
+?word: አህመድ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ደመቀ
+POS: verb, root: <dmq>, citation: ደመቀ
+
+word: መኮንን
+?POS: noun, stem: መኮን
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+?word: ርእሰ
+
+?word: መስተዳድር
+
+word: ተመስገን
+POS: verb, root: <msgn>, citation: ተመሰገነ
+
+word: ጥሩነህ
+?POS: noun, stem: ጥሩነ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ሀላፊዎችም
+POS: noun, stem: ሀላፊ
+
+?word: ቤዛዊት
+
+word: ተራራ
+POS: noun, stem: ተራራ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: በቀል
+POS: noun, stem: በቀል
+
+word: ችግኞችን
+POS: noun, stem: ችግኝ
+
+word: እየተከሉ
+POS: verb, root: <tkl>, citation: ተከለ
+

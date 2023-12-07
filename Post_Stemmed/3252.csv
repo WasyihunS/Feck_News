@@ -1,0 +1,473 @@
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ስርጭትን
+POS: noun, stem: ስርጭት
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያግዝ
+POS: verb, root: <'g_z>, citation: አገዘ
+
+word: የድንበር
+POS: noun, stem: ድንበር
+
+word: ተሻጋሪ
+POS: noun, stem: ተሻገረ
+
+word: የጭነት
+POS: noun, stem: ጭነት
+
+word: ተሸከርካሪዎች
+?POS: noun, stem: ተሸከርካሪው
+
+?word: ተርሚናል
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: ተጀመረ
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ግንቦት
+POS: noun, stem: ግንቦት
+
+?word: ኤፍ
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ስርጭትን
+POS: noun, stem: ስርጭት
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያግዝ
+POS: verb, root: <'g_z>, citation: አገዘ
+
+word: የድንበር
+POS: noun, stem: ድንበር
+
+word: ተሻጋሪ
+POS: noun, stem: ተሻገረ
+
+word: የጭነት
+POS: noun, stem: ጭነት
+
+word: ተሸከርካሪዎች
+?POS: noun, stem: ተሸከርካሪው
+
+?word: ተርሚናል
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: መጀመሩን
+POS: noun, stem: ጀመረ
+
+word: የትራስፖርት
+?POS: noun, stem: ትራስፖርት
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: የድንበር
+POS: noun, stem: ድንበር
+
+word: ተሻጋሪ
+POS: noun, stem: ተሻገረ
+
+word: የጭነት
+POS: noun, stem: ጭነት
+
+word: ተሸከርካሪዎች
+?POS: noun, stem: ተሸከርካሪው
+
+?word: ተርሚናል
+
+word: ግንባታው
+POS: noun, stem: ግንባታ
+
+word: በሶማሌ
+POS: noun, stem: ሶማሌ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: በሽንሌ
+?POS: noun, stem: ሽንል
+
+?word: ሲቲ
+
+?word: ዞን
+
+word: አይሻ
+POS: verb, root: <x'>, citation: ሻ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+word: ደወሌ
+POS: noun, stem: ደወል
+
+word: ቀበሌ
+POS: noun, stem: ቀበሌ
+
+word: በይፋ
+POS: noun, stem: ይፋ
+
+word: መጀመሩንም
+POS: noun, stem: ጀመረ
+
+word: የሚኒስቴሩ
+POS: noun, stem: ሚኒስቴር
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ያመላክታል
+POS: verb, root: <mlkt>, citation: አመላከተ
+
+word: ተርሚናሉ
+?POS: noun, stem: ተርሚናል
+
+word: የተሽከርካሪዎች
+POS: noun, stem: ተሽከረከረ
+
+word: ማቆያ
+POS: noun, stem: አቆየ
+
+word: በሂደትም
+POS: noun, stem: ሂደት
+
+word: ሁሉንም
+POS: noun, stem: ሁሉ
+
+word: አገልግሎቶች
+POS: noun, stem: አገልግሎት
+
+word: ያካተተ
+POS: verb, root: <ktt>, citation: አካተተ
+
+word: ለአሽከርካሪዎች
+POS: noun, stem: አሽከርካሪ
+
+word: የመታጠቢያ
+POS: noun, stem: ታጠበ
+
+word: የማረፊያ
+POS: noun, stem: አረፈ
+
+word: የምግብ
+POS: noun, stem: ምግብ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ምርመራና
+POS: noun, stem: ምርመራ
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: አገልግሎቶችን
+POS: noun, stem: አገልግሎት
+
+word: የሚሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ድንበር
+POS: noun, stem: ድንበር
+
+word: ተሻጋሪ
+POS: noun, stem: ተሻገረ
+
+word: አሽከርካሪዎች
+POS: noun, stem: አሽከረከረ
+
+word: ጉዞ
+POS: noun, stem: ጉዞ
+
+word: ከመጀመራቸው
+POS: noun, stem: ጀመረ
+
+word: በአንድ
+POS: noun, stem: አንድ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: በሚያደርጉት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: እንቅስቃሴ
+POS: noun, stem: እንቅስቃሴ
+
+word: ድንበር
+POS: noun, stem: ድንበር
+
+word: በር
+POS: noun, stem: በር
+
+word: በሚደርሱባቸው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ወቅቶች
+POS: noun, stem: ወቅት
+
+word: የሚወስዷቸው
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: ጥንቃቄዎች
+POS: noun, stem: ጥንቃቄ
+
+word: ለወረርሽኙ
+POS: noun, stem: ወረርሽኝ
+
+word: ያላቸውን
+POS: verb, root: <b'l>, citation: አለ
+
+?word: ተጋላጭነት
+
+word: ለመቀነስ
+POS: noun, stem: ቀነሰ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ሚና
+POS: noun, stem: ሚና
+
+word: አላቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: በመሆኑም
+POS: noun, stem: ሆነ
+
+word: ተጋላጭነቱን
+?POS: noun, stem: ተጋላጭነቱ
+
+word: ለማስወገድ
+POS: noun, stem: አስወገደ
+
+word: ከደቡብ
+POS: noun, stem: ደቡብ
+
+word: አፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: ቀጠና
+POS: noun, stem: ቀጠና
+
+word: የልማት
+POS: noun, stem: ልማት
+
+?word: ጥምረት
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+?word: ዳያስፖራ
+
+word: አማካሪዎች
+POS: noun, stem: አማከረ
+
+word: ካውንስልና
+?POS: noun, stem: አውንስልና
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ጤና
+POS: noun, stem: ጤና
+
+?word: ኢኒስቲትዩት
+
+word: ያወጡዋቸውን
+?POS: noun, stem: አወጡዋቸውን
+
+word: የአሰራር
+?POS: noun, stem: አሰራር
+
+word: ስርአቶችና
+POS: noun, stem: ስርአት
+
+word: ሰነዶች
+POS: noun, stem: ሰነድ
+
+word: መሰረት
+
+word: ያደረጉ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ስታንዳርዶችን
+?POS: noun, stem: ስታንዳርዳ
+
+word: መጠቀም
+POS: noun, stem: ተጠቀመ
+
+word: መቻሉን
+POS: noun, stem: ቻለ
+
+?word: ተገልፃል
+
+word: የኢፌዴሪ
+?POS: noun, stem: ኢፌዴሪ
+
+?word: ትራንሰፖርት
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: ዳግማዊት
+
+word: ሞገስ
+POS: noun, stem: ሞገስ
+
+word: ለደወሌ
+POS: noun, stem: ደወል
+
+?word: ተርሚናል
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+?word: ስኬት
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ተገቢውን
+POS: noun, stem: ተገባ
+
+word: የድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የክትትልና
+POS: noun, stem: ክትትል
+
+word: የቁጥጥር
+POS: noun, stem: ቁጥጥር
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: የዘረጋ
+POS: verb, root: <zrg'>, citation: ዘረጋ
+
+word: ጠቅሰዋል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: የአካባቢው
+POS: noun, stem: አካባቢ
+
+word: ህብረተሰብና
+POS: noun, stem: ህብረተሰብ
+
+word: የመስተዳድር
+?POS: noun, stem: መስተዳድር
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: እንደጅምሩ
+POS: noun, stem: ጅምር
+
+word: ለግንባታው
+POS: noun, stem: ግንባታ
+
+word: በስኬት
+?POS: noun, stem: ስኬት
+
+word: መጠናቀቅ
+POS: noun, stem: ተጠናቀቀ
+
+word: አስፈላጊውን
+POS: noun, stem: አስፈለገ
+
+word: ትብብር
+POS: noun, stem: ትብብር
+
+word: እምነታቸው
+POS: noun, stem: እምነት
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትክ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

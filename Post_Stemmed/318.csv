@@ -1,0 +1,779 @@
+word: የመጡበት
+POS: verb, root: <mT'>, citation: መጣ
+
+word: መንገድ
+POS: noun, stem: መንገድ
+
+word: ይመላለሱበታል
+POS: verb, root: <ml_s>, citation: ተመላለሰ
+
+word: ከግብፅ
+POS: noun, stem: ግብጽ
+
+word: ኢሳያስ
+?POS: noun, stem: ኢሳያ
+
+word: አሜሪካ
+POS: noun, stem: አሜሪካ
+
+word: አሴሩ
+POS: verb, root: <syr>, citation: አሴረ
+
+word: ወያኔን
+?POS: noun, stem: ወያን
+
+word: ከሸዋ
+POS: noun, stem: ሸዋ
+
+word: አባረሩ
+POS: verb, root: <brr>, citation: አባረረ
+
+word: የፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ነፃነታችንን
+POS: noun, stem: ነጻነት
+
+word: ገበሩ
+POS: verb, root: <gb_r>, citation: ገበረ
+
+word: ግድቡ
+POS: noun, stem: ግድብ
+
+word: የኔ
+POS: noun, stem: እኔ
+
+word: ይላሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ለምነው
+POS: verb, root: <lm_n>, citation: ለመነ
+
+word: የሰጡትን
+POS: verb, root: <sT*>, citation: ሰጠ
+
+?word: ሉአላዊነት
+
+word: ፎክረው
+POS: verb, root: <fWk_r>, citation: ፎከረ
+
+word: ሊያስመልሱት
+POS: verb, root: <ml_s>, citation: አስመለሰ
+
+word: ይጓጉራሉ
+POS: verb, root: <gWagWr>, citation: ጓጎረ
+
+word: ቄሮን
+?POS: noun, stem: ቄሮ
+
+word: ቀሰቀሱት
+POS: verb, root: <qsqs>, citation: ቀሰቀሰ
+
+word: በሆታ
+POS: noun, stem: ሆታ
+
+word: መብትህን
+POS: noun, stem: መብት
+
+?word: አስከበር
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: አሰማሩት
+?POS: verb, root: <smrWt>, citation: አሰማሮተ
+
+word: ከሚኒሶታ
+?POS: noun, stem: ሚኒሶታ
+
+?word: ሰበታ
+
+word: በሀያል
+POS: noun, stem: ሀያል
+
+word: ሰልፍ
+POS: noun, stem: ሰልፍ
+
+word: አናወጡት
+?POS: verb, root: <nawT>, citation: አናወጠ
+
+word: የቄሮው
+?POS: noun, stem: ቄሮ
+
+word: አባዱላ
+?POS: verb, root: <badWl>, citation: አባዶለ
+
+word: የአመፁ
+POS: noun, stem: አመጽ
+
+word: መሀንዲስ
+POS: noun, stem: መሀንዲስ
+
+?word: ጃዋር
+
+word: ስም
+POS: noun, stem: ስም
+
+word: ናኘ
+POS: verb, root: <naN*>, citation: ናኘ
+
+word: አመፁን
+POS: noun, stem: አመጽ
+
+word: በድንብ
+?POS: noun, stem: ድንብ
+
+word: መሩት
+POS: verb, root: <mr'>, citation: መራ
+
+word: አሳኩት
+POS: verb, root: <sk_'>, citation: አሳካ
+
+word: መሀንዲሱ
+POS: noun, stem: መሀንዲስ
+
+word: የአመፁን
+POS: noun, stem: አመጽ
+
+word: ታንክ
+POS: noun, stem: ታንክ
+
+word: ለለማ
+POS: verb, root: <lm'>, citation: ለማ
+
+?word: መገርሳ
+
+word: በክብር
+POS: noun, stem: ክብር
+
+word: አስረከበ
+POS: verb, root: <rkb>, citation: አስረከበ
+
+word: ብዙም
+POS: noun, stem: ብዙ
+
+word: አልቆየም
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+?word: ቄሮ
+
+word: ድረስልኝ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: አብይ
+POS: verb, root: <'by>, citation: አበየ
+
+word: ሊበላኝ
+POS: verb, root: <bl'>, citation: በላ
+
+word: ቄሮውና
+?POS: noun, stem: ቄሮው
+
+word: ጥያቄው
+POS: noun, stem: ጥያቄ
+
+word: ተረሳ
+POS: verb, root: <rs'>, citation: ተረሳ
+
+word: የኦሮሞ
+?POS: noun, stem: ኦሮሞ
+
+word: ወጣት
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: በጥይት
+POS: noun, stem: ጥይት
+
+word: አባዱላውን
+?POS: noun, stem: አባዱላ
+
+word: በፕሮፓጋንዳ
+POS: noun, stem: ፕሮፓጋንዳ
+
+word: እየተመታ
+POS: verb, root: <mt'>, citation: ተመታ
+
+?word: ቲም
+
+word: ለም
+POS: noun, stem: ለም
+
+word: አውሮፕላን
+POS: noun, stem: አውሮፕላን
+
+word: ሳይቀር
+POS: verb, root: <qr*>, citation: ቀረ
+
+word: ደነሱ
+POS: verb, root: <dn_s>, citation: ደነሰ
+
+?word: ኢንጂኒየር
+
+word: ስምኘው
+?POS: noun, stem: ስምኘ
+
+word: የተገደለበት
+POS: verb, root: <gdl>, citation: ተገደለ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ከመኩነስነሳቸው
+POS: noun, stem: ተኩነሰነሰ
+
+word: ሊያርፉ
+POS: verb, root: <'rf>, citation: አረፈ
+
+word: አልቻሉም
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የፋሽን
+POS: noun, stem: እፋሽ
+
+?word: ትራኢት
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ባጭሩ
+POS: noun, stem: አጭር
+
+word: በረጅሙ
+POS: noun, stem: ረዥም
+
+word: በወፍራሙና
+POS: noun, stem: ወፍራም
+
+word: በቀጭኑ
+POS: noun, stem: ቀጭን
+
+word: እየሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ከወለጋ
+POS: noun, stem: ወለጋ
+
+word: ባህዳር
+?POS: noun, stem: አህዳር
+
+word: ተመላለሱ
+POS: verb, root: <ml_s>, citation: ተመላለሰ
+
+word: ሙሴና
+POS: noun, stem: ሙሴ
+
+word: አሮን
+POS: verb, root: <'rr>, citation: አረረ
+
+word: ተብለው
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ተሞገሱ
+POS: verb, root: <mWg_s>, citation: ተሞገሰ
+
+word: ብዙም
+POS: noun, stem: ብዙ
+
+word: አልቆዪም
+?POS: noun, stem: አልቆዪ
+
+word: እርስበርስ
+?POS: noun, stem: ርስበር
+
+word: ተናከሱ
+POS: verb, root: <nks>, citation: ተናከሰ
+
+word: ተቧቀሱ
+?POS: noun, stem: ተቧቀስ
+
+word: ቲሙም
+?POS: noun, stem: ቲም
+
+word: ሙሴም
+POS: noun, stem: ሙሴ
+
+word: አሮንን
+?POS: noun, stem: አሮን
+
+word: የለም
+POS: verb, root: <al_e>, citation: አለ
+
+?word: ፀጥ
+
+word: ረጭ
+POS: noun, stem: ረጨ
+
+?word: ጭጭ
+
+word: አብይ
+POS: verb, root: <'by>, citation: አበየ
+
+word: ሁሉን
+POS: noun, stem: ሁሉ
+
+word: ሆኗል
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ኦሮማራደምህ
+?POS: noun, stem: ኦሮማራደም
+
+word: ደሜ
+POS: noun, stem: ደም
+
+word: ተባባሉ
+POS: verb, root: <b'l>, citation: ተባባለ
+
+word: እንዳይከዳዱ
+POS: verb, root: <kd'>, citation: ከዳዳ
+
+word: በየወንዙ
+POS: noun, stem: ወንዝ
+
+word: ተማማሉ
+POS: verb, root: <m'l>, citation: ተማማለ
+
+word: የኦሮማራ
+?POS: noun, stem: ኦሮማራ
+
+word: ኪዳን
+POS: noun, stem: ኪዳን
+
+word: መስርተው
+POS: verb, root: <msrt>, citation: መሰረተ
+
+word: ትግራይ
+POS: noun, stem: ትግራይ
+
+word: በጥላቻ
+POS: noun, stem: ጥላቻ
+
+word: ዘመቱ
+POS: verb, root: <zmt>, citation: ዘመተ
+
+word: ብዙም
+POS: noun, stem: ብዙ
+
+word: አልቆዩም
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ራስ
+POS: noun, stem: ራስ
+
+word: በራስ
+POS: noun, stem: ራስ
+
+word: ተናቆሩ
+POS: verb, root: <nqWr>, citation: ተናቆረ
+
+word: አማራ
+POS: noun, stem: አማራ
+
+word: ክልልን
+POS: noun, stem: ክልል
+
+word: አተራመሱት
+POS: verb, root: <trams>, citation: አተራመሰ
+
+word: መሪዎቹ
+POS: noun, stem: መራ
+
+word: ተጋደሉ
+POS: verb, root: <gdl>, citation: ተጋደለ
+
+word: የአሮማራው
+?POS: noun, stem: የአሮማራ
+
+word: አፈቀላጤዎች
+?POS: noun, stem: አፈቀላጤ
+
+word: ባንኩም
+POS: noun, stem: ባንክ
+
+word: ታንኩ
+POS: noun, stem: ታንክ
+
+word: በነእነእንትና
+?POS: noun, stem: ነእነእንት
+
+word: እጅ
+POS: noun, stem: እጅ
+
+word: ጠቀለሉት
+POS: verb, root: <Tqll>, citation: ጠቀለለ
+
+word: ያላዝናሉ
+?POS: noun, stem: ያላዝናል
+
+word: በልፅገናል
+POS: verb, root: <blSg>, citation: በለጸገ
+
+word: ይላሉ
+POS: verb, root: <b'l>, citation: አለ
+
+?word: ኦሮሞ
+
+word: ኢህአዲጎቹ
+?POS: noun, stem: ኢህአዲጋ
+
+word: ሁለአችንም
+?POS: noun, stem: ሁለአችን
+
+?word: ኦነግ
+
+word: ነን
+POS: copula, root: <ne>
+
+word: አሉ
+POS: verb, root: <b'l>, citation: አለ
+
+?word: ኦቦ
+
+word: ጃል
+
+word: እየተባባሉ
+POS: verb, root: <b'l>, citation: ተባባለ
+
+word: ተሞከሻሹ
+?POS: noun, stem: ተሞከሻሽ
+
+word: ያምሳ
+POS: noun, stem: አምሳ
+
+word: አመቱ
+POS: noun, stem: አመት
+
+word: አርበኛ
+POS: noun, stem: አርበኛ
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: አገር
+POS: noun, stem: አገር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: በክብር
+POS: noun, stem: ክብር
+
+word: መለሱ
+POS: verb, root: <ml_s>, citation: መለሰ
+
+?word: አቦይ
+
+word: ስብሀት
+POS: noun, stem: ስብሀት
+
+word: ሳይቀር
+POS: verb, root: <qr*>, citation: ቀረ
+
+word: የኦነግን
+?POS: noun, stem: ኦነግ
+
+word: ባንዴራ
+?POS: noun, stem: አንዴራ
+
+word: እያውለበለቡ
+POS: verb, root: <w|lblb>, citation: አውለበለበ
+
+word: ሲያወንጉት
+?POS: verb, root: <wn_g>, citation: አወነገ
+
+word: መሰል
+?POS: noun, stem: ሰሰለ
+
+word: ተቀበሉት
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: ከእሊሊ
+?POS: noun, stem: እሊሊ
+
+word: ሆቴል
+POS: noun, stem: ሆቴል
+
+word: ሸራተን
+?POS: noun, stem: ሸራተ
+
+word: ጫጉላው
+POS: noun, stem: ጫጉላ
+
+word: ተሟሟቀ
+POS: verb, root: <mwq>, citation: ተሟሟቀ
+
+word: ተሿሿሙ
+POS: verb, root: <xwm>, citation: ተሿሿመ
+
+word: ተመሰጋገኑ
+POS: verb, root: <msgn>, citation: ተመሰጋገነ
+
+word: ወያኔ
+?POS: noun, stem: ወያን
+
+word: አባረርናት
+POS: verb, root: <brr>, citation: አባረረ
+
+word: ነፍጠኛን
+POS: noun, stem: ነፍጠኛ
+
+word: ሰበርናት
+POS: verb, root: <sbr>, citation: ሰበረ
+
+word: አሁንስ
+POS: noun, stem: አሁን
+
+?word: ኦቦ
+
+?word: ዳዉድ
+
+word: ፊንፊኔ
+?POS: noun, stem: ፊንፊን
+
+word: ያላዝናል
+?POS: noun, stem: አላዝናል
+
+word: ጃል
+
+?word: ሜሮ
+
+word: ወለጋ
+POS: noun, stem: ወለጋ
+
+word: ይተኩሳል
+POS: verb, root: <tkW_s>, citation: ተኮሰ
+
+?word: ኦነግ
+
+?word: ወነግ
+
+word: ኾነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: መሰል
+?POS: noun, stem: ሰሰለ
+
+word: በወያኔ
+?POS: noun, stem: በወያን
+
+word: ይታገዛል
+POS: verb, root: <'g_z>, citation: ታገዘ
+
+word: ይሉታል
+POS: verb, root: <b'l>, citation: አለ
+
+word: አርበኞች
+POS: noun, stem: አርበኛ
+
+word: ግም
+POS: noun, stem: ግም
+
+word: አንድነት
+?POS: verb, root: <dnt>, citation: ደነተ
+
+word: ከኤርትራ
+POS: noun, stem: ኤርትራ
+
+word: በረሀ
+POS: noun, stem: በረሀ
+
+word: እየተኮሱ
+POS: verb, root: <kWs'>, citation: ተኰሳ
+
+word: በሰላም
+POS: noun, stem: ሰላም
+
+word: ተመለሱ
+POS: verb, root: <ml_s>, citation: ተመለሰ
+
+word: ለሰርግም
+POS: noun, stem: ሰርግ
+
+word: ለሞትም
+POS: noun, stem: ሞት
+
+word: ለተዝካርም
+POS: noun, stem: ተዝካር
+
+word: ለእድርም
+POS: noun, stem: እድር
+
+word: ይተኩሳሉ
+POS: verb, root: <tkW_s>, citation: ተኮሰ
+
+word: ይፎክራሉ
+POS: verb, root: <fWk_r>, citation: ፎከረ
+
+word: ያቅራራሉ
+?POS: noun, stem: አቅራራል
+
+word: ካፍታ
+POS: verb, root: <k'f'>, citation: ካፋ
+
+word: ቆይታ
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ቡኋላ
+?POS: noun, stem: ቡህዋላ
+
+word: አንዱ
+POS: noun, stem: አንድ
+
+?word: ኢዜማ
+
+word: አንዱ
+POS: noun, stem: አንድ
+
+word: አርበኛ
+POS: noun, stem: አርበኛ
+
+word: ሌላው
+POS: noun, stem: ሌላ
+
+word: ፋኖ
+POS: noun, stem: ፋኖ
+
+word: ኾነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: አርበኛው
+POS: noun, stem: አርበኛ
+
+word: ተከዳሁ
+POS: verb, root: <kd'>, citation: ተከዳ
+
+word: ብሎ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ዱር
+POS: noun, stem: ዱር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ፋኖው
+POS: noun, stem: ፋኖ
+
+word: ለወረራ
+POS: noun, stem: ወረራ
+
+word: ራሱን
+POS: noun, stem: ራስ
+
+word: አሰማራ
+?POS: verb, root: <smrr>, citation: አሰማረረ
+
+word: አርበኞቹም
+POS: noun, stem: አርበኛ
+
+word: እንጨብጣታለን
+POS: verb, root: <Cb_T>, citation: ጨበጠ
+
+word: መጨባበጥ
+POS: noun, stem: ተጨባበጠ
+
+word: ያዙ
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: ፋኖውም
+POS: noun, stem: ፋኖ
+
+word: አርበኛውም
+POS: noun, stem: አርበኛ
+
+word: በአብይ
+?POS: noun, stem: አብይ
+
+word: ወታደሮች
+POS: noun, stem: ወታደር
+
+word: ይዘመትባቸዋል
+POS: verb, root: <zmt>, citation: ተዘመተ
+
+word: ኢዜማውም
+?POS: noun, stem: ኢዜማ
+
+word: ከጥቂት
+POS: noun, stem: ጥቂት
+
+?word: ሽርጉድ
+
+word: ቡኋላ
+?POS: noun, stem: ቡህዋላ
+
+word: ማጉተምተም
+POS: noun, stem: አጕተመተመ
+
+word: ጀምሯል
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: አለመታደል
+POS: noun, stem: ታደለ
+
+word: ዝርዝሩ
+POS: noun, stem: ዝርዝር
+
+word: ባጭሩ
+POS: noun, stem: አጭር
+
+word: የነኩት
+POS: verb, root: <nk'>, citation: ነካ
+
+word: ፈረሰባቸው
+POS: verb, root: <frs>, citation: ፈረሰ
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: በብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: መንገድ
+POS: noun, stem: መንገድ
+
+word: ነን
+POS: copula, root: <ne>
+
+word: ይሉናል
+POS: verb, root: <b'l>, citation: አለ
+
+word: የትም
+POS: noun, stem: እትም
+
+word: ላይደርሱ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: የመጡበትን
+POS: verb, root: <mT'>, citation: መጣ
+
+word: መንገድ
+POS: noun, stem: መንገድ
+
+word: ይመላለሱበታል
+POS: verb, root: <ml_s>, citation: ተመላለሰ
+
+word: ባዙሪት
+POS: noun, stem: አዙሪት
+
+word: እብደት
+POS: noun, stem: እብደት
+
+word: አንድን
+POS: noun, stem: አንድ
+
+word: እየደጋገምክ
+POS: verb, root: <dgm>, citation: ደጋገመ
+
+word: የተለየ
+POS: verb, root: <ly_*>, citation: ተለየ
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: መጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ነበር
+

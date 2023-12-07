@@ -1,0 +1,348 @@
+word: የደቡብ
+POS: noun, stem: ደቡብ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: መደበኛ
+POS: noun, stem: ደበነ
+
+word: ጉባኤውን
+POS: noun, stem: ጉባኤ
+
+word: ማካሄድ
+POS: noun, stem: አካሄደ
+
+word: ጀመረ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: የደቡብ
+POS: noun, stem: ደቡብ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: አመት
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ዘመን
+POS: noun, stem: ዘመን
+
+word: መደበኛ
+POS: noun, stem: ደበነ
+
+word: ጉባኤ
+POS: noun, stem: ጉባኤ
+
+word: በሀዋሳ
+?POS: noun, stem: ሀዋሳ
+
+word: መካሄድ
+POS: noun, stem: ተካሄደ
+
+word: ጀምሯል
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: የምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+?word: አፈ
+
+word: ጉባኤ
+POS: noun, stem: ጉባኤ
+
+word: ሄለን
+?POS: noun, stem: ሄለ
+
+word: ደበበ
+POS: verb, root: <dbb>, citation: ደበበ
+
+word: የዘመናት
+?POS: noun, stem: ዘመናት
+
+word: የህዝቦች
+POS: noun, stem: ህዝብ
+
+word: ጥያቄና
+POS: noun, stem: ጥያቄ
+
+?word: ቁጭት
+
+word: የታላቁ
+POS: noun, stem: ታላቅ
+
+word: ህዳሴ
+?POS: noun, stem: ህዳስ
+
+word: ግድብ
+POS: noun, stem: ግድብ
+
+word: ውጤት
+POS: noun, stem: ውጤት
+
+word: መቃረብና
+POS: noun, stem: ተቃረበ
+
+word: የመጀመሪያ
+POS: noun, stem: ጀመረ
+
+?word: ሙሌት
+
+word: በስኬት
+?POS: noun, stem: ስኬት
+
+word: በመጠናቀቁ
+POS: noun, stem: ተጠናቀቀ
+
+word: እንኳን
+
+?word: ደስ
+
+word: አላችሁ
+POS: verb, root: <b'l>, citation: አለ
+
+word: የሀገራችንን
+POS: noun, stem: ሀገር
+
+word: ለውጥ
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: ለመቀልበስ
+POS: noun, stem: ቀለበሰ
+
+word: የፖለቲካና
+?POS: noun, stem: ፖለቲካ
+
+word: የግጭት
+POS: noun, stem: ግጭት
+
+word: መንገድን
+POS: noun, stem: መንገድ
+
+word: በመቀላቀል
+POS: noun, stem: ተቀላቀለ
+
+word: የሚንቀሳቀሱ
+POS: verb, root: <n|qsaqs>, citation: ተንቀሳቀሰ
+
+word: ሀይሎች
+POS: noun, stem: ሀይል
+
+word: ዜጋ
+POS: noun, stem: ዜጋ
+
+word: ሊታገላቸው
+POS: verb, root: <tagl>, citation: ተታገለ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+?word: አፈ
+
+word: ጉባኤዋ
+POS: noun, stem: ጉባኤ
+
+word: መንግስትም
+POS: noun, stem: መንግስት
+
+word: የምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: የዜጎችን
+POS: noun, stem: ዜጋ
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: በማስጠበቅ
+POS: noun, stem: አስጠበቀ
+
+word: ረገድ
+POS: noun, stem: ረገድ
+
+word: በንቃት
+POS: noun, stem: ንቃት
+
+word: ሊንቀሳቀሱ
+POS: verb, root: <n|qsaqs>, citation: ተንቀሳቀሰ
+
+word: እንደሚባም
+?POS: noun, stem: ሚባም
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: በተቋማት
+?POS: noun, stem: በተቅዋማት
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: በመረባረብ
+POS: noun, stem: ተረባረበ
+
+word: ዘላቂና
+POS: noun, stem: ዘለቀ
+
+word: አስተማማኝ
+POS: noun, stem: አስተማመነ
+
+word: የህዝብ
+POS: noun, stem: ህዝብ
+
+word: ተጠቃሚነትን
+?POS: noun, stem: ተጠቃሚነት
+
+word: ሊያረጋግጥ
+POS: verb, root: <rgT>, citation: አረጋገጠ
+
+word: እንደሚገባም
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ጥሪ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: አቅርበዋል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የህዝቡን
+POS: noun, stem: ህዝብ
+
+word: የአደረጃጀት
+?POS: noun, stem: አደረጃጀት
+
+word: ጥያቄዎች
+POS: noun, stem: ጥያቄ
+
+word: ለመመለስ
+POS: noun, stem: ተመለሰ
+
+word: እየሰራ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ያነሱት
+POS: verb, root: <ns'>, citation: አነሳ
+
+?word: አፈ
+
+word: ጉባኤዋ
+POS: noun, stem: ጉባኤ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: የሚታዩ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: አፍራሽ
+POS: noun, stem: አፈረሰ
+
+word: መልእክቶችን
+?POS: noun, stem: መልእክት
+
+word: መመከት
+POS: noun, stem: መከተ
+
+word: ማለታቸውን
+POS: noun, stem: አለ
+
+word: ከክልሉ
+POS: noun, stem: ክልል
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ኮሙዩኒኬሽን
+?POS: noun, stem: ኮሙዩኒኬሽ
+
+word: ያገኘነው
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ያመላክታል
+POS: verb, root: <mlkt>, citation: አመላከተ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: ቆይታው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: በተለያዩ
+POS: noun, stem: ተለያየ
+
+word: አጀንዳዎች
+POS: noun, stem: አጀንዳ
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: አቅጣጫዎችን
+?POS: noun, stem: አቅጣጫ
+
+word: ያስቀምጣል
+POS: verb, root: <qm_T>, citation: አስቀመጠ
+
+word: ተብሎ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ይጠበቃል
+POS: verb, root: <Tbq>, citation: ተጠበቀ
+

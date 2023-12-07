@@ -1,0 +1,328 @@
+word: በወታደራዊ
+?POS: noun, stem: ወታደራዊ
+
+word: ሳይንስና
+POS: noun, stem: ሳይንስ
+
+word: የአመራር
+POS: noun, stem: አመራር
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: የሰለጠኑ
+POS: verb, root: <slTn>, citation: ሰለጠነ
+
+word: እጩ
+POS: noun, stem: እጩ
+
+word: መኮንኖች
+?POS: noun, stem: መኮንን
+
+word: ተመረቁ
+POS: verb, root: <mr_q>, citation: ተመረቀ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: የሜጀር
+?POS: noun, stem: ሜጀር
+
+?word: ጀነራል
+
+word: ሀየሎም
+?POS: noun, stem: ሀየሎ
+
+word: አርአያ
+POS: noun, stem: አርአያ
+
+?word: ወታደራዊ
+
+word: አካዳሚ
+POS: noun, stem: አካደመ
+
+word: በወታደራዊ
+?POS: noun, stem: ወታደራዊ
+
+word: ሳይንስና
+POS: noun, stem: ሳይንስ
+
+word: የአመራር
+POS: noun, stem: አመራር
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: ያሰለጠናቸውን
+POS: verb, root: <slTn>, citation: አሰለጠነ
+
+word: እጩ
+POS: noun, stem: እጩ
+
+word: መኮንኖች
+?POS: noun, stem: መኮንን
+
+?word: በም
+
+word: ማእረግ
+POS: noun, stem: ማእረግ
+
+word: አስመርቋል
+POS: verb, root: <mr_q>, citation: አስመረቀ
+
+?word: ጀነራል
+
+word: ብርሀኑ
+POS: noun, stem: ብርሀን
+
+?word: ጁላ
+
+word: በዚሁ
+POS: noun, stem: ይህ
+
+word: ተመራቂዎች
+POS: noun, stem: ተመረቀ
+
+word: የኢትዮጵያን
+POS: noun, stem: ኢትዮጵያ
+
+?word: ብሄራዊ
+
+word: ጥቅም
+POS: noun, stem: ጥቅም
+
+word: ለማስጠበቅ
+POS: noun, stem: አስጠበቀ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: ወዳድነትና
+?POS: noun, stem: አድነት
+
+word: ጀግንነት
+POS: noun, stem: ጀግንነት
+
+word: መላበስ
+POS: noun, stem: ተላበሰ
+
+word: እንደሚጠበቅባቸው
+POS: verb, root: <Tb_q>, citation: ተጠበቀ
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: በታሪኳ
+POS: noun, stem: ታሪክ
+
+word: የባከነባትን
+POS: verb, root: <bakn>, citation: ባከነ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: አካክሳ
+POS: verb, root: <k's>, citation: አካካሰ
+
+word: እንድትሄድ
+POS: verb, root: <hyd>, citation: ሄደ
+
+word: የጅመረችውን
+?POS: noun, stem: ጅመረችውን
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: የሰላምና
+POS: noun, stem: ሰላም
+
+word: የዲሞክራሲ
+?POS: noun, stem: ዲሞክራሲ
+
+word: ጉዞ
+POS: noun, stem: ጉዞ
+
+word: ለመጠበቅና
+POS: noun, stem: ተጠበቀ
+
+word: ለመንከባከብ
+POS: noun, stem: ተንከባከበ
+
+word: ሰራዊቱ
+?POS: noun, stem: ሰራዊት
+
+word: ዝግጁ
+POS: noun, stem: ዝግጁ
+
+?word: ጀነራል
+
+word: ብርሀኑ
+POS: noun, stem: ብርሀን
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የሜጀር
+?POS: noun, stem: ሜጀር
+
+?word: ጀነራል
+
+word: ሀየሎም
+?POS: noun, stem: ሀየሎ
+
+word: አርአያ
+POS: noun, stem: አርአያ
+
+?word: ወታደራዊ
+
+word: አካዳሚ
+POS: noun, stem: አካደመ
+
+word: አዛዥ
+POS: noun, stem: አዘዘ
+
+?word: ሜጀር
+
+?word: ጀነራል
+
+word: ታደስ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: መኩሪያ
+POS: noun, stem: ኮራ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: ተመራቂዎች
+POS: noun, stem: ተመረቀ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: የመደበኛ
+POS: noun, stem: ደበነ
+
+word: እጩ
+POS: noun, stem: እጩ
+
+?word: መኮንነት
+
+word: ትምህርትና
+POS: noun, stem: ትምህርት
+
+word: ስልጠና
+?POS: noun, stem: ስልጠ
+
+word: ለሁለት
+POS: noun, stem: ሁለት
+
+word: አመት
+
+word: ወስደው
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: በማጠናቀቅ
+POS: noun, stem: አጠናቀቀ
+
+word: በወታደራዊ
+?POS: noun, stem: ወታደራዊ
+
+word: ሳይንስና
+POS: noun, stem: ሳይንስ
+
+word: የእመራር
+?POS: noun, stem: እመራር
+
+word: ጥበብ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: በዲግሪና
+POS: noun, stem: ዲግሪ
+
+word: በምክትል
+POS: noun, stem: ምክትል
+
+word: መቶ
+
+word: አለቅነት
+POS: noun, stem: አለቅነት
+
+word: ማእረግ
+POS: noun, stem: ማእረግ
+
+word: መመረቃቸውን
+POS: noun, stem: ተመረቀ
+
+word: ማረጋገጣቸውን
+POS: noun, stem: አረጋገጠ
+
+word: ከኢፌዴሪ
+?POS: noun, stem: ኢፌዴሪ
+
+word: መከላከያ
+POS: noun, stem: ተከላከለ
+
+?word: ሰራዊት
+
+word: ያገኘነው
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ያመለክታል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: በስነ
+POS: noun, stem: ስነ
+
+word: ስርአቱ
+POS: noun, stem: ስርአት
+
+word: የሆለታ
+?POS: noun, stem: ሆለታ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+?word: ጀነራል
+
+word: መኮንኖች
+?POS: noun, stem: መኮንን
+
+word: የሰራዊት
+?POS: noun, stem: ሰራዊት
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: የተመራቂ
+POS: noun, stem: ተመረቀ
+
+word: ቤተሰቦች
+POS: noun, stem: ቤተሰብ
+
+word: ጥሪ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: የተደረገላቸው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: እንግዶች
+POS: noun, stem: እንግዳ
+
+word: ተገኝተዋል
+POS: verb, root: <gN*>, citation: ተገኘ
+

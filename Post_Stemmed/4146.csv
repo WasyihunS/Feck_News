@@ -1,0 +1,421 @@
+word: በጤና
+POS: noun, stem: ጤና
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: የሚሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: የኮሮና
+?POS: noun, stem: ኮሮና
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: እንደተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: አስታወቁ
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ግንቦት
+POS: noun, stem: ግንቦት
+
+?word: ኢዜአ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: ባለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎችና
+POS: noun, stem: ባለሙያ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ሰጪ
+POS: noun, stem: ሰጠ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: የኮሮና
+?POS: noun, stem: ኮሮና
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: እንደተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: ሊያ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: እየጨመረ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: መምጣቱን
+POS: noun, stem: መጣ
+
+word: የገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: የስርጭት
+POS: noun, stem: ስርጭት
+
+word: አድማሱ
+POS: noun, stem: አድማስ
+
+word: እየጨመረ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: መጥቷል
+POS: verb, root: <mT'>, citation: መጣ
+
+word: በግንቦት
+POS: noun, stem: ግንቦት
+
+word: ወር
+POS: noun, stem: ወር
+
+word: ሺህ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: መያዛቸውንም
+POS: noun, stem: ያዘ
+
+word: ለአብነት
+POS: noun, stem: አብነት
+
+word: አንስተዋል
+POS: verb, root: <ns'>, citation: አነሳ
+
+word: የቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: ከማህበረሰቡ
+?POS: noun, stem: ማህበረሰብ
+
+word: ባሻገር
+?POS: noun, stem: አሻገር
+
+word: በጤና
+POS: noun, stem: ጤና
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: በሚሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ሀኪሞችና
+POS: noun, stem: ሀኪም
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ሰጪ
+POS: noun, stem: ሰጠ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: መከሰቱንም
+POS: noun, stem: ተከሰተ
+
+word: የተናገሩት
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: ባለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሂደትም
+POS: noun, stem: ሂደት
+
+word: የህክምና
+POS: noun, stem: ህክምና
+
+word: ባለሙያዎችና
+POS: noun, stem: ባለሙያ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ሰጪ
+POS: noun, stem: ሰጠ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ተገኝቶባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ክትትል
+POS: noun, stem: ክትትል
+
+word: እያደረጉ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ባለሙያዎቹ
+POS: noun, stem: ባለሙያ
+
+word: በአብዛኛው
+POS: noun, stem: አብዛኛው
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: በሚገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: እየሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: መሆናቸውን
+POS: noun, stem: ሆነ
+
+word: በመግለፅ
+POS: noun, stem: ገለጸ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎችና
+POS: noun, stem: ባለሙያ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: የቫይረሱን
+?POS: noun, stem: ቫይረስ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: ለመግታት
+POS: noun, stem: ገታ
+
+word: እያደረጉት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ላለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ተጋድሎም
+POS: noun, stem: ተጋድሎ
+
+word: ምስጋና
+POS: noun, stem: ምስጋና
+
+word: አቅርበዋል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: ሰራተኞችን
+POS: noun, stem: ሰራተኛ
+
+?word: ተጋላጭነት
+
+word: ለመቀነስ
+POS: noun, stem: ቀነሰ
+
+word: ከሚያደርገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: በተጨማሪ
+
+word: ህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ራሱን
+POS: noun, stem: ራስ
+
+word: በመጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: የባለሙያዎቹን
+POS: noun, stem: ባለሙያ
+
+word: ጫና
+POS: noun, stem: ጫና
+
+word: እንዲቀንስም
+POS: verb, root: <qn_s>, citation: ቀነሰ
+
+word: ጠይቀዋል
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: ተያይዞ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: ማህበረሰቡ
+?POS: noun, stem: ማህበረሰብ
+
+word: የቫይረሱን
+?POS: noun, stem: ቫይረስ
+
+word: ስርጭት
+POS: noun, stem: ስርጭት
+
+word: የሚመጥን
+POS: verb, root: <mT_n>, citation: መጠነ
+
+word: ጥንቃቄ
+POS: noun, stem: ጥንቃቄ
+
+word: አለመደረጉ
+POS: noun, stem: ተደረገ
+
+word: እንደሚያሳስባቸው
+POS: verb, root: <s'b>, citation: አሳሳበ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: ጥንቃቄ
+POS: noun, stem: ጥንቃቄ
+
+word: የምናደርገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: የፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎችን
+POS: noun, stem: ባለሙያ
+
+word: ትእዛዝ
+POS: noun, stem: ትእዛዝ
+
+word: ለማክበር
+POS: noun, stem: አከበረ
+
+word: ሳይሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ለራሳችንና
+POS: noun, stem: ራስ
+
+word: ለምንወዳቸው
+POS: verb, root: <wdd>, citation: ወደደ
+
+word: ወገኖቻችን
+POS: noun, stem: ወገን
+
+word: ብለን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሲሉም
+POS: verb, root: <b'l>, citation: አለ
+
+word: ምክራቸውን
+POS: noun, stem: ምክር
+
+word: አስተላልፈዋል
+POS: verb, root: <'lf>, citation: አስተላለፈ
+

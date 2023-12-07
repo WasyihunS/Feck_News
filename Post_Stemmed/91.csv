@@ -1,0 +1,414 @@
+word: አፈትልኮ
+POS: verb, root: <ftlk>, citation: አፈተለከ
+
+word: በወጣው
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: የአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ፓርቲ
+POS: noun, stem: ፓርቲ
+
+word: የአመራር
+POS: noun, stem: አመራር
+
+word: ስልጠና
+?POS: noun, stem: ስልጠ
+
+word: ሰነድ
+POS: noun, stem: ሰነድ
+
+word: የሚከተለው
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+?word: አቅጣጫ
+
+word: ተቀምጧል
+POS: verb, root: <qm_T>, citation: ተቀመጠ
+
+word: የህዝባችን
+POS: noun, stem: ህዝብ
+
+word: ኩራትና
+POS: noun, stem: ኩራት
+
+word: የላእላይ
+POS: noun, stem: ላእላይ
+
+?word: ተምሳሌት
+
+word: እምዬ
+
+word: ምንሊክን
+?POS: noun, stem: ምንሊክ
+
+word: ታላቅ
+POS: noun, stem: ታላቅ
+
+word: ስምና
+POS: noun, stem: ስም
+
+word: ክብር
+POS: noun, stem: ክብር
+
+word: የሚያጠለሹ
+?POS: noun, stem: የሚያጠለሽ
+
+word: ሀይሎችን
+POS: noun, stem: ሀይል
+
+word: ምህረት
+POS: noun, stem: ምህረት
+
+word: እንዲከስሙ
+POS: verb, root: <ksm>, citation: ከሰመ
+
+word: የፓርቲው
+POS: noun, stem: ፓርቲ
+
+word: አቋም
+POS: noun, stem: አቋም
+
+word: ሶስት
+
+word: ነገሮችን
+POS: noun, stem: ነገር
+
+word: እንረዳለን
+POS: verb, root: <rd'>, citation: ተረዳ
+
+word: ፦
+
+word: ሀጫሉ
+?POS: noun, stem: ሀጫል
+
+word: የተገደለው
+POS: verb, root: <gdl>, citation: ተገደለ
+
+word: ምህረት
+POS: noun, stem: ምህረት
+
+word: የከሰመው
+POS: verb, root: <ksm>, citation: ከሰመ
+
+word: የኩራትና
+POS: noun, stem: ኩራት
+
+word: የበላይነት
+?POS: noun, stem: በላይነት
+
+word: ምልክት
+POS: noun, stem: ምልክት
+
+word: ሚኒልክን
+?POS: noun, stem: ሚኒልክ
+
+word: ሰድቧል
+POS: verb, root: <sdb>, citation: ሰደበ
+
+word: በሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: በብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ፓርቲ
+POS: noun, stem: ፓርቲ
+
+word: ክንፍ
+POS: noun, stem: ክንፍ
+
+word: በጭፍሮቻቸው
+POS: noun, stem: ጭፍራ
+
+word: በማህበራዊ
+?POS: noun, stem: ማህበራዊ
+
+?word: ሚዲያ
+
+word: ይካሄድ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: መጠነ
+POS: verb, root: <mT_n>, citation: መጠነ
+
+word: ሰፊ
+POS: noun, stem: ሰፋ
+
+word: የግድያ
+POS: noun, stem: ግድያ
+
+word: ዛቻ
+POS: noun, stem: ዛቻ
+
+?word: ተግባራዊ
+
+word: መደረጉን
+POS: noun, stem: ተደረገ
+
+word: በጥቅሉ
+POS: noun, stem: ጥቅል
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+word: ሀይል
+
+word: ለእኩልነት
+?POS: noun, stem: እኩልነት
+
+word: የሚታገል
+POS: verb, root: <tagl>, citation: ተታገለ
+
+word: ለበላይነት
+?POS: noun, stem: በላይነት
+
+word: ላእላይነት
+?POS: noun, stem: አእላይነት
+
+word: የሚታገል
+POS: verb, root: <tagl>, citation: ተታገለ
+
+word: በሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: ለሁለት
+POS: noun, stem: ሁለት
+
+word: ሊከፈል
+POS: verb, root: <kfl>, citation: ተከፈለ
+
+word: እንደሚችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የሚጫወቱበት
+POS: verb, root: <Cawt>, citation: ተጫወተ
+
+word: ቦታና
+POS: noun, stem: ቦታ
+
+word: ስልት
+POS: noun, stem: ስልት
+
+word: ይለያይ
+POS: verb, root: <ly_*>, citation: ተለያየ
+
+word: አብን
+?POS: noun, stem: አብ
+
+word: ባልደራስ
+POS: noun, stem: ባልደራስ
+
+word: ኢዜማና
+?POS: noun, stem: ኢዜማ
+
+word: ብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ፓርቲዎች
+POS: noun, stem: ፓርቲ
+
+word: ዘመኑን
+POS: noun, stem: ዘመን
+
+word: በሚመስል
+POS: verb, root: <msl>, citation: መሰለ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: የነፍጠኛና
+POS: noun, stem: ነፍጠኛ
+
+word: ገባር
+POS: noun, stem: ገባር
+
+word: ስርእትን
+?POS: noun, stem: ስርእት
+
+word: በመትከል
+POS: noun, stem: ተከለ
+
+word: የህዝቦችን
+POS: noun, stem: ህዝብ
+
+word: እኩልነት
+?POS: noun, stem: ኩልነት
+
+word: የሚፃረር
+?POS: noun, stem: ሚጻረር
+
+?word: ስርእት
+
+word: ለማስፈን
+POS: noun, stem: አሰፈነ
+
+word: የሚጥሩ
+POS: verb, root: <T'r>, citation: ጣረ
+
+word: የፈደራል
+?POS: noun, stem: ፈደራል
+
+word: ሀይሉ
+POS: noun, stem: ሀይል
+
+word: ለእኩልነት
+?POS: noun, stem: እኩልነት
+
+word: ፍትህ
+POS: noun, stem: ፍትህ
+
+word: ለእውነተኛ
+POS: noun, stem: እውነተኛ
+
+word: የሀገር
+POS: noun, stem: ሀገር
+
+word: አንድነት
+?POS: verb, root: <dnt>, citation: ደነተ
+
+word: የሚታገል
+POS: verb, root: <tagl>, citation: ተታገለ
+
+word: የመንግስትን
+POS: noun, stem: መንግስት
+
+word: ስልጣን
+?POS: noun, stem: ስልጣ
+
+word: የያዘው
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: ፓርቲ
+POS: noun, stem: ፓርቲ
+
+word: መመስረት
+POS: noun, stem: ተመሰረተ
+
+word: የሚፈልገውን
+POS: verb, root: <fl_g>, citation: ፈለገ
+
+?word: ስርእት
+
+word: ለመትከል
+POS: noun, stem: ተከለ
+
+word: እየተንቀሳቀሰ
+POS: verb, root: <n|qsaqs>, citation: ተንቀሳቀሰ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ያሳያል
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: የቀደሙ
+POS: verb, root: <qdm>, citation: ቀደመ
+
+word: መሪዎች
+POS: noun, stem: መራ
+
+word: እንኳን
+
+word: ትችት
+POS: noun, stem: ትችት
+
+word: መሰንዘር
+POS: noun, stem: ሰነዘረ
+
+word: የማይቻልበት
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: ፍፁም
+POS: noun, stem: ፍጹም
+
+?word: ስርእት
+
+word: ማስፈን
+POS: noun, stem: አሰፈነ
+
+word: ተፈልጓል
+POS: verb, root: <fl_g>, citation: ተፈለገ
+
+?word: ፅንፈኛ
+
+?word: አህዳዊነት
+
+word: የለም
+POS: verb, root: <al_e>, citation: አለ
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+word: አመለካከትና
+POS: noun, stem: ምልክት
+
+word: የማንነት
+?POS: noun, stem: አነነተ
+
+word: ብዝሀንነትን
+?POS: noun, stem: ብዝሀንነት
+
+word: መጨፍለቅ
+POS: noun, stem: ተጨፈለቀ
+
+word: የለም
+POS: verb, root: <al_e>, citation: አለ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: አካሄድ
+POS: noun, stem: ሄደ
+
+word: ገዢው
+POS: noun, stem: ገዛ
+
+word: ፓርቲ
+POS: noun, stem: ፓርቲ
+
+?word: ዘወትር
+
+word: እንደሚያሟርተው
+POS: verb, root: <mWart>, citation: አሟረተ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ይፈርስ
+POS: verb, root: <frs>, citation: ፈረሰ
+
+word: ይሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ዘላቂ
+POS: noun, stem: ዘለቀ
+
+word: ሰላምና
+POS: noun, stem: ሰላም
+
+word: አንድነት
+?POS: verb, root: <dnt>, citation: ደነተ
+
+word: ሊረጋገጥ
+POS: verb, root: <rgT>, citation: ተረጋገጠ
+
+word: አይችልም
+POS: verb, root: <c'l>, citation: ቻለ
+

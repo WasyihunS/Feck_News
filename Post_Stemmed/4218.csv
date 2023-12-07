@@ -1,0 +1,591 @@
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ለማለፍ
+POS: noun, stem: አለፈ
+
+?word: ማህበራዊ
+
+word: ሀላፊነትና
+POS: noun, stem: ሀላፊነት
+
+?word: ሰብአዊ
+
+word: ተግባራትን
+?POS: noun, stem: ተግባራት
+
+word: መፈፀም
+POS: noun, stem: ፈጸመ
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ለማለፍ
+POS: noun, stem: አለፈ
+
+word: አስመጪዎች
+POS: noun, stem: አስመጣ
+
+word: ነጋዴዎችና
+POS: noun, stem: ነጋዴ
+
+word: አምራቾች
+POS: noun, stem: አመረተ
+
+?word: ማህበራዊ
+
+word: ሀላፊነታቸውን
+POS: noun, stem: ሀላፊነት
+
+word: በመወጣትና
+POS: noun, stem: ተወጣ
+
+?word: ሰብአዊ
+
+word: ተግባራትን
+?POS: noun, stem: ተግባራት
+
+word: በመፈፀም
+POS: noun, stem: ፈጸመ
+
+word: ስራዎቻቸውን
+POS: noun, stem: ስራ
+
+word: መስራት
+POS: noun, stem: ሰራ
+
+word: እንዳለባቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ንግድና
+POS: noun, stem: ንግድ
+
+?word: ኢንዱስትሪ
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: ገለፀ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ከምግብ
+POS: noun, stem: ምግብ
+
+word: ዘይት
+POS: noun, stem: ዘይት
+
+word: አስመጪዎችና
+POS: noun, stem: አስመጣ
+
+word: አምራቾች
+POS: noun, stem: አመረተ
+
+word: በግብይት
+?POS: noun, stem: ግብይት
+
+word: አቅርቦትና
+POS: verb, root: <qrb>, citation: አቀረበ
+
+?word: ስርጪት
+
+word: ዙሪያ
+POS: noun, stem: ዙሪያ
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: አካሂዷል
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: ውይይቱን
+POS: noun, stem: ውይይት
+
+word: የመሩት
+POS: verb, root: <mr'>, citation: መራ
+
+word: የንግድ
+POS: noun, stem: ንግድ
+
+word: ጥራትና
+POS: verb, root: <Tr'>, citation: ጠራ
+
+?word: ሪጉላቶሪ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: ዴኤታ
+
+word: እሸቴ
+POS: noun, stem: እሸት
+
+word: አስፋው
+POS: verb, root: <sf'>, citation: አሰፋ
+
+?word: ኮቪድ
+
+word: በሀገራችን
+POS: noun, stem: ሀገር
+
+word: መከሰቱን
+POS: noun, stem: ተከሰተ
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: የተፈጠረውን
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: የዋጋ
+POS: noun, stem: ዋጋ
+
+word: ንረት
+?POS: verb, root: <nrt>, citation: ነረተ
+
+word: ለመቆጣጠር
+POS: noun, stem: ተቆጣጠረ
+
+word: በተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ክትትል
+POS: noun, stem: ክትትል
+
+word: ምርት
+POS: noun, stem: ምርት
+
+word: የሚደብቁ
+POS: verb, root: <db_q>, citation: ደበቀ
+
+word: በተጋነነ
+POS: verb, root: <gnn>, citation: ተጋነነ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: የሚሸጡ
+POS: verb, root: <xyT>, citation: ሸጠ
+
+word: የምርት
+POS: noun, stem: ምርት
+
+word: ጥራት
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: የሚያጓድሉ
+POS: verb, root: <gWdl>, citation: አጓደለ
+
+word: አምራቾችና
+POS: noun, stem: አመረተ
+
+word: ነጋዴዎች
+POS: noun, stem: ነጋዴ
+
+word: መኖራቸው
+POS: noun, stem: ኖረ
+
+word: ተረጋግጧል
+POS: verb, root: <rgT>, citation: ተረጋገጠ
+
+word: በተለይም
+POS: noun, stem: ተለየ
+
+word: ምርት
+POS: noun, stem: ምርት
+
+word: መገደብ
+POS: noun, stem: ተገደበ
+
+word: ለተወሰኑ
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: ነጋዴዎች
+POS: noun, stem: ነጋዴ
+
+word: መሸጥ
+POS: noun, stem: ሸጠ
+
+word: የደረሰኝ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: ማሳነስ
+POS: noun, stem: አሳነሰ
+
+word: ዋጋን
+POS: noun, stem: ዋጋ
+
+word: ተነጋግሮ
+POS: verb, root: <ngr>, citation: ተነጋገረ
+
+word: መወሰን
+POS: noun, stem: ተወሰነ
+
+word: በመጋዘን
+POS: noun, stem: መጋዘን
+
+word: ማከማቸት
+POS: noun, stem: አከማቸ
+
+word: አንድን
+POS: noun, stem: አንድ
+
+word: ምርት
+POS: noun, stem: ምርት
+
+word: ከሌላ
+POS: noun, stem: ሌላ
+
+word: ምርት
+POS: noun, stem: ምርት
+
+word: አጣምሮ
+POS: verb, root: <Tm_r>, citation: አጣመረ
+
+word: እንዲወስዱ
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: ማስገደድ
+POS: noun, stem: አስገደደ
+
+word: በደላላ
+POS: noun, stem: ደላላ
+
+word: መሸጥ
+POS: noun, stem: ሸጠ
+
+word: ምርት
+POS: noun, stem: ምርት
+
+word: ከመርካቶ
+?POS: noun, stem: መርካቶ
+
+word: ማጥፋት
+POS: noun, stem: አጠፋ
+
+word: የተስተዋሉ
+?POS: noun, stem: ተስተዋል
+
+word: ችግሮች
+POS: noun, stem: ችግር
+
+word: ሲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: እነዚህ
+POS: noun, stem: ይህ
+
+word: መሰል
+?POS: noun, stem: ሰሰለ
+
+?word: ህገወጥ
+
+word: ተግባራትን
+?POS: noun, stem: ተግባራት
+
+word: እየፈፀሙ
+POS: verb, root: <fS_m>, citation: ፈጸመ
+
+word: ራስ
+POS: noun, stem: ራስ
+
+word: ወዳድ
+POS: noun, stem: ወዳድ
+
+word: አምራቾችና
+POS: noun, stem: አመረተ
+
+word: ነጋዴዎች
+POS: noun, stem: ነጋዴ
+
+word: ከድርጊታቸው
+POS: noun, stem: ድርጊት
+
+word: ካልተቆጠቡ
+POS: verb, root: <qWT_b>, citation: ተቆጠበ
+
+word: አስፈላጊው
+POS: noun, stem: አስፈለገ
+
+word: አስተማሪ
+POS: noun, stem: አስተማሪ
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: ይወሰዳልም
+POS: verb, root: <wsd>, citation: ተወሰደ
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዴኤታው
+?POS: noun, stem: ዴኤታ
+
+word: በሌላ
+POS: noun, stem: ሌላ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: ያልጨመሩ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: የምርት
+POS: noun, stem: ምርት
+
+word: መጠን
+POS: verb, root: <mT_n>, citation: መጠነ
+
+word: የጨመሩ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: የምርት
+POS: noun, stem: ምርት
+
+word: ጥራት
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: ያላጓደሉ
+POS: verb, root: <gWdl>, citation: አጓደለ
+
+word: ሰራተኞቻቸውን
+POS: noun, stem: ሰራተኛ
+
+word: ከቫይረሱ
+?POS: noun, stem: ቫይረሱ
+
+word: ለመጠበቅ
+POS: noun, stem: ጠበቀ
+
+?word: ግብአት
+
+word: ያቀረቡ
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: ገንዘባቸውንና
+POS: noun, stem: ገንዘብ
+
+word: ቤታቸውን
+POS: noun, stem: ቤት
+
+word: የለገሱ
+POS: verb, root: <lg_s>, citation: ለገሰ
+
+word: መልካም
+POS: noun, stem: መልካም
+
+word: የንግዱና
+POS: noun, stem: ንግድ
+
+word: የኢንዱስትሪው
+?POS: noun, stem: ኢንዱስትሪ
+
+?word: ማህበረሰብ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: መኖራቸው
+POS: noun, stem: ኖረ
+
+word: የተገለፀ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: አስቸጋሪ
+POS: noun, stem: አስቸገረ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+?word: ማህበራዊ
+
+word: ሀላፊነት
+POS: noun, stem: ሀላፊነት
+
+?word: ሰብአዊነት
+
+word: የተሞላበትን
+POS: verb, root: <mWl'>, citation: ተሞላ
+
+?word: ተግባራት
+
+word: መፈፀም
+POS: noun, stem: ፈጸመ
+
+word: አለባቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ተብሏል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: በውይይቱ
+POS: noun, stem: ውይይት
+
+word: የተገኙ
+POS: noun, stem: ተገኘ
+
+word: አምራቾች
+POS: noun, stem: አመረተ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: የምግብ
+POS: noun, stem: ምግብ
+
+word: ዘይት
+POS: noun, stem: ዘይት
+
+word: ለማምረት
+POS: noun, stem: አመረተ
+
+word: የግብአት
+?POS: noun, stem: ግብአት
+
+word: እጥረት
+POS: noun, stem: እጥረት
+
+word: እንዳለባቸውና
+POS: verb, root: <b'l>, citation: አለ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: አምራች
+POS: noun, stem: አመረተ
+
+word: ኢንዱስትሪዎችን
+?POS: noun, stem: ኢንዱስትሪ
+
+word: ከግብአት
+?POS: noun, stem: ግብአት
+
+word: አቅራቢዎች
+POS: noun, stem: አቀረበ
+
+word: በማገናኘት
+?POS: noun, stem: ማገናኘት
+
+word: የውጪ
+POS: noun, stem: ውጪ
+
+word: ምንዛሬ
+?POS: noun, stem: ምንዛር
+
+word: ቅድሚያ
+POS: noun, stem: ቅድሚያ
+
+word: በመስጠት
+POS: noun, stem: ሰጠ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ለሚመረት
+POS: verb, root: <mrt>, citation: ተመረተ
+
+word: የምግብ
+POS: noun, stem: ምግብ
+
+word: ዘይት
+POS: noun, stem: ዘይት
+
+?word: ቫት
+
+word: በመቀነስ
+POS: noun, stem: ቀነሰ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: እንዲያደርግላቸው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: የጠየቁ
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: ከዋጋ
+POS: noun, stem: ዋጋ
+
+word: በተጨማሪ
+
+word: ጥራት
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: መደራደር
+POS: noun, stem: ተደራደረ
+
+word: የለብንም
+POS: verb, root: <al_e>, citation: አለ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ጥራቱን
+POS: noun, stem: ጥራት
+
+word: የጠበቀ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: ዘይት
+POS: noun, stem: ዘይት
+
+word: በተመጣጣኝ
+POS: noun, stem: ተመጣጠነ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: ለህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ማቅረብ
+POS: noun, stem: አቀረበ
+
+word: ግዴታችን
+?POS: noun, stem: ግዴት
+
+word: ተደምጠዋል
+POS: verb, root: <dmT>, citation: ተደመጠ
+
+word: ምንጭ
+POS: noun, stem: ምንጭ
+
+word: የንግድና
+POS: noun, stem: ንግድ
+
+?word: ኢንዱስትሪ
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+

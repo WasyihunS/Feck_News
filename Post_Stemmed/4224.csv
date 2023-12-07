@@ -1,0 +1,419 @@
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: በመቀመጥ
+POS: noun, stem: ተቀመጠ
+
+word: ገደብ
+POS: noun, stem: ገደብ
+
+word: በርካቶች
+POS: noun, stem: በርካታ
+
+word: ይራባሉ
+POS: verb, root: <r'b>, citation: ተራበ
+
+word: ጥናት
+POS: noun, stem: ጥናት
+
+word: መንግስታት
+POS: noun, stem: መንግስት
+
+word: የኮሮናቫይረስ
+?POS: noun, stem: ኮሮናቫይረስ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: እንዴት
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+word: እንዳለባቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የወደፊት
+?POS: noun, stem: ወደፊት
+
+word: ፖሊሲዎቻቸውን
+POS: noun, stem: ፖሊሲ
+
+word: ለመንደፍ
+POS: noun, stem: ነደፈ
+
+word: የሚረዳ
+POS: verb, root: <rd'>, citation: ተረዳ
+
+word: አንድ
+
+word: ጥናት
+POS: noun, stem: ጥናት
+
+word: ተካሂዷል
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: በአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: የበሽታ
+POS: noun, stem: በሽታ
+
+word: መከላከያና
+POS: noun, stem: ተከላከለ
+
+word: መቆጣጠሪያ
+POS: noun, stem: ተቆጣጠረ
+
+word: ማእከል
+POS: noun, stem: ማእከል
+
+word: በአለም
+POS: noun, stem: አለም
+
+word: ጤና
+POS: noun, stem: ጤና
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: የተሰራው
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: ጥናቱ
+POS: noun, stem: ጥናት
+
+word: ጥብቅ
+POS: noun, stem: ጥብቅ
+
+word: የእንቅስቃሴ
+POS: noun, stem: እንቅስቃሴ
+
+word: ገደብ
+POS: noun, stem: ገደብ
+
+word: መጣል
+POS: noun, stem: ጣለ
+
+word: የሚያስከትላቸውን
+POS: verb, root: <kt_l>, citation: አስከተለ
+
+word: ችግሮች
+POS: noun, stem: ችግር
+
+word: አሳይቷል
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: ኡጋንዳ
+POS: noun, stem: ኡጋንዳ
+
+word: በምሽት
+POS: noun, stem: ምሽት
+
+word: የጣለችውን
+POS: verb, root: <T'l>, citation: ጣለ
+
+word: እላፊ
+POS: noun, stem: ላፈ
+
+word: ለማስከበር
+POS: noun, stem: አስከበረ
+
+word: የሲቪል
+?POS: noun, stem: ሲቪል
+
+word: ወታደሮችን
+POS: noun, stem: ወታደር
+
+word: ስትጠቀም
+POS: verb, root: <Tqm>, citation: ተጠቀመ
+
+word: ነበርም
+?POS: noun, stem: ነበር
+
+word: ተብሏል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: የተሰራው
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: ጥናት
+POS: noun, stem: ጥናት
+
+word: እንዳመለከተው
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: በጥናቱ
+POS: noun, stem: ጥናት
+
+word: ከተጠየቁ
+POS: verb, root: <Ty_q>, citation: ተጠየቀ
+
+word: ሶስተኛ
+POS: noun, stem: ሶስተኛ
+
+word: የሚሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በቤት
+POS: noun, stem: ቤት
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: መቀመጥ
+POS: noun, stem: ተቀመጠ
+
+word: ቢኖርባቸው
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: የውሀና
+POS: noun, stem: ውሀ
+
+word: የምግብ
+POS: noun, stem: ምግብ
+
+word: ሊገጥማቸው
+POS: verb, root: <gTm>, citation: ገጠመ
+
+word: እንደሚችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ከመላሾቹ
+POS: noun, stem: መለሰ
+
+word: ግማሽ
+POS: noun, stem: ግማሽ
+
+word: የሚሆኑትም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ገንዘብ
+POS: noun, stem: ገንዘብ
+
+word: እንደሚጨርሱ
+POS: verb, root: <Cr_s>, citation: ጨረሰ
+
+word: በእርግጥ
+POS: noun, stem: እርግጥ
+
+word: የኮሮናቫይረስ
+?POS: noun, stem: ኮሮናቫይረስ
+
+word: ወረርሽኝን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: የሰጡ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: ጥላዋቸው
+?POS: noun, stem: ጥላዋቸ
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ገደቦችን
+POS: noun, stem: ገደብ
+
+word: እያላሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ዘግቧል
+POS: verb, root: <zgb>, citation: ዘገበ
+
+word: የሚወሰዱ
+POS: verb, root: <wsd>, citation: ተወሰደ
+
+word: እርምጃዎች
+POS: noun, stem: እርምጃ
+
+word: የአገራቱን
+?POS: noun, stem: አገራት
+
+?word: ነባራዊ
+
+word: ያላገናዘቡ
+POS: verb, root: <gnzb>, citation: አገናዘበ
+
+word: የአፍሪካ
+POS: noun, stem: አፍሪካ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: ለሰላም
+POS: noun, stem: ሰላም
+
+word: መደፍረስና
+POS: noun, stem: ተደፈረሰ
+
+word: ለጥቃት
+POS: noun, stem: ጥቃት
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: እንደሚዳረጉ
+POS: verb, root: <drg>, citation: ተዳረገ
+
+word: ሪፖርቱ
+?POS: noun, stem: ሪፖርት
+
+word: አሳስቧል
+POS: verb, root: <s'b>, citation: አሳሳበ
+
+word: የመንግስትን
+POS: noun, stem: መንግስት
+
+word: እርዳታ
+?POS: noun, stem: ርዳታ
+
+word: የሚጠይቁ
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+?word: ሰላማዊ
+
+word: ሰልፎች
+POS: noun, stem: ሰልፍ
+
+word: መበራከታቸው
+POS: noun, stem: ተበራከተ
+
+word: መንግስታት
+POS: noun, stem: መንግስት
+
+word: ወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: በወሰዷቸው
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: እርምጃዎች
+POS: noun, stem: እርምጃ
+
+word: ሳቢያ
+POS: noun, stem: ሳቢያ
+
+word: የተፈጠሩ
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: ችግሮችን
+POS: noun, stem: ችግር
+
+word: የሚያሳዩ
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: የጥናቱ
+POS: noun, stem: ጥናት
+
+word: ፀሀፊዎች
+POS: noun, stem: ጸሀፊ
+
+word: ምሳሌ
+POS: noun, stem: ምሳሌ
+
+word: አጣቅሰዋል
+POS: verb, root: <Tqs>, citation: አጣቀሰ
+
+word: በሽታውን
+POS: noun, stem: በሽታ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የተጣሉ
+POS: verb, root: <T'l>, citation: ተጣለ
+
+word: ገደቦች
+POS: noun, stem: ገደብ
+
+word: አጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: ነበራቸው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: በዘገባው
+POS: noun, stem: ዘገባ
+
+word: በመሆኑም
+POS: noun, stem: ሆነ
+
+word: መንግስታት
+POS: noun, stem: መንግስት
+
+word: ውሳኔዎችን
+POS: noun, stem: ውሳኔ
+
+word: ሲያሳልፉ
+POS: verb, root: <'lf>, citation: አሳለፈ
+
+word: ከዜጎቻቸው
+POS: noun, stem: ዜጋ
+
+word: መመካከር
+POS: noun, stem: ተመካከረ
+
+word: እርምጃዎቹ
+POS: noun, stem: እርምጃ
+
+word: የተጣሉባቸውን
+POS: verb, root: <T'l>, citation: ተጣለ
+
+word: ምክንያቶች
+POS: noun, stem: ምክንያት
+
+word: በትክክል
+POS: noun, stem: ትክክል
+
+word: መናገር
+POS: noun, stem: ተናገረ
+
+word: እንደሚገባቸው
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ጥናቱ
+POS: noun, stem: ጥናት
+
+word: መክሯል
+POS: verb, root: <mkr>, citation: መከረ
+

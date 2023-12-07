@@ -1,0 +1,577 @@
+word: በቂርቆስ
+?POS: noun, stem: በቂርቆ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ማህተሞችና
+POS: noun, stem: ማህተም
+
+word: ሀሰተኛ
+POS: noun, stem: ሀሰተኛ
+
+word: ሰነዶችን
+POS: noun, stem: ሰነድ
+
+word: ለህገ
+?POS: noun, stem: ህገ
+
+word: ወጥ
+POS: noun, stem: ወጥ
+
+?word: ተግባራት
+
+word: ሲጠቀሙ
+POS: verb, root: <Tqm>, citation: ተጠቀመ
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: በቁጥጥር
+POS: noun, stem: ቁጥጥር
+
+?word: ሰር
+
+word: ዋሉ
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: በቂርቆስ
+?POS: noun, stem: በቂርቆ
+
+?word: ክፍለ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ወርዳ
+POS: verb, root: <wrd>, citation: ወረደ
+
+word: ጎተራ
+POS: noun, stem: ጎተራ
+
+word: ኮንዶሚኒየም
+?POS: noun, stem: ኮንዶሚኒየ
+
+word: ማህተሞች
+POS: noun, stem: ማህተም
+
+word: ሀሰተኛ
+POS: noun, stem: ሀሰተኛ
+
+word: ሰነዶችን
+POS: noun, stem: ሰነድ
+
+word: ለተለያዩ
+POS: noun, stem: ተለያየ
+
+?word: ህገ
+
+word: ወጥ
+POS: noun, stem: ወጥ
+
+?word: ተግባራት
+
+word: ሲጠቀሙ
+POS: verb, root: <Tqm>, citation: ተጠቀመ
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: በቁጥጥር
+POS: noun, stem: ቁጥጥር
+
+?word: ሰር
+
+word: መዋሉን
+POS: noun, stem: ዋለ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ገለፀ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: ባወጣው
+POS: verb, root: <wT'>, citation: አወጣ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: እንዳስታወቀው
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: ወንጀሉን
+POS: noun, stem: ወንጀል
+
+word: በመፈፀም
+POS: noun, stem: ፈጸመ
+
+word: የተጠረጠሩት
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: ግለሰቦች
+POS: noun, stem: ግለሰብ
+
+word: ሀምሌ
+POS: noun, stem: ሀምሌ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: በቁጥጥር
+POS: noun, stem: ቁጥጥር
+
+word: ስር
+
+word: የዋሉት
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ተጠርጣሪዎቹ
+POS: noun, stem: ተጠረጠረ
+
+word: የግል
+POS: noun, stem: ግል
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ማህተሞች
+POS: noun, stem: ማህተም
+
+word: ሀሰተኛ
+POS: noun, stem: ሀሰተኛ
+
+word: ሰነዶች
+POS: noun, stem: ሰነድ
+
+word: እንደተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የክፍለ
+?POS: noun, stem: ክፍለ
+
+word: ከተማው
+POS: noun, stem: ከተማ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: መምሪያ
+POS: noun, stem: መራ
+
+word: ማስተባበርያ
+POS: noun, stem: አስተባበረ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+?word: ኢንስፔክተር
+
+word: ስለሺ
+POS: noun, stem: ሺ
+
+word: ሸንቁጤ
+?POS: noun, stem: ሸንቁጥ
+
+word: ከተጠቀሱት
+POS: verb, root: <Tqs>, citation: ተጠቀሰ
+
+word: ማህተሞች
+POS: noun, stem: ማህተም
+
+word: የትምህርት
+POS: noun, stem: ትምህርት
+
+word: ሚኒስቴ
+?POS: noun, stem: ሚኒስት
+
+word: የሙያ
+POS: noun, stem: ሙያ
+
+word: ማረጋገጫ
+POS: noun, stem: አረጋገጠ
+
+word: ማህተም
+POS: noun, stem: ማህተም
+
+?word: መንግስታዊ
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+?word: ህገወጥ
+
+word: ሰነዶች
+POS: noun, stem: ሰነድ
+
+word: መገኘታቸውንም
+POS: noun, stem: ተገኘ
+
+?word: አስታውቅዋል
+
+word: በተያያዘ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: ዜና
+POS: noun, stem: ዜና
+
+?word: ግምታዊ
+
+word: ዋጋቸው
+POS: noun, stem: ዋግ
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: የኮንትሮባንድ
+POS: noun, stem: ኮንትሮባንድ
+
+word: እቃዎችን
+POS: noun, stem: እቃ
+
+word: በተሽከርካሪ
+POS: noun, stem: ተሽከረከረ
+
+word: በመጫን
+POS: noun, stem: ተጫነ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ያስገቡ
+POS: verb, root: <gb'>, citation: አስገባ
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: ተይዘው
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: እየተጣራባቸው
+POS: verb, root: <Tr'>, citation: ተጣራ
+
+word: እንደሚገኝም
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ተገልጿል
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: ተጠርጣሪዎቹ
+POS: noun, stem: ተጠረጠረ
+
+?word: ህገወጥ
+
+word: የኮንትሮባንድ
+POS: noun, stem: ኮንትሮባንድ
+
+word: እቃዎችን
+POS: noun, stem: እቃ
+
+word: ይዘው
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: የተገኙት
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በአቃቂ
+?POS: noun, stem: አቃቂ
+
+?word: ቃሊቲ
+
+?word: ክፍለ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+word: ቦታው
+POS: noun, stem: ቦታ
+
+?word: አቦ
+
+word: ሴራ
+POS: verb, root: <syr>, citation: ሴረ
+
+?word: ፒስታ
+
+word: መንገድ
+POS: noun, stem: መንገድ
+
+word: ቴሌ
+?POS: noun, stem: ቴል
+
+word: ጫፍ
+POS: noun, stem: ጫፍ
+
+word: አካባቢ
+POS: noun, stem: አካባቢ
+
+word: የአቃቂ
+?POS: noun, stem: አቃቂ
+
+?word: ቃሊቲ
+
+?word: ክፍለ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: መርማሪ
+POS: noun, stem: መረመረ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ሳጅን
+?POS: noun, stem: ሳጅ
+
+?word: ማናየ
+
+word: ጫኔ
+?POS: noun, stem: ጫን
+
+word: እንደጠቀሱት
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: ተጠርጣሪዎቹ
+POS: noun, stem: ተጠረጠረ
+
+word: በሲኖትራክ
+?POS: noun, stem: ሲኖትራክ
+
+word: ተሽከርካሪ
+POS: noun, stem: ተሽከረከረ
+
+word: ከጫኑት
+POS: verb, root: <C'n>, citation: ጫነ
+
+?word: ኩንታል
+
+word: ስንዴ
+POS: noun, stem: ስንዴ
+
+word: ስር
+
+word: ሺህ
+
+word: ኪሎ
+POS: noun, stem: ኪሎ
+
+word: ግራም
+POS: noun, stem: ግራ
+
+word: ልባሽ
+POS: verb, root: <l'b>, citation: ላበ
+
+word: ጨርቅ
+POS: noun, stem: ጨርቅ
+
+word: ሺህ
+
+word: የፈረንሳይ
+POS: noun, stem: ፈረንሳይ
+
+word: ሽቶ
+POS: verb, root: <x'>, citation: ሻ
+
+word: አስገብተዋል
+POS: verb, root: <gb'>, citation: አስገባ
+
+word: ተጠርጣሪዎቹ
+POS: noun, stem: ተጠረጠረ
+
+word: በአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: የዋጋ
+POS: noun, stem: ዋጋ
+
+word: ግምታቸው
+POS: noun, stem: ግምት
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: ብር
+POS: noun, stem: ብር
+
+word: የሚሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የኮንትሮባንድ
+POS: noun, stem: ኮንትሮባንድ
+
+word: እቃዎችን
+POS: noun, stem: እቃ
+
+word: ደብቀው
+POS: verb, root: <db_q>, citation: ደበቀ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ይዞው
+?POS: noun, stem: ይዞ
+
+word: ሲገቡ
+POS: verb, root: <gb'>, citation: ገባ
+
+word: ከህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: በደረሰ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ጥቆማ
+POS: noun, stem: ጥቆማ
+
+word: በቁጥጥር
+POS: noun, stem: ቁጥጥር
+
+word: ስር
+
+word: ሊውሉ
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: መቻላቸውን
+POS: noun, stem: ቻለ
+
+word: በተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: እየተጣራባቸው
+POS: verb, root: <Tr'>, citation: ተጣራ
+
+word: እንደሚገኝም
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: መግለፃቸውንም
+POS: noun, stem: ገለጸ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: ባወጣው
+POS: verb, root: <wT'>, citation: አወጣ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትክ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

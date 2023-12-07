@@ -1,0 +1,389 @@
+?word: አገራዊ
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: አውታሮችን
+POS: noun, stem: አውታር
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: ለመጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: ሁሌም
+?POS: noun, stem: ሁሌ
+
+word: ዝግጁ
+POS: noun, stem: ዝግጁ
+
+word: ነን
+POS: copula, root: <ne>
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: የአገራዊ
+?POS: noun, stem: አገራዊ
+
+word: ፕሮጀክቶችን
+?POS: noun, stem: ፕሮጀክት
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: ለመጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: ምንግዜም
+?POS: noun, stem: ምንግዜ
+
+word: ዝግጁ
+POS: noun, stem: ዝግጁ
+
+word: መሆናቸውን
+POS: noun, stem: ሆነ
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: አመራር
+POS: noun, stem: መራ
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: የወንጀል
+POS: noun, stem: ወንጀል
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: የአመራር
+POS: noun, stem: አመራር
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: በግንባታ
+POS: noun, stem: ግንባታ
+
+word: ፕሮጀክቶችን
+?POS: noun, stem: ፕሮጀክት
+
+word: ጎብኝተዋል
+POS: verb, root: <gWbN*>, citation: ጐበኘ
+
+word: ጉብኝቱ
+?POS: noun, stem: ጉብኝት
+
+word: የተካሄደው
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የኮሚሽኑን
+?POS: noun, stem: ኮሚሽን
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: አፈፃፀም
+POS: noun, stem: ፈጸመ
+
+word: ግምገማን
+POS: noun, stem: ግምገማ
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: አመራሮቹ
+POS: noun, stem: መራ
+
+word: የሸገር
+?POS: noun, stem: ሸገር
+
+word: ወንዝ
+POS: noun, stem: ወንዝ
+
+word: ዳርቻዎች
+?POS: noun, stem: ዳርቻ
+
+?word: ፕሮጀክት
+
+word: የእንጦጦና
+?POS: noun, stem: የእንጦጦ
+
+word: የአንድነት
+?POS: noun, stem: አንድነት
+
+word: ፓርኮችን
+?POS: noun, stem: ፓርክ
+
+word: ጎብኝተዋል
+POS: verb, root: <gWbN*>, citation: ጐበኘ
+
+word: ከጉብኝታቸው
+?POS: noun, stem: ጉብኝት
+
+word: በሰጡት
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: አስተያየትም
+POS: noun, stem: አየ
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: በተገነቡት
+POS: verb, root: <gnb'>, citation: ተገነባ
+
+word: ትላልቅ
+POS: verb, root: <l'q>, citation: ላላቀ
+
+word: ፕሮጀክቶች
+?POS: noun, stem: ፕሮጀክት
+
+word: መደነቃቸውን
+POS: noun, stem: ተደነቀ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: የወንጀል
+POS: noun, stem: ወንጀል
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+?word: ኮሚሽነር
+
+word: ጄኔራል
+POS: noun, stem: ጄኔራል
+
+word: መላኩ
+POS: noun, stem: ላከ
+
+word: ፈንታ
+POS: noun, stem: ፈንታ
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በፕሮጀክቶቹ
+?POS: noun, stem: ፕሮጀክት
+
+word: መልካም
+POS: noun, stem: መልካም
+
+word: አስተሳሰብን
+POS: noun, stem: አሰበ
+
+word: የሚገነቡ
+POS: verb, root: <gnb'>, citation: ገነባ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: ተከናውነዋል
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: ፕሮጀክቶችን
+?POS: noun, stem: ፕሮጀክት
+
+word: የመጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: ሀላፊነቱን
+POS: noun, stem: ሀላፊነት
+
+word: ለመወጣት
+POS: noun, stem: ተወጣ
+
+word: ሁሌም
+?POS: noun, stem: ሁሌ
+
+word: ዝግጁ
+POS: noun, stem: ዝግጁ
+
+word: እንደሆነም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ሰራዊቱ
+?POS: noun, stem: ሰራዊት
+
+word: የኢትዮጵያን
+POS: noun, stem: ኢትዮጵያ
+
+word: ሰላምና
+POS: noun, stem: ሰላም
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: የማስጠበቅ
+POS: noun, stem: አስጠበቀ
+
+word: ተግባሩን
+POS: noun, stem: ተግባር
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: እንደሚቀጥልም
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: በጉብኝቱ
+?POS: noun, stem: ጉብኝት
+
+word: የተሳተፉ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: የኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: በፕሮጀክቶቹ
+?POS: noun, stem: ፕሮጀክት
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: መደነቃቸውን
+POS: noun, stem: ተደነቀ
+
+word: ገልፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ለአገር
+POS: noun, stem: አገር
+
+word: ገፅታ
+POS: noun, stem: ገጽታ
+
+word: ግንባታና
+POS: noun, stem: ግንባታ
+
+word: ዜጎችን
+POS: noun, stem: ዜጋ
+
+word: ከድህነት
+POS: noun, stem: ድህነት
+
+word: ለማውጣት
+POS: noun, stem: አወጣ
+
+word: ያላቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሚና
+POS: noun, stem: ሚና
+
+word: ወሳኝ
+POS: noun, stem: ወሰነ
+
+word: አክለዋል
+POS: verb, root: <'k_l>, citation: አከለ
+
+word: የትላልቅ
+?POS: noun, stem: ትላልቅ
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: ፕሮጀክቶችና
+?POS: noun, stem: ፕሮጀክት
+
+?word: አገራዊ
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: አውታሮችን
+POS: noun, stem: አውታር
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: ለማረጋገጥ
+POS: noun, stem: አረጋገጠ
+
+word: ያላቸውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ዝግጁነትም
+?POS: noun, stem: ዝግጁነት
+
+word: አረጋግጠዋል
+POS: verb, root: <rgT>, citation: አረጋገጠ
+

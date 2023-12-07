@@ -1,0 +1,375 @@
+word: በቤኒሻንጉል
+?POS: noun, stem: ቤኒሻንጉል
+
+?word: ጉሙዝ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ኮሮናን
+?POS: noun, stem: ኮሮና
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚረዳ
+POS: verb, root: <rd'>, citation: ተረዳ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: ዘመቻ
+POS: noun, stem: ዘመቻ
+
+word: ተጀመረ
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: የኮሮና
+?POS: noun, stem: የኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ስርጭትን
+POS: noun, stem: ስርጭት
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: በቀጣይ
+POS: noun, stem: ቀጠለ
+
+word: ለሚከናወኑ
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: የሚረዳ
+POS: verb, root: <rd'>, citation: ተረዳ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: ዘመቻ
+POS: noun, stem: ዘመቻ
+
+word: መጀመሩ
+POS: noun, stem: ጀመረ
+
+word: ተገልጿል
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: የክልሉ
+POS: noun, stem: ክልል
+
+?word: ርእሰ
+
+?word: መስተዳድር
+
+word: የኮሮና
+?POS: noun, stem: የኮሮ
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+?word: ግብረ
+
+word: ሀይል
+
+word: ሰብሳቢ
+POS: noun, stem: ሰበሰበ
+
+?word: አሻድሊ
+
+word: ሀሰን
+?POS: noun, stem: ሀሰ
+
+word: እንዳሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ከተከሰተ
+POS: verb, root: <ks_t>, citation: ተከሰተ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ቀበሌ
+POS: noun, stem: ቀበሌ
+
+word: አደረጃጀት
+POS: noun, stem: ደረጀ
+
+word: በመፍጠር
+POS: noun, stem: ፈጠረ
+
+word: የተጠናከረ
+POS: verb, root: <Tnkr>, citation: ተጠናከረ
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ሲካሄድ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: ቆይቷል
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ውጤትም
+POS: noun, stem: ውጤት
+
+word: ተገኝቶበታል
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ባለፈው
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: ሀምሌ
+POS: noun, stem: ሀምሌ
+
+word: ወር
+POS: noun, stem: ወር
+
+?word: መንግስታዊ
+
+word: ተቋማትን
+?POS: noun, stem: ተቋማት
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: በበጎ
+POS: noun, stem: በጎ
+
+word: ፈቃደኞችና
+POS: noun, stem: ፈቃደኛ
+
+word: በሌሎችም
+POS: noun, stem: ሌላ
+
+word: የህብረተሰቡ
+POS: noun, stem: ህብረተሰብ
+
+word: ክፍሎች
+POS: noun, stem: ክፍል
+
+word: በታየ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: መዘናጋት
+POS: noun, stem: ተዘናጋ
+
+word: የመከላከሉ
+POS: noun, stem: ተከላከለ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: መቀዛቀዙን
+POS: noun, stem: ተቀዛቀዘ
+
+word: ገልፀው
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: ባለፈው
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: አንድ
+
+word: ወር
+POS: noun, stem: ወር
+
+word: በቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: የተያዙ
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ቁጥር
+POS: noun, stem: ቁጥር
+
+word: መጨመሩን
+POS: noun, stem: ጨመረ
+
+word: አመላክተዋል
+POS: verb, root: <mlkt>, citation: አመላከተ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: እንደተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በምርመራ
+POS: noun, stem: ምርመራ
+
+word: መረጋገጡን
+POS: noun, stem: ተረጋገጠ
+
+word: የገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+?word: ርእሰ
+
+word: መስተዳድሩ
+?POS: noun, stem: መስተዳድር
+
+word: ሲያገግሙ
+POS: verb, root: <gg_m>, citation: አገገመ
+
+word: ቀሪዎቹ
+POS: noun, stem: ቀረ
+
+word: በህክምና
+POS: noun, stem: ህክምና
+
+word: ጠቅሰዋል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: በቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ከተገኘባቸው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በመቶ
+POS: noun, stem: መቶ
+
+word: ያህሉ
+?POS: noun, stem: ያህል
+
+word: ምንም
+
+word: የህመም
+POS: noun, stem: ህመም
+
+word: ምልክት
+POS: noun, stem: ምልክት
+
+word: እንዳልታየባቸውና
+POS: verb, root: <'y*>, citation: ታየ
+
+word: ይህም
+POS: noun, stem: ይህ
+
+word: ከመቼውም
+POS: noun, stem: መቼ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ጥንቃቄ
+POS: noun, stem: ጥንቃቄ
+
+word: የሚደረግበት
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: እንደሆነ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: የሰጡትን
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: በመጥቀስ
+POS: noun, stem: ጠቀሰ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በሽታው
+POS: noun, stem: በሽታ
+
+word: በክልሉ
+POS: noun, stem: ክልል
+
+word: በማህበራዊ
+?POS: noun, stem: ማህበራዊ
+
+word: ኢኮኖሚያዊና
+?POS: noun, stem: ኢኮኖሚያዊ
+
+word: ለቲካዊ
+?POS: noun, stem: ቲካዊ
+
+word: እንቅስቃሴ
+POS: noun, stem: እንቅስቃሴ
+
+?word: አሉታዊ
+
+word: ጫና
+POS: noun, stem: ጫና
+
+word: እያሳደረ
+POS: verb, root: <'dr>, citation: አሳደረ
+
+word: በመምጣቱ
+POS: noun, stem: መጣ
+
+word: ይህን
+POS: noun, stem: ይህ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+word: የሚቆይ
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: ዘመቻ
+POS: noun, stem: ዘመቻ
+
+word: መጀመሩን
+POS: noun, stem: ጀመረ
+
+?word: ርእሰ
+
+word: መስተዳድሩ
+?POS: noun, stem: መስተዳድር
+

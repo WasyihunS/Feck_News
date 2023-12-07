@@ -1,0 +1,425 @@
+word: ሰራተኛው
+POS: noun, stem: ሰራተኛ
+
+word: ከየትኛውም
+POS: noun, stem: የትኛው
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+?word: ተፅእኖ
+
+word: ነፃ
+POS: noun, stem: ነጻ
+
+word: በመሆን
+POS: noun, stem: ሆነ
+
+word: ህዝብን
+POS: noun, stem: ህዝብ
+
+word: ማገልገል
+POS: noun, stem: አገለገለ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ከንቲባ
+POS: noun, stem: ከንቲባ
+
+word: አዳነች
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: አቤቤ
+?POS: noun, stem: አቤብ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሰራተኛው
+POS: noun, stem: ሰራተኛ
+
+word: ከየትኛውም
+POS: noun, stem: የትኛው
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+?word: ተፅእኖ
+
+word: ነፃ
+POS: noun, stem: ነጻ
+
+word: በመሆን
+POS: noun, stem: ሆነ
+
+word: ህዝብን
+POS: noun, stem: ህዝብ
+
+word: ማገልገል
+POS: noun, stem: አገለገለ
+
+word: እንዳለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ከንቲባ
+POS: noun, stem: ከንቲባ
+
+word: አዳነች
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: አቤቤ
+?POS: noun, stem: አቤብ
+
+word: ተናገሩ
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+word: በሶስት
+POS: noun, stem: ሶስት
+
+?word: ክፍለ
+
+word: ከተሞች
+POS: noun, stem: ከተማ
+
+word: ሺህ
+
+word: የወረዳ
+POS: noun, stem: ወረዳ
+
+word: ቡድን
+POS: noun, stem: ቡድን
+
+word: መሪዎች
+POS: noun, stem: መራ
+
+word: በአዳማ
+?POS: noun, stem: አዳማ
+
+word: ያካሄዱትን
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: ስልጠና
+?POS: noun, stem: ስልጠ
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: እለት
+
+word: አጠናቀዋል
+POS: verb, root: <Tnqq>, citation: አጠናቀቀ
+
+word: የአስተዳደሩ
+?POS: noun, stem: አስተዳደር
+
+word: ምክትል
+POS: noun, stem: ምክትል
+
+word: ከንቲባ
+POS: noun, stem: ከንቲባ
+
+word: አዳነች
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: አቤቤ
+?POS: noun, stem: አቤብ
+
+word: በዚሁ
+POS: noun, stem: ይህ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ተገኝተው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: በሰጡት
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: መመሪያ
+POS: noun, stem: ተመራ
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ሀላፊዎችና
+POS: noun, stem: ሀላፊ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ከየትኛውም
+POS: noun, stem: የትኛው
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+?word: ተፅእኖ
+
+word: ነፃ
+POS: noun, stem: ነጻ
+
+word: በመሆን
+POS: noun, stem: ሆነ
+
+word: ህዝብን
+POS: noun, stem: ህዝብ
+
+word: በቅንነት
+POS: noun, stem: ቅንነት
+
+word: ሊያገለግሉ
+POS: verb, root: <glgl>, citation: አገለገለ
+
+?word: አንደሚገባ
+
+word: በከተማዋ
+POS: noun, stem: ከተማ
+
+word: የመልካም
+POS: noun, stem: መልካም
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+word: ችገሮችን
+?POS: noun, stem: ችገር
+
+word: መፍታት
+POS: noun, stem: ፈታ
+
+word: በየደረጃው
+POS: noun, stem: ደረጃ
+
+word: አመራር
+POS: noun, stem: መራ
+
+word: ዋነኛ
+POS: noun, stem: ዋነኛ
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: ሊሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ይገባልም
+POS: verb, root: <gb'>, citation: ገባ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ለሁላችንም
+?POS: noun, stem: ሁላችንም
+
+word: የምትበቃ
+POS: verb, root: <bq'>, citation: በቃ
+
+word: ሁላችንንም
+?POS: noun, stem: ሁላችን
+
+word: የምታኖር
+POS: verb, root: <nwr>, citation: አኖረ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ነች
+POS: copula, root: <ne>
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: አዳነች
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: የህዝብን
+POS: noun, stem: ህዝብ
+
+word: ቅሬታ
+POS: noun, stem: ቅሬታ
+
+word: መፍታት
+POS: noun, stem: ፈታ
+
+word: በቅንነትና
+POS: noun, stem: ቅንነት
+
+word: በታማኝነት
+?POS: noun, stem: ታማኝነት
+
+word: ማገልገል
+POS: noun, stem: አገለገለ
+
+word: የዘወትር
+?POS: noun, stem: ዘወትር
+
+word: ተግባራችን
+POS: noun, stem: ተግባር
+
+word: ሊሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: አዳነች
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: በመልእክታቸው
+?POS: noun, stem: መልእክት
+
+word: በጋራ
+POS: noun, stem: ጋራ
+
+word: በትብብር
+POS: noun, stem: ትብብር
+
+word: ከተሰራ
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: የማይቻልና
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: የማይሳካ
+POS: verb, root: <sk_'>, citation: ተሳካ
+
+word: አይኖርም
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: በጋራ
+POS: noun, stem: ጋራ
+
+word: ከተሰራ
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: የሚያጋጥሙ
+POS: verb, root: <gTm>, citation: አጋጠመ
+
+word: ችግሮች
+POS: noun, stem: ችግር
+
+word: በቀላሉ
+POS: noun, stem: ቀላል
+
+word: ይፈታሉ
+POS: verb, root: <ft'>, citation: ፈታ
+
+word: የሚመጣው
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ስኬትም
+?POS: noun, stem: ስኬት
+
+word: የጋራችን
+POS: noun, stem: ጋር
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: እለት
+
+word: ስልጠናውን
+?POS: noun, stem: ስልጠና
+
+word: ያጠናቀቁት
+POS: verb, root: <Tnqq>, citation: አጠናቀቀ
+
+word: ከቦሌ
+?POS: noun, stem: ቦል
+
+word: ጉለሌ
+?POS: noun, stem: ጉለል
+
+?word: የካ
+
+?word: ክፍለ
+
+word: ከተሞች
+POS: noun, stem: ከተማ
+
+word: የተውጣጡ
+POS: verb, root: <wT'>, citation: ተውጣጣ
+
+word: የየወረዳው
+POS: noun, stem: ወረዳ
+
+word: የቡድን
+POS: noun, stem: ቡድን
+
+word: መሪዎች
+POS: noun, stem: መራ
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: አስተዳደሩ
+POS: noun, stem: አደረ
+
+word: ከአሁን
+POS: noun, stem: አሁን
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: በየደረጃው
+POS: noun, stem: ደረጃ
+
+word: ላሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: ስልጠና
+?POS: noun, stem: ስልጠ
+
+word: የሰጠ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የአሁኑም
+POS: noun, stem: አሁን
+
+word: ለኛ
+POS: noun, stem: እኛ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ታውቋል
+POS: verb, root: <'wq>, citation: ታወቀ
+

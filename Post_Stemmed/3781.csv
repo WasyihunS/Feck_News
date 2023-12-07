@@ -1,0 +1,364 @@
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ለመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: የህፃናት
+POS: noun, stem: ህጻን
+
+word: የመማር
+POS: noun, stem: ተማረ
+
+word: መብትን
+POS: noun, stem: መብት
+
+word: የሚያረጋግጥ
+POS: verb, root: <rgT>, citation: አረጋገጠ
+
+word: የአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ህግ
+
+word: ተዘጋጀ
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የተማሪዎችን
+POS: noun, stem: ተማረ
+
+word: የመማር
+POS: noun, stem: ተማረ
+
+word: መብትና
+POS: noun, stem: መብት
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: የመከታተል
+POS: noun, stem: ተከታተለ
+
+word: ግዴታን
+POS: noun, stem: ግዴታ
+
+word: ያካተተ
+POS: verb, root: <ktt>, citation: አካተተ
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ህግ
+
+word: ማዘጋጀቱን
+POS: noun, stem: አዘጋጀ
+
+word: የትምህርት
+POS: noun, stem: ትምህርት
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: የትምህርት
+POS: noun, stem: ትምህርት
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ህጉ
+POS: noun, stem: ህግ
+
+word: የአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ተሳትፎን
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: በማሳደግ
+POS: noun, stem: አሳደገ
+
+word: ተማሪዎች
+POS: noun, stem: ተማረ
+
+word: አስፈላጊውን
+POS: noun, stem: አስፈለገ
+
+?word: መሰረታዊ
+
+word: እውቀት
+POS: noun, stem: እውቀት
+
+word: ክህሎትና
+?POS: noun, stem: ክህሎት
+
+word: አመለካከት
+POS: noun, stem: ምልክት
+
+word: ጨብጠው
+POS: verb, root: <Cb_T>, citation: ጨበጠ
+
+word: መልካም
+POS: noun, stem: መልካም
+
+word: ዜጎች
+POS: noun, stem: ዜጋ
+
+word: እንዲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: በረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ህጉ
+POS: noun, stem: ህግ
+
+word: እድሜው
+POS: noun, stem: እድሜ
+
+word: ለትምህርት
+POS: noun, stem: ትምህርት
+
+word: የደረሰ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ማንኛውም
+POS: noun, stem: ማንኛው
+
+word: ህፃን
+POS: noun, stem: ህጻን
+
+word: በመንግስት
+POS: noun, stem: መንግስት
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤቶች
+POS: noun, stem: ቤት
+
+word: ከቅድመ
+?POS: noun, stem: ቅድመ
+
+word: መደበኛ
+POS: noun, stem: ደበነ
+
+word: ክፍል
+POS: noun, stem: ክፍል
+
+word: ትምህርትን
+POS: noun, stem: ትምህርት
+
+word: በነፃ
+POS: noun, stem: ነጻ
+
+word: የመማር
+POS: noun, stem: ተማረ
+
+word: መብት
+POS: noun, stem: መብት
+
+word: እንዳለውና
+POS: verb, root: <b'l>, citation: አለ
+
+word: ትምህርቱንም
+POS: noun, stem: ትምህርት
+
+word: የመከታተል
+POS: noun, stem: ተከታተለ
+
+word: ግዴታ
+POS: noun, stem: ግዴታ
+
+word: ያለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: የሁለተኛ
+POS: noun, stem: ሁለተኛ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ትምህርትን
+POS: noun, stem: ትምህርት
+
+word: በነፃ
+POS: noun, stem: ነጻ
+
+word: እንዲማር
+POS: verb, root: <m'r>, citation: ተማረ
+
+word: ይደነግጋል
+POS: verb, root: <dngg>, citation: ደነገገ
+
+word: በተጨማሪም
+POS: noun, stem: ተጨማሪ
+
+word: ማንኛውም
+POS: noun, stem: ማንኛው
+
+word: ወላጅ
+POS: noun, stem: ወለደ
+
+word: አሳዳጊ
+POS: noun, stem: አሳደገ
+
+word: ልጁ
+POS: noun, stem: ልጅ
+
+word: የሚያስተዳድረው
+POS: verb, root: <'dr>, citation: አስተዳደረ
+
+word: ልጅ
+POS: noun, stem: ልጅ
+
+word: ትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የመላክና
+POS: noun, stem: ላከ
+
+word: ትምህርቱን
+POS: noun, stem: ትምህርት
+
+word: እንዲከታተል
+POS: verb, root: <kt_l>, citation: ተከታተለ
+
+word: የማድረግ
+POS: noun, stem: አደረገ
+
+word: ግዴታ
+POS: noun, stem: ግዴታ
+
+word: እንዳለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: በረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ህጉ
+POS: noun, stem: ህግ
+
+word: መካተቱን
+POS: noun, stem: ተካተተ
+
+word: ሚኒስቴሩ
+POS: noun, stem: ሚኒስቴር
+
+word: ገልጿል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ተማሪዎች
+POS: noun, stem: ተማረ
+
+word: ትምህርታቸውን
+POS: noun, stem: ትምህርት
+
+word: ያለማቋረጥ
+POS: noun, stem: አቋረጠ
+
+word: መከታተላቸውን
+POS: noun, stem: ተከታተለ
+
+word: ማረጋገጥ
+POS: noun, stem: አረጋገጠ
+
+word: የትምህርት
+POS: noun, stem: ትምህርት
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ግዴታ
+POS: noun, stem: ግዴታ
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: የህፃናትን
+POS: noun, stem: ህጻን
+
+word: የመማር
+POS: noun, stem: ተማረ
+
+word: መብት
+POS: noun, stem: መብት
+
+word: ያረጋግጣል
+POS: verb, root: <rgT>, citation: አረጋገጠ
+
+word: የተባለው
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ህግ
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: እየተደረገበት
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ገልፆ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በሚመለከተው
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: አካል
+POS: noun, stem: አካል
+
+word: ሲፀድቅ
+POS: verb, root: <Sdq>, citation: ጸደቀ
+
+?word: ተግባራዊ
+
+word: እንደሚደረግ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ከሚኒስቴሩ
+POS: noun, stem: ሚኒስቴር
+
+word: ያገኘነው
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: ያመለክታል
+POS: verb, root: <mlkt>, citation: አመለከተ
+

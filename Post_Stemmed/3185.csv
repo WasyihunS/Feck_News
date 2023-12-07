@@ -1,0 +1,246 @@
+word: በቀን
+POS: noun, stem: ቀን
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: የአፍና
+POS: noun, stem: አፍ
+
+word: የአፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛዎችን
+POS: noun, stem: ሸፈነ
+
+word: የሚያመርት
+POS: verb, root: <mrt>, citation: አመረተ
+
+word: ፋብሪካ
+POS: noun, stem: ፋብሪካ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ጀመረ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ሀምሌ
+POS: noun, stem: ሀምሌ
+
+?word: ኤፍ
+
+word: ነጥብ
+POS: noun, stem: ነጥብ
+
+word: ሚሊየን
+?POS: noun, stem: ሚሊየ
+
+word: ደረጃውን
+POS: noun, stem: ደረጃ
+
+word: የጠበቀ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የአፍና
+POS: noun, stem: አፍ
+
+word: የአፍንጫ
+POS: noun, stem: አፍንጫ
+
+word: መሸፈኛዎችን
+POS: noun, stem: ሸፈነ
+
+word: ማምረት
+POS: noun, stem: አመረተ
+
+word: የሚችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ፋብሪካ
+POS: noun, stem: ፋብሪካ
+
+word: ተመርቆ
+POS: verb, root: <mr_q>, citation: ተመረቀ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ጀመረ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: ጉያ
+POS: noun, stem: ጉያ
+
+?word: ሜዲካል
+
+word: ማስክ
+POS: verb, root: <m's>, citation: ማሰ
+
+word: ማምረቻ
+POS: noun, stem: አመረተ
+
+word: የተሰኘው
+POS: verb, root: <sN*>, citation: ተሰኘ
+
+word: ፋብሪካ
+POS: noun, stem: ፋብሪካ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: እድል
+POS: noun, stem: እድል
+
+word: ፈጥሯል
+POS: verb, root: <fTr>, citation: ፈጠረ
+
+word: በዚሁ
+POS: noun, stem: ይህ
+
+word: የምረቃ
+POS: noun, stem: ምረቃ
+
+word: ስነ
+POS: noun, stem: ስነ
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: የተገኙት
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+?word: ዲኤታ
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+word: ደረጄ
+?POS: noun, stem: ደረጅ
+
+?word: ድጉማ
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ወረርሽኝ
+POS: verb, root: <wrr>, citation: ወረረ
+
+word: ስጋት
+POS: noun, stem: ስጋት
+
+word: በሆነበት
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: አይነት
+
+word: ማምረቻዎች
+POS: noun, stem: አመረተ
+
+word: እጅግ
+
+word: አስፈላጊ
+POS: noun, stem: አስፈለገ
+
+word: የፋብሪካው
+POS: noun, stem: ፋብሪካ
+
+word: ባለቤት
+POS: noun, stem: ባለቤት
+
+?word: ሙባረክ
+
+word: ከሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: የጨርቃ
+?POS: noun, stem: ጨርቃ
+
+word: ጨርቅ
+POS: noun, stem: ጨርቅ
+
+word: ማምረቻ
+POS: noun, stem: አመረተ
+
+word: ፋብሪካ
+POS: noun, stem: ፋብሪካ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: የማስገባት
+POS: noun, stem: አስገባ
+
+word: እቅድ
+POS: noun, stem: እቅድ
+
+word: እንደነበራቸው
+POS: verb, root: <dnbr>, citation: ተደነበረ
+
+word: ጠቅሰዋል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: እንጅ
+?POS: noun, stem: ንጅ
+
+?word: ኮቪድ
+
+word: በሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ስጋት
+POS: noun, stem: ስጋት
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: ወረርሽኙን
+POS: noun, stem: ወረርሽኝ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: በሚያስችሉ
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ምርቶች
+POS: noun, stem: ምርት
+
+word: ለመሳተፍ
+POS: noun, stem: ተሳተፈ
+
+word: መወሰናቸውን
+POS: noun, stem: ተወሰነ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በአክሱማዊት
+?POS: noun, stem: አክሱማዊት
+
+?word: ገብረህይወት
+

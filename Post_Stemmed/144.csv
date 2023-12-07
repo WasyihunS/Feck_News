@@ -1,0 +1,230 @@
+word: ለኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የሚሻለው
+POS: verb, root: <x'l>, citation: ተሻለ
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ስርአት
+POS: noun, stem: ስርአት
+
+word: ለኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: እድገትም
+POS: noun, stem: እድገት
+
+word: ለህዝቦች
+POS: noun, stem: ህዝብ
+
+word: መብትም
+POS: noun, stem: መብት
+
+word: ለሀገር
+POS: noun, stem: ሀገር
+
+word: አንድነትም
+?POS: noun, stem: አንድነት
+
+word: ይጠቅማል
+POS: verb, root: <Tqm>, citation: ጠቀመ
+
+word: ብለን
+POS: verb, root: <b'l>, citation: አለ
+
+word: እንከራከራለን
+POS: verb, root: <krkr>, citation: ተከራከረ
+
+word: ህዝቡ
+POS: noun, stem: ህዝብ
+
+word: ከተመቸው
+POS: verb, root: <mc_*>, citation: ተመቸ
+
+word: እኛን
+POS: noun, stem: እኛ
+
+word: ይምረጥ
+POS: verb, root: <mrT>, citation: መረጠ
+
+word: በዛ
+POS: verb, root: <bz'>, citation: በዛ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: እናስተዳድራለን
+POS: verb, root: <'dr>, citation: አስተዳደረ
+
+word: የሚቀጥለው
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ዙር
+POS: verb, root: <zwr>, citation: ዞረ
+
+word: ሊያሸንፉ
+POS: verb, root: <xnf>, citation: አሸነፈ
+
+word: ይችላሉ
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ልናሸንፍ
+POS: verb, root: <xnf>, citation: አሸነፈ
+
+word: እንችላለን
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የምንመርጠው
+POS: verb, root: <mrT>, citation: መረጠ
+
+word: ትግል
+POS: noun, stem: ትግል
+
+word: ይሄው
+?POS: noun, stem: ይሄ
+
+word: ስልጣን
+?POS: noun, stem: ስልጣ
+
+word: ይዘናል
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: በጉልበት
+POS: noun, stem: ጉልበት
+
+word: ፌዴራሊዝሙን
+?POS: noun, stem: ፌዴራሊዝም
+
+word: እናፈርሰዋለን
+POS: verb, root: <frs>, citation: አፈረሰ
+
+word: ኦሮሚያን
+?POS: noun, stem: ኦሮሚያ
+
+word: በጉልበት
+POS: noun, stem: ጉልበት
+
+word: እናፈርሳለን
+POS: verb, root: <frs>, citation: አፈረሰ
+
+?word: አሀዳዊ
+
+word: ስርአትን
+POS: noun, stem: ስርአት
+
+word: እንጭናለን
+POS: verb, root: <C'n>, citation: ጫነ
+
+word: ካሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: አያዋጣም
+POS: verb, root: <wT'>, citation: አዋጣ
+
+word: ማንኛውም
+POS: noun, stem: ማንኛው
+
+?word: ስትራቴጂ
+
+word: ተጠቅመን
+POS: verb, root: <Tqm>, citation: ተጠቀመ
+
+word: እናስቆማቸዋለን
+POS: verb, root: <qwm>, citation: አስቆመ
+
+word: ራሱ
+POS: noun, stem: ራስ
+
+word: እጅ
+POS: noun, stem: እጅ
+
+word: ብንሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ተስፋ
+POS: noun, stem: ተስፋ
+
+word: ቆርጠን
+POS: verb, root: <qWrT>, citation: ቆረጠ
+
+word: ትግሉን
+POS: noun, stem: ትግል
+
+word: ብንተው
+POS: verb, root: <tw>, citation: ተወ
+
+word: ከኛ
+POS: noun, stem: እኛ
+
+word: የባሰ
+POS: verb, root: <b's>, citation: ባሰ
+
+word: ትውልድ
+POS: noun, stem: ትውልድ
+
+word: እየመጣ
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ከኛ
+POS: noun, stem: እኛ
+
+word: በበለጠ
+POS: verb, root: <blT>, citation: በለጠ
+
+word: እሳት
+POS: noun, stem: እሳት
+
+word: ልሶ
+POS: verb, root: <l's>, citation: ላሰ
+
+word: እሳት
+POS: noun, stem: እሳት
+
+word: ጎርሶ
+POS: verb, root: <gWrs>, citation: ጐረሰ
+
+word: በእውቀትም
+POS: noun, stem: እውቀት
+
+word: በብቃትም
+POS: noun, stem: ብቃት
+
+word: ብቁርጠኝነትም
+?POS: noun, stem: ብቁርጠኝነት
+
+word: ከኛ
+POS: noun, stem: እኛ
+
+word: የሚበልጥ
+POS: verb, root: <blT>, citation: በለጠ
+
+word: ትውልድ
+POS: noun, stem: ትውልድ
+
+word: እየመጣ
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: አይፈቅድላቸውም
+POS: verb, root: <fqd>, citation: ፈቀደ
+
+?word: ጃዋር
+
+?word: መሀመድ
+

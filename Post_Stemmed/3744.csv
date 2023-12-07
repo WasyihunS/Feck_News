@@ -1,0 +1,497 @@
+word: በሻሸመኔና
+?POS: noun, stem: ሻሸመን
+
+word: አካባቢዋ
+POS: noun, stem: አካባቢ
+
+word: የተፈጠረው
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: ህብረተሰቡንና
+POS: noun, stem: ህብረተሰብ
+
+word: ወጣቱን
+POS: noun, stem: ወጣት
+
+word: አይወክልም
+POS: verb, root: <wk_l>, citation: ወከለ
+
+word: ነዋሪዎች
+POS: noun, stem: ነወረ
+
+word: ሻሸመኔ
+?POS: noun, stem: ሻሸመን
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኢዜአ
+
+word: በሻሸመኔና
+?POS: noun, stem: ሻሸመን
+
+word: አካባቢዋ
+POS: noun, stem: አካባቢ
+
+word: የተፈጠረው
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: ህብረተሰቡንና
+POS: noun, stem: ህብረተሰብ
+
+word: ወጣቱን
+POS: noun, stem: ወጣት
+
+word: የማይወክል
+POS: verb, root: <wk_l>, citation: ወከለ
+
+word: የከተማዋና
+POS: noun, stem: ከተማ
+
+word: ምእራብ
+POS: noun, stem: ምእራብ
+
+word: አርሲ
+POS: noun, stem: አርሲ
+
+?word: ዞን
+
+word: ነዋሪዎች
+POS: noun, stem: ነወረ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ነዋሪዎቹ
+POS: noun, stem: ነወረ
+
+word: በአካባቢው
+POS: noun, stem: አካባቢ
+
+word: ሰላም
+POS: noun, stem: ሰላም
+
+word: ቀጣይነትና
+?POS: noun, stem: ቀጣይነት
+
+?word: ወቅታዊ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ዙሪያ
+POS: noun, stem: ዙሪያ
+
+word: ከክልሉ
+POS: noun, stem: ክልል
+
+?word: ፕሬዝዳንት
+
+word: ሽመልስ
+POS: noun, stem: ሽመል
+
+?word: አብዲሳ
+
+word: ተወያይተዋል
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ከውይይቱ
+POS: noun, stem: ውይይት
+
+word: ተሳታፊዎች
+POS: noun, stem: ተሳተፈ
+
+word: የሻላ
+?POS: noun, stem: ሻላ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+word: የሀይማኖት
+POS: noun, stem: ሀይማኖት
+
+word: አባት
+POS: noun, stem: አባት
+
+?word: ሼኸ
+
+?word: ቡሽራ
+
+word: ኡኮሌ
+?POS: noun, stem: ኡኮል
+
+word: በዞኑ
+?POS: noun, stem: ዞን
+
+word: ከሚገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ብሄር
+POS: noun, stem: ብሄር
+
+word: ብሄረሰቦች
+POS: noun, stem: ብሄረሰብ
+
+word: አብረን
+POS: verb, root: <'br>, citation: አበረ
+
+word: የምንኖር
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: ባለፈ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: በደም
+POS: noun, stem: ደም
+
+word: የተሳሰርንና
+POS: verb, root: <'sr>, citation: ተሳሰረ
+
+word: የተዋለድን
+POS: verb, root: <wld>, citation: ተዋለደ
+
+word: አንድ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: ነን
+POS: copula, root: <ne>
+
+word: በወረዳው
+POS: noun, stem: ወረዳ
+
+word: ብሄርን
+POS: noun, stem: ብሄር
+
+word: ለይቶ
+POS: verb, root: <ly_*>, citation: ለየ
+
+word: በተፈፀመ
+POS: verb, root: <fS_m>, citation: ተፈጸመ
+
+word: ጥቃት
+POS: noun, stem: ጥቃት
+
+word: ቤትና
+POS: noun, stem: ቤት
+
+word: ንብረት
+POS: noun, stem: ንብረት
+
+word: የወደመ
+POS: verb, root: <wdm>, citation: ወደመ
+
+word: የገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+?word: ሼኸ
+
+?word: ቡሽራ
+
+word: ጥፋቱ
+POS: noun, stem: ጥፋት
+
+word: በኦሮሞ
+?POS: noun, stem: ኦሮሞ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: የተቃጣ
+POS: verb, root: <q'T'>, citation: ተቃጣ
+
+word: አስነዋሪ
+POS: noun, stem: አስነዋሪ
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: ነውም
+POS: copula, root: <ne>
+
+word: የአካባቢው
+POS: noun, stem: አካባቢ
+
+word: ህብረተሰብና
+POS: noun, stem: ህብረተሰብ
+
+word: የሀገር
+POS: noun, stem: ሀገር
+
+word: ሽማግሌዎች
+POS: noun, stem: ሽማግሌ
+
+word: የተጎዱትን
+POS: verb, root: <gWd'>, citation: ተጎዳ
+
+word: ከማስጠለል
+POS: noun, stem: አስጠለለ
+
+word: ምግብና
+POS: noun, stem: ምግብ
+
+word: አልባሳትን
+?POS: noun, stem: አልባሳት
+
+word: ከማቅረብ
+POS: noun, stem: አቀረበ
+
+word: ባለፈ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: ቤቶችን
+POS: noun, stem: ቤት
+
+word: በተሻለ
+POS: verb, root: <x'l>, citation: ተሻለ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: በመገንባት
+POS: noun, stem: ገነባ
+
+word: ለተጎጂዎች
+POS: noun, stem: ተጎዳ
+
+word: አስረክበን
+POS: verb, root: <rkb>, citation: አስረከበ
+
+word: ቋሚ
+POS: noun, stem: ቋሚ
+
+word: ኑሮዋቸውን
+POS: noun, stem: ኑሮ
+
+word: እንዲጀምሩ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: አድርገናል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ሌላኛው
+?POS: noun, stem: ሌላኛ
+
+word: አስተያየት
+POS: noun, stem: አየ
+
+word: ሰጪ
+POS: noun, stem: ሰጠ
+
+word: የሻሸመኔ
+?POS: noun, stem: ሻሸመኔ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+word: ሀጂ
+POS: noun, stem: ሀጂ
+
+word: ሀሰን
+?POS: noun, stem: ሀሰ
+
+?word: ቱሪ
+
+word: በከተማዋ
+POS: noun, stem: ከተማ
+
+word: የተፈጠረው
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: ችግርና
+POS: noun, stem: ችግር
+
+word: የደረሰው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: የንብረት
+POS: noun, stem: ንብረት
+
+?word: ውድመት
+
+word: የከተማዋን
+POS: noun, stem: ከተማ
+
+word: ወጣቶችና
+POS: noun, stem: ወጣት
+
+word: ህብረተሰቡን
+POS: noun, stem: ህብረተሰብ
+
+word: የማይወክል
+POS: verb, root: <wk_l>, citation: ወከለ
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: በጥፋቱም
+POS: noun, stem: እጥፋት
+
+word: የደረሰውን
+POS: verb, root: <drs>, citation: ደረሰ
+
+?word: ውድመት
+
+word: መልሰን
+POS: verb, root: <ml_s>, citation: መለሰ
+
+word: ለመተካት
+POS: noun, stem: ተካ
+
+word: ከመስተዳደሩ
+?POS: noun, stem: መስተዳደር
+
+word: ከመስራት
+POS: noun, stem: ሰራ
+
+word: ባለፈ
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: ተጎጂዎችን
+POS: noun, stem: ተጎዳ
+
+word: ከደረሰባቸው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ሀዘንና
+?POS: noun, stem: ሀዘ
+
+word: ጉዳት
+POS: verb, root: <gWd'>, citation: ጐዳ
+
+word: እንዲያገግሙ
+POS: verb, root: <gg_m>, citation: አገገመ
+
+word: ከጎናቸው
+?POS: noun, stem: ጎን
+
+word: ሆነን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: እያገዝናቸው
+POS: verb, root: <'g_z>, citation: አገዘ
+
+word: በአፍራሽ
+?POS: noun, stem: አፍራ
+
+word: ሀይሎች
+POS: noun, stem: ሀይል
+
+word: የቴሌቭዥንና
+?POS: noun, stem: የቴሌቭዥ
+
+word: የሌሎች
+POS: noun, stem: ሌላ
+
+word: ሚዲያዎች
+?POS: noun, stem: ሚዲያ
+
+word: ቅስቀሳ
+POS: noun, stem: ቅስቀሳ
+
+word: የደረሰው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ጉዳት
+POS: verb, root: <gWd'>, citation: ጐዳ
+
+word: እንዳይደገም
+POS: verb, root: <dgm>, citation: ተደገመ
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: ከፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: ሀይሎችና
+POS: noun, stem: ሀይል
+
+word: ከመንግስት
+POS: noun, stem: መንግስት
+
+?word: ጎን
+
+word: ሆነን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: መስራት
+POS: noun, stem: ሰራ
+
+word: ይጠበቅብናል
+POS: verb, root: <Tbq>, citation: ተጠበቀ
+
+word: የምእራብ
+POS: noun, stem: ምእራብ
+
+word: አርሲ
+POS: noun, stem: አርሲ
+
+?word: ዞን
+
+word: አስተዳዳሪ
+POS: noun, stem: አስተዳደረ
+
+word: አበራ
+POS: verb, root: <br'>, citation: አበራ
+
+?word: ቡኖ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: በዞኑ
+?POS: noun, stem: ዞን
+
+word: ጉዳት
+POS: verb, root: <gWd'>, citation: ጐዳ
+
+word: ከደረሰባቸው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: የንግድ
+POS: noun, stem: ንግድ
+
+word: ተቋማትና
+?POS: noun, stem: ተቋማት
+
+word: መኖሪያ
+POS: noun, stem: ኖረ
+
+word: ቤቶች
+POS: noun, stem: ቤት
+
+word: ጥገና
+POS: noun, stem: ጥገና
+
+word: ተደርጎላቸዋል
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: የፈረሱትንም
+POS: verb, root: <frs>, citation: ፈረሰ
+
+word: መልሰን
+POS: verb, root: <ml_s>, citation: መለሰ
+
+word: በተሻለ
+POS: verb, root: <x'l>, citation: ተሻለ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: በመገንባት
+POS: noun, stem: ገነባ
+
+word: ለተጎጂዎች
+POS: noun, stem: ተጎዳ
+
+word: አስረክበናል
+POS: verb, root: <rkb>, citation: አስረከበ
+

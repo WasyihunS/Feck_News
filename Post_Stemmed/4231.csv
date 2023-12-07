@@ -1,0 +1,269 @@
+word: ወረርሽኝ
+POS: verb, root: <wrr>, citation: ወረረ
+
+word: ዝግጁነትና
+?POS: noun, stem: ዝግጁነት
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: ለመስጠት
+POS: noun, stem: ሰጠ
+
+word: የህክምናና
+POS: noun, stem: ህክምና
+
+word: ለይቶ
+POS: verb, root: <ly_*>, citation: ለየ
+
+word: ማቆያ
+POS: noun, stem: አቆየ
+
+?word: ማእከላት
+
+word: ያሉበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ተገመገመ
+POS: verb, root: <gmgm>, citation: ተገመገመ
+
+word: ወረርሽኝ
+POS: verb, root: <wrr>, citation: ወረረ
+
+word: ዝግጁነትና
+?POS: noun, stem: ዝግጁነት
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: ለመስጠት
+POS: noun, stem: ሰጠ
+
+word: የህክምና
+POS: noun, stem: ህክምና
+
+word: ለይቶ
+POS: verb, root: <ly_*>, citation: ለየ
+
+word: ማቆያ
+POS: noun, stem: አቆየ
+
+word: ማእከላትን
+?POS: noun, stem: ማእከላት
+
+word: በማዘጋጀት
+POS: noun, stem: አዘጋጀ
+
+word: ረገድ
+POS: noun, stem: ረገድ
+
+word: እጅግ
+
+word: ጥሩ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: የተሰራ
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: የኢፌዴሪ
+?POS: noun, stem: ኢፌዴሪ
+
+word: ጤና
+POS: noun, stem: ጤና
+
+word: ሚኒስትር
+POS: noun, stem: ሚኒስትር
+
+word: ዶክተር
+POS: noun, stem: ዶክተር
+
+?word: ሊያ
+
+word: ታደሰ
+POS: verb, root: <'d_s>, citation: ታደሰ
+
+word: ገለፁ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: በቅዱስ
+POS: noun, stem: ቅዱስ
+
+word: ጴጥሮስ
+POS: noun, stem: ጴጥሮስ
+
+?word: ስፔሺያላይዝድ
+
+?word: ሆስፒታል
+
+word: በቅዱስ
+POS: noun, stem: ቅዱስ
+
+word: ጳውሎስ
+?POS: noun, stem: ጳውሎ
+
+?word: ሆስፒታል
+
+word: ሚሊንየም
+?POS: noun, stem: ሚሊንየ
+
+?word: ሜድካል
+
+?word: ኮሌጅ
+
+word: በሚሊኒየም
+?POS: noun, stem: በሚሊኒየ
+
+word: አዳራሽ
+POS: noun, stem: አዳራሽ
+
+?word: ጉብኝት
+
+word: አድርገዋል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: በጉብኝቱም
+?POS: noun, stem: ጉብኝት
+
+word: ለወረርሽኙ
+POS: noun, stem: ወረርሽኝ
+
+word: በመዘጋጀት
+POS: noun, stem: ተዘጋጀ
+
+word: ረገድ
+POS: noun, stem: ረገድ
+
+word: እጅግ
+
+word: ጥሩ
+POS: verb, root: <Tr'>, citation: ጠራ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: እንደተሰራ
+POS: verb, root: <sr'>, citation: ተሰራ
+
+word: መገንዘባቸውን
+POS: noun, stem: ተገነዘበ
+
+word: ያመለከቱት
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: የቅዱስ
+POS: noun, stem: ቅዱስ
+
+word: ጴጥሮስ
+POS: noun, stem: ጴጥሮስ
+
+?word: ሆስፒታል
+
+word: የሚሰጠውን
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: መድሀኒቱን
+POS: noun, stem: መድሀኒት
+
+word: ለተላመደ
+POS: verb, root: <lmd>, citation: ተላመደ
+
+word: የቲቢ
+?POS: noun, stem: ቲቢ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: ሁለቱም
+POS: noun, stem: ሁለት
+
+word: ሆስፒታሎች
+?POS: noun, stem: ሆስፒታል
+
+word: በመደበኛነት
+?POS: noun, stem: መደበኛነት
+
+word: ይሰጧቸው
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የነበሩትን
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: አጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: አጠባበቅ
+POS: noun, stem: ጠበቀ
+
+word: አገልግሎቶች
+POS: noun, stem: አገልግሎት
+
+word: መስጠታቸውን
+POS: noun, stem: ሰጠ
+
+word: እንደቀጠሉም
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ሚኒስትሯ
+POS: noun, stem: ሚኒስትር
+
+word: በጊዜያዊ
+?POS: noun, stem: ጊዜያዊ
+
+word: ለይቶ
+POS: verb, root: <ly_*>, citation: ለየ
+
+?word: ማቆያነት
+
+word: እያገለገለ
+POS: verb, root: <glgl>, citation: አገለገለ
+
+word: የሚገኘውን
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ሳይንስና
+POS: noun, stem: ሳይንስ
+
+?word: ቴክኖሎጂ
+
+word: ዩኒቨርስቲንም
+?POS: noun, stem: ዩኒቨርስቲ
+
+word: መጎብኘታቸውን
+POS: noun, stem: ጐበኘ
+
+word: በፌስቡክ
+?POS: noun, stem: ፌስቡክ
+
+word: ገፃቸው
+POS: noun, stem: ገጽ
+
+word: ፅፈዋል
+POS: verb, root: <S'f>, citation: ጻፈ
+

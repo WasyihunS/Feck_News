@@ -1,0 +1,557 @@
+word: በእኛ
+POS: noun, stem: እኛ
+
+word: ትችት
+POS: noun, stem: ትችት
+
+word: የሚያቀርቡ
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ከግብፅ
+POS: noun, stem: ግብጽ
+
+word: ሲሞዳሞዱ
+?POS: noun, stem: ሲሞዳሞድ
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+?word: ጃዋር
+
+?word: መሀመድ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የውጭ
+POS: noun, stem: ውጭ
+
+word: ጉዳይ
+POS: noun, stem: ጉዳይ
+
+word: ፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+?word: መሰረታዊ
+
+word: አጀንዳ
+POS: noun, stem: አጀንዳ
+
+word: አንዱ
+POS: noun, stem: አንድ
+
+word: የናይል
+?POS: noun, stem: ናይል
+
+word: ጉዳይ
+POS: noun, stem: ጉዳይ
+
+word: በሚደረጉ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ድርድሮች
+POS: noun, stem: ድርድር
+
+word: አሜሪካም
+POS: noun, stem: አሜሪካ
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: የፋይናንስ
+?POS: noun, stem: ፋይናንስ
+
+word: ተቋማት
+?POS: noun, stem: ተቅዋማት
+
+word: መሳተፍ
+POS: noun, stem: ተሳተፈ
+
+word: የለባቸውም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ምክንያቱም
+POS: noun, stem: ምክንያት
+
+word: ሁሌም
+?POS: noun, stem: ሁሌ
+
+word: ከግብፅ
+POS: noun, stem: ግብጽ
+
+word: እንደሚቆሙ
+POS: verb, root: <qwm>, citation: ቆመ
+
+word: ይታወቃል
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ግብፅን
+POS: noun, stem: ግብጽ
+
+word: ለመካከለኛው
+POS: noun, stem: መካከለኛ
+
+word: ምስራቅ
+POS: noun, stem: ምስራቅ
+
+?word: ፖለቲካ
+
+word: ይፈልጓታል
+POS: verb, root: <fl_g>, citation: ፈለገ
+
+word: ይፈልጓታል
+POS: verb, root: <fl_g>, citation: ፈለገ
+
+word: አንፃር
+POS: noun, stem: አንጻር
+
+word: ግብፅ
+POS: noun, stem: ግብጽ
+
+word: ፈፅሞ
+POS: verb, root: <fS_m>, citation: ፈጸመ
+
+word: ሊያወዳድሩ
+POS: verb, root: <wd_r>, citation: አወዳደረ
+
+word: አይችሉም
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ሁሌም
+?POS: noun, stem: ሁሌ
+
+word: ከግብፅ
+POS: noun, stem: ግብጽ
+
+word: እየታወቀ
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ጠቅላይ
+POS: noun, stem: ጠቀለለ
+
+word: ሚኒስትሩ
+POS: noun, stem: ሚኒስትር
+
+word: ሩስያ
+POS: noun, stem: ሩስያ
+
+word: ሄዶ
+POS: verb, root: <hyd>, citation: ሄደ
+
+word: አሜሪካ
+POS: noun, stem: አሜሪካ
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+word: በአደራዳሪነት
+?POS: noun, stem: አደራዳሪነት
+
+word: እንዲገቡ
+POS: verb, root: <gb'>, citation: ገባ
+
+word: የተፈቀደው
+POS: verb, root: <fqd>, citation: ተፈቀደ
+
+word: ዲፕሎማቶቹን
+?POS: noun, stem: ዲፕሎማት
+
+word: ያሳበደው
+POS: verb, root: <'bd>, citation: አሳበደ
+
+word: ያጋጠመን
+POS: verb, root: <gTm>, citation: አጋጠመ
+
+word: ጭቅጭቅ
+POS: noun, stem: ጭቅጭቅ
+
+word: ያስገባን
+POS: verb, root: <gb'>, citation: አስገባ
+
+word: የብልጥግናዎች
+POS: noun, stem: ብልጽግና
+
+word: ስህተት
+POS: noun, stem: ስህተት
+
+word: አሜሪካኖች
+?POS: noun, stem: አሜሪካና
+
+word: በፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: ተቋማቻቸው
+?POS: noun, stem: ተቋማቻቸ
+
+word: የሚዙትብን
+?POS: noun, stem: ሚዙትብን
+
+word: ለምሳሌ
+POS: noun, stem: ምሳሌ
+
+word: ባለፈው
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: ሰኞ
+POS: noun, stem: ሰኞ
+
+word: የተባበሩት
+POS: verb, root: <'br>, citation: ተባበረ
+
+word: መንግስታት
+POS: noun, stem: መንግስት
+
+word: የፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ስብሰባ
+POS: noun, stem: ስብሰባ
+
+word: ነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የአሜሪካኖች
+?POS: noun, stem: አሜሪካና
+
+word: አቋም
+POS: noun, stem: አቋም
+
+word: ከግብፅ
+POS: noun, stem: ግብጽ
+
+word: የበለጠ
+POS: verb, root: <blT>, citation: በለጠ
+
+word: ጠንካራ
+POS: noun, stem: ጠንካራ
+
+word: ድርድር
+POS: noun, stem: ድርድር
+
+word: ባናስገባቸው
+POS: verb, root: <gb'>, citation: አስገባ
+
+word: ይህን
+POS: noun, stem: ይህ
+
+word: አያደርጉትም
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ነበር
+
+word: ለግብፅ
+POS: noun, stem: ግብጽ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የገቡት
+POS: verb, root: <gb'>, citation: ገባ
+
+word: የእስራኤል
+POS: noun, stem: እስራኤል
+
+word: የፍልስጤም
+?POS: noun, stem: የፍልስጥ
+
+word: ጉዳይ
+POS: noun, stem: ጉዳይ
+
+word: ከግድቡ
+POS: noun, stem: ግድብ
+
+word: አያይዘው
+POS: verb, root: <y'z>, citation: አያያዘ
+
+word: ስላቀረቡት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+?word: ትራምፕ
+
+word: ዳግም
+POS: noun, stem: ዳግም
+
+word: ለመመረጥ
+POS: noun, stem: ተመረጠ
+
+word: ጉዳይ
+POS: noun, stem: ጉዳይ
+
+word: አጀንዳ
+POS: noun, stem: አጀንዳ
+
+word: ስለመጣ
+POS: verb, root: <mT'>, citation: መጣ
+
+word: ትግላችን
+POS: noun, stem: ትግል
+
+word: ከግብፅ
+POS: noun, stem: ግብጽ
+
+word: ሳይሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ከአሜሪካ
+POS: noun, stem: አሜሪካ
+
+word: ሆኗል
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: በዲፕሎማሲ
+?POS: noun, stem: ዲፕሎማሲ
+
+word: መድረክ
+POS: noun, stem: መድረክ
+
+word: ተሸንፈናል
+POS: verb, root: <xnf>, citation: ተሸነፈ
+
+word: ምክንያቱም
+POS: noun, stem: ምክንያት
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የካድሬ
+?POS: noun, stem: የካድር
+
+word: ስብስብ
+POS: noun, stem: ስብስብ
+
+word: ካድሬዎቹ
+?POS: noun, stem: ካድሬው
+
+word: ሙሁራንን
+?POS: noun, stem: ሙሁራን
+
+word: አያቀርቡም
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: የሚያቀርቡ
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ከሆነም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: የሚያጨበጭቡትን
+POS: verb, root: <CbCb>, citation: አጨበጨበ
+
+word: ማቅረብ
+POS: noun, stem: አቀረበ
+
+word: የሚፈልጉት
+POS: verb, root: <fl_g>, citation: ፈለገ
+
+word: ዳያስፐራን
+?POS: noun, stem: ዳያስፐራ
+
+word: በማግለል
+POS: noun, stem: አገለለ
+
+word: ሙሁራንን
+?POS: noun, stem: ሙሁራን
+
+word: በማግለል
+POS: noun, stem: አገለለ
+
+word: ተቃዋሚን
+POS: noun, stem: ተቃወመ
+
+word: በማግለል
+POS: noun, stem: አገለለ
+
+word: አገር
+POS: noun, stem: አገር
+
+word: መምራት
+POS: noun, stem: መራ
+
+word: አይቻልም
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: ዘመን
+POS: noun, stem: ዘመን
+
+word: ጋዜጣ
+POS: noun, stem: ጋዜጣ
+
+word: ግብፅ
+POS: noun, stem: ግብጽ
+
+word: የኢትዮጵያውያን
+POS: noun, stem: ኢትዮጵያዊ
+
+word: መስሊሞችን
+?POS: noun, stem: መስሊማ
+
+word: ከጎኗ
+?POS: noun, stem: ጎን
+
+word: ለማሳለፍ
+POS: noun, stem: አሳለፈ
+
+word: የምታደርገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ጥረት
+POS: noun, stem: ጥረት
+
+word: ምናምን
+?POS: noun, stem: ምናም
+
+word: የሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: ፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+word: ወጥቷል
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: ግብፅ
+POS: noun, stem: ግብጽ
+
+word: በናይል
+?POS: noun, stem: ናይል
+
+word: ጉዳይ
+POS: noun, stem: ጉዳይ
+
+word: የክርስትያን
+?POS: noun, stem: ክርስትያ
+
+word: የሙስሊም
+?POS: noun, stem: ሙስሊም
+
+word: የሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: የላትም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ውሀው
+POS: noun, stem: ውሀ
+
+word: የህልውና
+POS: noun, stem: ህልውና
+
+word: ጥያቄ
+POS: noun, stem: ጥያቄ
+
+word: አይነት
+
+word: ተራ
+POS: noun, stem: ተራ
+
+word: ህዝብን
+POS: noun, stem: ህዝብ
+
+word: ለማግለል
+POS: noun, stem: አገለለ
+
+word: የሚደረግ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ኢስላሞፎቢያን
+?POS: noun, stem: ኢስላሞፎቢያ
+
+word: ለመጠቀም
+POS: noun, stem: ተጠቀመ
+
+word: የሚደረግ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ጨዋታ
+POS: noun, stem: ጨዋታ
+
+word: በአረብኛ
+POS: noun, stem: አረብኛ
+
+word: ቋንቋ
+POS: noun, stem: ቋንቋ
+
+word: የኢትዮጵያን
+POS: noun, stem: ኢትዮጵያ
+
+word: ጥቅም
+POS: noun, stem: ጥቅም
+
+word: ለማስጠበቅ
+POS: noun, stem: አስጠበቀ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ትግል
+POS: noun, stem: ትግል
+
+word: እያካሄዱ
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: መሀመዶች
+?POS: noun, stem: መሀመድ
+
+word: በአረቡ
+POS: noun, stem: አረብ
+
+word: አለም
+POS: noun, stem: አለም
+
+word: ጫና
+POS: noun, stem: ጫና
+
+word: እያሳደሩ
+POS: verb, root: <'dr>, citation: አሳደረ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: የሙስሊም
+?POS: noun, stem: ሙስሊም
+
+word: ልጆች
+POS: noun, stem: ልጅ
+
+��አረቡ
+POS: noun, stem: አረብ
+
+word: አለም
+POS: noun, stem: አለም
+
+word: ጫና
+POS: noun, stem: ጫና
+
+word: እያሳደሩ
+POS: verb, root: <'dr>, citation: አሳደረ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: የሙስሊም
+?POS: noun, stem: ሙስሊም
+
+word: ልጆች
+POS: noun, stem: ልጅ
+

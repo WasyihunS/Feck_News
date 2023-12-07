@@ -1,0 +1,421 @@
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: መንገዶች
+POS: noun, stem: መንገድ
+
+word: ባለስልጣን
+POS: noun, stem: ባለስልጣን
+
+word: ያስገነባዉን
+?POS: noun, stem: አስገነባዉ
+
+word: ቋሚ
+POS: noun, stem: ቋሚ
+
+word: የኤግዚቢሽን
+?POS: noun, stem: የኤግዚቢ
+
+word: ማእከል
+POS: noun, stem: ማእከል
+
+word: አሰመረቀ
+?POS: verb, root: <smrq>, citation: አሰመረቀ
+
+word: ቋሚ
+POS: noun, stem: ቋሚ
+
+word: ኤግዚቢሽኑ
+?POS: noun, stem: ኤግዚቢሽን
+
+word: የተቋሙን
+POS: noun, stem: ተቋም
+
+word: የታሪክ
+POS: noun, stem: ታሪክ
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: ለሀገር
+POS: noun, stem: ሀገር
+
+word: ያበረከተውን
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: አስተዋፅኦ
+POS: noun, stem: አስተዋጽኦ
+
+word: በየዘመኑ
+POS: noun, stem: ዘመን
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ሂደቶችን
+POS: noun, stem: ሂደት
+
+word: በሰነድ
+POS: noun, stem: ሰነድ
+
+word: በቁስ
+POS: verb, root: <bq'>, citation: በቃ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: አካቶ
+POS: verb, root: <ktt>, citation: አካተተ
+
+word: የያዘ
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: ዘመናዊና
+?POS: noun, stem: ዘመናዊ
+
+?word: ዲጂታል
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: የተገነባው
+POS: verb, root: <gnb'>, citation: ተገነባ
+
+word: ቋሚ
+POS: noun, stem: ቋሚ
+
+word: ማእከሉ
+POS: noun, stem: ማእከል
+
+word: የአውራ
+POS: noun, stem: አውራ
+
+word: ጎዳናና
+POS: noun, stem: ጎዳና
+
+word: የመንገዶች
+POS: noun, stem: መንገድ
+
+word: ባለሰልጣን
+?POS: noun, stem: ባለሰልጣ
+
+word: ከምስረታ
+?POS: noun, stem: ምስረታ
+
+word: አንሰቶ
+?POS: verb, root: <n|sTtt>, citation: አንሰጠተተ
+
+word: በየጊዜው
+POS: noun, stem: ጊዜ
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: አበርክቶቶቹን
+?POS: noun, stem: አበርክቶታ
+
+word: ለቀጣዩ
+POS: noun, stem: ቀጠለ
+
+word: ትውልድ
+POS: noun, stem: ትውልድ
+
+word: ለማስተላለፍ
+POS: noun, stem: አስተላለፈ
+
+word: የጎላ
+POS: verb, root: <gWl'>, citation: ጐላ
+
+word: ሚና
+POS: noun, stem: ሚና
+
+word: እንደሚያበረክት
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: የተቋሙ
+POS: noun, stem: ተቋም
+
+?word: ዳሬክተር
+
+?word: ኢንጂነር
+
+word: ሀብታሙ
+POS: noun, stem: ሀብታም
+
+word: ተገኝ
+POS: noun, stem: ተገኘ
+
+word: ለውጪም
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: ለውስጥ
+POS: noun, stem: ውስጥ
+
+word: ጎቢኚዎች
+?POS: noun, stem: ጎቢኚዋ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: መስጠት
+POS: noun, stem: ሰጠ
+
+word: የጀመረው
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+?word: ይህው
+
+word: ማእከል
+POS: noun, stem: ማእከል
+
+?word: ግልፅ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: እስካሁን
+POS: noun, stem: አሁን
+
+word: ያለዉን
+?POS: noun, stem: አለው
+
+word: የተቋሙን
+POS: noun, stem: ተቋም
+
+word: ሙሉ
+POS: noun, stem: ሙሉ
+
+word: ታሪክ
+POS: noun, stem: ታሪክ
+
+word: በፎቶ
+?POS: noun, stem: ፎቶ
+
+word: በማደራጀት
+POS: noun, stem: አደራጀ
+
+word: በዶኩመንተሪ
+?POS: noun, stem: ዶኩመንተሪ
+
+word: ፊልም
+POS: noun, stem: ፊልም
+
+?word: ዲጅታል
+
+word: በሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: እስክሪኖች
+?POS: noun, stem: እስክሪና
+
+word: ልዩልዩ
+?POS: noun, stem: ልዩልይ
+
+word: በቪዲዮ
+?POS: noun, stem: ቪዲዮ
+
+word: የተቀናበሩ
+POS: verb, root: <qnbr>, citation: ተቀናበረ
+
+word: ታሪኮች
+POS: noun, stem: ታሪክ
+
+word: ያሳያል
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: ተብሏል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: የቀድሞ
+POS: noun, stem: ቀድሞ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: በመስክ
+POS: noun, stem: መስክ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: ይጠቀሙባቸዉ
+?POS: noun, stem: ይጠቀሙባቸው
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+?word: ጥንታዊ
+
+word: የግንበታ
+?POS: noun, stem: ግንበታ
+
+word: መሳሪያዎች
+POS: noun, stem: መሳሪያ
+
+?word: ታሪካዊ
+
+word: መንገዶችና
+POS: noun, stem: መንገድ
+
+word: ድልድዮች
+POS: noun, stem: ድልድይ
+
+?word: ማህበራዊ
+
+word: መሰተጋብሮችንም
+?POS: noun, stem: መሰተጋብሮች
+
+word: አካቶ
+POS: verb, root: <ktt>, citation: አካተተ
+
+word: ይዟል
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: ቋሚ
+POS: noun, stem: ቋሚ
+
+word: ኤግዚቢሽኑ
+?POS: noun, stem: ኤግዚቢሽን
+
+word: ለማንኛውም
+POS: noun, stem: ማንኛው
+
+word: ጎብኚ
+POS: noun, stem: ጐበኘ
+
+word: ክፍት
+POS: noun, stem: ክፍት
+
+word: የሚያገለግል
+POS: verb, root: <glgl>, citation: አገለገለ
+
+word: በመሆኑም
+POS: noun, stem: ሆነ
+
+word: ለታሪክና
+POS: noun, stem: ታሪክ
+
+?word: ምርመር
+
+word: የራሱ
+POS: noun, stem: ራስ
+
+?word: አሰተዎፆ
+
+word: እንደሚያበረክትም
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: ዳሬክተሩ
+?POS: noun, stem: ዳሬክተር
+
+word: ተቋሙ
+POS: noun, stem: ተቋም
+
+word: ያለበትን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ተጨባጭ
+POS: noun, stem: ተጨበጠ
+
+word: እስትራቴጂክ
+?POS: noun, stem: ስትራቴጂክ
+
+word: ለውጡን
+POS: verb, root: <lw_T>, citation: ለወጠ
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: የከወናቸውን
+?POS: noun, stem: የከወናቸ
+
+?word: ተግባራት
+
+word: በቀጣይም
+POS: noun, stem: ቀጠለ
+
+word: ሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: በመንገድ
+POS: noun, stem: መንገድ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+?word: ልትደርስብት
+
+word: የሚገባትን
+POS: verb, root: <gb'>, citation: ገባ
+
+word: እራይ
+?POS: noun, stem: ራይ
+
+word: የሚያመላክቱ
+POS: verb, root: <mlkt>, citation: አመላከተ
+
+word: ግብአቶችም
+?POS: noun, stem: ግብአቶች
+
+word: በቋሚ
+POS: noun, stem: ቋሚ
+
+word: ኤግዚቢሽኑ
+?POS: noun, stem: ኤግዚቢሽን
+
+word: ተካተዋል
+POS: verb, root: <ktt>, citation: ተካተተ
+
+word: ቋሚ
+POS: noun, stem: ቋሚ
+
+word: ኤግዚቢሽኑ
+?POS: noun, stem: ኤግዚቢሽን
+
+word: እውን
+POS: noun, stem: ውን
+
+word: የጎላሚና
+?POS: noun, stem: ጎለመ
+
+word: ላበረከቱ
+POS: verb, root: <brkt>, citation: አበረከተ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: የተቋሙ
+POS: noun, stem: ተቋም
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: ምስጋና
+POS: noun, stem: ምስጋና
+
+word: ቀርቧል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ምንጭ
+POS: noun, stem: ምንጭ
+
+?word: ትራንስፖርት
+
+word: ሚኒስቴር
+POS: noun, stem: ሚኒስቴር
+

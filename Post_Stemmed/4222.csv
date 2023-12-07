@@ -1,0 +1,826 @@
+word: የሚኒስትሮች
+POS: noun, stem: ሚኒስትር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: እለት
+
+word: ባካሄደው
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: አስቸኳይ
+POS: noun, stem: አስቸኳይ
+
+word: ስብሰባ
+POS: noun, stem: ስብሰባ
+
+word: በተለያዩ
+POS: noun, stem: ተለያየ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: ተወያይቶ
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ውሳኔ
+POS: noun, stem: ውሳኔ
+
+word: አሳልፏል
+POS: verb, root: <'lf>, citation: አሳለፈ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ወንጌል
+POS: noun, stem: ወንጌል
+
+word: አማኞች
+POS: noun, stem: አመነ
+
+?word: አብያተ
+
+?word: ክርስቲያናት
+
+word: ካውንስል
+?POS: noun, stem: አውንስል
+
+?word: ህጋዊ
+
+word: ሰውነት
+POS: noun, stem: ሰውነት
+
+word: ለመስጠት
+POS: noun, stem: ሰጠ
+
+word: የቀረበ
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: አዋጅ
+POS: noun, stem: አዋጅ
+
+word: ተወያይቷል
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: የወንጌላዊያን
+?POS: noun, stem: የወንጌላዊያ
+
+?word: አብያተ
+
+word: ክርስቲያናትና
+?POS: noun, stem: ክርስቲያናት
+
+word: የአብተ
+?POS: noun, stem: አብተ
+
+?word: ክርስቲያናት
+
+word: ህብረቶች
+POS: noun, stem: ህብረት
+
+word: ያቋቋሙትን
+POS: verb, root: <qwm>, citation: አቋቋመ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: ተቋም
+POS: noun, stem: ተቋም
+
+word: የህግ
+POS: noun, stem: ህግ
+
+word: ሰውነት
+POS: noun, stem: ሰውነት
+
+word: መስጠት
+POS: noun, stem: ሰጠ
+
+word: ተገቢ
+POS: noun, stem: ተገባ
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: አዋጅ
+POS: noun, stem: አዋጅ
+
+word: ተዘጋጅቶ
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: ለሚኒስትሮች
+POS: noun, stem: ሚኒስትር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቀርቧል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱም
+POS: noun, stem: ቤት
+
+word: በረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: አዋጁ
+POS: noun, stem: አዋጅ
+
+word: በስፋት
+POS: noun, stem: ስፋት
+
+word: ከተወያየ
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ተቀብሎ
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: ይፀድቅ
+POS: verb, root: <Sdq>, citation: ጸደቀ
+
+word: ዘንድ
+
+word: ለህዝብ
+POS: noun, stem: ህዝብ
+
+word: ተወካዮች
+POS: noun, stem: ተወከለ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: እንዲተላለፍ
+POS: verb, root: <'lf>, citation: ተላለፈ
+
+word: ወስኗል
+POS: verb, root: <ws_n>, citation: ወሰነ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: የትራንስፖርት
+?POS: noun, stem: ትራንስፖርት
+
+word: ፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ላይም
+POS: noun, stem: ላይ
+
+word: ተወያይቷል
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: የትራንስፖርት
+?POS: noun, stem: ትራንስፖርት
+
+word: ዘርፉ
+POS: noun, stem: ዘርፍ
+
+word: ዝርዝር
+POS: noun, stem: ዝርዝር
+
+word: የኢኮኖሚያዊና
+?POS: noun, stem: ኢኮኖሚያዊ
+
+word: የማህበራዊ
+?POS: noun, stem: ማህበራዊ
+
+word: መስተጋብሮቻችን
+POS: noun, stem: መስተጋብር
+
+word: በዘመናዊ
+?POS: noun, stem: ዘመናዊ
+
+word: የኢንፎርሜሽን
+?POS: noun, stem: ኢንፎርሜሽን
+
+?word: ቴክኖሎጂ
+
+word: የተደገፈ
+POS: verb, root: <dg_f>, citation: ተደገፈ
+
+word: የተቀናጀና
+?POS: noun, stem: ተቀናጀ
+
+word: ቀልጣፋ
+POS: noun, stem: ቀልጣፋ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: እንዲሰጥ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ለማስቻል
+POS: noun, stem: አስቻለ
+
+word: ሊመራበት
+POS: verb, root: <mr'>, citation: መራ
+
+word: የሚገባውን
+POS: verb, root: <gb'>, citation: ገባ
+
+?word: አቅጣጫ
+
+word: ማስቀመጥ
+POS: noun, stem: አስቀመጠ
+
+word: የፖሊሲው
+POS: noun, stem: ፖሊሲ
+
+word: ዋነኛ
+POS: noun, stem: ዋነኛ
+
+word: ትኩረት
+POS: verb, root: <kWrt>, citation: ኮረተ
+
+word: ተወያይቶበታል
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: የፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ሰነዱ
+POS: noun, stem: ሰነድ
+
+word: የትራንስፖርት
+?POS: noun, stem: ትራንስፖርት
+
+word: ዘርፉ
+POS: noun, stem: ዘርፍ
+
+word: ተቋማዊና
+?POS: noun, stem: ተቅዋማዊ
+
+?word: አስተዳደራዊ
+
+word: አደረጃጀቶች
+POS: noun, stem: ደረጀ
+
+word: ሊከተሉት
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: የሚገባውን
+POS: verb, root: <gb'>, citation: ገባ
+
+?word: ስትራቴጂ
+
+word: በመለየት
+POS: noun, stem: ተለየ
+
+word: ሊያሳኩት
+POS: verb, root: <sk_'>, citation: አሳካ
+
+word: የሚፈለገውን
+POS: verb, root: <fl_g>, citation: ተፈለገ
+
+word: ግብ
+POS: noun, stem: ግብ
+
+word: የገጠርና
+POS: noun, stem: ገጠር
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+?word: ትስስር
+
+word: የከተማ
+POS: noun, stem: ከተማ
+
+word: ለከተማ
+POS: noun, stem: ከተማ
+
+?word: ትስስር
+
+word: አለም
+POS: noun, stem: አለም
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+?word: ትስስር
+
+word: ከአካባቢያው
+?POS: noun, stem: ከአካባቢያ
+
+word: ሀገሮች
+POS: noun, stem: ሀገር
+
+word: ያለንን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ግንኙነት
+POS: noun, stem: ግንኙነት
+
+word: በማጠንከር
+POS: noun, stem: አጠነከረ
+
+word: የሀገራችን
+POS: noun, stem: ሀገር
+
+word: እድገት
+POS: noun, stem: እድገት
+
+word: በማስቀጠል
+POS: noun, stem: አስቀጠለ
+
+word: ረገድ
+POS: noun, stem: ረገድ
+
+word: የበኩሉን
+?POS: noun, stem: በኩል
+
+word: ሚና
+POS: noun, stem: ሚና
+
+word: እንዲጫወት
+POS: verb, root: <Cawt>, citation: ተጫወተ
+
+word: ለማድረግ
+POS: noun, stem: አደረገ
+
+word: የፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ሰነድ
+POS: noun, stem: ሰነድ
+
+word: ተዘጋጅቶ
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: ለሚኒስትሮች
+POS: noun, stem: ሚኒስትር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቀርቧል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱም
+POS: noun, stem: ቤት
+
+word: በረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ፖሊሲው
+POS: noun, stem: ፖሊሲ
+
+word: በስፋት
+POS: noun, stem: ስፋት
+
+word: ከተወያየ
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ማስተካከያዎችን
+POS: noun, stem: አስተካከለ
+
+word: በማከል
+POS: noun, stem: አከለ
+
+word: ተቀብሎ
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: በስራ
+POS: noun, stem: ስራ
+
+word: እንዲውል
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ወስኗል
+POS: verb, root: <ws_n>, citation: ወሰነ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የተወያየበት
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ሌላው
+POS: noun, stem: ሌላ
+
+word: ጉዳይ
+POS: noun, stem: ጉዳይ
+
+word: በሎጀስቲክስ
+?POS: noun, stem: በሎጀስቲክ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: ለማጎልበት
+POS: noun, stem: አጎለበተ
+
+word: በየዘርፉ
+POS: noun, stem: ዘርፍ
+
+word: የፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ሰነዶች
+POS: noun, stem: ሰነድ
+
+word: ተዘጋጅተው
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: እየተተገበሩ
+?POS: noun, stem: ተተገበር
+
+word: ይገኛሉ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ይሁንና
+POS: noun, stem: ይህ
+
+word: እነዚህ
+POS: noun, stem: ይህ
+
+word: ፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: የተቀረፀላቸው
+POS: verb, root: <qrS>, citation: ተቀረጸ
+
+word: የኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: ዘርፎች
+POS: noun, stem: ዘርፍ
+
+word: ሲተገበሩ
+?POS: verb, root: <T|tgbr>, citation: ተጥተገበረ
+
+word: ለዘርፎቹ
+POS: noun, stem: ዘርፍ
+
+word: ትልቁን
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: ሚና
+POS: noun, stem: ሚና
+
+word: የሚጫወተው
+POS: verb, root: <Cawt>, citation: ተጫወተ
+
+word: የሎጂስቲክስ
+?POS: noun, stem: ሎጂስቲክስ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: በፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: እንዲደገፍ
+POS: verb, root: <dg_f>, citation: ተደገፈ
+
+word: አስፈላጊ
+POS: noun, stem: አስፈለገ
+
+word: ተገኝቷል
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የሎጂስቲክስ
+?POS: noun, stem: ሎጂስቲክስ
+
+word: ዘርፉን
+POS: noun, stem: ዘርፍ
+
+word: አመራር
+POS: noun, stem: መራ
+
+word: አደረጃጀት
+POS: noun, stem: ደረጀ
+
+word: አሰራር
+POS: noun, stem: ሰራ
+
+word: ቀልጣፋና
+POS: noun, stem: ቀልጣፋ
+
+?word: ውጤታማ
+
+word: ለማድረግ
+POS: noun, stem: አደረገ
+
+word: በሎጅስቲክስ
+?POS: noun, stem: በሎጅስቲክ
+
+word: መሰረተ
+POS: verb, root: <msrt>, citation: መሰረተ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ግንባታ
+POS: noun, stem: ግንባታ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: አሰጣጥ
+POS: noun, stem: ሰጠ
+
+word: የግሉን
+POS: noun, stem: ግል
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ተሳትፎ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: ለማሳደግ
+POS: noun, stem: አሳደገ
+
+word: የሎጅስቲክስ
+?POS: noun, stem: ሎጅስቲክስ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ለወጣቶች
+POS: noun, stem: ወጣት
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: እድል
+POS: noun, stem: እድል
+
+word: በመፍጠር
+POS: noun, stem: ፈጠረ
+
+word: ከሌሎች
+POS: noun, stem: ሌላ
+
+word: የኢኮኖሚ
+POS: noun, stem: ኢኮኖሚ
+
+word: መስኮች
+POS: noun, stem: መስክ
+
+word: ተደጋጋፊ
+POS: noun, stem: ተደጋገፈ
+
+?word: አንዲያድግ
+
+word: ለማስቻል
+POS: noun, stem: አስቻለ
+
+?word: ብሄራዊ
+
+word: የሎጂስቲክ
+?POS: noun, stem: ሎጂስቲክ
+
+word: ዘርፍ
+POS: noun, stem: ዘርፍ
+
+word: ፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ተዘጋጅቶ
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: ለሚኒስትሮች
+POS: noun, stem: ሚኒስትር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቀርቧል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱም
+POS: noun, stem: ቤት
+
+word: በረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ፖሊሲው
+POS: noun, stem: ፖሊሲ
+
+word: በስፋት
+POS: noun, stem: ስፋት
+
+word: ከተወያየ
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: ማስተካከያዎችን
+POS: noun, stem: አስተካከለ
+
+word: በማከል
+POS: noun, stem: አከለ
+
+word: ተቀብሎ
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: በስራ
+POS: noun, stem: ስራ
+
+word: እንዲውል
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ወስኗል
+POS: verb, root: <ws_n>, citation: ወሰነ
+
+word: በመጨረሻ
+POS: noun, stem: ጨረሰ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+word: ማቋቋሚያ
+POS: noun, stem: አቋቋመ
+
+word: ደንብን
+POS: noun, stem: ደንብ
+
+word: ለማሻሻል
+POS: noun, stem: አሻሻለ
+
+word: በቀረበው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ደንብ
+POS: noun, stem: ደንብ
+
+word: የተወያየው
+POS: verb, root: <way*>, citation: ተወያየ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ልማት
+POS: noun, stem: ልማት
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+word: የፖሊሲ
+POS: noun, stem: ፖሊሲ
+
+word: ባንክ
+POS: noun, stem: ባንክ
+
+word: የአገሪቱን
+POS: noun, stem: አገር
+
+word: የልማት
+POS: noun, stem: ልማት
+
+word: እቅድ
+POS: noun, stem: እቅድ
+
+word: ለማስፈፀም
+POS: noun, stem: አስፈጸመ
+
+word: የሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: አቅም
+POS: noun, stem: አቅም
+
+word: እንዲኖረው
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: የባንኩን
+POS: noun, stem: ባንክ
+
+word: ካፒታል
+?POS: noun, stem: አፒታል
+
+word: ማሳደግ
+POS: noun, stem: አሳደገ
+
+word: አስፈላጊ
+POS: noun, stem: አስፈለገ
+
+word: በመገኘቱ
+POS: noun, stem: ተገኘ
+
+word: የባንኩን
+POS: noun, stem: ባንክ
+
+word: ካፒታል
+?POS: noun, stem: አፒታል
+
+word: ማሳደጊያ
+POS: noun, stem: አሳደገ
+
+word: የማሻሻል
+POS: noun, stem: አሻሻለ
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ደንብ
+POS: noun, stem: ደንብ
+
+word: ተዘጋጅቶ
+POS: verb, root: <zgaj*>, citation: ተዘጋጀ
+
+word: ለሚኒስትሮች
+POS: noun, stem: ሚኒስትር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቀርቧል
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ምክር
+POS: noun, stem: ምክር
+
+word: ቤቱም
+POS: noun, stem: ቤት
+
+word: ረቂቅ
+POS: noun, stem: ረቂቅ
+
+word: ደንቡን
+POS: noun, stem: ደንብ
+
+word: በማፅደቅ
+POS: noun, stem: አጸደቀ
+
+word: በነጋሪት
+POS: noun, stem: ነጋሪት
+
+word: ጋዜጣ
+POS: noun, stem: ጋዜጣ
+
+word: ታትሞ
+POS: verb, root: <'t_m>, citation: ታተመ
+
+word: እንዲወጣና
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: እንዲውል
+POS: verb, root: <w'l>, citation: ዋለ
+
+word: ወስኗል
+POS: verb, root: <ws_n>, citation: ወሰነ
+

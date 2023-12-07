@@ -1,0 +1,400 @@
+word: በቄለም
+POS: verb, root: <qyl>, citation: ቄለ
+
+word: ወለጋ
+POS: noun, stem: ወለጋ
+
+?word: ዞን
+
+?word: አምፊሎ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+?word: ሸበል
+
+word: ቀበሌ
+POS: noun, stem: ቀበሌ
+
+word: ነዋሪዎችን
+POS: noun, stem: ነወረ
+
+word: አፈናቀላቸው
+POS: verb, root: <fnql>, citation: አፈናቀለ
+
+word: በቄለም
+POS: verb, root: <qyl>, citation: ቄለ
+
+word: ወላጋ
+?POS: verb, root: <wlagg>, citation: ወላገገ
+
+?word: ዞን
+
+?word: አምፊሎ
+
+word: ወረዳ
+POS: noun, stem: ወረዳ
+
+?word: ሸበል
+
+word: ቀበሌ
+POS: noun, stem: ቀበሌ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: በፀጥታ
+POS: noun, stem: ጸጥታ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: ተፈናቅለው
+POS: verb, root: <fnql>, citation: ተፈናቀለ
+
+word: በጋምቤላ
+?POS: noun, stem: ጋምቤላ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: የሚባለው
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: አካባቢ
+POS: noun, stem: አካባቢ
+
+word: መጠለላቸውን
+POS: noun, stem: ተጠለለ
+
+word: ለቢበሲ
+?POS: noun, stem: ቢበሲ
+
+word: በምእራብ
+POS: noun, stem: ምእራብ
+
+word: ኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ከሚገኘው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የመኖሪያ
+POS: noun, stem: ኖረ
+
+word: አካባቢያቸው
+POS: noun, stem: አካባቢ
+
+word: እንደተፈናቀሉ
+POS: verb, root: <fnql>, citation: ተፈናቀለ
+
+word: የሚናገሩት
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ነዋሪዎቹ
+POS: noun, stem: ነወረ
+
+word: ተመልሰው
+POS: verb, root: <ml_s>, citation: ተመለሰ
+
+word: በተጠለሉበት
+POS: verb, root: <Tl_l>, citation: ተጠለለ
+
+word: ስፍራ
+POS: noun, stem: ስፍራ
+
+word: ለተለያዩ
+POS: noun, stem: ተለያየ
+
+word: ችግሮች
+POS: noun, stem: ችግር
+
+word: መጋለጣቸውንም
+POS: noun, stem: ተጋለጸ
+
+word: ለቢቢሲ
+?POS: noun, stem: ቢቢሲ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ከአንድ
+POS: noun, stem: አንድ
+
+word: ሳምንት
+POS: noun, stem: ሳምንት
+
+word: በቀበሌያቸው
+POS: noun, stem: ቀበሌ
+
+?word: ሸበል
+
+word: በተከሰተው
+POS: verb, root: <ks_t>, citation: ተከሰተ
+
+word: ግጭት
+POS: noun, stem: ግጭት
+
+word: የተነሳ
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: የአምስት
+POS: noun, stem: አምስት
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ህይወት
+POS: noun, stem: ህይወት
+
+word: ካለፈ
+POS: verb, root: <'lf>, citation: አለፈ
+
+?word: ጋምቤላ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: እንደሸሹ
+POS: noun, stem: ሸሸ
+
+word: የሚናገሩት
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ስማቸው
+POS: verb, root: <sm'>, citation: ሰማ
+
+word: እንዳይገለፅ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: የጠየቁ
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: ነዋሪ
+POS: noun, stem: ነወረ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሀላፊዎች
+POS: noun, stem: ሀላፊ
+
+word: በጉልበት
+POS: noun, stem: ጉልበት
+
+word: መኖሪያ
+POS: noun, stem: ኖረ
+
+word: ቀያችን
+POS: noun, stem: ቀላ
+
+word: መልሰውናል
+POS: verb, root: <ml_s>, citation: መለሰ
+
+word: ይላሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: የሁለት
+POS: noun, stem: ሁለት
+
+word: ልጆች
+POS: noun, stem: ልጅ
+
+word: አባት
+POS: noun, stem: አባት
+
+word: የሆነውና
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ወጥሮ
+POS: verb, root: <wT_r>, citation: ወጠረ
+
+word: በጋምቤላ
+?POS: noun, stem: ጋምቤላ
+
+word: እንዳለ
+POS: verb, root: <b'l>, citation: አለ
+
+word: የተናገረው
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ስሙ
+POS: noun, stem: ስም
+
+word: እንዳይገለፅ
+POS: verb, root: <glS>, citation: ተገለጸ
+
+word: የጠየቀ
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: ግለሰብ
+POS: noun, stem: ግለሰብ
+
+word: በበኩሉ
+?POS: noun, stem: በኩል
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: በፍርሀት
+?POS: noun, stem: ፍርሀት
+
+word: እንደሚኖር
+POS: verb, root: <nwr>, citation: ኖረ
+
+word: ተናግሮ
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: መኖሪያ
+POS: noun, stem: ኖረ
+
+word: አካባቢው
+POS: noun, stem: አካባቢ
+
+word: የተመለሰው
+POS: verb, root: <ml_s>, citation: ተመለሰ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ስለሚያሰጋው
+POS: verb, root: <sg'>, citation: አሰጋ
+
+word: ለቢቢሲ
+?POS: noun, stem: ቢቢሲ
+
+word: ተናግሯል
+POS: verb, root: <ngr>, citation: ተናገረ
+
+word: ቅዳሜ
+POS: noun, stem: ቅዳሜ
+
+word: ጠዋት
+?POS: verb, root: <Twatt>, citation: ጠዋተተ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ተኩስ
+POS: verb, root: <tkW_s>, citation: ተኮሰ
+
+?word: ሰሲማ
+
+word: ደንግጠን
+POS: verb, root: <dngT>, citation: ደነገጠ
+
+word: ተበታተንን
+POS: verb, root: <bt_n>, citation: ተበታተነ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ቀያቸው
+POS: noun, stem: ቀላ
+
+word: ከተመለሱት
+POS: verb, root: <ml_s>, citation: ተመለሰ
+
+word: አንዱ
+POS: noun, stem: አንድ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ጀምሮ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: መሸሽ
+POS: verb, root: <mx*>, citation: መሸ
+
+word: መጀመራቸውን
+POS: noun, stem: ጀመረ
+
+word: በመግለፅ
+POS: noun, stem: ገለጸ
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ወታደሮች
+POS: noun, stem: ወታደር
+
+word: የሚሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ተኩሱ
+POS: verb, root: <tkW_s>, citation: ተኮሰ
+
+word: የተከፈተው
+POS: verb, root: <kft>, citation: ተከፈተ
+
+word: የሸኔ
+?POS: noun, stem: ሸኔ
+
+word: ታጣቂዎች
+POS: noun, stem: ታጠቀ
+
+word: ጫካ
+POS: noun, stem: ጫካ
+
+word: የሸሸነው
+POS: verb, root: <xx*>, citation: ሸሸ
+
+word: ተኩሱን
+POS: verb, root: <tkW_s>, citation: ተኮሰ
+
+word: ሰምተን
+POS: verb, root: <sm'>, citation: ሰማ
+
+word: ቡና
+POS: noun, stem: ቡና
+
+word: ጫካችን
+?POS: noun, stem: ጫካች
+
+word: ሆነን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ስንሰማ
+POS: verb, root: <sm'>, citation: ተሰማ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ተኩስ
+POS: verb, root: <tkW_s>, citation: ተኮሰ
+
+word: የተነሳ
+POS: verb, root: <ns'>, citation: ተነሳ
+
+word: አምስት
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: መሞታቸውን
+POS: noun, stem: ሞተ
+
+word: ሰምተናል
+POS: verb, root: <sm'>, citation: ሰማ
+
+word: በማለት
+POS: noun, stem: አለ
+
+word: የነበረውን
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ያስረዳሉ
+POS: verb, root: <rd'>, citation: አስረዳ
+
+
+
+word: የነበረውን
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ያስረዳሉ
+POS: verb, root: <rd'>, citation: አስረዳ
+

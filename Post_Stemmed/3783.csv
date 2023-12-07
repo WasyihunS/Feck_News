@@ -1,0 +1,531 @@
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: በእነ
+?POS: noun, stem: እነ
+
+word: እስክንድር
+POS: verb, root: <d'r>, citation: ዳረ
+
+word: ነጋ
+POS: verb, root: <ng'>, citation: ነጋ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: መዝገብ
+POS: noun, stem: ዘገበ
+
+word: ግልባጭ
+POS: noun, stem: ግልባጭ
+
+word: በደረሰው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: እንዲመሰርት
+POS: verb, root: <msrt>, citation: መሰረተ
+
+word: ብይን
+POS: noun, stem: ብይ
+
+word: ሰጠ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኢዜአ
+
+word: በፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: የመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ልደታ
+POS: noun, stem: ልደታ
+
+?word: ምድብ
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የአራዳ
+?POS: noun, stem: አራዳ
+
+word: ተረኛ
+POS: noun, stem: ተረኛ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: በወንጀል
+POS: noun, stem: ወንጀል
+
+word: ጉዳይ
+POS: noun, stem: ጉዳይ
+
+word: በተጠረጠሩት
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: እስክንድር
+POS: verb, root: <d'r>, citation: ዳረ
+
+word: ነጋ
+POS: verb, root: <ng'>, citation: ነጋ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: መዝገብ
+POS: noun, stem: ዘገበ
+
+word: ግልባጭ
+POS: noun, stem: ግልባጭ
+
+word: በደረሰው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: እንዲመሰርት
+POS: verb, root: <msrt>, citation: መሰረተ
+
+word: ብይን
+POS: noun, stem: ብይ
+
+word: ሰጠ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: በቀዳሚ
+POS: noun, stem: ቀደመ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: መዝገብ
+POS: noun, stem: ዘገበ
+
+word: ቁጥር
+POS: noun, stem: ቁጥር
+
+word: የቀረቡት
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: እክንድር
+?POS: noun, stem: ክንድር
+
+word: ነጋ
+POS: verb, root: <ng'>, citation: ነጋ
+
+word: ስንታየሁ
+?POS: noun, stem: ስንታየህ
+
+word: ቸኮልና
+?POS: noun, stem: ቸኮል
+
+word: ቀለብ
+POS: noun, stem: ቀለብ
+
+word: ስዩም
+?POS: noun, stem: ስዩ
+
+word: ቀሪ
+POS: noun, stem: ቀረ
+
+word: የአቃቤ
+?POS: noun, stem: የአቃብ
+
+word: ህግ
+
+word: ምስክሮች
+POS: noun, stem: ምስክር
+
+word: ተሰምተዋል
+POS: verb, root: <sm'>, citation: ተሰማ
+
+word: በፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: የመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ልደታ
+POS: noun, stem: ልደታ
+
+?word: ምድብ
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የአራዳ
+?POS: noun, stem: አራዳ
+
+word: ተረኛ
+POS: noun, stem: ተረኛ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ቀርበው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: በተጠርጣሪዎቹ
+POS: noun, stem: ተጠረጠረ
+
+word: በዝግ
+POS: noun, stem: ዝግ
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: እንዲመሰክሩለት
+POS: verb, root: <mskr>, citation: መሰከረ
+
+word: ያቀረባቸው
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ምስክሮች
+POS: noun, stem: ምስክር
+
+word: ቀርበው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ምስክርነታቸውን
+?POS: noun, stem: ምስክርነት
+
+word: ሰጥተዋል
+POS: verb, root: <sT*>, citation: ሰጠ
+
+?word: ምስክርነት
+
+word: የመስማት
+POS: noun, stem: ሰማ
+
+word: ሂደቱ
+POS: noun, stem: ሂደት
+
+word: የተጠናቀቀ
+POS: verb, root: <Tnqq>, citation: ተጠናቀቀ
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: የቀረበባቸው
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: የዋስ
+POS: noun, stem: ዋስ
+
+word: መብታቸው
+POS: noun, stem: መብት
+
+word: ተጠብቆ
+POS: verb, root: <Tbq>, citation: ተጠበቀ
+
+word: በውጭ
+POS: noun, stem: ውጭ
+
+word: ጉዳዩን
+POS: noun, stem: ጉዳይ
+
+word: እንዲከታተሉ
+POS: verb, root: <kt_l>, citation: ተከታተለ
+
+word: ጠይቀዋል
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: በበኩሉ
+?POS: noun, stem: በኩል
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: የሰው
+POS: noun, stem: ሰው
+
+word: ምስክርና
+POS: noun, stem: ምስክር
+
+word: የሰነድ
+POS: noun, stem: ሰነድ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: እንዳለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: በመግለፅ
+POS: noun, stem: ገለጸ
+
+word: የተጠረጠሩበት
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: ዋስትና
+POS: noun, stem: ዋስትና
+
+word: የማያሰጥ
+POS: verb, root: <sT*>, citation: አሰጠ
+
+word: ስልጣን
+?POS: noun, stem: ስልጣ
+
+word: ባለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: እስኪመሰርት
+POS: verb, root: <msrt>, citation: መሰረተ
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: በማረፊያ
+POS: noun, stem: አረፈ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ቆይተው
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: እንዲጠባበቁ
+POS: verb, root: <Tbq>, citation: ተጠባበቀ
+
+word: ጠይቋል
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: የቀዳሚ
+POS: noun, stem: ቀደመ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ምስክሮች
+POS: noun, stem: ምስክር
+
+word: ያሰማው
+POS: verb, root: <sm'>, citation: አሰማ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: ይጠፋብኛል
+POS: verb, root: <Tf'>, citation: ጠፋ
+
+word: ብሎ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ባሰባቸው
+POS: verb, root: <b's>, citation: ባሰ
+
+word: ምስክሮች
+POS: noun, stem: ምስክር
+
+word: እንደሆነም
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: ግራ
+POS: noun, stem: ግራ
+
+word: ቀኙን
+POS: noun, stem: ቀና
+
+word: ያደመጠው
+POS: verb, root: <dmT>, citation: አደመጠ
+
+word: ችሎቱ
+POS: noun, stem: ችሎት
+
+word: የተሰሙት
+POS: verb, root: <sm'>, citation: ተሰማ
+
+word: የቀዳሚ
+POS: noun, stem: ቀደመ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ምስክሮች
+POS: noun, stem: ምስክር
+
+word: ቃል
+POS: noun, stem: ቃል
+
+word: ከመቅረፀ
+?POS: noun, stem: መቅረጸ
+
+word: ድምፅ
+POS: noun, stem: ድምጽ
+
+?word: ኮምፒውተር
+
+word: ተገልብጦ
+POS: verb, root: <glbT>, citation: ተገለበጠ
+
+word: ከመዝገብ
+POS: noun, stem: ዘገበ
+
+word: እንዲያያዝ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: ትእዛዝ
+POS: noun, stem: ትእዛዝ
+
+word: ሰጥቷል
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የተጠረጠሩበት
+POS: verb, root: <TrTr>, citation: ተጠረጠረ
+
+word: ወንጀል
+POS: noun, stem: ወንጀል
+
+word: የሰው
+POS: noun, stem: ሰው
+
+word: ህይወት
+POS: noun, stem: ህይወት
+
+word: የጠፋበትና
+POS: verb, root: <Tf'>, citation: ጠፋ
+
+word: አመት
+
+word: የሚያስቀጣ
+POS: verb, root: <qT'>, citation: አስቀጣ
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: እስኪመሰረት
+POS: verb, root: <msrt>, citation: ተመሰረተ
+
+word: በማረፊያ
+POS: noun, stem: አረፈ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: እንዲቆዩ
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: አዟል
+POS: verb, root: <'zz>, citation: አዘዘ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: የምርመራ
+POS: noun, stem: ምርመራ
+
+word: መዝገብ
+POS: noun, stem: ዘገበ
+
+word: ግልባጭ
+POS: noun, stem: ግልባጭ
+
+word: በደረሰው
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: ክስ
+POS: noun, stem: ክስ
+
+word: እንዲመሰርትም
+POS: verb, root: <msrt>, citation: መሰረተ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በይኗል
+POS: verb, root: <by_n>, citation: በየነ
+

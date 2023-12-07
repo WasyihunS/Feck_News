@@ -1,0 +1,440 @@
+word: የለንደን
+?POS: noun, stem: ለንደን
+
+word: ማራቶን
+?POS: noun, stem: ማራቶ
+
+word: በቀነኒሳ
+?POS: noun, stem: ቀነኒሳ
+
+word: ኪፕቾጌ
+?POS: noun, stem: ኪፕቾግ
+
+word: ሊካሄድ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: የለንደን
+?POS: noun, stem: ለንደን
+
+word: ማራቶን
+?POS: noun, stem: ማራቶ
+
+word: በቀነኒሳ
+?POS: noun, stem: ቀነኒሳ
+
+word: በቀለ
+POS: verb, root: <bql>, citation: በቀለ
+
+word: በኬኒያዊው
+?POS: noun, stem: ኬኒያዊ
+
+?word: ኤሊውድ
+
+?word: ኪፕቾጊ
+
+?word: ኤሊት
+
+word: አትሌቶች
+?POS: noun, stem: አትሌት
+
+word: ፈጣኑ
+POS: noun, stem: ፈጣን
+
+word: የሚለይበት
+POS: verb, root: <ly_*>, citation: ተለየ
+
+word: እጅጉን
+?POS: noun, stem: እጅግ
+
+word: ተጠባቂ
+POS: noun, stem: ተጠበቀ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: እአአ
+?POS: noun, stem: አአ
+
+word: ጥቅምት
+POS: noun, stem: ጥቅምት
+
+word: ይደረጋል
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: የአለም
+POS: noun, stem: አለም
+
+?word: ክብረ
+
+word: ወሰን
+POS: verb, root: <ws_n>, citation: ወሰነ
+
+word: ዳግም
+POS: noun, stem: ዳግም
+
+word: ሊሻሻልበት
+POS: verb, root: <x'l>, citation: ተሻሻለ
+
+word: እንደሚችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ይጠበቃል
+POS: verb, root: <Tbq>, citation: ተጠበቀ
+
+word: ተብሏል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ሁለቱ
+POS: noun, stem: ሁለት
+
+word: አትሌቶች
+?POS: noun, stem: አትሌት
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: የማራቶን
+?POS: noun, stem: አራቶነ
+
+word: ክብረወሰንን
+?POS: noun, stem: ክብረወሰን
+
+word: ለማሻሻል
+POS: noun, stem: አሻሻለ
+
+word: የሚያደርጉት
+POS: verb, root: <drg>, citation: አደረገ
+
+word: አልህ
+POS: verb, root: <b'l>, citation: አለ
+
+word: አስጨራሽ
+POS: noun, stem: አስጨረሰ
+
+word: ፉክክር
+POS: noun, stem: ፉክክር
+
+word: እጅጉን
+?POS: noun, stem: እጅግ
+
+word: ተጠብቋል
+POS: verb, root: <Tbq>, citation: ተጠበቀ
+
+word: ኬንያዊው
+POS: noun, stem: ኬንያዊ
+
+?word: ኤሉድ
+
+word: ኪፕቾጌ
+?POS: noun, stem: ኪፕቾግ
+
+word: እኤአ
+?POS: noun, stem: ኤአ
+
+word: በርሊን
+?POS: noun, stem: በርሊ
+
+word: በማስመዝገብ
+POS: noun, stem: አስመዘገበ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: የአለም
+POS: noun, stem: አለም
+
+?word: ክብረ
+
+word: ወሰን
+POS: verb, root: <ws_n>, citation: ወሰነ
+
+?word: አስምግቦ
+
+word: እንደነበር
+POS: verb, root: <dnbr>, citation: ተደነበረ
+
+?word: ቀነኒሳ
+
+word: በቀለ
+POS: verb, root: <bql>, citation: በቀለ
+
+word: እዛው
+?POS: noun, stem: እዛ
+
+word: በርሊን
+?POS: noun, stem: በርሊ
+
+word: ማራቶን
+?POS: noun, stem: ማራቶ
+
+word: በመግባት
+POS: noun, stem: ገባ
+
+word: ለኪፕቾጌን
+?POS: noun, stem: ለኪፕቾግ
+
+word: ክብረወሰን
+?POS: noun, stem: ክብረወሰ
+
+word: ለሁለት
+POS: noun, stem: ሁለት
+
+?word: ሰከንድ
+
+word: ሳያሻሽል
+POS: verb, root: <x'l>, citation: አሻሻለ
+
+word: ቢቀርም
+POS: verb, root: <qr*>, citation: ቀረ
+
+word: ሁለትኛው
+?POS: noun, stem: ሁለትኛ
+
+word: ፈጣኑ
+POS: noun, stem: ፈጣን
+
+word: የማራቶን
+?POS: noun, stem: አራቶነ
+
+word: ባለቤት
+POS: noun, stem: ባለቤት
+
+word: የሶስት
+POS: noun, stem: ሶስት
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: የኦሎምፒክ
+?POS: noun, stem: ኦሎምፒክ
+
+word: ሻምፒዮኑ
+?POS: noun, stem: ሻምፒዮን
+
+?word: ቀነኒሳ
+
+word: በቀለ
+POS: verb, root: <bql>, citation: በቀለ
+
+word: በለንደን
+?POS: noun, stem: በለንደ
+
+word: ግማሽ
+POS: noun, stem: ግማሽ
+
+word: ማራቶን
+?POS: noun, stem: ማራቶ
+
+word: በማጠናቀቅ
+POS: noun, stem: አጠናቀቀ
+
+word: ቀደም
+
+word: ብሎ
+POS: verb, root: <b'l>, citation: አለ
+
+word: በሞ
+?POS: verb, root: <bmm>, citation: በመመ
+
+word: ፋራህ
+?POS: noun, stem: ፋራ
+
+word: ተይዞ
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: የነበረውን
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የቦታውን
+POS: noun, stem: ቦታ
+
+?word: ክብረ
+
+word: ወሰን
+POS: verb, root: <ws_n>, citation: ወሰነ
+
+word: ማሻሻሉ
+POS: noun, stem: አሻሻለ
+
+word: በሁለቱ
+POS: noun, stem: ሁለት
+
+word: ፈጣን
+POS: noun, stem: ፈጣን
+
+word: አትሌቶች
+?POS: noun, stem: አትሌት
+
+word: የሚደረገው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ተጠባቂው
+POS: noun, stem: ተጠበቀ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: ፈጣኑን
+POS: noun, stem: ፈጣን
+
+word: የሚለይበት
+POS: verb, root: <ly_*>, citation: ተለየ
+
+word: ከመሆኑ
+POS: noun, stem: ሆነ
+
+?word: ጎን
+
+word: ለጎን
+?POS: noun, stem: ጎን
+
+word: አሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: የተባሉ
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: የአለማች
+?POS: noun, stem: አለማች
+
+word: የስፖርት
+POS: noun, stem: ስፖርት
+
+?word: ስፖንሰር
+
+?word: ሺፕ
+
+word: ካምፖኒዎች
+?POS: noun, stem: ካምፖኒዋ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: በስፖንሰር
+?POS: noun, stem: ስፖንሰር
+
+?word: ሺፕነት
+
+word: የሚሳተፉበት
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: በውድድሩ
+POS: noun, stem: ውድድር
+
+word: አሸናፊ
+POS: noun, stem: አሸነፈ
+
+word: ለሆነው
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ዶላር
+?POS: verb, root: <dWlarr>, citation: ዶላረረ
+
+word: ለሽልማት
+POS: noun, stem: ሽልማት
+
+word: መዘጋጀቱም
+POS: noun, stem: ተዘጋጀ
+
+word: ተነግሯል
+POS: verb, root: <ngr>, citation: ተነገረ
+
+word: የለንደን
+?POS: noun, stem: ለንደን
+
+word: ማራቶን
+?POS: noun, stem: ማራቶ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: ባለፈው
+POS: verb, root: <'lf>, citation: አለፈ
+
+?word: ሚያዝያ
+
+word: ወር
+POS: noun, stem: ወር
+
+?word: ቀነ
+
+word: ቀጠሮ
+POS: noun, stem: ቀጠሮ
+
+word: ተይዞለት
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: የነበረ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: በኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: ተዛውሯል
+POS: verb, root: <zwr>, citation: ተዛወረ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ውድድር
+POS: noun, stem: ውድድር
+
+word: በተለምዶ
+?POS: noun, stem: ተለምዶ
+
+word: ሺህ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: የሚሳተፍ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: በወረርሺኙ
+?POS: noun, stem: ወረርሺኝ
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: ታዋቂ
+POS: noun, stem: ታወቀ
+
+word: አትሌቶች
+?POS: noun, stem: አትሌት
+
+word: እንደሚሳተፉ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: የለንደን
+?POS: noun, stem: ለንደን
+
+word: ማራቶን
+?POS: noun, stem: ማራቶ
+
+word: አዘጋጆች
+POS: noun, stem: አዘጋጀ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ዘገባው
+POS: noun, stem: ዘገባ
+
+word: የኢዜአ
+?POS: noun, stem: ኢዜአ
+

@@ -1,0 +1,322 @@
+word: አሀዳውያን
+?POS: noun, stem: አሀዳውያ
+
+word: የትግራይ
+POS: noun, stem: ትግራይ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: በህገመንግስቱ
+?POS: noun, stem: ህገመንግስት
+
+word: የተሰጡትን
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: ስልጣኖች
+?POS: noun, stem: ስልጣን
+
+word: አክብረው
+POS: verb, root: <kbr>, citation: አከበረ
+
+word: ይሄዳሉ
+POS: verb, root: <hyd>, citation: ሄደ
+
+word: እንደማያከብሩ
+POS: verb, root: <kbr>, citation: አከበረ
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: ክልሎች
+POS: noun, stem: ክልል
+
+word: የፈፀሙት
+POS: verb, root: <fS_m>, citation: ፈጸመ
+
+word: ድርጊት
+POS: noun, stem: ድርጊት
+
+word: የሚያውቀው
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: ክልሎች
+POS: noun, stem: ክልል
+
+word: የፈፀሙት
+POS: verb, root: <fS_m>, citation: ፈጸመ
+
+?word: ህገወጥነት
+
+word: በደብዳቤ
+POS: noun, stem: ደብዳቤ
+
+word: ትግራይ
+POS: noun, stem: ትግራይ
+
+word: ደብዳቤ
+POS: noun, stem: ደብዳቤ
+
+word: የላኩት
+POS: verb, root: <l'k>, citation: ላከ
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: ክልሎች
+POS: noun, stem: ክልል
+
+word: ወታደር
+POS: noun, stem: ወታደር
+
+word: አዝምተው
+POS: verb, root: <zmt>, citation: አዘመተ
+
+word: ያስወገዱዋቸው
+?POS: noun, stem: ያስወገዱ
+
+word: የክልል
+POS: noun, stem: ክልል
+
+word: መሪዎች
+POS: noun, stem: መራ
+
+word: አሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: የራሳቸው
+POS: noun, stem: ራስ
+
+word: ተላላኪዎች
+POS: noun, stem: ተላላከ
+
+word: በላያቸው
+POS: noun, stem: ላይ
+
+word: የሸሙባቸው
+?POS: noun, stem: ሸሙባቸ
+
+word: አሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ለምሳሌ
+POS: noun, stem: ምሳሌ
+
+word: የኦሮሚያና
+?POS: noun, stem: ኦሮሚያ
+
+word: የአማራ
+POS: noun, stem: አማራ
+
+word: ክልሎችን
+POS: noun, stem: ክልል
+
+word: መጥቀስ
+POS: noun, stem: ጠቀሰ
+
+word: ይቻላል
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: ትግራይ
+POS: noun, stem: ትግራይ
+
+word: ለመተግበር
+?POS: noun, stem: መተግበር
+
+word: እቅዳቸው
+POS: noun, stem: እቅድ
+
+word: ትግራይ
+POS: noun, stem: ትግራይ
+
+word: ከህገመንግስቱ
+?POS: noun, stem: ህገመንግስት
+
+word: ውጭ
+POS: noun, stem: ውጭ
+
+word: የሚደረገውን
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ድርጊት
+POS: noun, stem: ድርጊት
+
+word: አትቀበልም
+POS: verb, root: <qb_l>, citation: ተቀበለ
+
+word: በኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+?word: ህገመንግስት
+
+word: የተላላኪነት
+POS: noun, stem: ተላላኪነት
+
+word: አንቀፅ
+POS: noun, stem: አንቀጽ
+
+word: የለም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ተመስገን
+POS: verb, root: <msgn>, citation: ተመሰገነ
+
+word: ጥሩነህ
+?POS: noun, stem: ጥሩነ
+
+word: በተላላኪነት
+POS: noun, stem: ተላላኪነት
+
+word: በአማራ
+POS: noun, stem: አማራ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: የሚያስቀምጥ
+POS: verb, root: <qm_T>, citation: አስቀመጠ
+
+word: ህግ
+
+word: የለም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ብሄር
+POS: noun, stem: ብሄር
+
+word: ጠል
+POS: noun, stem: ጠል
+
+word: ክልሎች
+POS: noun, stem: ክልል
+
+?word: ሉአላዊ
+
+word: አይደሉም
+POS: copula, root: <ne>
+
+word: የሚሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ብሄሮች
+POS: noun, stem: ብሄር
+
+word: ብሄረሰቦችና
+POS: noun, stem: ብሄረሰብ
+
+word: ህዝቦችን
+POS: noun, stem: ህዝብ
+
+?word: ሉአላዊ
+
+word: ስልጣን
+?POS: noun, stem: ስልጣ
+
+word: የሚያጎናፅፈውን
+?POS: noun, stem: ሚያጎናጽፈው
+
+?word: ህገመንግስት
+
+word: ተቀዶ
+POS: verb, root: <qdd>, citation: ተቀደደ
+
+word: መጣል
+POS: noun, stem: ጣለ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: የሚያምኑ
+POS: verb, root: <'mn>, citation: አመነ
+
+word: አሀዳውያንን
+?POS: noun, stem: አሀዳውያን
+
+word: ህገመንግስቱ
+?POS: noun, stem: ህገመንግስት
+
+word: አያውቃቸውም
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: ህገመንግስቱ
+?POS: noun, stem: ህገመንግስት
+
+word: ሺመልስ
+?POS: noun, stem: ሺመል
+
+word: አብዲሳን
+?POS: noun, stem: አብዲሳ
+
+word: አያውቀውም
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: ተላላኪነትን
+POS: noun, stem: ተላላኪነት
+
+word: የሚመለከት
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: አንቀፅ
+POS: noun, stem: አንቀጽ
+
+word: ስለሌለው
+POS: verb, root: <al_e>, citation: አለ
+
+word: የሙስጠፌ
+?POS: noun, stem: የሙስጠፍ
+
+word: በህገመንግስቱ
+?POS: noun, stem: ህገመንግስት
+
+word: የለም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ሙስጠፌ
+?POS: noun, stem: ሙስጠፍ
+
+word: ተላላኪ
+POS: noun, stem: ተላላከ
+
+word: እነዚህ
+POS: noun, stem: ይህ
+
+word: ግለሰቦች
+POS: noun, stem: ግለሰብ
+
+word: ያሉት
+POS: verb, root: <b'l>, citation: አለ
+
+word: በአብይ
+?POS: noun, stem: አብይ
+
+?word: አህመድ
+
+word: የግል
+POS: noun, stem: ግል
+
+word: የማስታወሻ
+POS: noun, stem: አስታወሰ
+
+word: ደብተር
+POS: noun, stem: ደብተር
+
+word: የአብይ
+?POS: noun, stem: አብይ
+
+word: ማስታወሻ
+POS: noun, stem: አስታወሰ
+
+?word: ህገመንግስት
+
+word: የትግራይ
+POS: noun, stem: ትግራይ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+

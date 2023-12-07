@@ -1,0 +1,787 @@
+word: የብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ቡድን
+POS: noun, stem: ቡድን
+
+word: የአፈናና
+POS: noun, stem: አፈና
+
+word: ህዝብን
+POS: noun, stem: ህዝብ
+
+word: የማዋከብ
+POS: noun, stem: አዋከበ
+
+word: ድራማ
+POS: noun, stem: ድራማ
+
+word: በአስቸኳይ
+POS: noun, stem: አስቸኳይ
+
+word: ይቁም
+POS: verb, root: <qwm>, citation: ቆመ
+
+?word: ህገመንግስታዊ
+
+?word: ፌዴራላዊ
+
+word: ስርአቱን
+POS: noun, stem: ስርአት
+
+word: የመናድ
+POS: noun, stem: ናደ
+
+word: ሂደቱን
+POS: noun, stem: ሂደት
+
+word: በማጠናቀቅ
+POS: noun, stem: አጠናቀቀ
+
+word: የሚገኘው
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የአቢይ
+?POS: noun, stem: አቢይ
+
+?word: አህመድ
+
+?word: አሀዳዊ
+
+?word: አምባገነናዊ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ከቅርብ
+POS: noun, stem: ቅርብ
+
+?word: ሳምንታት
+
+word: ወዲህ
+?POS: noun, stem: ወዲ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ያሸጋገረውን
+POS: verb, root: <xagr>, citation: አሸጋገረ
+
+word: የመብት
+POS: noun, stem: መብት
+
+word: ጥሰትና
+?POS: noun, stem: ጥሰት
+
+word: የአፈና
+POS: noun, stem: አፈና
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: ቀጥሎበታል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: የአርቲስት
+?POS: noun, stem: አርቲስት
+
+word: ሀጫሉን
+?POS: noun, stem: ሀጫል
+
+word: የተቀናበረ
+POS: verb, root: <qnbr>, citation: ተቀናበረ
+
+word: የነፍስ
+POS: noun, stem: ነፍስ
+
+word: ግድያ
+POS: noun, stem: ግድያ
+
+word: ተከትሎ
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: የአቢይ
+?POS: noun, stem: አቢይ
+
+?word: አህመድ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ለአሀዳዊ
+?POS: noun, stem: አሀዳዊ
+
+?word: አምባገነናዊ
+
+word: ፕሮጀክቱ
+?POS: noun, stem: ፕሮጀክት
+
+word: እንቅፋት
+POS: noun, stem: እንቅፋት
+
+word: ይሆናሉ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ያላቸውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ህዝቦች
+POS: noun, stem: ህዝብ
+
+word: የማፈን
+POS: noun, stem: አፈነ
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+word: ፓርቲዎችንና
+POS: noun, stem: ፓርቲ
+
+word: መሪዎቻቸውን
+POS: noun, stem: መራ
+
+word: የማሰርና
+POS: noun, stem: አሰረ
+
+word: የማዋከብ
+POS: noun, stem: አዋከበ
+
+word: የመገናኛ
+?POS: noun, stem: መገናኛ
+
+word: ብዙሀን
+?POS: noun, stem: ብዙሀ
+
+word: አውታሮችን
+POS: noun, stem: አውታር
+
+word: የመዝጋትና
+POS: noun, stem: ዘጋ
+
+word: አጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+word: ህዝቡን
+POS: noun, stem: ህዝብ
+
+word: የማሸበር
+POS: noun, stem: አሸበረ
+
+word: ተግባሩን
+POS: noun, stem: ተግባር
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: ቀጥሎበታል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ሰላም
+POS: noun, stem: ሰላም
+
+?word: ህገመንግስት
+
+?word: ሰብአዊ
+
+word: መብት
+POS: noun, stem: መብት
+
+word: በአጠቃላይ
+POS: noun, stem: አጠቃላይ
+
+?word: ዴሞክራሲያዊ
+
+word: አካሄድ
+POS: noun, stem: ሄደ
+
+word: ከመታረም
+POS: noun, stem: ታረመ
+
+word: ይልቅ
+
+word: የጀመረውን
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+?word: መንግስታዊ
+
+word: የሽብር
+POS: noun, stem: ሽብር
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: እንደሚገፋበት
+POS: verb, root: <gf'>, citation: ገፋ
+
+word: በቅርቡ
+POS: noun, stem: ቅርብ
+
+word: በብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: አስፈፃሚ
+POS: noun, stem: አስፈጸመ
+
+word: ስም
+POS: noun, stem: ስም
+
+word: ባወጣው
+POS: verb, root: <wT'>, citation: አወጣ
+
+word: መግለጫ
+POS: noun, stem: ገለጸ
+
+word: ያደረገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: የአቢይ
+?POS: noun, stem: አቢይ
+
+?word: አህመድ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: ሰላማዊና
+?POS: noun, stem: ሰላማዊ
+
+?word: ህጋዊ
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+word: ትግል
+POS: noun, stem: ትግል
+
+word: ሙሉ
+POS: noun, stem: ሙሉ
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: ዝግ
+POS: noun, stem: ዝግ
+
+word: ያስችላሉ
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: ያላቸውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: እርምጃዎች
+POS: noun, stem: እርምጃ
+
+word: በመውሰድ
+POS: noun, stem: ወሰደ
+
+word: ይገኛል
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የአርቲስት
+?POS: noun, stem: አርቲስት
+
+word: ሀጫሉን
+?POS: noun, stem: ሀጫል
+
+word: ሞት
+POS: noun, stem: ሞት
+
+word: ተከትሎም
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: ያለምንም
+POS: noun, stem: አለም
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: ለእስርና
+POS: noun, stem: እስር
+
+word: ለመሰወር
+POS: noun, stem: ተሰወረ
+
+word: ከዳረጋቸው
+POS: verb, root: <darg>, citation: ዳረገ
+
+word: ዜጎችና
+POS: noun, stem: ዜጋ
+
+word: የፖለቲካ
+?POS: noun, stem: ፖለቲካ
+
+word: መሪዎች
+POS: noun, stem: መራ
+
+word: በተጨማሪ
+
+word: በአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባም
+POS: noun, stem: አበባ
+
+word: በሌሎች
+POS: noun, stem: ሌላ
+
+word: የሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: ክልሎች
+POS: noun, stem: ክልል
+
+word: በህጋዊ
+?POS: noun, stem: ህጋዊ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: ተሰማርተው
+?POS: noun, stem: ተሰማርተ
+
+word: የነበሩ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የትግራይ
+POS: noun, stem: ትግራይ
+
+word: ተወላጆችና
+POS: noun, stem: ተወለደ
+
+word: የአዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+?word: ህወሀት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+?word: ተወልደ
+
+word: ገብረፃድቃንና
+?POS: noun, stem: ገብረጻድቃን
+
+word: ተስፋአለም
+?POS: noun, stem: ተስፋአለ
+
+word: ይህደጎን
+?POS: noun, stem: ይህደጎ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: በርከት
+?POS: noun, stem: ርከት
+
+word: የድርጅታችንን
+POS: noun, stem: ድርጅት
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: የአቢይ
+?POS: noun, stem: አቢይ
+
+word: አህመድን
+?POS: noun, stem: አህመድ
+
+word: የአፈና
+POS: noun, stem: አፈና
+
+word: ድራማ
+POS: noun, stem: ድራማ
+
+word: ለማድመቅ
+POS: noun, stem: አደመቀ
+
+word: ሲባል
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: ታፍነው
+POS: verb, root: <'f_n>, citation: አፈነ
+
+word: መወሰዳቸው
+POS: noun, stem: ተወሰደ
+
+word: ይታወቃል
+POS: verb, root: <'wq>, citation: ታወቀ
+
+word: ይህንን
+POS: noun, stem: ይህ
+
+word: ሰፊ
+POS: noun, stem: ሰፋ
+
+word: የአፈና
+POS: noun, stem: አፈና
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: በአስቸኳይ
+POS: noun, stem: አስቸኳይ
+
+word: ከማረም
+POS: noun, stem: አረመ
+
+word: ይልቅ
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: እንደሚቀጥልበትና
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: እንደሌሎች
+POS: noun, stem: ሌላ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: አካባቢዎች
+POS: noun, stem: አካባቢ
+
+word: በትግራይም
+POS: noun, stem: ትግራይ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ትርምስ
+POS: noun, stem: ትርምስ
+
+word: እንዲፈጠር
+POS: verb, root: <fTr>, citation: ተፈጠረ
+
+word: አበክሮ
+?POS: verb, root: <bgkr>, citation: አበገከረ
+
+word: እንደሚሰራ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ከጥቂት
+POS: noun, stem: ጥቂት
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: በብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: አስፈፃሚ
+POS: noun, stem: አስፈጸመ
+
+word: ስም
+POS: noun, stem: ስም
+
+word: ባወጣው
+POS: verb, root: <wT'>, citation: አወጣ
+
+word: መግለጫ
+POS: noun, stem: ገለጸ
+
+word: ይፋ
+POS: noun, stem: ይፋ
+
+word: አድርጓል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: የአቢይ
+?POS: noun, stem: አቢይ
+
+?word: አህመድ
+
+word: አምባገነን
+POS: noun, stem: አምባገነን
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የቱንም
+POS: noun, stem: የት
+
+word: ያክል
+POS: verb, root: <'k_l>, citation: አከለ
+
+word: የአፈና
+POS: noun, stem: አፈና
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: መውሰዱን
+POS: noun, stem: ወሰደ
+
+word: ቢቀጥል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ውድቀቱን
+POS: noun, stem: ውድቀት
+
+word: ከማፈጣን
+?POS: noun, stem: ማፈጣን
+
+word: በዘለለ
+POS: verb, root: <zll>, citation: ዘለለ
+
+word: ህወሀትንም
+?POS: noun, stem: ህወሀት
+
+word: የትግራይ
+POS: noun, stem: ትግራይ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: መላውን
+POS: noun, stem: መላ
+
+word: የኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህዝቦች
+POS: noun, stem: ህዝብ
+
+word: ማንበርከክ
+POS: noun, stem: አንበረከከ
+
+word: እንደማይቻለው
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: ሊገነዘበው
+POS: verb, root: <gnzb>, citation: ተገነዘበ
+
+?word: ህወሀት
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: የአቢይ
+?POS: noun, stem: አቢይ
+
+?word: አህመድ
+
+word: መንግስት
+POS: noun, stem: መንግስት
+
+word: የጀመረውን
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: የአፈና
+POS: noun, stem: አፈና
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: በአስጀኳይ
+?POS: noun, stem: በአስጀክዋይ
+
+word: እንዲያቆም
+POS: verb, root: <qwm>, citation: አቆመ
+
+word: የተዘጉ
+POS: verb, root: <zg'>, citation: ተዘጋ
+
+word: ሚዲያዎችና
+?POS: noun, stem: ሚዲያ
+
+word: የኢንተርኔት
+?POS: noun, stem: ኢንተርኔት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: እንዲከፈቱ
+POS: verb, root: <kft>, citation: ተከፈተ
+
+?word: አላግባብ
+
+word: የታሰሩ
+POS: verb, root: <'sr>, citation: ታሰረ
+
+word: ፖለቲከኞች
+?POS: noun, stem: ፖለቲከኛ
+
+word: በአስቸኳይ
+POS: noun, stem: አስቸኳይ
+
+word: እንዲፈቱና
+POS: verb, root: <ft'>, citation: ፈታ
+
+word: የተጀመረውን
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: የማፈራረስ
+POS: noun, stem: አፈራረሰ
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: ለማስቆም
+POS: noun, stem: አስቆመ
+
+word: እንዲቻል
+POS: verb, root: <c'l>, citation: ተቻለ
+
+word: ሁሉን
+POS: noun, stem: ሁሉ
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+?word: ሀገራዊ
+
+word: መድረክ
+POS: noun, stem: መድረክ
+
+word: እንዲደረግ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: አበክሮ
+?POS: verb, root: <bgkr>, citation: አበገከረ
+
+word: ለማሳሰብ
+POS: noun, stem: አሳሰበ
+
+word: ይወዳል
+POS: verb, root: <wdd>, citation: ወደደ
+
+word: ሳይሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ቀርቶ
+POS: verb, root: <qr*>, citation: ቀረ
+
+word: ለሚፈጠራው
+?POS: noun, stem: ለሚፈጠራ
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: ብቸኛው
+POS: noun, stem: ብቸኛ
+
+word: ተጠያቂ
+POS: noun, stem: ተጠየቀ
+
+word: የብልፅግና
+POS: noun, stem: ብልጽግና
+
+word: ቡድንና
+POS: noun, stem: ቡድን
+
+word: ራሱ
+POS: noun, stem: ራስ
+
+?word: አቢይ
+
+?word: አህመድ
+
+word: መሆናቸው
+POS: noun, stem: ሆነ
+
+word: ሊሰመርበት
+POS: verb, root: <smr>, citation: ተሰመረ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: አጋጣሚ
+POS: noun, stem: አጋጠመ
+
+word: በሁሉም
+POS: noun, stem: ሁሉ
+
+word: የሀገራችን
+POS: noun, stem: ሀገር
+
+word: አካባቢዎች
+POS: noun, stem: አካባቢ
+
+word: የብልፅግናን
+POS: noun, stem: ብልጽግና
+
+word: አፈና
+POS: noun, stem: አፈና
+
+word: በመቃወም
+POS: noun, stem: ተቃወመ
+
+word: ከሚያደርጋቸው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ህጋዊና
+?POS: noun, stem: ህጋዊ
+
+?word: ሰላማዊ
+
+word: እንቅስቃሴዎች
+POS: noun, stem: እንቅስቃሴ
+
+?word: ጎን
+
+word: ህወሀትንና
+?POS: noun, stem: ህወሀት
+
+word: የትግራይ
+POS: noun, stem: ትግራይ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: ከመቸውም
+?POS: noun, stem: መቸውም
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: በበለጠ
+POS: verb, root: <blT>, citation: በለጠ
+
+word: ፅናት
+POS: verb, root: <Sn'>, citation: ጸና
+
+word: እንደሚቆሙ
+POS: verb, root: <qwm>, citation: ቆመ
+
+?word: ህወሀት
+
+word: ለማረጋገጥ
+POS: noun, stem: አረጋገጠ
+
+word: ይወዳል
+POS: verb, root: <wdd>, citation: ወደደ
+
+word: የህወሀት
+?POS: noun, stem: ህወሀት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ሀምሌ
+POS: noun, stem: ሀምሌ
+

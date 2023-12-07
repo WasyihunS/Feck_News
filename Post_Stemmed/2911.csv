@@ -1,0 +1,896 @@
+word: ጃዋርን
+?POS: noun, stem: ጃዋር
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: ስምንት
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: የቅድመ
+?POS: noun, stem: ቅድመ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ምስክር
+POS: noun, stem: ምስክር
+
+word: መሰማት
+POS: noun, stem: ተሰማ
+
+word: ጀመረ
+POS: verb, root: <jm_r>, citation: ጀመረ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: በፌደራል
+?POS: noun, stem: ፌደራል
+
+word: የመጀመሪያ
+POS: noun, stem: ጀመረ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: አራዳ
+POS: verb, root: <rd'>, citation: አራዳ
+
+word: ተረኛ
+POS: noun, stem: ተረኛ
+
+word: ችሎት
+POS: verb, root: <c'l>, citation: ቻለ
+
+?word: ጃዋር
+
+word: መሀመድን
+?POS: noun, stem: መሀመድ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: በስምንት
+POS: noun, stem: ስምንት
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: የቅድመ
+?POS: noun, stem: ቅድመ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ምስክር
+POS: noun, stem: ምስክር
+
+word: መሰማት
+POS: noun, stem: ተሰማ
+
+word: ተጀምሯል
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: ችሎቱ
+POS: noun, stem: ችሎት
+
+word: ባለፈው
+POS: verb, root: <'lf>, citation: አለፈ
+
+word: ቀጠሮ
+POS: noun, stem: ቀጠሮ
+
+word: የኮሮና
+?POS: noun, stem: የኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ለተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: እንዲደረግ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ሰጥቶ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: ትእዛዝ
+POS: noun, stem: ትእዛዝ
+
+word: መፈፀሙን
+POS: noun, stem: ፈጸመ
+
+word: ተመልክቷል
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: በሙሉ
+POS: noun, stem: ሙሉ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: እንደተደረገላቸው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: የሚገልፅ
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: የፌዴራል
+POS: noun, stem: ፌዴራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ከኢትዮጵያ
+POS: noun, stem: ኢትዮጵያ
+
+word: ህብረተሰብ
+POS: noun, stem: ህብረተሰብ
+
+word: ጤና
+POS: noun, stem: ጤና
+
+?word: ኢንስቲትዩት
+
+word: በፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+word: አቅርቧል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: በፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ለተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: መመርመር
+POS: noun, stem: መረመረ
+
+word: አለመመርመራቸውን
+POS: noun, stem: መረመረ
+
+word: ላቀረበላቸው
+POS: verb, root: <qrb>, citation: አቀረበ
+
+?word: ማረጋጋጫ
+
+word: ጥያቄም
+POS: noun, stem: ጥያቄ
+
+word: መመርመራቸውን
+POS: noun, stem: መረመረ
+
+word: አረጋግጠዋል
+POS: verb, root: <rgT>, citation: አረጋገጠ
+
+word: ችሎቱ
+POS: noun, stem: ችሎት
+
+word: ምስክሮችን
+POS: noun, stem: ምስክር
+
+word: መስማት
+POS: noun, stem: ሰማ
+
+word: ከመጀመሩ
+POS: noun, stem: ጀመረ
+
+word: የፌደራል
+?POS: noun, stem: ፌደራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+?word: ጃዋር
+
+?word: መሀመድ
+
+word: በቀለ
+POS: verb, root: <bql>, citation: በቀለ
+
+word: ገርባ
+?POS: verb, root: <grb>, citation: ገረበ
+
+?word: ሀምዛ
+
+word: ቦረና
+?POS: noun, stem: ቦረ
+
+?word: ሀምዛ
+
+word: አዳነ
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: ሸምሰዲን
+?POS: noun, stem: ሸምሰዲ
+
+?word: ጣሀ
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ተደርጎላቸው
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ነፃ
+POS: noun, stem: ነጻ
+
+word: መሆናቸውን
+POS: noun, stem: ሆነ
+
+word: የሚያሳይ
+POS: verb, root: <'y*>, citation: አሳየ
+
+word: የህክምና
+POS: noun, stem: ህክምና
+
+word: ማስረጃ
+POS: noun, stem: አስረዳ
+
+word: ያቀረበ
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ችሎቱም
+POS: noun, stem: ችሎት
+
+word: ይህን
+POS: noun, stem: ይህ
+
+word: ይፋ
+POS: noun, stem: ይፋ
+
+word: አድርጓል
+POS: verb, root: <drg>, citation: አደረገ
+
+?word: ጃዋር
+
+word: ከደህንነታቸው
+POS: noun, stem: ደህንነት
+
+word: አንፃር
+POS: noun, stem: አንጻር
+
+word: ባላቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ከግል
+POS: noun, stem: ግል
+
+word: ሀኪማቸው
+POS: noun, stem: ሀኪም
+
+word: ሊገናኙ
+POS: verb, root: <gN*>, citation: ተገናኘ
+
+word: አለመቻላቸውን
+POS: noun, stem: ቻለ
+
+word: አቤቱታ
+POS: noun, stem: አቤቱታ
+
+word: አቅርበዋል
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: ከህክምና
+POS: noun, stem: ህክምና
+
+word: በተገናኘ
+POS: verb, root: <gN*>, citation: ተገናኘ
+
+?word: ጃዋር
+
+word: ከግል
+POS: noun, stem: ግል
+
+word: ሀኪማቸው
+POS: noun, stem: ሀኪም
+
+word: በስተቀር
+?POS: noun, stem: ስተቀር
+
+word: በመንግስት
+POS: noun, stem: መንግስት
+
+?word: ሆስፒታል
+
+word: እንዲታከሙ
+POS: verb, root: <'k_m>, citation: ታከመ
+
+word: ቢጠየቁ
+POS: verb, root: <Ty_q>, citation: ተጠየቀ
+
+word: ፈቃደኛ
+POS: noun, stem: ፈቃደኛ
+
+word: አለመሆናቸውን
+POS: noun, stem: ሆነ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: አስረድቷል
+POS: verb, root: <rd'>, citation: አስረዳ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግም
+POS: noun, stem: ህግ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: የሰጠ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ህመማቸው
+POS: noun, stem: ህመም
+
+word: አጣዳፊ
+POS: noun, stem: አጣደፈ
+
+word: በግል
+POS: noun, stem: ግል
+
+word: ሀኪማቸው
+POS: noun, stem: ሀኪም
+
+word: እንዲታዩ
+POS: verb, root: <'y*>, citation: ታየ
+
+word: ቢባልም
+POS: verb, root: <b'l>, citation: ተባለ
+
+word: የግል
+POS: noun, stem: ግል
+
+word: ሀኪማቸውን
+POS: noun, stem: ሀኪም
+
+word: ስልክ
+POS: noun, stem: ስልክ
+
+word: አላውቅም
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: የሚል
+POS: verb, root: <b'l>, citation: አለ
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: መስጠታቸውን
+POS: noun, stem: ሰጠ
+
+word: አብራርቷል
+POS: verb, root: <br'>, citation: አበራራ
+
+word: አለም
+POS: noun, stem: አለም
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: መርህ
+POS: noun, stem: መርህ
+
+word: ለታሳሪ
+POS: noun, stem: ታሰረ
+
+word: ህክምና
+POS: noun, stem: ህክምና
+
+word: ማሟላት
+POS: noun, stem: አሟላ
+
+word: ያስፈልጋል
+POS: verb, root: <fl_g>, citation: አስፈለገ
+
+word: ያለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: በግል
+POS: noun, stem: ግል
+
+word: ሀኪሜ
+POS: noun, stem: ሀኪም
+
+word: ማለታቸው
+POS: noun, stem: አለ
+
+word: አግባብ
+POS: noun, stem: ገባ
+
+word: የለውም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: የፌደራል
+?POS: noun, stem: ፌደራል
+
+word: ፖሊስም
+POS: noun, stem: ፖሊስ
+
+word: በፖሊስ
+POS: noun, stem: ፖሊስ
+
+?word: ሪፈራል
+
+?word: ሆስፒታል
+
+word: መታከም
+POS: noun, stem: ታከመ
+
+word: እንደሚችሉ
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ጠቅሷል
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: በቀለ
+POS: verb, root: <bql>, citation: በቀለ
+
+word: ገርባ
+?POS: verb, root: <grb>, citation: ገረበ
+
+word: ከሁለት
+POS: noun, stem: ሁለት
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: በሆስፒታሉ
+?POS: noun, stem: ሆስፒታል
+
+word: ታይተዋል
+POS: verb, root: <'y*>, citation: ታየ
+
+word: ጤንነታቸው
+?POS: noun, stem: ጤንነት
+
+word: በመልካም
+POS: noun, stem: መልካም
+
+word: ይገኛል
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: ሰጥቷል
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ለአቶ
+POS: noun, stem: አቶ
+
+word: በቀለ
+POS: verb, root: <bql>, citation: በቀለ
+
+word: ገርባ
+?POS: verb, root: <grb>, citation: ገረበ
+
+?word: ሀምዛ
+
+word: አዳነ
+POS: verb, root: <d'n>, citation: አዳነ
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: ከጠበቆቻቸው
+POS: noun, stem: ጠበቃ
+
+word: የሚገናኙበት
+POS: verb, root: <gN*>, citation: ተገናኘ
+
+word: የፌደራል
+?POS: noun, stem: ፌደራል
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ምርመራ
+POS: noun, stem: ምርመራ
+
+word: ቢሮ
+POS: noun, stem: ቢሮ
+
+word: ክፍል
+POS: noun, stem: ክፍል
+
+word: ካሜራ
+POS: noun, stem: ካሜራ
+
+word: በመኖሩ
+POS: noun, stem: ኖረ
+
+word: ከጠበቆቻቸው
+POS: noun, stem: ጠበቃ
+
+word: መገናኘት
+?POS: noun, stem: ተገናኘተ
+
+word: አለመቻላቸውን
+POS: noun, stem: ቻለ
+
+word: በመጥቀስ
+POS: noun, stem: ጠቀሰ
+
+word: ባቀረቡት
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: አቤቱታ
+POS: noun, stem: አቤቱታ
+
+word: ምላሽ
+POS: noun, stem: ምላሽ
+
+word: የሰጠው
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ፖሊስ
+POS: noun, stem: ፖሊስ
+
+word: ካሜራው
+POS: noun, stem: ካሜራ
+
+word: የተቀመጠው
+POS: verb, root: <qm_T>, citation: ተቀመጠ
+
+word: ግቢው
+POS: verb, root: <gb'>, citation: ገባ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: በተለይም
+POS: noun, stem: ተለየ
+
+word: በቤተመፅሀፍት
+?POS: noun, stem: ቤተመጽሀፍት
+
+word: ክፍል
+POS: noun, stem: ክፍል
+
+word: ውድ
+POS: noun, stem: ውድ
+
+?word: መፃህፍት
+
+word: በመገኘታቸው
+POS: noun, stem: ተገኘ
+
+word: ጠቅሶ
+POS: verb, root: <Tqs>, citation: ጠቀሰ
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: ከጠበቆቻቸው
+POS: noun, stem: ጠበቃ
+
+word: የሚገናኙበት
+POS: verb, root: <gN*>, citation: ተገናኘ
+
+word: ክፍል
+POS: noun, stem: ክፍል
+
+word: መመቻቸቱን
+POS: noun, stem: ተመቻቸ
+
+word: ገልጿል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: ግራ
+POS: noun, stem: ግራ
+
+word: ቀኙን
+POS: noun, stem: ቀና
+
+word: የተመለከተው
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: ችሎቱ
+POS: noun, stem: ችሎት
+
+word: በህገ
+?POS: noun, stem: ህገ
+
+word: መንግስቱ
+POS: noun, stem: መንግስት
+
+word: አንቀፅ
+POS: noun, stem: አንቀጽ
+
+word: መሰረት
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: መብታቸው
+POS: noun, stem: መብት
+
+word: ጤናቸው
+POS: verb, root: <Tyn>, citation: ጤነ
+
+word: መጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: እንዳለበት
+POS: verb, root: <b'l>, citation: አለ
+
+word: ብሎም
+POS: verb, root: <b'l>, citation: አለ
+
+word: ከግል
+POS: noun, stem: ግል
+
+word: ሀኪሞቻቸው
+POS: noun, stem: ሀኪም
+
+word: እንዲገናኙ
+POS: verb, root: <gN*>, citation: ተገናኘ
+
+word: ጥብቅ
+POS: noun, stem: ጥብቅ
+
+word: ትእዛዝ
+POS: noun, stem: ትእዛዝ
+
+word: ሰጥቷል
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ባሻገር
+?POS: noun, stem: አሻገር
+
+word: ችሎቱ
+POS: noun, stem: ችሎት
+
+word: ተጠርጣሪዎች
+POS: noun, stem: ተጠረጠረ
+
+word: ሚስጢራቸውን
+?POS: noun, stem: ሚስጢራቸ
+
+word: መጠበቅ
+POS: noun, stem: ጠበቀ
+
+word: በሚያስችል
+POS: verb, root: <c'l>, citation: አስቻለ
+
+word: መልኩ
+POS: noun, stem: መልክ
+
+word: ከጠበቆቻቸው
+POS: noun, stem: ጠበቃ
+
+word: እንዲገናኙ
+POS: verb, root: <gN*>, citation: ተገናኘ
+
+word: ያድርግ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: ትእዛዙ
+POS: noun, stem: ትእዛዝ
+
+word: የማይፈፀም
+POS: verb, root: <fS_m>, citation: ተፈጸመ
+
+word: በቀጣዩ
+POS: noun, stem: ቀጠለ
+
+word: ቀጠሮ
+POS: noun, stem: ቀጠሮ
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: እንደሚወስድ
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: ገልጿል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: ባቀረበው
+POS: verb, root: <qrb>, citation: አቀረበ
+
+word: አቤቱታ
+POS: noun, stem: አቤቱታ
+
+word: ማለትም
+POS: noun, stem: አለ
+
+word: በዛሬው
+POS: noun, stem: ዛሬ
+
+word: የምስክሮቼ
+POS: noun, stem: ምስክር
+
+word: ጭብጥ
+POS: noun, stem: ጭብጥ
+
+word: በፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ማህተም
+POS: noun, stem: ማህተም
+
+word: ወጥቶ
+POS: verb, root: <wT'>, citation: ወጣ
+
+word: በማህበራዊ
+?POS: noun, stem: ማህበራዊ
+
+?word: ሚዲያ
+
+word: መለቀቁን
+POS: noun, stem: ተለቀቀ
+
+word: ደርሼበታለው
+?POS: noun, stem: ደርሼበታለ
+
+word: በዚህ
+POS: noun, stem: ይህ
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+?word: አንዲወሰድ
+
+word: ትእዛዝ
+POS: noun, stem: ትእዛዝ
+
+word: ይሰጥልኝ
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: ብሏል
+POS: verb, root: <b'l>, citation: አለ
+
+word: ፍርድ
+POS: noun, stem: ፍርድ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: አቤቱታው
+POS: noun, stem: አቤቱታ
+
+word: ትእዛዝ
+POS: noun, stem: ትእዛዝ
+
+word: ለመስጠትና
+POS: noun, stem: ሰጠ
+
+word: የቀሪ
+POS: noun, stem: ቀረ
+
+word: ምስክሮችን
+POS: noun, stem: ምስክር
+
+word: ቃል
+POS: noun, stem: ቃል
+
+word: ለመስማት
+POS: noun, stem: ሰማ
+
+word: ለነሀሴ
+POS: noun, stem: ነሀሴ
+
+word: ቀን
+POS: noun, stem: ቀን
+
+word: ተለዋጭ
+POS: noun, stem: ተለወጠ
+
+word: ቀጠሮ
+POS: noun, stem: ቀጠሮ
+
+word: ሰጥቷል
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: በታሪክ
+POS: noun, stem: ታሪክ
+
+word: አዱኛ
+POS: noun, stem: አዱኛ
+
+word: የዜና
+POS: noun, stem: ዜና
+
+word: ሳይጠብቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: የፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+word: ኮርፖሬትን
+?POS: noun, stem: ኮርፖሬት
+
+word: ትኩስ
+?POS: noun, stem: ትክ
+
+?word: ሰበር
+
+word: ዜናዎችን
+POS: noun, stem: ዜና
+
+word: በፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: በአጭር
+POS: noun, stem: አጭር
+
+word: የፅሁፍ
+POS: noun, stem: ጽሁፍ
+
+?word: መልእክት
+
+word: መልክ
+POS: noun, stem: መልክ
+
+word: በስልክዎ
+POS: noun, stem: ስልክ
+
+word: እንዲደርስዎ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: ብለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ይላኩ
+POS: verb, root: <l'k>, citation: ላከ
+

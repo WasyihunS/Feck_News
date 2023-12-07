@@ -1,0 +1,966 @@
+word: ተቀጣጣይ
+POS: noun, stem: ተቀጣጠለ
+
+word: ፈንጆች
+POS: noun, stem: ፈነዳ
+
+word: አሞኒየም
+?POS: noun, stem: አሞኒየ
+
+word: ናይትሬትና
+?POS: noun, stem: ናይትሬት
+
+word: የኬሚካል
+?POS: noun, stem: ኬሚካል
+
+word: ክምችቶች
+POS: noun, stem: ክምችት
+
+word: በአጠቃቀምና
+?POS: noun, stem: አጠቃቀምና
+
+word: በአያያዝ
+POS: noun, stem: አያያዝ
+
+word: ጉድለት
+POS: noun, stem: ጉድለት
+
+word: ጉዳት
+POS: verb, root: <gWd'>, citation: ጐዳ
+
+word: እንዳያስከትሉ
+POS: verb, root: <kt_l>, citation: አስከተለ
+
+word: ከሚመለከታቸው
+POS: verb, root: <mlkt>, citation: ተመለከተ
+
+word: አካላት
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: ተካሄደ
+POS: verb, root: <hyd>, citation: ተካሄደ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+
+word: ነሀሴ
+POS: noun, stem: ነሀሴ
+
+?word: ኤፍ
+
+word: ፈንጂ
+POS: noun, stem: ፈነዳ
+
+word: ለልማት
+POS: noun, stem: ልማት
+
+word: አውታሮች
+POS: noun, stem: አውታር
+
+word: ግንባታም
+POS: noun, stem: ግንባታ
+
+word: ለማእድን
+POS: noun, stem: ማእድን
+
+word: ቁፋሮ
+POS: noun, stem: ቁፋሮ
+
+word: ያለውን
+POS: verb, root: <b'l>, citation: አለ
+
+word: ጠቀሜታ
+POS: noun, stem: ጠቀሜታ
+
+word: በአያያዝና
+POS: noun, stem: አያያዝ
+
+word: በአጠቃቀም
+?POS: noun, stem: በአጠቃቀ
+
+word: ጉድለት
+POS: noun, stem: ጉድለት
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: በሰው
+POS: noun, stem: ሰው
+
+word: ህይወትና
+POS: noun, stem: ህይወት
+
+word: በንብረት
+POS: noun, stem: ንብረት
+
+word: ሊያደርስ
+POS: verb, root: <drs>, citation: አደረሰ
+
+word: ከሚችለው
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ጉዳት
+POS: verb, root: <gWd'>, citation: ጐዳ
+
+word: አኳያ
+?POS: noun, stem: አክዋያ
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: ስጋት
+POS: noun, stem: ስጋት
+
+word: ሊሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: እንደሚችል
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: መረጃና
+POS: noun, stem: ተረዳ
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የሲቪል
+?POS: noun, stem: ሲቪል
+
+?word: ኢንዱስትሪያል
+
+word: ፈንጅና
+POS: noun, stem: ፈነዳ
+
+word: ተቀፅላ
+?POS: verb, root: <qSl>, citation: ተቀጸለ
+
+word: ተጠቃሚዎች
+POS: noun, stem: ተጠቀመ
+
+word: ውይይት
+POS: noun, stem: ውይይት
+
+word: አካሂዷል
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: መረጃና
+POS: noun, stem: ተረዳ
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ፈንጂን
+POS: noun, stem: ፈነዳ
+
+word: ለልማት
+POS: noun, stem: ልማት
+
+word: አውታሮች
+POS: noun, stem: አውታር
+
+word: ለማእድን
+POS: noun, stem: ማእድን
+
+word: ቁፋሮና
+POS: noun, stem: ቁፋሮ
+
+word: መሰል
+?POS: noun, stem: ሰሰለ
+
+word: የኮንስትራክሽን
+?POS: noun, stem: ኮንስትራክሽን
+
+word: ግንባታዎች
+POS: noun, stem: ግንባታ
+
+word: ለሚያውል
+POS: verb, root: <w'l>, citation: አዋለ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: ፈቃድ
+POS: noun, stem: ፈቃድ
+
+word: ከመስጠት
+POS: noun, stem: ሰጠ
+
+word: በተጨማሪም
+POS: noun, stem: ተጨማሪ
+
+word: ለታለመለት
+POS: verb, root: <'lm>, citation: ታለመ
+
+word: አላማ
+POS: noun, stem: አላማ
+
+word: መዋሉን
+POS: noun, stem: ዋለ
+
+word: የመቆጣጠር
+POS: noun, stem: ቈጣጠረ
+
+word: የመከታተልና
+POS: noun, stem: ተከታተለ
+
+?word: ሙያዊ
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: የመስጠት
+POS: noun, stem: ሰጠ
+
+?word: ህጋዊ
+
+word: ስልጣን
+?POS: noun, stem: ስልጣ
+
+word: ተሰጥቷል
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: እስከአሁንም
+POS: noun, stem: አሁን
+
+word: ለአገር
+POS: noun, stem: አገር
+
+word: በቀልና
+POS: noun, stem: በቀል
+
+word: ከውጭ
+POS: noun, stem: ውጭ
+
+word: አገር
+POS: noun, stem: አገር
+
+word: አገር
+POS: noun, stem: አገር
+
+word: ገብተው
+POS: verb, root: <gb'>, citation: ገባ
+
+?word: መእዋለ
+
+word: ንዋያቸውን
+POS: noun, stem: ንዋይ
+
+word: እየፈሰሱ
+POS: noun, stem: ፈሰስ
+
+word: ላሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ባለሀብቶችና
+POS: noun, stem: ባለሀብት
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: ፈቃድ
+POS: noun, stem: ፈቃድ
+
+word: መሰጥቱን
+?POS: noun, stem: መሰጥት
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: ተቀጣጣይ
+POS: noun, stem: ተቀጣጠለ
+
+word: ፈንጆች
+POS: noun, stem: ፈነዳ
+
+word: አሞኒየም
+?POS: noun, stem: አሞኒየ
+
+word: ናይትሬትና
+?POS: noun, stem: ናይትሬት
+
+word: የኬሚካል
+?POS: noun, stem: ኬሚካል
+
+word: ክምችቶች
+POS: noun, stem: ክምችት
+
+word: በአጠቃቀምና
+?POS: noun, stem: አጠቃቀምና
+
+word: በአያያዝ
+POS: noun, stem: አያያዝ
+
+word: ጉድለት
+POS: noun, stem: ጉድለት
+
+word: በቸልተኝነት
+?POS: noun, stem: ቸልተኝነት
+
+word: ምክንያት
+POS: noun, stem: ምክንያት
+
+word: በሰሜን
+POS: noun, stem: ሰሜን
+
+?word: ኮሪያ
+
+word: በቻይና
+POS: noun, stem: ቻለ
+
+word: በቅርቡ
+POS: noun, stem: ቅርብ
+
+word: በሊባኖስ
+?POS: noun, stem: ሊባኖ
+
+word: ቤይሩትና
+?POS: noun, stem: ቤይሩት
+
+word: በሌሎችም
+POS: noun, stem: ሌላ
+
+word: አገራት
+POS: verb, root: <gr'>, citation: አገራ
+
+word: በሰው
+POS: noun, stem: ሰው
+
+word: ህይወትና
+POS: noun, stem: ህይወት
+
+word: በንብረት
+POS: noun, stem: ንብረት
+
+word: ያደረሱትን
+POS: verb, root: <drs>, citation: አደረሰ
+
+word: ጉዳት
+POS: verb, root: <gWd'>, citation: ጐዳ
+
+word: መነሻ
+POS: noun, stem: ተነሳ
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: ስጋቱን
+POS: noun, stem: ስጋት
+
+word: አስቀድሞ
+POS: verb, root: <qdm>, citation: አስቀደመ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: በአገራችንም
+POS: noun, stem: አገር
+
+word: ፈቃዱን
+POS: noun, stem: ፈቃድ
+
+word: ወሰደው
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: ከሚንቀሳቀሱ
+POS: verb, root: <n|qsaqs>, citation: ተንቀሳቀሰ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: ከአጠቃቀም
+?POS: noun, stem: አጠቃቀም
+
+word: አያያዝና
+POS: noun, stem: ያዘ
+
+word: ተያያዥ
+POS: noun, stem: ተያያዘ
+
+word: ጉዳዮች
+POS: noun, stem: ጉዳይ
+
+word: በተገናኘ
+POS: verb, root: <gN*>, citation: ተገናኘ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: በተገኙበት
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የውይይት
+POS: noun, stem: ውይይት
+
+word: መድረክ
+POS: noun, stem: መድረክ
+
+word: አካሂዷል
+POS: verb, root: <hyd>, citation: አካሄደ
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: መረጃና
+POS: noun, stem: ተረዳ
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባን
+POS: noun, stem: አበባ
+
+word: ጨምሮ
+POS: verb, root: <Cm_r>, citation: ጨመረ
+
+word: በየክልሉ
+POS: noun, stem: ክልል
+
+word: ፈቃዱን
+POS: noun, stem: ፈቃድ
+
+word: ወሰደው
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: በሚንቀሳቀሱ
+POS: verb, root: <n|qsaqs>, citation: ተንቀሳቀሰ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: ባደረገው
+POS: verb, root: <drg>, citation: አደረገ
+
+word: የኦዲትና
+?POS: noun, stem: ኦዲት
+
+word: የኢንስፔክሽን
+?POS: noun, stem: የኢንስፔክ
+
+word: ስራዎች
+POS: noun, stem: ስራ
+
+word: ከትራንስፖርት
+?POS: noun, stem: ትራንስፖርት
+
+word: ከፍንዳታ
+POS: noun, stem: ፍንዳታ
+
+word: ከአያያዝ
+POS: noun, stem: አያያዝ
+
+word: ከግዢ
+?POS: noun, stem: ግዢ
+
+word: ከሽያጭና
+POS: noun, stem: ሽያጭ
+
+word: ከሌሎች
+POS: noun, stem: ሌላ
+
+word: ተጓዳኝ
+POS: verb, root: <gWd'>, citation: ተጓዳ
+
+word: እንቅስቃሴዎች
+POS: noun, stem: እንቅስቃሴ
+
+word: በተያያዘ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: ጉድለቶችና
+POS: noun, stem: ጉድለት
+
+word: ክፍተቶች
+POS: noun, stem: ክፍተት
+
+word: ማግኘቱን
+POS: noun, stem: አገኘ
+
+word: በመድረኩ
+POS: noun, stem: መድረክ
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: ከዚሁ
+POS: noun, stem: ይህ
+
+word: በተያያዘም
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: ከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: የታየባቸውን
+POS: verb, root: <'y*>, citation: ታየ
+
+word: የአራት
+POS: noun, stem: አራት
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: ፈቃድ
+POS: noun, stem: ፈቃድ
+
+word: መሰረዙን
+POS: noun, stem: ተሰረዘ
+
+word: ለፋና
+POS: noun, stem: ፋና
+
+?word: ብሮድካስቲንግ
+
+?word: ኮርፖሬት
+
+word: በላከው
+POS: verb, root: <l'k>, citation: ላከ
+
+word: መግለጫ
+POS: noun, stem: ገለጸ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: በዉይይት
+?POS: noun, stem: ዉይይት
+
+word: መድረኩ
+POS: noun, stem: መድረክ
+
+word: የተሳተፉ
+POS: verb, root: <satf>, citation: ተሳተፈ
+
+word: ፈንጂና
+POS: noun, stem: ፈነዳ
+
+word: ተቀፅላ
+?POS: verb, root: <qSl>, citation: ተቀጸለ
+
+word: ተጣቃሚ
+POS: noun, stem: ተጣቀመ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጀቶችም
+?POS: noun, stem: ድርጀቶች
+
+word: ከትራንስፖርት
+?POS: noun, stem: ትራንስፖርት
+
+word: ከአያያዝና
+POS: noun, stem: አያያዝ
+
+word: ከአጠቃቀም
+?POS: noun, stem: አጠቃቀም
+
+word: በተያያዘ
+POS: verb, root: <y'z>, citation: ተያያዘ
+
+word: በአንድ
+POS: noun, stem: አንድ
+
+word: አንድ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+?word: ቸልተኝነት
+
+word: መኖሩን
+POS: noun, stem: ኖረ
+
+word: አምነው
+POS: verb, root: <'mn>, citation: አመነ
+
+word: በሰው
+POS: noun, stem: ሰው
+
+word: ህይወትና
+POS: noun, stem: ህይወት
+
+word: በንብረት
+POS: noun, stem: ንብረት
+
+word: ሊደርስ
+POS: verb, root: <drs>, citation: ደረሰ
+
+word: የሚችለውን
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: ጉዳት
+POS: verb, root: <gWd'>, citation: ጐዳ
+
+word: ለማስቀረት
+POS: noun, stem: አስቀረ
+
+word: ከአገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በቅንጅት
+?POS: noun, stem: ቅንጅት
+
+word: እንደሚሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: አረጋግጠዋል
+POS: verb, root: <rgT>, citation: አረጋገጠ
+
+word: የጉዳዩን
+POS: noun, stem: ጉዳይ
+
+word: አሳሳቢነትና
+?POS: noun, stem: አሳሳቢነት
+
+word: ሊያስከትል
+POS: verb, root: <kt_l>, citation: አስከተለ
+
+word: የሚችለውን
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: አስቀድሞ
+POS: verb, root: <qdm>, citation: አስቀደመ
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የብሄራዊ
+?POS: noun, stem: ብሄራዊ
+
+word: መረጃና
+POS: noun, stem: ተረዳ
+
+word: ደህንነት
+POS: noun, stem: ደህንነት
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: ፈቃድ
+POS: noun, stem: ፈቃድ
+
+word: በወሰዱ
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: የሚያደርገውን
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ጥብቅ
+POS: noun, stem: ጥብቅ
+
+word: የኦዲትና
+?POS: noun, stem: ኦዲት
+
+word: የኢንስፔክሽን
+?POS: noun, stem: የኢንስፔክ
+
+word: ስራዎችን
+POS: noun, stem: ስራ
+
+word: አጠናክሮ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: ለመቀጠል
+POS: noun, stem: ቀጠለ
+
+word: በአዋጅ
+POS: noun, stem: አዋጅ
+
+word: የተሰጠውን
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: ስልጠና
+?POS: noun, stem: ስልጠ
+
+word: መሰረት
+
+word: በማድረግ
+POS: noun, stem: አደረገ
+
+word: አሰራሮችን
+POS: noun, stem: ሰራ
+
+word: ለማዘመን
+?POS: noun, stem: ለማዘመ
+
+word: መመሪያዎችን
+POS: noun, stem: መመሪያ
+
+word: የመከለስ
+POS: noun, stem: ተከለሰ
+
+word: ስራዎችን
+POS: noun, stem: ስራ
+
+word: እየሰራ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: አስታውቋል
+POS: verb, root: <'wq>, citation: አስታወቀ
+
+word: ክፍተቶችን
+POS: noun, stem: ክፍተት
+
+word: ለማረም
+POS: noun, stem: አረመ
+
+word: የሙያና
+POS: noun, stem: ሙያ
+
+word: የክህሎት
+?POS: noun, stem: ክህሎት
+
+word: ስልጠናዎችን
+?POS: noun, stem: ስልጠና
+
+word: ለፈንጅ
+POS: noun, stem: ፈነዳ
+
+word: ተጠቃሚዎች
+POS: noun, stem: ተጠቀመ
+
+word: መስጠት
+POS: noun, stem: ሰጠ
+
+word: እንደሚቀጥልና
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: የጉዳዩን
+POS: noun, stem: ጉዳይ
+
+?word: አሳሳቢነት
+
+word: ግምት
+POS: noun, stem: ግምት
+
+word: በማስገባት
+POS: noun, stem: አስገባ
+
+word: በመምሪያው
+POS: noun, stem: መራ
+
+word: መሰረት
+
+word: በማይሰሩ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: አስፈላጊውን
+POS: noun, stem: አስፈለገ
+
+?word: ህጋዊ
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: እንደሚወስድም
+POS: verb, root: <wsd>, citation: ወሰደ
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: በላከው
+POS: verb, root: <l'k>, citation: ላከ
+
+word: መግለጫ
+POS: noun, stem: ገለጸ
+
+word: አመልክቷል
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: የፈንጅና
+POS: noun, stem: ፈነዳ
+
+word: ተቀፅላ
+?POS: verb, root: <qSl>, citation: ተቀጸለ
+
+word: ተጠቃሚ
+POS: noun, stem: ተጠቀመ
+
+word: አካላትና
+POS: verb, root: <kl_l>, citation: አካለለ
+
+word: ድርጅቶች
+POS: noun, stem: ድርጅት
+
+word: ማከማቻወዎቻቸውን
+?POS: noun, stem: ማከማቻወዎቻቸው
+
+word: ከከተማ
+POS: noun, stem: ከተማ
+
+word: ውጭ
+POS: noun, stem: ውጭ
+
+word: ደረጃቸውን
+POS: verb, root: <drj*>, citation: ደረጀ
+
+word: የጠበቁ
+POS: verb, root: <Tb_q>, citation: ጠበቀ
+
+word: መጋዘኖችን
+POS: noun, stem: መጋዘን
+
+word: በመገንባት
+POS: noun, stem: ገነባ
+
+word: እንዲያዘዋውሩ
+POS: verb, root: <zw_r>, citation: አዘዋወረ
+
+word: የጥበቃ
+POS: noun, stem: ጥበቃ
+
+word: ስርአታቸውንም
+POS: noun, stem: ስርአት
+
+word: እንዲያጠናክሩ
+POS: verb, root: <Tnkr>, citation: አጠናከረ
+
+word: የፍንጅ
+?POS: noun, stem: ፍንጅ
+
+?word: ፍንዳት
+
+word: ሲያካሂዱም
+?POS: noun, stem: ሲያካሂዱ
+
+word: ተቋሙ
+POS: noun, stem: ተቋም
+
+word: ያስቀመጠውን
+POS: verb, root: <qm_T>, citation: አስቀመጠ
+
+word: መመሪያ
+POS: noun, stem: ተመራ
+
+word: ተከትለው
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: በሰዎችና
+POS: noun, stem: ሰው
+
+word: በንብረት
+POS: noun, stem: ንብረት
+
+word: አደጋ
+POS: noun, stem: አደጋ
+
+word: እንዳያስከትል
+POS: verb, root: <kt_l>, citation: አስከተለ
+
+word: ጥንቃቄ
+POS: noun, stem: ጥንቃቄ
+
+word: እንዲያደርጉም
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ጭምር
+POS: noun, stem: ጭምር
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: መስሪያ
+POS: noun, stem: ሰራ
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: አሳስቧል
+POS: verb, root: <s'b>, citation: አሳሳበ
+

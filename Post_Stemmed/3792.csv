@@ -1,0 +1,327 @@
+word: እሰከ
+?POS: noun, stem: ሰከ
+
+word: የእድሜ
+POS: noun, stem: እድሜ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: የኮቪድ
+?POS: noun, stem: ኮቪድ
+
+word: ወረርሺኝን
+?POS: noun, stem: ወረርሺኝ
+
+word: በስፋት
+POS: noun, stem: ስፋት
+
+word: እያሰራጩ
+POS: verb, root: <sraC*>, citation: አሰራጨ
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: ጤና
+POS: noun, stem: ጤና
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: እድሜያቸው
+POS: noun, stem: እድሜ
+
+word: ክልል
+POS: noun, stem: ክልል
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስን
+?POS: noun, stem: ቫይረስ
+
+word: በስፋት
+POS: noun, stem: ስፋት
+
+word: እያሰራጩ
+POS: verb, root: <sraC*>, citation: አሰራጨ
+
+word: ጠቁሟል
+POS: verb, root: <TqW_m>, citation: ጠቈመ
+
+word: አብዙዎቹ
+?POS: noun, stem: አብዙዎች
+
+word: በቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: መያዛቸውን
+POS: noun, stem: ያዘ
+
+word: የማያውቁ
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: በመሆናቸው
+POS: noun, stem: ሆነ
+
+word: በቀላሉ
+POS: noun, stem: ቀላል
+
+word: ብዙዎችን
+POS: noun, stem: ብዙ
+
+word: እየበከሉ
+POS: verb, root: <bk_l>, citation: በከለ
+
+?word: ተገልፃል
+
+word: የአለም
+POS: noun, stem: አለም
+
+word: ጤና
+POS: noun, stem: ጤና
+
+word: ድርጅት
+POS: noun, stem: ድርጅት
+
+word: የምእራባዊ
+?POS: noun, stem: ምእራባዊ
+
+?word: ፓስፊክ
+
+?word: ዳይሬክተር
+
+word: ታካሺ
+POS: verb, root: <ks'>, citation: አካሳ
+
+word: ካሲይ
+?POS: noun, stem: አሲይ
+
+word: በቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ስለመያዛቸው
+POS: noun, stem: ያዘ
+
+word: የማያውቁ
+POS: verb, root: <'wq>, citation: አወቀ
+
+word: እድሜያቸው
+POS: noun, stem: እድሜ
+
+word: ዎቹ
+?POS: noun, stem: ዎች
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ቫይረሱን
+?POS: noun, stem: ቫይረስ
+
+word: በቀላሉ
+POS: noun, stem: ቀላል
+
+word: እያሰራጩ
+POS: verb, root: <sraC*>, citation: አሰራጨ
+
+word: ይህም
+POS: noun, stem: ይህ
+
+word: በቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ተጋላጭ
+POS: noun, stem: ተጋለጸ
+
+word: በእድሜ
+POS: noun, stem: እድሜ
+
+word: ለገፉ
+POS: verb, root: <gf'>, citation: ገፋ
+
+word: ተጓዳኝ
+POS: verb, root: <gWd'>, citation: ተጓዳ
+
+word: በሽታ
+POS: noun, stem: በሽታ
+
+word: ላለባቸው
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሰፊ
+POS: noun, stem: ሰፋ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ሽፋን
+POS: noun, stem: ሽፋን
+
+word: አገልግሎት
+POS: noun, stem: አገልግሎት
+
+word: በሌለባቸው
+POS: verb, root: <al_e>, citation: አለ
+
+?word: ገጠራማ
+
+word: አካባቢዎች
+POS: noun, stem: አካባቢ
+
+word: ላሉ
+POS: verb, root: <b'l>, citation: አለ
+
+word: ሰዎች
+POS: noun, stem: ሰው
+
+word: ትልቅ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: ስጋት
+POS: noun, stem: ስጋት
+
+word: ፈጥሯል
+POS: verb, root: <fTr>, citation: ፈጠረ
+
+word: ዳይሬክተሩ
+?POS: noun, stem: ዳይሬክተር
+
+word: አክለውም
+POS: verb, root: <'k_l>, citation: አከለ
+
+word: ቫይረሱ
+?POS: noun, stem: ቫይረስ
+
+word: ተጋላጭ
+POS: noun, stem: ተጋለጸ
+
+word: ማህበረሰቦች
+?POS: noun, stem: ማህበረሰብ
+
+word: እንዳይዛባ
+POS: verb, root: <zb'>, citation: ተዛባ
+
+word: የጤና
+POS: noun, stem: ጤና
+
+word: ስርአቶችን
+POS: noun, stem: ስርአት
+
+word: በማሻሻል
+POS: noun, stem: አሻሻለ
+
+word: መስራት
+POS: noun, stem: ሰራ
+
+word: በአለም
+POS: noun, stem: አለም
+
+word: አቀፍ
+POS: verb, root: <qff>, citation: አቀፈፈ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ሰዎችን
+POS: noun, stem: ሰው
+
+word: ተጠቂ
+POS: noun, stem: ተጠቃ
+
+word: ያረገው
+POS: verb, root: <'rg>, citation: አረገ
+
+word: የኮሮና
+?POS: noun, stem: ኮሮ
+
+word: ቫይረስ
+?POS: noun, stem: ቫይረ
+
+word: አሁንም
+POS: noun, stem: አሁን
+
+word: ብዙዎችን
+POS: noun, stem: ብዙ
+
+word: ለሞት
+POS: noun, stem: ሞት
+
+word: መዳረጉን
+POS: noun, stem: ዳረገ
+
+word: ቀጥሏል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: አሜሪካ
+POS: noun, stem: አሜሪካ
+
+word: በተጠቂዎች
+POS: noun, stem: ተጠቃ
+
+word: ቁጥር
+POS: noun, stem: ቁጥር
+
+word: በአንደኛነት
+?POS: noun, stem: አንደኛነት
+
+word: ስትቀመጥ
+POS: verb, root: <qm_T>, citation: ተቀመጠ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: የሚጠጉ
+POS: verb, root: <Tg'>, citation: ተጠጋ
+
+word: ተጠቂዎች
+POS: noun, stem: ተጠቃ
+
+word: ያስመዘገበች
+POS: verb, root: <mzgb>, citation: አስመዘገበ
+
+word: ስትሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+?word: ብራዚል
+
+word: ህንድ
+POS: noun, stem: ህንድ
+
+word: በቅደም
+?POS: noun, stem: ቅደም
+
+word: ተከተል
+POS: verb, root: <kt_l>, citation: ተከተለ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+?word: ተጠቒዎችን
+
+word: በማስመዝገብ
+POS: noun, stem: አስመዘገበ
+
+word: ይከተሏታል
+POS: verb, root: <kt_l>, citation: ተከተለ
+

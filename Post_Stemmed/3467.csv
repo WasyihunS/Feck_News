@@ -1,0 +1,537 @@
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባን
+POS: noun, stem: አበባ
+
+word: እንደስሟ
+POS: noun, stem: ስም
+
+word: ለማድረግ
+POS: noun, stem: አደረገ
+
+word: በደስታ
+POS: noun, stem: ደስታ
+
+word: በፍላጎትና
+POS: noun, stem: ፍላጎት
+
+word: በፍቅር
+POS: noun, stem: ፍቅር
+
+word: ስንተጋ
+POS: verb, root: <tg'>, citation: ተጋ
+
+word: ምርኩዝ
+POS: noun, stem: ምርኩዝ
+
+word: ለሆናችሁን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ከልቤ
+POS: verb, root: <klb>, citation: ከለበ
+
+word: አመሰግናለሁ
+POS: verb, root: <msgn>, citation: አመሰገነ
+
+?word: ኢንጂነር
+
+word: ታከለ
+POS: verb, root: <'k_l>, citation: ታከለ
+
+?word: ኡማ
+
+word: በንቲ
+?POS: noun, stem: ንቲ
+
+word: ውድ
+POS: noun, stem: ውድ
+
+word: የከተማችን
+?POS: noun, stem: ከተማች
+
+word: ነዋሪዎች
+POS: noun, stem: ነወረ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: የሚሄደው
+POS: verb, root: <hyd>, citation: ሄደ
+
+word: በራሱ
+POS: noun, stem: ራስ
+
+word: ፍጥነት
+POS: noun, stem: ፍጥነት
+
+word: ለሰው
+POS: noun, stem: ሰው
+
+word: ብሎ
+POS: verb, root: <b'l>, citation: አለ
+
+word: አይዘገይም
+POS: verb, root: <zgy*>, citation: ዘገየ
+
+word: አይቸኩልም
+POS: verb, root: <ckW_l>, citation: ቸኮለ
+
+word: ሰው
+POS: noun, stem: ሰው
+
+word: ጊዜን
+POS: noun, stem: ጊዜ
+
+word: ለመለካት
+POS: noun, stem: ለካ
+
+word: ጊዜን
+POS: noun, stem: ጊዜ
+
+word: በራሱ
+POS: noun, stem: ራስ
+
+word: ልክ
+POS: noun, stem: ልክ
+
+word: ለመስፈር
+POS: noun, stem: ሰፈረ
+
+word: ይተጋል
+POS: verb, root: <tg'>, citation: ተጋ
+
+word: ስኬቶቹን
+?POS: noun, stem: ስኬት
+
+word: ቆጥሮ
+POS: verb, root: <qWTr>, citation: ቆጠረ
+
+word: ከፈተናዎቹ
+POS: noun, stem: ፈተና
+
+word: አመሳክሮ
+POS: verb, root: <mskr>, citation: አመሳከረ
+
+word: ለጊዜው
+POS: noun, stem: ጊዜ
+
+word: ዋጋ
+POS: noun, stem: ዋጋ
+
+word: ያወጣለታል
+POS: verb, root: <wT'>, citation: አወጣ
+
+word: ይኸው
+?POS: noun, stem: ይኸ
+
+word: ሰአታችን
+POS: noun, stem: ሰአት
+
+word: አመት
+
+word: ሞላት
+POS: verb, root: <mWl'>, citation: ሞላ
+
+word: ዋጋዋም
+POS: noun, stem: ዋጋ
+
+word: ውድ
+POS: noun, stem: ውድ
+
+word: ነበር
+
+word: በራሳቸው
+POS: noun, stem: ራስ
+
+word: እርምጃ
+POS: noun, stem: እርምጃ
+
+word: የሄዱ
+POS: verb, root: <hyd>, citation: ሄደ
+
+word: ውድ
+POS: noun, stem: ውድ
+
+word: አመታት
+POS: noun, stem: መታ
+
+word: ከነዋሪዎቻችን
+POS: noun, stem: ነወረ
+
+word: ሆነን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ተራምደናቸዋል
+POS: verb, root: <ramd>, citation: ተራመደ
+
+word: አመሰግናችኋለሁ
+POS: verb, root: <msgn>, citation: አመሰገነ
+
+word: ወጣቶችን
+POS: noun, stem: ወጣት
+
+word: ልጆችንና
+POS: noun, stem: ልጅ
+
+word: ተማሪዎችን
+POS: noun, stem: ተማረ
+
+word: ይዘን
+POS: verb, root: <y'z>, citation: ያዘ
+
+word: ተጉዘናል
+POS: verb, root: <gW'z>, citation: ተጓዘ
+
+word: ነገን
+POS: noun, stem: ነገ
+
+word: ለማለማችን
+POS: noun, stem: አለመ
+
+word: ተስፋን
+POS: noun, stem: ተስፋ
+
+word: ለመናፈቃችን
+POS: noun, stem: ተናፈቀ
+
+word: ምስክሮቻችን
+POS: noun, stem: ምስክር
+
+word: አቅም
+POS: noun, stem: አቅም
+
+word: ያጡ
+POS: verb, root: <'T'>, citation: አጣ
+
+word: ወገኖቻችንን
+POS: noun, stem: ወገን
+
+word: ቀርበን
+POS: verb, root: <qrb>, citation: ቀረበ
+
+word: ለማዳመጥና
+POS: noun, stem: አዳመጠ
+
+word: ሸክማቸውን
+POS: noun, stem: ሸክም
+
+word: ለመጋራት
+POS: noun, stem: ተጋራ
+
+word: የቻልነውን
+POS: verb, root: <c'l>, citation: ቻለ
+
+word: አድርገናል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: አዳዲስ
+?POS: noun, stem: አዳዲ
+
+word: ግዙፍና
+POS: noun, stem: ግዙፍ
+
+word: የከተማችንን
+?POS: noun, stem: የከተማችን
+
+word: ችግሮች
+POS: noun, stem: ችግር
+
+word: መሰረት
+
+word: ያደረጉ
+POS: verb, root: <drg>, citation: አደረገ
+
+word: ፕሮጀክቶችን
+?POS: noun, stem: ፕሮጀክት
+
+word: መጀመር
+POS: noun, stem: ጀመረ
+
+word: መመረቅና
+POS: noun, stem: ተመረቀ
+
+word: ማጋመስ
+POS: noun, stem: አጋመሰ
+
+word: ማስቀጠል
+POS: noun, stem: አስቀጠለ
+
+word: የየእለት
+?POS: noun, stem: የእለት
+
+word: ስራችን
+POS: noun, stem: ስር
+
+word: ነበር
+
+word: የእነዚህ
+POS: noun, stem: ይህ
+
+word: ስኬቶች
+?POS: noun, stem: ስኬት
+
+word: አካል
+POS: noun, stem: አካል
+
+word: በመሆናችንም
+POS: noun, stem: ሆነ
+
+word: ደስታችን
+?POS: noun, stem: ደስት
+
+word: ወደር
+POS: noun, stem: ወደር
+
+word: የለውም
+POS: verb, root: <al_e>, citation: አለ
+
+word: ሁሉንም
+POS: noun, stem: ሁሉ
+
+word: አብረናችሁ
+POS: verb, root: <'br>, citation: አበረ
+
+word: ከውነናል
+?POS: noun, stem: ውነናል
+
+word: አመሰግናለሁ
+POS: verb, root: <msgn>, citation: አመሰገነ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባን
+POS: noun, stem: አበባ
+
+word: መምራት
+POS: noun, stem: መራ
+
+word: ትልቅ
+POS: verb, root: <l'q>, citation: ላቀ
+
+word: እድል
+POS: noun, stem: እድል
+
+word: ደጋግመን
+POS: verb, root: <dgm>, citation: ደጋገመ
+
+word: እንደምንለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: በታሪክ
+POS: noun, stem: ታሪክ
+
+word: አጋጣሚ
+POS: noun, stem: አጋጠመ
+
+word: ያገኘነውን
+POS: verb, root: <gN*>, citation: አገኘ
+
+word: እድል
+POS: noun, stem: እድል
+
+word: ላለማባከን
+POS: noun, stem: አባከነ
+
+word: ጥረናል
+POS: verb, root: <T'r>, citation: ጣረ
+
+word: በሁሉም
+POS: noun, stem: ሁሉ
+
+word: የነዋሪዎቻችን
+POS: noun, stem: ነወረ
+
+word: ብርቱ
+POS: noun, stem: ብርት
+
+word: ድጋፍ
+POS: noun, stem: ድጋፍ
+
+word: አብሮን
+POS: verb, root: <'br>, citation: አበረ
+
+word: ነበር
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባን
+POS: noun, stem: አበባ
+
+word: እንደስሟ
+POS: noun, stem: ስም
+
+word: ለማድረግ
+POS: noun, stem: አደረገ
+
+word: በደስታ
+POS: noun, stem: ደስታ
+
+word: በፍላጎትና
+POS: noun, stem: ፍላጎት
+
+word: በፍቅር
+POS: noun, stem: ፍቅር
+
+word: ስንተጋ
+POS: verb, root: <tg'>, citation: ተጋ
+
+word: ምርኩዝ
+POS: noun, stem: ምርኩዝ
+
+word: ለሆናችሁን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ከልቤ
+POS: verb, root: <klb>, citation: ከለበ
+
+word: አመሰግናለሁ
+POS: verb, root: <msgn>, citation: አመሰገነ
+
+word: በፍፁም
+POS: noun, stem: ፍጹም
+
+word: ቅንነት
+POS: noun, stem: ቅንነት
+
+word: ላጎደልናቸው
+POS: verb, root: <gWdl>, citation: አጐደለ
+
+word: ነገሮችም
+POS: noun, stem: ነገር
+
+word: ይቅርታ
+POS: noun, stem: ይቅርታ
+
+word: እጠይቃለሁ
+POS: verb, root: <Ty_q>, citation: ጠየቀ
+
+word: የምክር
+POS: noun, stem: ምክር
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: የከተማዋ
+POS: noun, stem: ከተማ
+
+word: አስተዳደር
+POS: noun, stem: አደረ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: በየደረጃው
+POS: noun, stem: ደረጃ
+
+word: ለምትገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: አብሬያችሁ
+POS: verb, root: <'br>, citation: አበረ
+
+word: ስለሰራሁ
+POS: verb, root: <sr'>, citation: ሰራ
+
+word: ክብር
+POS: noun, stem: ክብር
+
+word: ይሰማኛል
+POS: verb, root: <sm'>, citation: ተሰማ
+
+word: ለነበራችሁ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የማይተመን
+POS: verb, root: <tm_n>, citation: ተተመነ
+
+word: ትጋትም
+POS: noun, stem: ትጋት
+
+word: አመሰግናለሁ
+POS: verb, root: <msgn>, citation: አመሰገነ
+
+word: ሁሌም
+?POS: noun, stem: ሁሌ
+
+word: እንደምለው
+POS: verb, root: <b'l>, citation: አለ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባን
+POS: noun, stem: አበባ
+
+word: የመሰለች
+POS: verb, root: <msl>, citation: መሰለ
+
+word: ታላቅና
+POS: noun, stem: ታላቅ
+
+?word: ታሪካዊ
+
+word: ከተማ
+POS: noun, stem: ከተማ
+
+word: ለመምራት
+POS: noun, stem: መራ
+
+word: በነበረኝ
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የሀላፊነት
+POS: noun, stem: ሀላፊነት
+
+word: ቆይታ
+POS: verb, root: <qWy_*>, citation: ቆየ
+
+word: ደስተኛ
+POS: noun, stem: ደስተኛ
+
+word: ለአዲሱ
+POS: noun, stem: አዲስ
+
+word: አመራርና
+POS: noun, stem: መራ
+
+word: የካቢኔ
+?POS: noun, stem: ካቢኔ
+
+word: አባላት
+POS: verb, root: <bl'>, citation: አባላ
+
+word: መልካም
+POS: noun, stem: መልካም
+
+word: የስራ
+POS: noun, stem: ስራ
+
+word: ዘመን
+POS: noun, stem: ዘመን
+
+word: እመኛለሁ
+POS: verb, root: <mN*>, citation: ተመኘ
+
+word: ታከለ
+POS: verb, root: <'k_l>, citation: ታከለ
+
+?word: ኡማ
+
+word: በንቲ
+?POS: noun, stem: ንቲ
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባ
+POS: noun, stem: አበባ
+

@@ -1,0 +1,639 @@
+word: በሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: የሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: የማስመዝገብ
+POS: noun, stem: አስመዘገበ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ለመጀመር
+POS: noun, stem: ጀመረ
+
+word: ዝግጅት
+POS: noun, stem: ዝግጅት
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: ሙስናንን
+?POS: noun, stem: ሙስናን
+
+word: ለመከላከል
+POS: noun, stem: ተከላከለ
+
+word: የሚያግዝ
+POS: verb, root: <'g_z>, citation: አገዘ
+
+word: የሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: የመመዝገብ
+POS: noun, stem: ተመዘገበ
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: ለመጀመር
+POS: noun, stem: ጀመረ
+
+word: ዝግጅት
+POS: noun, stem: ዝግጅት
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: የፌደራል
+?POS: noun, stem: ፌደራል
+
+word: ስነምግባርና
+?POS: noun, stem: ስነምግባር
+
+word: ፀረሙስና
+?POS: noun, stem: ጸረሙስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
+word: ስለመዝገባው
+?POS: noun, stem: ስለመዝገባ
+
+word: አፈፃፀም
+POS: noun, stem: ፈጸመ
+
+word: በኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: የድሬደዋ
+?POS: noun, stem: ድሬደ
+
+word: የቅርንጫፍ
+POS: noun, stem: ቅርንጫፍ
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: የስነምግባር
+?POS: noun, stem: ስነምግባር
+
+word: መኮንኖች
+?POS: noun, stem: መኮንን
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: የሁለት
+POS: noun, stem: ሁለት
+
+word: ቀናት
+POS: verb, root: <qn'>, citation: ቀና
+
+word: ስልጠና
+?POS: noun, stem: ስልጠ
+
+word: ተሰጥቷል
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: በኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: የወንጀል
+POS: noun, stem: ወንጀል
+
+word: መከላከል
+POS: noun, stem: ተከላከለ
+
+?word: ዳይሬክተር
+
+word: አክሊሉ
+POS: noun, stem: አክሊል
+
+?word: ሙሉጌታ
+
+word: ለኢዜአ
+?POS: noun, stem: ኢዜአ
+
+word: እንደገለፁት
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: የሀብት
+POS: noun, stem: ሀብት
+
+word: ምዝገባው
+POS: noun, stem: ምዝገባ
+
+word: የሚከናወነው
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: በሁሉም
+POS: noun, stem: ሁሉ
+
+word: ክልሎች
+POS: noun, stem: ክልል
+
+word: አዲስ
+POS: noun, stem: አዲስ
+
+word: አበባና
+POS: noun, stem: አበባ
+
+word: ድሬዳዋ
+?POS: noun, stem: ድሬዳ
+
+word: አስተዳደሮች
+POS: noun, stem: አደረ
+
+word: በሚገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: የኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: የስነምግባር
+?POS: noun, stem: ስነምግባር
+
+word: መከታተያ
+POS: noun, stem: ተከታተለ
+
+word: ክፍሎች
+POS: noun, stem: ክፍል
+
+word: ለየክፍሎቹ
+POS: noun, stem: ክፍል
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: ስለሀብት
+POS: noun, stem: ሀብት
+
+word: አመዘጋገብ
+POS: noun, stem: መዘገበ
+
+word: ስርአትና
+POS: noun, stem: ስርአት
+
+word: ሂደት
+POS: noun, stem: ሂደት
+
+word: በተዘጋጁ
+POS: noun, stem: ተዘጋጀ
+
+word: ቅፆች
+POS: noun, stem: ቅጽ
+
+word: ስልጠና
+?POS: noun, stem: ስልጠ
+
+word: በመስጠት
+POS: noun, stem: ሰጠ
+
+word: መረጃ
+POS: noun, stem: ተረዳ
+
+word: የማሰባሰቡ
+POS: noun, stem: አሰባሰበ
+
+word: ተግባር
+POS: noun, stem: ተግባር
+
+word: በተያዘው
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: ሳምንት
+POS: noun, stem: ሳምንት
+
+word: እንደሚጀመር
+POS: verb, root: <jm_r>, citation: ተጀመረ
+
+word: በሚቀጣይ
+?POS: noun, stem: ሚቀጣይ
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: የማስመዝገቡ
+POS: noun, stem: አስመዘገበ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ይቀጥላል
+POS: verb, root: <qT_l>, citation: ቀጠለ
+
+word: ቀደም
+
+word: በተመረጡ
+POS: verb, root: <mrT>, citation: ተመረጠ
+
+word: የተወሰኑ
+POS: verb, root: <ws_n>, citation: ተወሰነ
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ሲከናወን
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: የነበረው
+POS: verb, root: <nbr>, citation: ነበረ
+
+word: የሀብት
+POS: noun, stem: ሀብት
+
+word: ምዝገባ
+POS: noun, stem: ምዝገባ
+
+word: በሁሉም
+POS: noun, stem: ሁሉ
+
+word: ደረጃ
+POS: noun, stem: ደረጃ
+
+word: በመላው
+POS: noun, stem: መላ
+
+word: ሀገሪቱ
+POS: noun, stem: ሀገር
+
+word: በሚገኙ
+POS: verb, root: <gN*>, citation: ተገኘ
+
+word: ሚሊዮን
+POS: noun, stem: ሚሊዮን
+
+word: የልማትና
+POS: noun, stem: ልማት
+
+word: የመንግስት
+POS: noun, stem: መንግስት
+
+word: ሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: ተፈፃሚ
+POS: noun, stem: ተፈጸመ
+
+word: እንደሚሆን
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ለዚህም
+POS: noun, stem: ይህ
+
+word: ስራውን
+POS: noun, stem: ስራ
+
+word: ለሚከናወኑ
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: ስልጠናና
+?POS: noun, stem: ስልጠና
+
+word: ሌሎችም
+POS: noun, stem: ሌላ
+
+word: ዝግጅቶች
+POS: noun, stem: ዝግጅት
+
+word: እየተደረገ
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: አክሊሉ
+POS: noun, stem: አክሊል
+
+?word: ገለፃ
+
+word: የሀብት
+POS: noun, stem: ሀብት
+
+word: ምዝገባው
+POS: noun, stem: ምዝገባ
+
+word: የሌብነት
+POS: noun, stem: ሌብነት
+
+word: ቀዳዳዎችንና
+POS: noun, stem: ቀዳዳ
+
+word: የሙስና
+?POS: noun, stem: ሙስና
+
+word: በሮችን
+POS: noun, stem: በር
+
+word: በመዝጋት
+POS: noun, stem: ዘጋ
+
+word: የፀረሙስና
+?POS: noun, stem: ጸረሙስ
+
+word: ትግሉን
+POS: noun, stem: ትግል
+
+word: ፍሬያማ
+POS: noun, stem: ፍሬያማ
+
+word: ያደርገዋል
+POS: verb, root: <drg>, citation: አደረገ
+
+word: በተያዘው
+POS: verb, root: <y'z>, citation: ተያዘ
+
+word: የበጀት
+?POS: noun, stem: በጀት
+
+word: አመት
+
+word: ኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: ከማስመዝገብ
+POS: noun, stem: አስመዘገበ
+
+word: ባሻገር
+?POS: noun, stem: አሻገር
+
+word: የተመዘገበን
+POS: verb, root: <mzgb>, citation: ተመዘገበ
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: በተገቢው
+POS: noun, stem: ተገባ
+
+word: መንገድ
+POS: noun, stem: መንገድ
+
+word: የማጣራት
+POS: noun, stem: አጣራ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: የሚከናወንና
+POS: verb, root: <knawn>, citation: ተከናወነ
+
+word: የተጠያቂነት
+?POS: noun, stem: ተጠያቂነት
+
+word: ስርአትን
+POS: noun, stem: ስርአት
+
+word: የሚያሰፍን
+POS: verb, root: <sfn>, citation: አሰፈነ
+
+word: መሆኑንም
+POS: noun, stem: ሆነ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: መላውን
+POS: noun, stem: መላ
+
+word: ህዝብ
+POS: noun, stem: ህዝብ
+
+word: ከጎናቸው
+?POS: noun, stem: ጎን
+
+word: በማሰለፍ
+POS: noun, stem: አሰለፈ
+
+word: ከሙስናና
+?POS: noun, stem: ሙስና
+
+word: ምዝበራ
+POS: noun, stem: ምዝበራ
+
+word: ነፃ
+POS: noun, stem: ነጻ
+
+word: ትውልድና
+POS: noun, stem: ትውልድ
+
+word: ሀገር
+POS: noun, stem: ሀገር
+
+word: ለመገንባት
+POS: noun, stem: ገነባ
+
+word: የድርሻቸውን
+?POS: noun, stem: የድርሻቸው
+
+word: መወጣት
+POS: noun, stem: ተወጣ
+
+word: እንዳለበቸውም
+?POS: noun, stem: አለበቸ
+
+word: በኮሚሽኑ
+?POS: noun, stem: ኮሚሽን
+
+word: ድሬዳዋ
+?POS: noun, stem: ድሬዳ
+
+word: ቅርንጫፍ
+POS: noun, stem: ቅርንጫፍ
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤት
+POS: noun, stem: ቤት
+
+word: ሀላፊ
+POS: noun, stem: ሀላፊ
+
+word: ክንዱ
+POS: noun, stem: ክንድ
+
+word: ጥበቡ
+POS: verb, root: <Tbb>, citation: ጠበበ
+
+word: በበኩላቸው
+?POS: noun, stem: በኩል
+
+word: በአስተዳደሩ
+?POS: noun, stem: አስተዳደር
+
+word: ከሰኔ
+POS: noun, stem: ሰኔ
+
+word: ሀምሌ
+POS: noun, stem: ሀምሌ
+
+word: ከከፍተኛ
+POS: noun, stem: ከፍተኛ
+
+word: ዝቅተኛ
+POS: noun, stem: ዝቅተኛ
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: የሀብት
+POS: noun, stem: ሀብት
+
+word: ምዝገባ
+POS: noun, stem: ምዝገባ
+
+word: ማካሄዳቸውን
+POS: noun, stem: አካሄደ
+
+word: መመዝገብ
+POS: noun, stem: ተመዘገበ
+
+word: ከሚገባቸው
+POS: verb, root: <gb'>, citation: ገባ
+
+word: የሚሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: አመራሮች
+POS: noun, stem: መራ
+
+word: ሀብት
+POS: noun, stem: ሀብት
+
+word: ማስመዝገባቸውን
+POS: noun, stem: አስመዘገበ
+
+word: አመልክተው
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: በተሰጠው
+POS: verb, root: <sT*>, citation: ተሰጠ
+
+word: ጊዜ
+POS: noun, stem: ጊዜ
+
+word: ሀብታቸውን
+POS: noun, stem: ሀብት
+
+word: ያላስመዘገቡ
+POS: verb, root: <mzgb>, citation: አስመዘገበ
+
+word: በፌደራል
+?POS: noun, stem: ፌደራል
+
+word: አቃቤ
+?POS: noun, stem: አቃብ
+
+word: ህግ
+
+word: በህግ
+POS: noun, stem: ህግ
+
+word: ተጠያቂ
+POS: noun, stem: ተጠየቀ
+
+word: እንዲሆኑ
+POS: verb, root: <hwn>, citation: ሆነ
+
+word: ይደረጋል
+POS: verb, root: <drg>, citation: ተደረገ
+
+word: የሰራተኞች
+POS: noun, stem: ሰራተኛ
+
+word: የሀብት
+POS: noun, stem: ሀብት
+
+word: የመመዝገቡ
+POS: noun, stem: ተመዘገበ
+
+word: ስራ
+POS: noun, stem: ስራ
+
+word: ግንዛቤ
+POS: noun, stem: ግንዛቤ
+
+word: በማስጨበጥ
+POS: noun, stem: አስጨበጠ
+
+word: ከሺህ
+POS: noun, stem: ሺ
+
+word: ለመመዝገብ
+POS: noun, stem: ተመዘገበ
+
+word: ማቀዳቸውን
+POS: noun, stem: አቀደ
+
+word: ገልፀዋል
+POS: verb, root: <glS>, citation: ገለጸ
+
+word: የኢዜአ
+?POS: noun, stem: ኢዜአ
+
+word: ዘገባ
+POS: noun, stem: ዘገባ
+
+word: እንዳመለከተው
+POS: verb, root: <mlkt>, citation: አመለከተ
+
+word: በድሬዳዋ
+?POS: noun, stem: ድሬዳ
+
+word: ለቅርንጫፍ
+POS: noun, stem: ቅርንጫፍ
+
+word: ፅህፈት
+POS: noun, stem: ጽህፈት
+
+word: ቤቱ
+POS: noun, stem: ቤት
+
+word: የስነምግባር
+?POS: noun, stem: ስነምግባር
+
+word: መኮንኖች
+?POS: noun, stem: መኮንን
+
+word: ባለሙያዎች
+POS: noun, stem: ባለሙያ
+
+word: ስልጠናውን
+?POS: noun, stem: ስልጠና
+
+word: የሰጠው
+POS: verb, root: <sT*>, citation: ሰጠ
+
+word: የፌደራል
+?POS: noun, stem: ፌደራል
+
+word: ስነምግባርና
+?POS: noun, stem: ስነምግባር
+
+word: ፀረሙስና
+?POS: noun, stem: ጸረሙስ
+
+word: ኮሚሽን
+?POS: noun, stem: ኮሚ
+
